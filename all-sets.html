@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 	<head>
 	  <title>All Sets</title>
 	  <link rel="icon" type="image/x-icon" href="/img/sets.png">
@@ -7,8 +7,12 @@
 	</head>
 	<style>
 		@font-face {
-		  font-family: Beleren;
-		  src: url('/resources/beleren.ttf');
+			font-family: 'Beleren Small Caps';
+			src: url('/resources/beleren-caps.ttf');
+		}
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
 		}
 		body {
 			font-family: 'Helvetica', 'Arial', sans-serif;
@@ -16,6 +20,7 @@
 			margin: 0px;
 			background-color: #f3f3f3;
 			font-size: 20px;
+			padding-bottom: 30px;
 		}
 		a {
 			text-decoration: none;
@@ -26,7 +31,7 @@
 			max-width: 1000px;
 			display: grid;
 			grid-template-columns: 1fr;
-			padding-top: 80px;
+			padding-top: 20px;
 			margin: auto;
 		}
 		.set-header-row {
@@ -64,57 +69,61 @@
 			letter-spacing: .02em;
 			font-size: 22px;
 		}
+		.set-group {
+			font-family: Beleren Small Caps;
+			text-align: center;
+			font-size: 40px;
+			padding-top: 20px;
+		}
 	</style>
 	<body>
 		<div class="header">
-			<div class="search-grid">
-				<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-				<img class="sg-icon" src="/img/search.png">
-				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-				<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-				<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
-			</div>
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
 		</div>
-		<div class="set-table">
-		<div class="set-header-row">
-			<div></div> <!-- empty div for spacing -->
-			<div>NAME</div>
-			<div>CODE</div>
-			<div>CARDS</div>
-		</div>
-	
-		<a href="/sets/NJB" class="set-row"> 
-			<img src="/sets/NJB-files/icon.png">
-			<div class="set-title">Nangjiao in Bloom</div>
-			<div>NJB</div>
-			<div>317</div>
-		</a>
+	</div>			<div class="set-group"></div>
 		
-		</div>
+			<div class="set-table">
+			<div class="set-header-row">
+				<div></div> <!-- empty div for spacing -->
+				<div>NAME</div>
+				<div>CODE</div>
+				<div>CARDS</div>
+			</div>
+		
+			<a href="/sets/NJB" class="set-row"> 
+				<img src="/sets/NJB-files/icon.png">
+				<div class="set-title">Nangjiao in Bloom</div>
+				<div>NJB</div>
+				<div>277</div>
+			</a>
+			</div>
+		
 	<script>
 		let card_list_arrayified = [];
 		let specialchars = "";
 		let displayStyle = "";
 
 		document.addEventListener("DOMContentLoaded", async function () {
-			await fetch('/lists/all-cards.txt')
-				.then(response => response.text())
-				.then(text => {
-					card_list_stringified = text; 
-			}).catch(error => console.error('Error:', error));
+			await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
 
-			await fetch('/resources/replacechars.txt')
-				.then(response => response.text())
-				.then(text => {
-					specialchars = text; 
-			}).catch(error => console.error('Error:', error));
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
 
-			card_list_arrayified = card_list_stringified.split('\\n');
+				card_list_arrayified = card_list.cards;
 
-			for (let i = 0; i < card_list_arrayified.length; i++)
-			{
-				card_list_arrayified[i] = card_list_arrayified[i].split('	');
-			}
 		});
 
 		function isDecimal(char) {
@@ -133,15 +142,15 @@
 		}
 
 		function randomCard() {
-			let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
-			let card_name = card_list_arrayified[i][0];
-			for (const char of specialchars)
-			{
-				card_name = card_name.replaceAll(char, "");
-			}
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let card_name = card_list_arrayified[i].card_name;
+				for (const char of specialchars)
+				{
+					card_name = card_name.replaceAll(char, "");
+				}
 
-			window.location = ('/cards/' + card_list_arrayified[i][11] + '/' + card_list_arrayified[i][4] + '_' + card_name);
-		}
+				window.location = ('/cards/' + card_list_arrayified[i].set + '/' + card_list_arrayified[i].number + '_' + card_name);
+			}
 	</script>
 </body>
 </html>
