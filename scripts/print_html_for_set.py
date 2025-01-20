@@ -1,11 +1,19 @@
 import os
 import sys
+import json
+
+#F = Fungustober's notes
 
 def generateHTML(code):
+	#F: /sets/SET.html
 	output_html_file = "sets/" + code + ".html"
-
-	with open(os.path.join("sets", code + "-files", code + "-fullname.txt"), encoding='utf-8-sig') as f:
-		set_name = f.read()
+	
+	with open(os.path.join('lists', 'all-sets.json'), encoding='utf-8-sig') as f:
+		data = json.load(f)
+		for s in data['sets']:
+			if s['set_code'] == code:
+				set_name = s['set_name']
+				break
 
 	# Start creating the HTML file content
 	html_content = '''<html>
@@ -16,6 +24,10 @@ def generateHTML(code):
   <link rel="stylesheet" href="/resources/header.css">
 </head>
 <style>
+	@font-face {
+		font-family: Beleren;
+		src: url('/resources/beleren.ttf');
+	}
 	body {
 		font-family: 'Helvetica', 'Arial', sans-serif;
 		overscroll-behavior: none;
@@ -176,27 +188,29 @@ def generateHTML(code):
 		cursor: pointer;
 		border: none;
 		position: absolute;
-		top: 6.5%;
-		left: 8.5%;
-		transform: translate(-50%, -85%);
+		left: 50%;
+		top: 48%;
+		transform: translate(-50%, -50%);
+		opacity: 0.5;
 	}
 	.img-container .btn:hover {
 		background: url('/img/flip-hover.png') no-repeat;
 		background-size: contain;
 		background-position: center;
-		width: 15%;
-		height: 11%;
-		cursor: pointer;
-		border: none;
+	}
+	.img-container .hidden-text {
 		position: absolute;
-		top: 6.5%;
-		left: 8.5%;
-		transform: translate(-50%, -85%);
+		font-family: Beleren;
+		top: 5%;
+		left: 9%;
+		font-size: .97vw;
+		color: rgba(0, 0, 0, 0);
 	}
 </style>
 <body>
 	'''
-
+	
+	#F: /resources/snippets/header.txt
 	with open(os.path.join('resources', 'snippets', 'header.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
@@ -208,13 +222,14 @@ def generateHTML(code):
 				<img class="set-logo" src="/sets/''' + code + '''-files/icon.png">
 				<div class="set-title">''' + set_name + '''</div>'''
 
+	#F: sets/SET-files/SET-draft.txt
 	if os.path.exists(os.path.join('sets', code + '-files', code + '-draft.txt')):
 		html_content += '''<a href="/sets/''' + code + '''-files/''' + code + '''-draft.txt" download>Draft me!</a>
 		'''
 
 	html_content += '''
 			</div>
-			<div class="select-text">Cards displayed as<select name="display" id="display"><option value="cards-only">Cards Only</option><option value="cards-text">Cards + Text</option></select>sorted by<select name="sort-by" id="sort-by"><option value="set-num">Set Number</option><option value="name">Name</option><option value="mv">Mana Value</option><option value="color">Color</option><option value="rarity">Rarity</option></select> : <select name="sort-order" id="sort-order"><option value="ascending">Asc</option><option value="descending">Desc</option></select></div>
+			<div class="select-text">Cards displayed as<select name="display" id="display"><option value="cards-only">Cards Only</option><option value="cards-text">Cards + Text</option></select>sorted by<select name="sort-by" id="sort-by"><option value="set-code">Set Number</option><option value="name">Name</option><option value="mv">Mana Value</option><option value="color">Color</option><option value="rarity">Rarity</option></select> : <select name="sort-order" id="sort-order"><option value="ascending">Asc</option><option value="descending">Desc</option></select></div>
 		</div>
 	</div>
 
@@ -241,7 +256,7 @@ def generateHTML(code):
 
 			for (let i = 0; i < card_list_arrayified.length; i++)
 			{
-				if (card_list_arrayified[i][11] == "''' + code + '''")
+				if (card_list_arrayified[i].set == "''' + code + '''")
 				{
 					set_list_arrayified.push(card_list_arrayified[i]);
 				}
@@ -282,7 +297,7 @@ def generateHTML(code):
 
 			for (const card of set_list_arrayified)
 			{
-				if (card[3].includes("Token") || card[3].includes("Basic"))
+				if (card.shape.includes("token") || card.type.includes("Basic"))
 				{
 					set_tokens_basics.push(card);
 				}
@@ -310,6 +325,8 @@ def generateHTML(code):
 
 		'''
 
+	#F: /resources/snippets/compare-function.txt
+	#F: this is where compareFunction is from
 	with open(os.path.join('resources', 'snippets', 'compare-function.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
@@ -318,22 +335,25 @@ def generateHTML(code):
 
 		'''
 
+	#F: /resources/snippets/tokenize-symbolize.txt
+	#F: this holds the isDecimal function used in compare-function.txt, as well as something for encoding/decoding symbols
 	with open(os.path.join('resources', 'snippets', 'tokenize-symbolize.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
-
+	
 	html_content += '''
 
 		function gridifyCard(card_stats) {
-			const card_name = card_stats[0];
+			const card_name = card_stats.card_name;
 
 			if (displayStyle == "cards-only")
 			{
-				return buildImgContainer(card_stats);
+				return buildImgContainer(card_stats, true);
 			}
 
 		'''
 
+	#F: /resources/snippets/img-container-defs.txt
 	with open(os.path.join('resources', 'snippets', 'img-container-defs.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
@@ -353,6 +373,7 @@ def generateHTML(code):
 
 		'''
 
+	#F: resources/snippets/random-card.txt
 	with open(os.path.join('resources', 'snippets', 'random-card.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet

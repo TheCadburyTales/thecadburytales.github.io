@@ -1,26 +1,34 @@
 import os
 import sys
+import json
+
+#F = Fungustober's notes
 
 def generateHTML(card):
-	code = card.split('\t')[11]
-	card_name = card.split('\t')[0]
+	code = card['set']
+	card_name = card['card_name']
 	card_name_cleaned = card_name
-	card_type = card.split('\t')[3]
+	card_type = card['type']
 	with open(os.path.join('resources', 'replacechars.txt'), encoding='utf-8-sig') as f:
 		chars = f.read()
 	for char in chars:
 		card_name_cleaned = card_name_cleaned.replace(char, '')
-	card_num = card.split('\t')[4]
-	output_html_file = "cards/" + code + "/" + card_num + "_" + card_name_cleaned + ".html"
-
-	with open(os.path.join("sets", code + "-files", code + "-fullname.txt"), encoding='utf-8-sig') as f:
-		set_name = f.read()
+	card_num = card['number']
+	#F: /cards/SET/NUM_NAME.html
+	output_html_file = "cards/" + code + "/" + str(card_num) + "_" + card_name_cleaned + ".html"
+	
+	with open(os.path.join('lists', 'all-sets.json'), encoding='utf-8-sig') as f:
+		data = json.load(f)
+		for s in data['sets']:
+			if s['set_code'] == code:
+				set_name = s['set_name']
+				break
 	
 	# Start creating the HTML file content
 	html_content = '''<html>
 <head>
-  <title>''' + card.split('\t')[0] + '''</title>
-  <link rel="icon" type="image/x-icon" href="/img/favicon.png">
+  <title>''' + card['card_name'] + '''</title>
+  <link rel="icon" type="image/x-icon" href="/sets/''' + code + '''-files/icon.png">
   <link rel="stylesheet" href="/resources/mana.css">
   <link rel="stylesheet" href="/resources/header.css">
 </head>
@@ -126,6 +134,9 @@ def generateHTML(card):
 		font-weight: bold;
 		padding-bottom: 0px;
 	}
+	.printings {
+		display: none;
+	}
 	.printings a {
 		color: #1338be;
 		text-decoration: none;
@@ -150,22 +161,15 @@ def generateHTML(card):
 		cursor: pointer;
 		border: none;
 		position: absolute;
-		top: 6.5%;
-		left: 8.5%;
-		transform: translate(-50%, -85%);
+		left: 50%;
+		top: 48%;
+		transform: translate(-50%, -50%);
+		opacity: 0.5;
 	}
 	.img-container .btn:hover {
 		background: url('/img/flip-hover.png') no-repeat;
 		background-size: contain;
 		background-position: center;
-		width: 15%;
-		height: 11%;
-		cursor: pointer;
-		border: none;
-		position: absolute;
-		top: 6.5%;
-		left: 8.5%;
-		transform: translate(-50%, -85%);
 	}
 	.hidden {
 		display: none;
@@ -193,23 +197,24 @@ def generateHTML(card):
 	'''
 
 	other_printings = []
-	with open(os.path.join('lists', 'all-cards.txt'), encoding='utf-8-sig') as f:
-		cards = f.read()
-	cards = cards.split('\\n')
+	#F: lists/all-cards.json
+	with open(os.path.join('lists', 'all-cards.json'), encoding='utf-8-sig') as f:
+		cards = json.load(f)
+	cards = cards['cards']
 	for i in range(len(cards)):
-		card_stats = cards[i].split('\t')
-		if card_stats[0] == card_name and card_stats[3] == card_type and (card_stats[11] != code or card_stats[4] != card_num) and 'Token' not in card_type:
+		card_stats = cards[i]
+		if card_stats['card_name'] == card_name and card_stats['type'] == card_type and (card_stats['set'] != code or card_stats['number'] != card_num) and 'Token' not in card_type:
 			other_printings.append(card_stats)
 	if other_printings != []:
 		html_content += '''<div class="printings" id="other-printings">Other Printings: '''
 		for printing in other_printings:
-			set_code = printing[11]
-			html_content += '''<a href="/cards/''' + set_code + '''/''' + printing[4] + '''_''' + card_name_cleaned + '''">''' + set_code + '''</a>'''
+			set_code = printing['set']
+			html_content += '''<a href="/cards/''' + set_code + '''/''' + str(printing['number']) + '''_''' + card_name_cleaned + '''">''' + set_code + '''</a>'''
 			if printing != other_printings[len(other_printings) - 1]:
 				html_content += ''' • '''
 		html_content += '''</div>
 		'''
-
+	
 	html_content += '''
 	<script>
 		let card_list_arrayified = [];
@@ -221,23 +226,24 @@ def generateHTML(card):
 	with open(os.path.join('resources', 'snippets', 'load-files.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
-
+	
 	html_content += '''
-			await fetch('/cards/''' + code + '''/''' + card_num + '''_''' + card_name_cleaned + '''.txt')
-				.then(response => response.text())
-				.then(text => {
-					card = text;
+			await fetch('/cards/''' + code + '''/''' + str(card_num) + '''_''' + card_name_cleaned + '''.json')
+				.then(response => response.json())
+				.then(json => {
+					card = json;
 			}).catch(error => console.error('Error:', error));
 
 			document.getElementById("grid").appendChild(gridifyCard(card));
 			if (document.getElementById("other-printings"))
 			{
-				document.getElementById("card-text").appendChild(document.getElementById("other-printings"));			
+				document.getElementById("card-text").appendChild(document.getElementById("other-printings"));
+				document.getElementById("other-printings").style.display = "block";
 			}
 		});
 
 		'''
-
+	
 	with open(os.path.join('resources', 'snippets', 'tokenize-symbolize.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
@@ -245,11 +251,11 @@ def generateHTML(card):
 	html_content += '''
 
 		function gridifyCard(card) {
-			card_stats = card.split('\\t');
-			const card_name = card_stats[0];
+			card_stats = card;
+			const card_name = card_stats.card_name;
 
 		'''
-
+	
 	with open(os.path.join('resources', 'snippets', 'img-container-defs.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
