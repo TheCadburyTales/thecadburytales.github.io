@@ -1,0 +1,3798 @@
+﻿[CustomCards]
+	[	{
+			"name": "Sunbeam Alseid",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Nymph ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/35_Sunbeam Alseid.png"
+			}
+		},
+		{
+			"name": "Traxian Strategos",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Centaur Soldier ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/38_Traxian Strategos.png"
+			}
+		},
+		{
+			"name": "New Recruit",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/25_New Recruit.png"
+			}
+		},
+		{
+			"name": "Alseid of Stilled Hearts",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Nymph ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/3_Alseid of Stilled Hearts.png"
+			}
+		},
+		{
+			"name": "Daybreak Rider",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Archon ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/13_Daybreak Rider_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/13_Daybreak Rider_back.png"
+				}
+			}
+		},
+		{
+			"name": "Traxian Calvary",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/36_Traxian Calvary.png"
+			}
+		},
+		{
+			"name": "Skophos Warden",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Minotaur Cleric Scout ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/33_Skophos Warden.png"
+			}
+		},
+		{
+			"name": "Walk the Dead's Path",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/40_Walk the Dead's Path.png"
+			}
+		},
+		{
+			"name": "Tyranny of Trax",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/39_Tyranny of Trax.png"
+			}
+		},
+		{
+			"name": "Marble Philosopher",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Artist ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/24_Marble Philosopher.png"
+			}
+		},
+		{
+			"name": "Olantin Stalwart",
+			"rarity": "common",
+			"mana_cost": "{2}{W/U}",
+			"type": "Creature — Merfolk Soldier ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/250_Olantin Stalwart.png"
+			}
+		},
+		{
+			"name": "Traxian Hoplite",
+			"rarity": "common",
+			"mana_cost": "{1}{W/B}",
+			"type": "Creature — Cat Soldier ",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/261_Traxian Hoplite.png"
+			}
+		},
+		{
+			"name": "Gods Willing",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/20_Gods Willing.png"
+			}
+		},
+		{
+			"name": "Charming Siren",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Siren Wizard ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/47_Charming Siren_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/47_Charming Siren_back.png"
+				}
+			}
+		},
+		{
+			"name": "Melancholic Oracle",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/60_Melancholic Oracle.png"
+			}
+		},
+		{
+			"name": "Meeting of the Minds",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/59_Meeting of the Minds.png"
+			}
+		},
+		{
+			"name": "Mentor of the Dakra Isles",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Sphinx ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/61_Mentor of the Dakra Isles.png"
+			}
+		},
+		{
+			"name": "Olantin Emissary",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Merfolk Soldier ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/64_Olantin Emissary.png"
+			}
+		},
+		{
+			"name": "Dakran Shipcrusher",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Crab Octopus ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/48_Dakran Shipcrusher_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/48_Dakran Shipcrusher_back.png"
+				}
+			}
+		},
+		{
+			"name": "Warden of the Deep-Dwelling",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Merfolk Soldier ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/81_Warden of the Deep-Dwelling.png"
+			}
+		},
+		{
+			"name": "Fathomless Dominion",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/52_Fathomless Dominion.png"
+			}
+		},
+		{
+			"name": "Divine Mishap",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/49_Divine Mishap.png"
+			}
+		},
+		{
+			"name": "Kraken Hatchling",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Kraken ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/56_Kraken Hatchling.png"
+			}
+		},
+		{
+			"name": "Thassa's Caress",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/73_Thassa's Caress.png"
+			}
+		},
+		{
+			"name": "Odunos Smuggler",
+			"rarity": "common",
+			"mana_cost": "{U/B}{U/B}",
+			"type": "Creature — Siren Rogue ",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/252_Odunos Smuggler.png"
+			}
+		},
+		{
+			"name": "Possibility Savant",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}{U/R}",
+			"type": "Creature — Minotaur Wizard ",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/262_Possibility Savant.png"
+			}
+		},
+		{
+			"name": "Secluded Gorgon",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Gorgon Cleric ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/117_Secluded Gorgon_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/117_Secluded Gorgon_back.png"
+				}
+			}
+		},
+		{
+			"name": "Hekatan Demagogue",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/93_Hekatan Demagogue.png"
+			}
+		},
+		{
+			"name": "Reaper Archon",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Archon ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/113_Reaper Archon.png"
+			}
+		},
+		{
+			"name": "Stoic Phylaskia",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Skeleton Soldier ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/120_Stoic Phylaskia.png"
+			}
+		},
+		{
+			"name": "Remnant of Zakros",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Enchantment Creature — Giant Zombie ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/114_Remnant of Zakros.png"
+			}
+		},
+		{
+			"name": "Xarr's Mockery",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Cyclops Zombie ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/123_Xarr's Mockery.png"
+			}
+		},
+		{
+			"name": "Isolated Misery",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/95_Isolated Misery.png"
+			}
+		},
+		{
+			"name": "Nurture the Future",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/101_Nurture the Future.png"
+			}
+		},
+		{
+			"name": "Skophos Conqueror",
+			"rarity": "common",
+			"mana_cost": "{2}{B/R}",
+			"type": "Creature — Minotaur Warrior ",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/255_Skophos Conqueror.png"
+			}
+		},
+		{
+			"name": "Split-Hair Asp",
+			"rarity": "common",
+			"mana_cost": "{B/G}",
+			"type": "Creature — Snake ",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/265_Split-Hair Asp.png"
+			}
+		},
+		{
+			"name": "Hero in the Making",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment Creature — Satyr Soldier ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/138_Hero in the Making.png"
+			}
+		},
+		{
+			"name": "Eidolon of Empty Thoughts",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/131_Eidolon of Empty Thoughts.png"
+			}
+		},
+		{
+			"name": "Invest in the Future",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/140_Invest in the Future.png"
+			}
+		},
+		{
+			"name": "Anvilwrought Lion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Cat ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/124_Anvilwrought Lion.png"
+			}
+		},
+		{
+			"name": "Mogis's Raider",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Berserker ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/144_Mogis's Raider_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/144_Mogis's Raider_back.png"
+				}
+			}
+		},
+		{
+			"name": "Seismic Chimera",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Chimera ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/154_Seismic Chimera_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/154_Seismic Chimera_back.png"
+				}
+			}
+		},
+		{
+			"name": "Rally the Hoplites",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/151_Rally the Hoplites.png"
+			}
+		},
+		{
+			"name": "Guardians of Zakros",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Cyclops Warrior ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/136_Guardians of Zakros.png"
+			}
+		},
+		{
+			"name": "Speaker of the Lightning",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Giant Wizard ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/159_Speaker of the Lightning.png"
+			}
+		},
+		{
+			"name": "Punishment from Nyx",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/149_Punishment from Nyx.png"
+			}
+		},
+		{
+			"name": "Fall from Nyx",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/133_Fall from Nyx.png"
+			}
+		},
+		{
+			"name": "Reply to the Call",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/152_Reply to the Call.png"
+			}
+		},
+		{
+			"name": "Heedless Cruelty",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/137_Heedless Cruelty.png"
+			}
+		},
+		{
+			"name": "Thrice-Blessed Boon",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/162_Thrice-Blessed Boon.png"
+			}
+		},
+		{
+			"name": "Aegis Assault",
+			"rarity": "common",
+			"mana_cost": "{1}{R/G}",
+			"type": "Instant",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/256_Aegis Assault.png"
+			}
+		},
+		{
+			"name": "Revel Watchguard",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Satyr Soldier ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/193_Revel Watchguard.png"
+			}
+		},
+		{
+			"name": "Dryad of the Keen-Eyed",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Nymph Dryad ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/173_Dryad of the Keen-Eyed.png"
+			}
+		},
+		{
+			"name": "Reaper of Fields",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/192_Reaper of Fields_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/192_Reaper of Fields_back.png"
+				}
+			}
+		},
+		{
+			"name": "Pidae Raider",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Gorgon Warrior ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/190_Pidae Raider.png"
+			}
+		},
+		{
+			"name": "Caller of Ferocity",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Satyr Bard ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/168_Caller of Ferocity_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/168_Caller of Ferocity_back.png"
+				}
+			}
+		},
+		{
+			"name": "Inkblooded Basilisk",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Basilisk ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/179_Inkblooded Basilisk.png"
+			}
+		},
+		{
+			"name": "Centaur Mentor",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Centaur Warrior ",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/170_Centaur Mentor.png"
+			}
+		},
+		{
+			"name": "Pheres-Band Huntmaster",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Centaur Warrior ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/189_Pheres-Band Huntmaster.png"
+			}
+		},
+		{
+			"name": "Slumbering Serpent",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/199_Slumbering Serpent.png"
+			}
+		},
+		{
+			"name": "Thundering Serpent",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Serpent ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/203_Thundering Serpent.png"
+			}
+		},
+		{
+			"name": "Weave Destiny",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/204_Weave Destiny.png"
+			}
+		},
+		{
+			"name": "Punch Out of the Sky",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/191_Punch Out of the Sky.png"
+			}
+		},
+		{
+			"name": "Midsummer Dream",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/183_Midsummer Dream.png"
+			}
+		},
+		{
+			"name": "Zakros General",
+			"rarity": "common",
+			"mana_cost": "{3}{G/W}{G/W}",
+			"type": "Creature — Giant Soldier ",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/259_Zakros General.png"
+			}
+		},
+		{
+			"name": "Imposing Serpent",
+			"rarity": "common",
+			"mana_cost": "{X}{G/U}",
+			"type": "Creature — Serpent ",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/268_Imposing Serpent.png"
+			}
+		},
+		{
+			"name": "Agnomakhos's Abomination",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Giant Mutant ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/2_Agnomakhos's Abomination.png"
+			}
+		},
+		{
+			"name": "Ephara's Oracle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat Cleric ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/16_Ephara's Oracle.png"
+			}
+		},
+		{
+			"name": "Patron of Ephara's Glory",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat Artist ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/29_Patron of Ephara's Glory.png"
+			}
+		},
+		{
+			"name": "Archon of Glorious Light",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Creature — Archon ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/4_Archon of Glorious Light.png"
+			}
+		},
+		{
+			"name": "Basilo, Lion of Valor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/7_Basilo, Lion of Valor_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/7_Basilo, Lion of Valor_back.png"
+				}
+			}
+		},
+		{
+			"name": "Zakros Decree",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/41_Zakros Decree.png"
+			}
+		},
+		{
+			"name": "Command from the Front",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/12_Command from the Front.png"
+			}
+		},
+		{
+			"name": "Haubay's Familiar",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/54_Haubay's Familiar.png"
+			}
+		},
+		{
+			"name": "Traumatic Impact",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/76_Traumatic Impact.png"
+			}
+		},
+		{
+			"name": "Eidolon of Graceful Steps",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/51_Eidolon of Graceful Steps.png"
+			}
+		},
+		{
+			"name": "Oracle of Zakros",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Cyclops Shaman ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/66_Oracle of Zakros_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/66_Oracle of Zakros_back.png"
+				}
+			}
+		},
+		{
+			"name": "Horror of the Mystic Sea",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Hydra Serpent Horror ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/55_Horror of the Mystic Sea.png"
+			}
+		},
+		{
+			"name": "The Founding of the Twelve",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/53_The Founding of the Twelve.png"
+			}
+		},
+		{
+			"name": "Turn to Nyx",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/79_Turn to Nyx.png"
+			}
+		},
+		{
+			"name": "Aphonai's Reveler",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Satyr Zombie ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/84_Aphonai's Reveler.png"
+			}
+		},
+		{
+			"name": "Phenax's Confidant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/108_Phenax's Confidant.png"
+			}
+		},
+		{
+			"name": "Pharika's Harbinger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Gorgon Cleric ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/107_Pharika's Harbinger_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/107_Pharika's Harbinger_back.png"
+				}
+			}
+		},
+		{
+			"name": "Axiomene, Syrurian Tyrant",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Legendary Creature — Demon ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/85_Axiomene, Syrurian Tyrant.png"
+			}
+		},
+		{
+			"name": "Petraform Hermit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Gorgon Cleric ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/106_Petraform Hermit.png"
+			}
+		},
+		{
+			"name": "Maim",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/99_Maim.png"
+			}
+		},
+		{
+			"name": "Kakomanties Circle",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/96_Kakomanties Circle.png"
+			}
+		},
+		{
+			"name": "Together Just a Moment More",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/121_Together Just a Moment More.png"
+			}
+		},
+		{
+			"name": "Phenax's Touch",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/109_Phenax's Touch.png"
+			}
+		},
+		{
+			"name": "Apprentice of the Forge-God",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Giant Artificer ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/125_Apprentice of the Forge-God.png"
+			}
+		},
+		{
+			"name": "Skophos Raid-Veteran",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Minotaur Soldier ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/157_Skophos Raid-Veteran.png"
+			}
+		},
+		{
+			"name": "Zygos, Edge of the Bull",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/164_Zygos, Edge of the Bull_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/164_Zygos, Edge of the Bull_back.png"
+				}
+			}
+		},
+		{
+			"name": "Star-Seeking Dreamer",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Creature — Satyr Citizen ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/160_Star-Seeking Dreamer.png"
+			}
+		},
+		{
+			"name": "Zakros Stompers",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Giant Warrior ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/163_Zakros Stompers.png"
+			}
+		},
+		{
+			"name": "The Burning of Pidae",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/129_The Burning of Pidae.png"
+			}
+		},
+		{
+			"name": "Elektes's Charge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/132_Elektes's Charge.png"
+			}
+		},
+		{
+			"name": "Ignite",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/139_Ignite.png"
+			}
+		},
+		{
+			"name": "Star-Studded Sagittaur",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Centaur Archer ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/200_Star-Studded Sagittaur_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/200_Star-Studded Sagittaur_back.png"
+				}
+			}
+		},
+		{
+			"name": "Wolf-Whistle Satyr",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Satyr Druid ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/205_Wolf-Whistle Satyr_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/205_Wolf-Whistle Satyr_back.png"
+				}
+			}
+		},
+		{
+			"name": "Survivor of Pidae",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Creature — Gorgon ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/201_Survivor of Pidae.png"
+			}
+		},
+		{
+			"name": "Hunger's Door",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Octopus Mutant ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/178_Hunger's Door.png"
+			}
+		},
+		{
+			"name": "Labyrinthine Hydra",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{G}",
+			"type": "Creature — Hydra ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/181_Labyrinthine Hydra.png"
+			}
+		},
+		{
+			"name": "Disciple of the Weavers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/172_Disciple of the Weavers.png"
+			}
+		},
+		{
+			"name": "Canopy of the Winter Nexus",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/169_Canopy of the Winter Nexus.png"
+			}
+		},
+		{
+			"name": "Harmony with Nature",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/177_Harmony with Nature.png"
+			}
+		},
+		{
+			"name": "The Army of Trax",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Archon Army ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/6_The Army of Trax.png"
+			}
+		},
+		{
+			"name": "Prince of the Pride",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Cat Soldier ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/30_Prince of the Pride.png"
+			}
+		},
+		{
+			"name": "Chosen of Heliod",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Archer ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/10_Chosen of Heliod_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/10_Chosen of Heliod_back.png"
+				}
+			}
+		},
+		{
+			"name": "The Fall of Trax",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/19_The Fall of Trax.png"
+			}
+		},
+		{
+			"name": "Shrine to Heliod",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Enchantment — Shrine ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/32_Shrine to Heliod.png"
+			}
+		},
+		{
+			"name": "Stormscraper of Ketaphos",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment Creature — Leviathan ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/72_Stormscraper of Ketaphos.png"
+			}
+		},
+		{
+			"name": "Lost Caller of the Sea",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Human Shaman ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/57_Lost Caller of the Sea.png"
+			}
+		},
+		{
+			"name": "Thassa's Tideshaper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Wizard Rogue ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/74_Thassa's Tideshaper.png"
+			}
+		},
+		{
+			"name": "Absorb Divinity",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/42_Absorb Divinity.png"
+			}
+		},
+		{
+			"name": "Lost to Memory",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/58_Lost to Memory.png"
+			}
+		},
+		{
+			"name": "The Sinking of Olantin",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/71_The Sinking of Olantin.png"
+			}
+		},
+		{
+			"name": "Shrine to Thassa",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Enchantment — Shrine ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/70_Shrine to Thassa.png"
+			}
+		},
+		{
+			"name": "Underworld Tormentor",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Creature — Demon Zombie ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/122_Underworld Tormentor.png"
+			}
+		},
+		{
+			"name": "Slighos the Body-Binder",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Demon ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/119_Slighos the Body-Binder.png"
+			}
+		},
+		{
+			"name": "Keeper of the Scale",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Gorgon Wizard ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/97_Keeper of the Scale.png"
+			}
+		},
+		{
+			"name": "Make an Example",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/100_Make an Example.png"
+			}
+		},
+		{
+			"name": "The Path of Phenax",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/105_The Path of Phenax.png"
+			}
+		},
+		{
+			"name": "Shrine to Erebos",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Legendary Enchantment — Shrine ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/118_Shrine to Erebos.png"
+			}
+		},
+		{
+			"name": "Satyr Arsonist",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Satyr Wizard ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/153_Satyr Arsonist.png"
+			}
+		},
+		{
+			"name": "Pyros Rider",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Archon ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/150_Pyros Rider_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/150_Pyros Rider_back.png"
+				}
+			}
+		},
+		{
+			"name": "Skophos Conjuror",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment Creature — Minotaur Spirit ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/156_Skophos Conjuror.png"
+			}
+		},
+		{
+			"name": "Audience at Zakros",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/128_Audience at Zakros.png"
+			}
+		},
+		{
+			"name": "A God Divided",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/135_A God Divided.png"
+			}
+		},
+		{
+			"name": "Shrine to Purphoros",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Enchantment — Shrine ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/155_Shrine to Purphoros.png"
+			}
+		},
+		{
+			"name": "Nylea's Grovetender",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Centaur Druid ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/186_Nylea's Grovetender.png"
+			}
+		},
+		{
+			"name": "Nessian Scout-Captain",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Minotaur Soldier ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/184_Nessian Scout-Captain.png"
+			}
+		},
+		{
+			"name": "Skola Nyxweaver",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Creature — Satyr Soldier Scout ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/198_Skola Nyxweaver.png"
+			}
+		},
+		{
+			"name": "King of the Wilderness",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Creature — Chimera ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/180_King of the Wilderness.png"
+			}
+		},
+		{
+			"name": "Siphon the Divine",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/197_Siphon the Divine.png"
+			}
+		},
+		{
+			"name": "Shrine to Nylea",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}",
+			"type": "Legendary Enchantment — Shrine ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/196_Shrine to Nylea.png"
+			}
+		},
+		{
+			"name": "Claes, Shield of Karda",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/11_Claes, Shield of Karda_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/11_Claes, Shield of Karda_back.png"
+				}
+			}
+		},
+		{
+			"name": "Phlage, Titan of Burning Wind",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Creature — Elder Giant ",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/232_Phlage, Titan of Burning Wind.png"
+			}
+		},
+		{
+			"name": "The Smoking Strand",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/275_The Smoking Strand.png"
+			}
+		},
+		{
+			"name": "Ride the Tartyx",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/115_Ride the Tartyx.png"
+			}
+		},
+		{
+			"name": "Skotha, Titan of Eternal Dark",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Legendary Creature — Elder Giant ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/239_Skotha, Titan of Eternal Dark.png"
+			}
+		},
+		{
+			"name": "Karda, Battle-Born",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/249_Karda, Battle-Born.png"
+			}
+		},
+		{
+			"name": "Koios, Spear of Karda",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}{R}{R}",
+			"type": "Legendary Enchantment Planeswalker — Koios ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/142_Koios, Spear of Karda.png"
+			}
+		},
+		{
+			"name": "Arasta's Handmaiden",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Enchantment Creature — Spider ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/166_Arasta's Handmaiden.png"
+			}
+		},
+		{
+			"name": "Benthalos of Land and Sea",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/206_Benthalos of Land and Sea.png"
+			}
+		},
+		{
+			"name": "Orestes, Heroic Scoundrel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Satyr Rogue ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/210_Orestes, Heroic Scoundrel.png"
+			}
+		},
+		{
+			"name": "Raksolcs Ravage-Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Minotaur Warrior ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/216_Raksolcs Ravage-Soul.png"
+			}
+		},
+		{
+			"name": "Molpadia, the Last Acephali",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}{G}{G}",
+			"type": "Legendary Creature — Cyclops Warrior ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/220_Molpadia, the Last Acephali.png"
+			}
+		},
+		{
+			"name": "Lykaretos, Harvest's Bounty",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Cat Druid ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/225_Lykaretos, Harvest's Bounty_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/225_Lykaretos, Harvest's Bounty_back.png"
+				}
+			}
+		},
+		{
+			"name": "Pero, Puppet of Erebos",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Enchantment Creature — Demigod ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/229_Pero, Puppet of Erebos.png"
+			}
+		},
+		{
+			"name": "Timedrinker the Bleached",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Creature — Dragon ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/233_Timedrinker the Bleached.png"
+			}
+		},
+		{
+			"name": "Biaas the Poison Drinker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Human Rogue ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/235_Biaas the Poison Drinker.png"
+			}
+		},
+		{
+			"name": "Elektes, First King of Akros",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Enchantment Creature — Demigod ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/241_Elektes, First King of Akros.png"
+			}
+		},
+		{
+			"name": "Zale, Titanohunter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Human Ranger ",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/248_Zale, Titanohunter.png"
+			}
+		},
+		{
+			"name": "Builder of Monuments",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Giant Artificer ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/207_Builder of Monuments.png"
+			}
+		},
+		{
+			"name": "Through Blood, Knowledge",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/213_Through Blood, Knowledge.png"
+			}
+		},
+		{
+			"name": "Spikemane Lion",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Cat ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/221_Spikemane Lion_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/221_Spikemane Lion_back.png"
+				}
+			}
+		},
+		{
+			"name": "Kynaios, Blade-Bound",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/224_Kynaios, Blade-Bound.png"
+			}
+		},
+		{
+			"name": "Archon of Condemnation",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Archon ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/226_Archon of Condemnation_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/226_Archon of Condemnation_back.png"
+				}
+			}
+		},
+		{
+			"name": "Tiro, the Silent Blade",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/234_Tiro, the Silent Blade.png"
+			}
+		},
+		{
+			"name": "Nikon, Skophos Protector",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Minotaur Soldier ",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/244_Nikon, Skophos Protector.png"
+			}
+		},
+		{
+			"name": "Nykthos, Architect of Gods",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Enchantment Creature — Demigod ",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/247_Nykthos, Architect of Gods.png"
+			}
+		},
+		{
+			"name": "Colossus of Trax",
+			"rarity": "common",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/272_Colossus of Trax.png"
+			}
+		},
+		{
+			"name": "Implacable Shrine-Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Sculpture ",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/273_Implacable Shrine-Guard.png"
+			}
+		},
+		{
+			"name": "Tidelock Pearl",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/277_Tidelock Pearl.png"
+			}
+		},
+		{
+			"name": "Athreos, Gold-Eyed",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/227_Athreos, Gold-Eyed.png"
+			}
+		},
+		{
+			"name": "Karametra, Life-Harvester",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/222_Karametra, Life-Harvester.png"
+			}
+		},
+		{
+			"name": "Klothys, Fate-Driven",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/218_Klothys, Fate-Driven.png"
+			}
+		},
+		{
+			"name": "Kruphix, Far-Seeing",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/245_Kruphix, Far-Seeing.png"
+			}
+		},
+		{
+			"name": "Mogis, Rage-Crowned",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/214_Mogis, Rage-Crowned.png"
+			}
+		},
+		{
+			"name": "Iroas, Honor-Bound",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/242_Iroas, Honor-Bound.png"
+			}
+		},
+		{
+			"name": "Keranos, Fickle-Fortuned",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/230_Keranos, Fickle-Fortuned.png"
+			}
+		},
+		{
+			"name": "Phenax, Brazen Thief",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Rogue ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/211_Phenax, Brazen Thief_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/211_Phenax, Brazen Thief_back.png"
+				}
+			}
+		},
+		{
+			"name": "Pharika, Snake-Twined",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/237_Pharika, Snake-Twined.png"
+			}
+		},
+		{
+			"name": "Ephara, Hero-Maker",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/208_Ephara, Hero-Maker.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/301_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/302_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/303_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/304_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/305_Forest.png"
+			}
+		},
+		{
+			"name": "Agnomakhos, Justice",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Archon ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/1_Agnomakhos, Justice.png"
+			}
+		},
+		{
+			"name": "Behemoth of the Five Rivers",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Leviathan Whale ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/45_Behemoth of the Five Rivers.png"
+			}
+		},
+		{
+			"name": "Furies of the Natural Order",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Horror ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/90_Furies of the Natural Order_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/90_Furies of the Natural Order_back.png"
+				}
+			}
+		},
+		{
+			"name": "Thraxes, Sire of Dragons",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Enchantment Creature — Dragon ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/161_Thraxes, Sire of Dragons.png"
+			}
+		},
+		{
+			"name": "Seeker of New Horizons",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Satyr Scout ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/194_Seeker of New Horizons_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/194_Seeker of New Horizons_back.png"
+				}
+			}
+		},
+		{
+			"name": "The Arbiter",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Legendary Planeswalker — Haubay ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/44_The Arbiter.png"
+			}
+		},
+		{
+			"name": "Xarr of the Eternal Cycle",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Planeswalker — Xarr ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/240_Xarr of the Eternal Cycle.png"
+			}
+		},
+		{
+			"name": "Barren Ashlands",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/279_Barren Ashlands.png"
+			}
+		},
+		{
+			"name": "Buried Colossus",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/280_Buried Colossus.png"
+			}
+		},
+		{
+			"name": "Ephemeral Mire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/281_Ephemeral Mire.png"
+			}
+		},
+		{
+			"name": "Gates to the Underworld",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/283_Gates to the Underworld.png"
+			}
+		},
+		{
+			"name": "Hundred-Handed Pillars",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/284_Hundred-Handed Pillars.png"
+			}
+		},
+		{
+			"name": "Miasmic Cove",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/285_Miasmic Cove.png"
+			}
+		},
+		{
+			"name": "Nessian Woods",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/286_Nessian Woods.png"
+			}
+		},
+		{
+			"name": "Nimbus of Thought",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/287_Nimbus of Thought.png"
+			}
+		},
+		{
+			"name": "Shell Cove",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/288_Shell Cove.png"
+			}
+		},
+		{
+			"name": "Titan's Stairs",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/300_Titan's Stairs.png"
+			}
+		},
+		{
+			"name": "Temple of Deceit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/290_Temple of Deceit.png"
+			}
+		},
+		{
+			"name": "Temple of Abandon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/289_Temple of Abandon.png"
+			}
+		},
+		{
+			"name": "Temple of Mystery",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/295_Temple of Mystery.png"
+			}
+		},
+		{
+			"name": "Temple of Malice",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/294_Temple of Malice.png"
+			}
+		},
+		{
+			"name": "Temple of Plenty",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/296_Temple of Plenty.png"
+			}
+		},
+		{
+			"name": "Temple of Silence",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/297_Temple of Silence.png"
+			}
+		},
+		{
+			"name": "Temple of Epiphany",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/292_Temple of Epiphany.png"
+			}
+		},
+		{
+			"name": "Temple of Triumph",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/298_Temple of Triumph.png"
+			}
+		},
+		{
+			"name": "Temple of Enlightenment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/291_Temple of Enlightenment.png"
+			}
+		},
+		{
+			"name": "Temple of Malady",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/293_Temple of Malady.png"
+			}
+		},
+		{
+			"name": "Shrine to Those Forgotten",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Enchantment Artifact — Shrine ",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/274_Shrine to Those Forgotten.png"
+			}
+		},
+		{
+			"name": "Shrine to Athreos",
+			"rarity": "uncommon",
+			"mana_cost": "{W/B}",
+			"type": "Legendary Enchantment — Shrine ",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/260_Shrine to Athreos.png"
+			}
+		},
+		{
+			"name": "Shrine to Ephara",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W/U}",
+			"type": "Legendary Enchantment — Shrine ",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/251_Shrine to Ephara.png"
+			}
+		},
+		{
+			"name": "Shrine to Iroas",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R/W}",
+			"type": "Legendary Enchantment — Shrine ",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/267_Shrine to Iroas.png"
+			}
+		},
+		{
+			"name": "Shrine to Karametra",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/W}{G/W}",
+			"type": "Legendary Enchantment — Shrine ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/258_Shrine to Karametra.png"
+			}
+		},
+		{
+			"name": "Shrine to Keranos",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/R}",
+			"type": "Legendary Enchantment — Shrine ",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/263_Shrine to Keranos.png"
+			}
+		},
+		{
+			"name": "Shrine to Klothys",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R/G}",
+			"type": "Legendary Enchantment — Shrine ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/257_Shrine to Klothys.png"
+			}
+		},
+		{
+			"name": "Shrine to Kruphix",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/U}",
+			"type": "Legendary Enchantment — Shrine ",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/269_Shrine to Kruphix.png"
+			}
+		},
+		{
+			"name": "Shrine to Mogis",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/R}",
+			"type": "Legendary Enchantment — Shrine ",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/254_Shrine to Mogis.png"
+			}
+		},
+		{
+			"name": "Shrine to Pharika",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B/G}",
+			"type": "Legendary Enchantment — Shrine ",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/264_Shrine to Pharika.png"
+			}
+		},
+		{
+			"name": "Shrine to Phenax",
+			"rarity": "uncommon",
+			"mana_cost": "{U/B}",
+			"type": "Legendary Enchantment — Shrine ",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/253_Shrine to Phenax.png"
+			}
+		},
+		{
+			"name": "Garden of Shrines",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/282_Garden of Shrines.png"
+			}
+		},
+		{
+			"name": "Omen of Victory",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/27_Omen of Victory.png"
+			}
+		},
+		{
+			"name": "Omen of Deception",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/65_Omen of Deception.png"
+			}
+		},
+		{
+			"name": "Omen of Slaughter",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/103_Omen of Slaughter.png"
+			}
+		},
+		{
+			"name": "Omen of Storms",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/146_Omen of Storms.png"
+			}
+		},
+		{
+			"name": "Omen of Horizons",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/187_Omen of Horizons.png"
+			}
+		},
+		{
+			"name": "Ordeal of Athreos",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/28_Ordeal of Athreos.png"
+			}
+		},
+		{
+			"name": "Ordeal of Ephara",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/67_Ordeal of Ephara.png"
+			}
+		},
+		{
+			"name": "Ordeal of Pharika",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/104_Ordeal of Pharika.png"
+			}
+		},
+		{
+			"name": "Ordeal of Karda",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/147_Ordeal of Karda.png"
+			}
+		},
+		{
+			"name": "Ordeal of Karametra",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/188_Ordeal of Karametra.png"
+			}
+		},
+		{
+			"name": "Cybele of the Frozen Faith",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Gorgon Cleric ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/236_Cybele of the Frozen Faith.png"
+			}
+		},
+		{
+			"name": "Karda's Emmisary",
+			"rarity": "common",
+			"mana_cost": "{2}{R/W}{R/W}",
+			"type": "Enchantment",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/266_Karda's Emmisary.png"
+			}
+		},
+		{
+			"name": "Traveler's Amulet",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/278_Traveler's Amulet.png"
+			}
+		},
+		{
+			"name": "Anvilwrought Crane",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Bird ",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/270_Anvilwrought Crane.png"
+			}
+		},
+		{
+			"name": "Chromatic Hart",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Elk ",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/271_Chromatic Hart.png"
+			}
+		},
+		{
+			"name": "Leonin Hoplite",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat Soldier ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/22_Leonin Hoplite.png"
+			}
+		},
+		{
+			"name": "Terramorphic Expanse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/299_Terramorphic Expanse.png"
+			}
+		},
+		{
+			"name": "Read the Tides",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/68_Read the Tides.png"
+			}
+		},
+		{
+			"name": "Shatter the Reflection",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/195_Shatter the Reflection.png"
+			}
+		},
+		{
+			"name": "Fight the Tides",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/176_Fight the Tides.png"
+			}
+		},
+		{
+			"name": "Arasta's Burden",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/165_Arasta's Burden.png"
+			}
+		},
+		{
+			"name": "Monstrous Challenge",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/145_Monstrous Challenge.png"
+			}
+		},
+		{
+			"name": "Flame Lash",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/134_Flame Lash.png"
+			}
+		},
+		{
+			"name": "Petros, Purphoros's Double",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{R}{R}",
+			"type": "Legendary Enchantment Creature — Artificer ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/148_Petros, Purphoros's Double.png"
+			}
+		},
+		{
+			"name": "Erase from Reality",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/17_Erase from Reality.png"
+			}
+		},
+		{
+			"name": "Agent of Deception",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Rogue ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/43_Agent of Deception.png"
+			}
+		},
+		{
+			"name": "Gray Merchant of Asphodel",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/91_Gray Merchant of Asphodel.png"
+			}
+		},
+		{
+			"name": "Nylea's Call",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/185_Nylea's Call.png"
+			}
+		},
+		{
+			"name": "Terror of Olantin",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Serpent Hydra ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/202_Terror of Olantin.png"
+			}
+		},
+		{
+			"name": "Fall into the Underworld",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/89_Fall into the Underworld.png"
+			}
+		},
+		{
+			"name": "Agent of Pharika",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment Creature — Gorgon Warrior ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/83_Agent of Pharika.png"
+			}
+		},
+		{
+			"name": "Rite of Venom",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/116_Rite of Venom.png"
+			}
+		},
+		{
+			"name": "Nyxborn Retriever",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment Creature — Dog ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/102_Nyxborn Retriever.png"
+			}
+		},
+		{
+			"name": "Plead to Erebos",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/110_Plead to Erebos.png"
+			}
+		},
+		{
+			"name": "Poisoned Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/111_Poisoned Strike.png"
+			}
+		},
+		{
+			"name": "Travel Through the Mystic Sea",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/77_Travel Through the Mystic Sea.png"
+			}
+		},
+		{
+			"name": "Shoreline Crasher",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Kraken ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/69_Shoreline Crasher.png"
+			}
+		},
+		{
+			"name": "Ebb and Flow",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/50_Ebb and Flow.png"
+			}
+		},
+		{
+			"name": "Misbegotten Aims",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/62_Misbegotten Aims.png"
+			}
+		},
+		{
+			"name": "Leonin Phalanx",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Cat Soldier Army ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/23_Leonin Phalanx.png"
+			}
+		},
+		{
+			"name": "Spear of the Sun-Crowned",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Centaur Soldier ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/34_Spear of the Sun-Crowned.png"
+			}
+		},
+		{
+			"name": "Traxian General",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Cat Soldier ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/37_Traxian General.png"
+			}
+		},
+		{
+			"name": "Dedicated Charge",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/14_Dedicated Charge.png"
+			}
+		},
+		{
+			"name": "Ephara's Messenger",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Griffin ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/15_Ephara's Messenger.png"
+			}
+		},
+		{
+			"name": "Zodiac Griffin",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Griffin ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/82_Zodiac Griffin.png"
+			}
+		},
+		{
+			"name": "Coward-Eater",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Minotaur Warrior ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/87_Coward-Eater.png"
+			}
+		},
+		{
+			"name": "Skophos Trainee",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/158_Skophos Trainee.png"
+			}
+		},
+		{
+			"name": "Clash of the Titans",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/171_Clash of the Titans.png"
+			}
+		},
+		{
+			"name": "Soul-Guide Lantern",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/276_Soul-Guide Lantern.png"
+			}
+		},
+		{
+			"name": "Bringer of Heliod's Light",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Archon ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/8_Bringer of Heliod's Light_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/8_Bringer of Heliod's Light_back.png"
+				}
+			}
+		},
+		{
+			"name": "Life Begins Anew",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/143_Life Begins Anew.png"
+			}
+		},
+		{
+			"name": "Ashlands Phoenix",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment Creature — Phoenix ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/127_Ashlands Phoenix.png"
+			}
+		},
+		{
+			"name": "Momentary Petrification",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/63_Momentary Petrification.png"
+			}
+		},
+		{
+			"name": "Archon of the Legion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Archon ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/5_Archon of the Legion.png"
+			}
+		},
+		{
+			"name": "Fall of Olantin",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/18_Fall of Olantin.png"
+			}
+		},
+		{
+			"name": "Nikon's Aegis",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/26_Nikon's Aegis.png"
+			}
+		},
+		{
+			"name": "Deception's Edge",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/88_Deception's Edge.png"
+			}
+		},
+		{
+			"name": "Eventide Coronet",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/174_Eventide Coronet.png"
+			}
+		},
+		{
+			"name": "Tymaret, Bane of Phenax",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Zombie Ranger ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/217_Tymaret, Bane of Phenax.png"
+			}
+		},
+		{
+			"name": "Sculpture",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Sculpture ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/18_Sculpture.png"
+			}
+		},
+		{
+			"name": "Weapon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment Weapon ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/20_Weapon.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/19_Treasure.png"
+			}
+		},
+		{
+			"name": "Army",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Army ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/2_Army.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/3_Human.png"
+			}
+		},
+		{
+			"name": "Snake",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Snake ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/10_Snake.png"
+			}
+		},
+		{
+			"name": "Tentacle",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Tentacle ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/6_Tentacle.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/13_Soldier.png"
+			}
+		},
+		{
+			"name": "Follower",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Artifact Creature",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/17_Follower.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/11_Zombie.png"
+			}
+		},
+		{
+			"name": "Wizard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wizard ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/9_Wizard.png"
+			}
+		},
+		{
+			"name": "Kraken",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Kraken ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/5_Kraken.png"
+			}
+		},
+		{
+			"name": "Tromokratis",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Kraken ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/7_Tromokratis.png"
+			}
+		},
+		{
+			"name": "Centaur",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Centaur ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/14_Centaur.png"
+			}
+		},
+		{
+			"name": "Grim Physician",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/92_Grim Physician.png"
+			}
+		},
+		{
+			"name": "Dragon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Dragon ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/12_Dragon.png"
+			}
+		},
+		{
+			"name": "Charging Brightmare",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Unicorn ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/9_Charging Brightmare_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/9_Charging Brightmare_back.png"
+				}
+			}
+		},
+		{
+			"name": "Callaphe the Mariner",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Human Scout ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/46_Callaphe the Mariner_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/TRX-files/img/46_Callaphe the Mariner_back.png"
+				}
+			}
+		},
+		{
+			"name": "Lurking Vyrkolakas",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Beast ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/98_Lurking Vyrkolakas.png"
+			}
+		},
+		{
+			"name": "Arena Champion",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/126_Arena Champion.png"
+			}
+		},
+		{
+			"name": "Belief-Belying Beast",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Chimera ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/167_Belief-Belying Beast.png"
+			}
+		},
+		{
+			"name": "Pegasus",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Pegasus ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/4_Pegasus.png"
+			}
+		},
+		{
+			"name": "Quality Time",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/31_Quality Time.png"
+			}
+		},
+		{
+			"name": "Chrolcatos, Pidae's Founder",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Gorgon Zombie ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/86_Chrolcatos, Pidae's Founder.png"
+			}
+		},
+		{
+			"name": "Karda's Legacy",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/141_Karda's Legacy.png"
+			}
+		},
+		{
+			"name": "Menelaia, Beloved Lyrist",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Enchantment Creature — Demigod ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/182_Menelaia, Beloved Lyrist.png"
+			}
+		},
+		{
+			"name": "Tide's Ire",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/75_Tide's Ire.png"
+			}
+		},
+		{
+			"name": "Ephara's Judgment",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/209_Ephara's Judgment.png"
+			}
+		},
+		{
+			"name": "Phenax's Judgment",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/212_Phenax's Judgment.png"
+			}
+		},
+		{
+			"name": "Mogis's Judgment",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/215_Mogis's Judgment.png"
+			}
+		},
+		{
+			"name": "Klothys's Judgment",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Instant",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/219_Klothys's Judgment.png"
+			}
+		},
+		{
+			"name": "Karametra's Judgment",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/223_Karametra's Judgment.png"
+			}
+		},
+		{
+			"name": "Athreos's Judgment",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/228_Athreos's Judgment.png"
+			}
+		},
+		{
+			"name": "Keranos's Judgment",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/231_Keranos's Judgment.png"
+			}
+		},
+		{
+			"name": "Pharika's Judgment",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Instant",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/238_Pharika's Judgment.png"
+			}
+		},
+		{
+			"name": "Iroas's Judgment",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/243_Iroas's Judgment.png"
+			}
+		},
+		{
+			"name": "Kruphix's Judgment",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Instant",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/246_Kruphix's Judgment.png"
+			}
+		},
+		{
+			"name": "Pull of Tizerus",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/112_Pull of Tizerus.png"
+			}
+		},
+		{
+			"name": "Voyage to the Siren Sea",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/80_Voyage to the Siren Sea.png"
+			}
+		},
+		{
+			"name": "The Champion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Reminder",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/1_The Champion.png"
+			}
+		},
+		{
+			"name": "Unmarked Shrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Shrine ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/8_Unmarked Shrine.png"
+			}
+		},
+		{
+			"name": "Iara, Blessed-Hart",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/21_Iara, Blessed-Hart.png"
+			}
+		},
+		{
+			"name": "Trinity of Fates",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/78_Trinity of Fates.png"
+			}
+		},
+		{
+			"name": "Host of the Neverending Revel",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Satyr Noble ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/94_Host of the Neverending Revel.png"
+			}
+		},
+		{
+			"name": "Efimia of the Horse",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/130_Efimia of the Horse.png"
+			}
+		},
+		{
+			"name": "Evridiki, Queen of Pidae",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Gorgon Noble ",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/175_Evridiki, Queen of Pidae.png"
+			}
+		},
+		{
+			"name": "Wolf",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wolf ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/16_Wolf.png"
+			}
+		},
+		{
+			"name": "Snake",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Snake ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/15_Snake.png"
+			}
+		},
+		{
+			"name": "Ephara, Hero-Maker",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/0_Ephara, Hero-Maker.png"
+			}
+		},
+		{
+			"name": "Koios, Spear of Karda",
+			"rarity": "special",
+			"mana_cost": "{R}{R}{R}{R}",
+			"type": "Legendary Enchantment Planeswalker — Koios ",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/0_Koios, Spear of Karda.png"
+			}
+		},
+		{
+			"name": "Omen of Slaughter",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/0_Omen of Slaughter.png"
+			}
+		},
+		{
+			"name": "Elektes, First King of Akros",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Enchantment Creature — Demigod ",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/0_Elektes, First King of Akros.png"
+			}
+		},
+		{
+			"name": "Pull of Tizerus",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/0_Pull of Tizerus.png"
+			}
+		},
+		{
+			"name": "Shrine to Those Forgotten",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Enchantment Artifact — Shrine ",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/TRX-files/img/0_Shrine to Those Forgotten.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 The Army of Trax
+		2 Prince of the Pride
+		2 Chosen of Heliod
+		2 The Fall of Trax
+		2 Shrine to Heliod
+		2 Stormscraper of Ketaphos
+		2 Lost Caller of the Sea
+		2 Absorb Divinity
+		2 Lost to Memory
+		2 The Sinking of Olantin
+		2 Shrine to Thassa
+		2 Underworld Tormentor
+		2 Slighos the Body-Binder
+		2 Keeper of the Scale
+		2 Make an Example
+		2 The Path of Phenax
+		2 Shrine to Erebos
+		2 Satyr Arsonist
+		2 Pyros Rider
+		2 Skophos Conjuror
+		2 Audience at Zakros
+		2 A God Divided
+		2 Shrine to Purphoros
+		2 Nylea's Grovetender
+		2 Nessian Scout-Captain
+		2 Skola Nyxweaver
+		2 King of the Wilderness
+		2 Siphon the Divine
+		2 Shrine to Nylea
+		2 Builder of Monuments
+		2 Through Blood, Knowledge
+		2 Spikemane Lion
+		2 Kynaios, Blade-Bound
+		2 Archon of Condemnation
+		2 Tiro, the Silent Blade
+		2 Nikon, Skophos Protector
+		2 Nykthos, Architect of Gods
+		2 Agnomakhos, Justice
+		2 Behemoth of the Five Rivers
+		2 Furies of the Natural Order
+		2 Thraxes, Sire of Dragons
+		2 Seeker of New Horizons
+		2 Barren Ashlands
+		2 Buried Colossus
+		2 Ephemeral Mire
+		2 Gates to the Underworld
+		2 Hundred-Handed Pillars
+		2 Miasmic Cove
+		2 Nessian Woods
+		2 Nimbus of Thought
+		2 Shell Cove
+		2 Titan's Stairs
+		2 Cybele of the Frozen Faith
+		2 Petros, Purphoros's Double
+		2 Fall of Olantin
+		2 Nikon's Aegis
+		2 Deception's Edge
+		2 Eventide Coronet
+		2 Tymaret, Bane of Phenax
+		2 Callaphe the Mariner
+		2 Quality Time
+		2 Chrolcatos, Pidae's Founder
+		2 Karda's Legacy
+		2 Menelaia, Beloved Lyrist
+		2 Ephara's Judgment
+		2 Phenax's Judgment
+		2 Mogis's Judgment
+		2 Klothys's Judgment
+		2 Karametra's Judgment
+		2 Athreos's Judgment
+		2 Keranos's Judgment
+		2 Pharika's Judgment
+		2 Iroas's Judgment
+		2 Kruphix's Judgment
+		2 Voyage to the Siren Sea
+		2 Iara, Blessed-Hart
+		2 Trinity of Fates
+		2 Host of the Neverending Revel
+		2 Efimia of the Horse
+		2 Evridiki, Queen of Pidae
+		1 Claes, Shield of Karda
+		1 Phlage, Titan of Burning Wind
+		1 The Smoking Strand
+		1 Ride the Tartyx
+		1 Skotha, Titan of Eternal Dark
+		1 Karda, Battle-Born
+		1 Koios, Spear of Karda
+		1 Arasta's Handmaiden
+		1 Athreos, Gold-Eyed
+		1 Karametra, Life-Harvester
+		1 Klothys, Fate-Driven
+		1 Kruphix, Far-Seeing
+		1 Mogis, Rage-Crowned
+		1 Iroas, Honor-Bound
+		1 Keranos, Fickle-Fortuned
+		1 Phenax, Brazen Thief
+		1 Pharika, Snake-Twined
+		1 Ephara, Hero-Maker
+		1 The Arbiter
+		1 Xarr of the Eternal Cycle
+		[UncommonSlot(3)]
+	9 Invest in the Future
+		9 Agnomakhos's Abomination
+		9 Ephara's Oracle
+		9 Patron of Ephara's Glory
+		9 Archon of Glorious Light
+		9 Basilo, Lion of Valor
+		9 Zakros Decree
+		9 Command from the Front
+		9 Haubay's Familiar
+		9 Traumatic Impact
+		9 Eidolon of Graceful Steps
+		9 Oracle of Zakros
+		9 Horror of the Mystic Sea
+		9 The Founding of the Twelve
+		9 Turn to Nyx
+		9 Aphonai's Reveler
+		9 Phenax's Confidant
+		9 Pharika's Harbinger
+		9 Axiomene, Syrurian Tyrant
+		9 Petraform Hermit
+		9 Maim
+		9 Kakomanties Circle
+		9 Together Just a Moment More
+		9 Phenax's Touch
+		9 Apprentice of the Forge-God
+		9 Skophos Raid-Veteran
+		9 Zygos, Edge of the Bull
+		9 Star-Seeking Dreamer
+		9 Zakros Stompers
+		9 The Burning of Pidae
+		9 Elektes's Charge
+		9 Ignite
+		9 Star-Studded Sagittaur
+		9 Wolf-Whistle Satyr
+		9 Survivor of Pidae
+		9 Hunger's Door
+		9 Labyrinthine Hydra
+		9 Disciple of the Weavers
+		9 Canopy of the Winter Nexus
+		9 Harmony with Nature
+		9 Thassa's Tideshaper
+		9 Benthalos of Land and Sea
+		9 Orestes, Heroic Scoundrel
+		9 Raksolcs Ravage-Soul
+		9 Molpadia, the Last Acephali
+		9 Lykaretos, Harvest's Bounty
+		9 Pero, Puppet of Erebos
+		9 Timedrinker the Bleached
+		9 Biaas the Poison Drinker
+		9 Elektes, First King of Akros
+		9 Zale, Titanohunter
+		9 Implacable Shrine-Guard
+		9 Tidelock Pearl
+		9 Shrine to Athreos
+		9 Shrine to Ephara
+		9 Shrine to Iroas
+		9 Shrine to Karametra
+		9 Shrine to Keranos
+		9 Shrine to Klothys
+		9 Shrine to Kruphix
+		9 Shrine to Mogis
+		9 Shrine to Pharika
+		9 Shrine to Phenax
+		9 Garden of Shrines
+		9 Ordeal of Athreos
+		9 Ordeal of Ephara
+		9 Ordeal of Pharika
+		9 Ordeal of Karda
+		9 Ordeal of Karametra
+		9 Erase from Reality
+		9 Agent of Deception
+		9 Gray Merchant of Asphodel
+		9 Nylea's Call
+		9 Terror of Olantin
+		9 Travel Through the Mystic Sea
+		9 Bringer of Heliod's Light
+		9 Life Begins Anew
+		9 Ashlands Phoenix
+		9 Archon of the Legion
+		9 Charging Brightmare
+		9 Lurking Vyrkolakas
+		9 Belief-Belying Beast
+		9 Tide's Ire
+		[CommonSlot(10)]
+	30 Sunbeam Alseid
+		30 Traxian Strategos
+		30 New Recruit
+		30 Alseid of Stilled Hearts
+		30 Daybreak Rider
+		30 Traxian Calvary
+		30 Skophos Warden
+		30 Walk the Dead's Path
+		30 Tyranny of Trax
+		30 Marble Philosopher
+		30 Olantin Stalwart
+		30 Traxian Hoplite
+		30 Gods Willing
+		30 Charming Siren
+		30 Melancholic Oracle
+		30 Meeting of the Minds
+		30 Mentor of the Dakra Isles
+		30 Olantin Emissary
+		30 Dakran Shipcrusher
+		30 Warden of the Deep-Dwelling
+		30 Fathomless Dominion
+		30 Divine Mishap
+		30 Kraken Hatchling
+		30 Thassa's Caress
+		30 Odunos Smuggler
+		30 Possibility Savant
+		30 Secluded Gorgon
+		30 Hekatan Demagogue
+		30 Reaper Archon
+		30 Stoic Phylaskia
+		30 Remnant of Zakros
+		30 Xarr's Mockery
+		30 Isolated Misery
+		30 Nurture the Future
+		30 Skophos Conqueror
+		30 Split-Hair Asp
+		30 Hero in the Making
+		30 Eidolon of Empty Thoughts
+		30 Anvilwrought Lion
+		30 Mogis's Raider
+		30 Seismic Chimera
+		30 Rally the Hoplites
+		30 Guardians of Zakros
+		30 Speaker of the Lightning
+		30 Punishment from Nyx
+		30 Fall from Nyx
+		30 Reply to the Call
+		30 Heedless Cruelty
+		30 Thrice-Blessed Boon
+		30 Aegis Assault
+		30 Revel Watchguard
+		30 Dryad of the Keen-Eyed
+		30 Reaper of Fields
+		30 Pidae Raider
+		30 Caller of Ferocity
+		30 Inkblooded Basilisk
+		30 Centaur Mentor
+		30 Pheres-Band Huntmaster
+		30 Slumbering Serpent
+		30 Thundering Serpent
+		30 Weave Destiny
+		30 Punch Out of the Sky
+		30 Midsummer Dream
+		30 Zakros General
+		30 Imposing Serpent
+		30 Colossus of Trax
+		30 Temple of Deceit
+		30 Temple of Abandon
+		30 Temple of Mystery
+		30 Temple of Malice
+		30 Temple of Plenty
+		30 Temple of Silence
+		30 Temple of Epiphany
+		30 Temple of Triumph
+		30 Temple of Enlightenment
+		30 Temple of Malady
+		30 Shrine to Those Forgotten
+		30 Omen of Victory
+		30 Omen of Deception
+		30 Omen of Slaughter
+		30 Omen of Storms
+		30 Omen of Horizons
+		30 Karda's Emmisary
+		30 Traveler's Amulet
+		30 Anvilwrought Crane
+		30 Chromatic Hart
+		30 Leonin Hoplite
+		30 Terramorphic Expanse
+		30 Read the Tides
+		30 Shatter the Reflection
+		30 Fight the Tides
+		30 Arasta's Burden
+		30 Monstrous Challenge
+		30 Flame Lash
+		30 Fall into the Underworld
+		30 Agent of Pharika
+		30 Rite of Venom
+		30 Nyxborn Retriever
+		30 Plead to Erebos
+		30 Poisoned Strike
+		30 Shoreline Crasher
+		30 Ebb and Flow
+		30 Misbegotten Aims
+		30 Leonin Phalanx
+		30 Spear of the Sun-Crowned
+		30 Traxian General
+		30 Dedicated Charge
+		30 Ephara's Messenger
+		30 Zodiac Griffin
+		30 Coward-Eater
+		30 Skophos Trainee
+		30 Clash of the Titans
+		30 Soul-Guide Lantern
+		30 Momentary Petrification
+		30 Grim Physician
+		30 Arena Champion
+		30 Pull of Tizerus
+		

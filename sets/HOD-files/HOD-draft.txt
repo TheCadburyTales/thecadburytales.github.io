@@ -1,0 +1,3350 @@
+﻿[CustomCards]
+	[	{
+			"name": "Imani Whitaker",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/12_Imani Whitaker.png"
+			}
+		},
+		{
+			"name": "Turnberry Scout",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Soldier Scout ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/108_Turnberry Scout.png"
+			}
+		},
+		{
+			"name": "Caryl Rey, the Rose",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/123_Caryl Rey, the Rose.png"
+			}
+		},
+		{
+			"name": "Ranulf, the Seed of Sapner",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Azra Knight ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/174_Ranulf, the Seed of Sapner.png"
+			}
+		},
+		{
+			"name": "Takers of Voice",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}{B}",
+			"type": "Creature — Faerie Wizard ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/238_Takers of Voice.png"
+			}
+		},
+		{
+			"name": "Bistra Sapner, the Tide",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}{R}",
+			"type": "Legendary Creature — Azra Wizard ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/219_Bistra Sapner, the Tide.png"
+			}
+		},
+		{
+			"name": "Bennet Terrel, the High King",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/218_Bennet Terrel, the High King.png"
+			}
+		},
+		{
+			"name": "Marilye, Heirloom Pilferer",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Planeswalker — Marilye ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/59_Marilye, Heirloom Pilferer.png"
+			}
+		},
+		{
+			"name": "Claes, Wandering Alone",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Planeswalker — Haubay ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/189_Claes, Wandering Alone.png"
+			}
+		},
+		{
+			"name": "Capac Suyay, Grim Seeker",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Planeswalker — Suyay ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/200_Capac Suyay, Grim Seeker.png"
+			}
+		},
+		{
+			"name": "Geistwald Retainer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Ouphe Shaman ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/167_Geistwald Retainer.png"
+			}
+		},
+		{
+			"name": "Waldemar, Forgotten Heir",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}",
+			"type": "Legendary Creature — Elf Noble ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/113_Waldemar, Forgotten Heir_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/HOD-files/img/113_Waldemar, Forgotten Heir_back.png"
+				}
+			}
+		},
+		{
+			"name": "The Aciesblade",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Artifact",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/1_The Aciesblade.png"
+			}
+		},
+		{
+			"name": "Thorough Conflagration",
+			"rarity": "mythic",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/146_Thorough Conflagration.png"
+			}
+		},
+		{
+			"name": "Elric Nye, the Pirate King",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Legendary Creature — Human Pirate ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/225_Elric Nye, the Pirate King.png"
+			}
+		},
+		{
+			"name": "Edith Rey the Just",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/224_Edith Rey the Just.png"
+			}
+		},
+		{
+			"name": "Delora Vance, Lord of Laughs",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Elf Warlock ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/221_Delora Vance, Lord of Laughs.png"
+			}
+		},
+		{
+			"name": "Geistwald Kraken",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Kraken Horror ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/50_Geistwald Kraken.png"
+			}
+		},
+		{
+			"name": "On the Knife's Edge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/95_On the Knife's Edge.png"
+			}
+		},
+		{
+			"name": "Blade of Heart and Soul",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/241_Blade of Heart and Soul.png"
+			}
+		},
+		{
+			"name": "Castle on the Delta",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/250_Castle on the Delta.png"
+			}
+		},
+		{
+			"name": "Fort Sapner",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/252_Fort Sapner.png"
+			}
+		},
+		{
+			"name": "Hall of Graven Laughs",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/253_Hall of Graven Laughs.png"
+			}
+		},
+		{
+			"name": "Kings Rock Castle",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/254_Kings Rock Castle.png"
+			}
+		},
+		{
+			"name": "Skyspire Keep",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/256_Skyspire Keep.png"
+			}
+		},
+		{
+			"name": "The Crown of Skyspire",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/220_The Crown of Skyspire.png"
+			}
+		},
+		{
+			"name": "Dirt to Flesh",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Instant",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/222_Dirt to Flesh.png"
+			}
+		},
+		{
+			"name": "Frenzied Lunge",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/227_Frenzied Lunge.png"
+			}
+		},
+		{
+			"name": "Virulent Hexer",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Creature — Hag Warlock ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/239_Virulent Hexer.png"
+			}
+		},
+		{
+			"name": "Leon's Claim",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/231_Leon's Claim.png"
+			}
+		},
+		{
+			"name": "Weight of War",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Enchamtnet — Aura Curse",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/240_Weight of War.png"
+			}
+		},
+		{
+			"name": "Radcliff Dragoncaller",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/209_Radcliff Dragoncaller.png"
+			}
+		},
+		{
+			"name": "Royal Seeker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Faerie Rogue ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/194_Royal Seeker.png"
+			}
+		},
+		{
+			"name": "Rule from Afar",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/203_Rule from Afar.png"
+			}
+		},
+		{
+			"name": "Proof of Divinity",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Instant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/205_Proof of Divinity.png"
+			}
+		},
+		{
+			"name": "Appeal to Ancestry",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/216_Appeal to Ancestry.png"
+			}
+		},
+		{
+			"name": "Explore the Great Unknown",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/226_Explore the Great Unknown.png"
+			}
+		},
+		{
+			"name": "Extravagent Airship",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/243_Extravagent Airship.png"
+			}
+		},
+		{
+			"name": "Important Parcel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/245_Important Parcel.png"
+			}
+		},
+		{
+			"name": "Slabman Stoneplate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/246_Slabman Stoneplate.png"
+			}
+		},
+		{
+			"name": "Clearing in the Glade",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/251_Clearing in the Glade.png"
+			}
+		},
+		{
+			"name": "Overflowing Sanctuary",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/255_Overflowing Sanctuary.png"
+			}
+		},
+		{
+			"name": "Dreadship Vessel",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/242_Dreadship Vessel.png"
+			}
+		},
+		{
+			"name": "Hulking Vessel",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/244_Hulking Vessel.png"
+			}
+		},
+		{
+			"name": "War Map",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Clue ",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/247_War Map.png"
+			}
+		},
+		{
+			"name": "Wealthy Slabman",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Gargoyle Knight ",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/248_Wealthy Slabman.png"
+			}
+		},
+		{
+			"name": "Writ of Supplies",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/249_Writ of Supplies.png"
+			}
+		},
+		{
+			"name": "Terramorphic Expanse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/257_Terramorphic Expanse.png"
+			}
+		},
+		{
+			"name": "Campsite Bard",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Kithkin Bard ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/158_Campsite Bard.png"
+			}
+		},
+		{
+			"name": "Geistwald Deceiver",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Ouphe Rogue ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/129_Geistwald Deceiver.png"
+			}
+		},
+		{
+			"name": "Captivating Merfolk",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Scout ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/44_Captivating Merfolk.png"
+			}
+		},
+		{
+			"name": "Sapner Cavalry",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Creature — Human Knight Army ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/234_Sapner Cavalry.png"
+			}
+		},
+		{
+			"name": "House Rivers Escorter",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Orc Rogue ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/11_House Rivers Escorter.png"
+			}
+		},
+		{
+			"name": "Nye Informant",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Faerie Assassin ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/94_Nye Informant.png"
+			}
+		},
+		{
+			"name": "Elias Plaskett, the Hidden Blade",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Kithkin Rogue ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/192_Elias Plaskett, the Hidden Blade.png"
+			}
+		},
+		{
+			"name": "Oriel Rivers",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Angel Soldier ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/191_Oriel Rivers.png"
+			}
+		},
+		{
+			"name": "Dovizia Attwater",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Azra Noble ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/214_Dovizia Attwater.png"
+			}
+		},
+		{
+			"name": "Wulfric Hook",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/196_Wulfric Hook.png"
+			}
+		},
+		{
+			"name": "Foliage Decoy",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/163_Foliage Decoy.png"
+			}
+		},
+		{
+			"name": "Callous Commander",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Elf Warlock ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/79_Callous Commander.png"
+			}
+		},
+		{
+			"name": "Leon Terrel, Unspoken Heir",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Knight ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/18_Leon Terrel, Unspoken Heir.png"
+			}
+		},
+		{
+			"name": "Gosfridus Turnberry",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Ouphe Knight ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/211_Gosfridus Turnberry.png"
+			}
+		},
+		{
+			"name": "Wilmot Nye, the Crafty",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Pirate Noble ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/76_Wilmot Nye, the Crafty.png"
+			}
+		},
+		{
+			"name": "Thugs at Graven Laughs",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Kithkin Pirate ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/72_Thugs at Graven Laughs.png"
+			}
+		},
+		{
+			"name": "Herald of Storms",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Elemental Dragon ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/132_Herald of Storms.png"
+			}
+		},
+		{
+			"name": "Call to War",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/3_Call to War.png"
+			}
+		},
+		{
+			"name": "Geistwald Amalgam",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Hydra Mutant ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/165_Geistwald Amalgam.png"
+			}
+		},
+		{
+			"name": "William's Epiphany",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/150_William's Epiphany.png"
+			}
+		},
+		{
+			"name": "Blazing Phoenix",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Phoenix ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/122_Blazing Phoenix.png"
+			}
+		},
+		{
+			"name": "Regal Lion",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Cat ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/24_Regal Lion.png"
+			}
+		},
+		{
+			"name": "Inquisitive Otter",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Otter ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/54_Inquisitive Otter.png"
+			}
+		},
+		{
+			"name": "Thriving Hyena",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Hyena ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/105_Thriving Hyena.png"
+			}
+		},
+		{
+			"name": "Quirky Chameleon",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Lizard ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/173_Quirky Chameleon.png"
+			}
+		},
+		{
+			"name": "Luminous Distraction",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/19_Luminous Distraction.png"
+			}
+		},
+		{
+			"name": "Petula Vance, the Solemn Joke",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Elf Noble ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/97_Petula Vance, the Solemn Joke.png"
+			}
+		},
+		{
+			"name": "Scorched Earth",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/27_Scorched Earth.png"
+			}
+		},
+		{
+			"name": "Mirrorkins Bargain",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/60_Mirrorkins Bargain.png"
+			}
+		},
+		{
+			"name": "Grasp of the Mirrorkin",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/53_Grasp of the Mirrorkin.png"
+			}
+		},
+		{
+			"name": "Closure",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/81_Closure.png"
+			}
+		},
+		{
+			"name": "Taken By House Vance",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/103_Taken By House Vance.png"
+			}
+		},
+		{
+			"name": "Standoff at Beachside",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/144_Standoff at Beachside.png"
+			}
+		},
+		{
+			"name": "Battle for the Aciesblade",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/157_Battle for the Aciesblade.png"
+			}
+		},
+		{
+			"name": "Minna Radcliff, the Swift",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{R}",
+			"type": "Legendary Creature — Human Knight ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/208_Minna Radcliff, the Swift.png"
+			}
+		},
+		{
+			"name": "The Empty Throne",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Artifact",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/198_The Empty Throne.png"
+			}
+		},
+		{
+			"name": "Conrad Whitaker, Protector",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Knight ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/204_Conrad Whitaker, Protector.png"
+			}
+		},
+		{
+			"name": "Roul Banefort, the Stern",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Azra Knight ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/202_Roul Banefort, the Stern.png"
+			}
+		},
+		{
+			"name": "Alger Perle, Lord of Truetower",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Orc Knight ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/212_Alger Perle, Lord of Truetower.png"
+			}
+		},
+		{
+			"name": "Succession Scandal",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/237_Succession Scandal.png"
+			}
+		},
+		{
+			"name": "Meeting of Powers",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Instant",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/232_Meeting of Powers.png"
+			}
+		},
+		{
+			"name": "Inspiring Warsworn",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/230_Inspiring Warsworn.png"
+			}
+		},
+		{
+			"name": "Drown in Wealth",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{U}{B}",
+			"type": "Instant",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/223_Drown in Wealth.png"
+			}
+		},
+		{
+			"name": "Arbiter of the Meek",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Creature — Angel Soldier ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/217_Arbiter of the Meek.png"
+			}
+		},
+		{
+			"name": "Noble Griffin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Griffin ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/21_Noble Griffin.png"
+			}
+		},
+		{
+			"name": "Enduring Turtle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Turtle ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/47_Enduring Turtle.png"
+			}
+		},
+		{
+			"name": "Tacit Scorpion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Scorpion ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/102_Tacit Scorpion.png"
+			}
+		},
+		{
+			"name": "Catastrophic Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/124_Catastrophic Dragon.png"
+			}
+		},
+		{
+			"name": "Robust Oxen",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Ox ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/179_Robust Oxen.png"
+			}
+		},
+		{
+			"name": "Ardleby Hold",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/273_Ardleby Hold.png"
+			}
+		},
+		{
+			"name": "Beachside Castle",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/274_Beachside Castle.png"
+			}
+		},
+		{
+			"name": "Castle of Death's Sting",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/275_Castle of Death's Sting.png"
+			}
+		},
+		{
+			"name": "Castle of Shrouded Coasts",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/276_Castle of Shrouded Coasts.png"
+			}
+		},
+		{
+			"name": "Cloudkissed Keep",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/277_Cloudkissed Keep.png"
+			}
+		},
+		{
+			"name": "Hall of Flowing Streams",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/278_Hall of Flowing Streams.png"
+			}
+		},
+		{
+			"name": "Riverdale Fortress",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/279_Riverdale Fortress.png"
+			}
+		},
+		{
+			"name": "Sandrock Castle",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/280_Sandrock Castle.png"
+			}
+		},
+		{
+			"name": "Truetower Castle",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/281_Truetower Castle.png"
+			}
+		},
+		{
+			"name": "Turnberry Citadel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/282_Turnberry Citadel.png"
+			}
+		},
+		{
+			"name": "Attwater Sigil",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/258_Attwater Sigil.png"
+			}
+		},
+		{
+			"name": "Banefort Sigil",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/259_Banefort Sigil.png"
+			}
+		},
+		{
+			"name": "Hook Sigil",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/260_Hook Sigil.png"
+			}
+		},
+		{
+			"name": "Nye Sigil",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/261_Nye Sigil.png"
+			}
+		},
+		{
+			"name": "Perle Sigil",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/262_Perle Sigil.png"
+			}
+		},
+		{
+			"name": "Phyre Sigil",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/263_Phyre Sigil.png"
+			}
+		},
+		{
+			"name": "Plaskett Sigil",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/264_Plaskett Sigil.png"
+			}
+		},
+		{
+			"name": "Radcliff Sigil",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/265_Radcliff Sigil.png"
+			}
+		},
+		{
+			"name": "Rey Sigil",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/266_Rey Sigil.png"
+			}
+		},
+		{
+			"name": "Rivers Sigil",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/267_Rivers Sigil.png"
+			}
+		},
+		{
+			"name": "Sapner Sigil",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/268_Sapner Sigil.png"
+			}
+		},
+		{
+			"name": "Terrel Sigil",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/269_Terrel Sigil.png"
+			}
+		},
+		{
+			"name": "Turnberry Sigil",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/270_Turnberry Sigil.png"
+			}
+		},
+		{
+			"name": "Vance Sigil",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/271_Vance Sigil.png"
+			}
+		},
+		{
+			"name": "Whitaker Sigil",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/272_Whitaker Sigil.png"
+			}
+		},
+		{
+			"name": "Terrel Battlemage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Gargoyle Knight ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/29_Terrel Battlemage.png"
+			}
+		},
+		{
+			"name": "Wystan Terrel, the Occultist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/37_Wystan Terrel, the Occultist.png"
+			}
+		},
+		{
+			"name": "Lodema, Diamond of the Nye",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Pirate ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/56_Lodema, Diamond of the Nye.png"
+			}
+		},
+		{
+			"name": "Nye Battlemage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Pirate ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/62_Nye Battlemage.png"
+			}
+		},
+		{
+			"name": "Alder, Vances Claw",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Elf Soldier ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/77_Alder, Vances Claw.png"
+			}
+		},
+		{
+			"name": "Vance Battlemage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Gargoyle Knight ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/109_Vance Battlemage.png"
+			}
+		},
+		{
+			"name": "Rey Battlemage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Orc Soldier ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/140_Rey Battlemage.png"
+			}
+		},
+		{
+			"name": "William Rey, Lover to All",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/149_William Rey, Lover to All.png"
+			}
+		},
+		{
+			"name": "Fulchard Sapner, Gentle Giant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Azra Knight ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/164_Fulchard Sapner, Gentle Giant.png"
+			}
+		},
+		{
+			"name": "Sapner Battlemage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Satyr Druid ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/180_Sapner Battlemage.png"
+			}
+		},
+		{
+			"name": "Travelcart Supplier",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Peasant ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/206_Travelcart Supplier.png"
+			}
+		},
+		{
+			"name": "Sapner Warsworn",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Creature — Kithkin Bard Soldier ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/235_Sapner Warsworn.png"
+			}
+		},
+		{
+			"name": "Plaskett Headhunter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Kithkin Rogue ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/193_Plaskett Headhunter.png"
+			}
+		},
+		{
+			"name": "Highborn Sovereign",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Creature — Human Knight Noble ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/228_Highborn Sovereign.png"
+			}
+		},
+		{
+			"name": "Heart of Banefort",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Creature — Azra Druid ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/201_Heart of Banefort.png"
+			}
+		},
+		{
+			"name": "Flame of Radcliff",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Kithkin Wizard ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/207_Flame of Radcliff.png"
+			}
+		},
+		{
+			"name": "Artillery Shot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Instant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/197_Artillery Shot.png"
+			}
+		},
+		{
+			"name": "Sacrificial Lunge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Instant",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/195_Sacrificial Lunge.png"
+			}
+		},
+		{
+			"name": "Kirsa Perle, the Sword of Perle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Orc Soldier ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/213_Kirsa Perle, the Sword of Perle.png"
+			}
+		},
+		{
+			"name": "Petty Negotiations",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/215_Petty Negotiations.png"
+			}
+		},
+		{
+			"name": "Citadel Loyalist",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Zombie Soldier ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/210_Citadel Loyalist.png"
+			}
+		},
+		{
+			"name": "Monarch-Wing Retainer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Faerie Soldier ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/190_Monarch-Wing Retainer.png"
+			}
+		},
+		{
+			"name": "Succumb to History",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/199_Succumb to History.png"
+			}
+		},
+		{
+			"name": "Trust in the Future",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/35_Trust in the Future.png"
+			}
+		},
+		{
+			"name": "Knighted",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/134_Knighted.png"
+			}
+		},
+		{
+			"name": "Patrol the Geistwald",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/172_Patrol the Geistwald.png"
+			}
+		},
+		{
+			"name": "Turnberry Overseer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Zombie Knight ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/187_Turnberry Overseer.png"
+			}
+		},
+		{
+			"name": "Whitaker Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/36_Whitaker Captain.png"
+			}
+		},
+		{
+			"name": "Necrotic Pactmage",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Azra Warlock ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/93_Necrotic Pactmage.png"
+			}
+		},
+		{
+			"name": "Plaskett Trickster",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Kithkin Rogue Wizard ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/66_Plaskett Trickster.png"
+			}
+		},
+		{
+			"name": "Plaskett Barber",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Assassin ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/99_Plaskett Barber.png"
+			}
+		},
+		{
+			"name": "Nye Charlatans",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Pirate ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/22_Nye Charlatans.png"
+			}
+		},
+		{
+			"name": "Binding Lightning",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/121_Binding Lightning.png"
+			}
+		},
+		{
+			"name": "Barroom Bout",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/156_Barroom Bout.png"
+			}
+		},
+		{
+			"name": "Impulsive Replication",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/133_Impulsive Replication.png"
+			}
+		},
+		{
+			"name": "Hoist from Death",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/90_Hoist from Death.png"
+			}
+		},
+		{
+			"name": "Facestealing Mirrorkin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/49_Facestealing Mirrorkin.png"
+			}
+		},
+		{
+			"name": "Sapner Elite",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Azra Wizard ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/69_Sapner Elite.png"
+			}
+		},
+		{
+			"name": "Sapner Geomancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Gargoyle Wizard ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/142_Sapner Geomancer.png"
+			}
+		},
+		{
+			"name": "Cloudkissed Accorder",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Azra Knight ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/161_Cloudkissed Accorder.png"
+			}
+		},
+		{
+			"name": "Grab and Go",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/51_Grab and Go.png"
+			}
+		},
+		{
+			"name": "Read the Wingbeats",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/67_Read the Wingbeats.png"
+			}
+		},
+		{
+			"name": "Royal Send-Off",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/68_Royal Send-Off.png"
+			}
+		},
+		{
+			"name": "Beginning of a Grand Heist",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/42_Beginning of a Grand Heist.png"
+			}
+		},
+		{
+			"name": "The Call to Adventure",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/43_The Call to Adventure.png"
+			}
+		},
+		{
+			"name": "Left to Wander",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/17_Left to Wander.png"
+			}
+		},
+		{
+			"name": "Travelcart Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Orc Knight ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/33_Travelcart Guardian.png"
+			}
+		},
+		{
+			"name": "Tithe to the King",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/32_Tithe to the King.png"
+			}
+		},
+		{
+			"name": "Travelcarts Care",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/34_Travelcarts Care.png"
+			}
+		},
+		{
+			"name": "Catharsis of Grief",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/80_Catharsis of Grief.png"
+			}
+		},
+		{
+			"name": "Deadly Interrogation",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/83_Deadly Interrogation.png"
+			}
+		},
+		{
+			"name": "Massacre at Ardleby",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/92_Massacre at Ardleby.png"
+			}
+		},
+		{
+			"name": "Vance Soulsapper",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Faerie Warlock ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/112_Vance Soulsapper.png"
+			}
+		},
+		{
+			"name": "Gaze Upon Greatness",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/128_Gaze Upon Greatness.png"
+			}
+		},
+		{
+			"name": "Raving Bomber",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Kithkin Rogue ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/139_Raving Bomber.png"
+			}
+		},
+		{
+			"name": "Torch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/147_Torch.png"
+			}
+		},
+		{
+			"name": "Truetower Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Orc Soldier ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/148_Truetower Warden.png"
+			}
+		},
+		{
+			"name": "Nurture",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/171_Nurture.png"
+			}
+		},
+		{
+			"name": "Scars of Wars Past",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/183_Scars of Wars Past.png"
+			}
+		},
+		{
+			"name": "Turnberry Mediator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Gargoyle Knight ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/186_Turnberry Mediator.png"
+			}
+		},
+		{
+			"name": "Wilderness Training",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/188_Wilderness Training.png"
+			}
+		},
+		{
+			"name": "Nye Buccaneer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Creature — Orc Pirate ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/233_Nye Buccaneer.png"
+			}
+		},
+		{
+			"name": "Highguard of the Delta",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Creature — Gargoyle Soldier ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/229_Highguard of the Delta.png"
+			}
+		},
+		{
+			"name": "Serene Meditations",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Instant",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/236_Serene Meditations.png"
+			}
+		},
+		{
+			"name": "Call of the King",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/2_Call of the King.png"
+			}
+		},
+		{
+			"name": "Castle Delta Lookout",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Orc Pirate Scout ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/4_Castle Delta Lookout.png"
+			}
+		},
+		{
+			"name": "Charitable Faerie",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Faerie Cleric ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/5_Charitable Faerie.png"
+			}
+		},
+		{
+			"name": "Rouls High Guard",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Azra Soldier ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/26_Rouls High Guard.png"
+			}
+		},
+		{
+			"name": "Cloudkissed Squire",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Kithkin Knight ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/6_Cloudkissed Squire.png"
+			}
+		},
+		{
+			"name": "Give Penance",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/7_Give Penance.png"
+			}
+		},
+		{
+			"name": "Glimpse",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/8_Glimpse.png"
+			}
+		},
+		{
+			"name": "Honored Eagle",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/9_Honored Eagle.png"
+			}
+		},
+		{
+			"name": "Hopeful Spouse",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Peasant ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/10_Hopeful Spouse.png"
+			}
+		},
+		{
+			"name": "Impaling Lance",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/13_Impaling Lance.png"
+			}
+		},
+		{
+			"name": "Kings Rock Warden",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/14_Kings Rock Warden.png"
+			}
+		},
+		{
+			"name": "Kirsas Page",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Orc Bard ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/15_Kirsas Page.png"
+			}
+		},
+		{
+			"name": "Knight of Skyspire",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/16_Knight of Skyspire.png"
+			}
+		},
+		{
+			"name": "Overcoming Squire",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/23_Overcoming Squire.png"
+			}
+		},
+		{
+			"name": "Rivers Scoundrel",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Kithkin Rogue ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/25_Rivers Scoundrel.png"
+			}
+		},
+		{
+			"name": "Take Root",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/28_Take Root.png"
+			}
+		},
+		{
+			"name": "Terrel Emissary",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/30_Terrel Emissary.png"
+			}
+		},
+		{
+			"name": "Terrel Recruit",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Gargoyle Soldier ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/31_Terrel Recruit.png"
+			}
+		},
+		{
+			"name": "Wystans Page",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Kithkin Knight Wizard ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/38_Wystans Page.png"
+			}
+		},
+		{
+			"name": "Aerial Interceptor",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Faerie Rogue ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/39_Aerial Interceptor.png"
+			}
+		},
+		{
+			"name": "Artful Warsworn",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/40_Artful Warsworn.png"
+			}
+		},
+		{
+			"name": "Attwater Drakerider",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Azra Knight ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/41_Attwater Drakerider.png"
+			}
+		},
+		{
+			"name": "Devious Sellsword",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Pirate ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/45_Devious Sellsword.png"
+			}
+		},
+		{
+			"name": "Disappointment",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/46_Disappointment.png"
+			}
+		},
+		{
+			"name": "Evertuning Crane",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Horror ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/48_Evertuning Crane.png"
+			}
+		},
+		{
+			"name": "Grand Snail Race at Riverdale",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/52_Grand Snail Race at Riverdale.png"
+			}
+		},
+		{
+			"name": "Kidnapping",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/55_Kidnapping.png"
+			}
+		},
+		{
+			"name": "Lost at Sea",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/57_Lost at Sea.png"
+			}
+		},
+		{
+			"name": "Lucky Break",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/58_Lucky Break.png"
+			}
+		},
+		{
+			"name": "Naval Diplomacy",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/61_Naval Diplomacy.png"
+			}
+		},
+		{
+			"name": "Nye Recruit",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Pirate Scout ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/63_Nye Recruit.png"
+			}
+		},
+		{
+			"name": "Pilferer of Shrouded Coasts",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/64_Pilferer of Shrouded Coasts.png"
+			}
+		},
+		{
+			"name": "Plaskett Informer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Kithkin Scout ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/65_Plaskett Informer.png"
+			}
+		},
+		{
+			"name": "Secluded Arachnomorph",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Spider Horror ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/70_Secluded Arachnomorph.png"
+			}
+		},
+		{
+			"name": "Tavern Dealings",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/71_Tavern Dealings.png"
+			}
+		},
+		{
+			"name": "Town Busybody",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Faerie Peasant ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/73_Town Busybody.png"
+			}
+		},
+		{
+			"name": "Under the Cover of Ravens",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/74_Under the Cover of Ravens.png"
+			}
+		},
+		{
+			"name": "Vance Devotee",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elf Warlock ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/75_Vance Devotee.png"
+			}
+		},
+		{
+			"name": "Blessing at Graven Laughs",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/78_Blessing at Graven Laughs.png"
+			}
+		},
+		{
+			"name": "Creeping Mindreaper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elf Assassin ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/82_Creeping Mindreaper.png"
+			}
+		},
+		{
+			"name": "Debt Collection",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/84_Debt Collection.png"
+			}
+		},
+		{
+			"name": "Duplicitous Crow",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Bird Horror ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/86_Duplicitous Crow.png"
+			}
+		},
+		{
+			"name": "Edict of the Mirrorkin",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/87_Edict of the Mirrorkin.png"
+			}
+		},
+		{
+			"name": "Fleshborne Horror",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Horror Knight ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/88_Fleshborne Horror.png"
+			}
+		},
+		{
+			"name": "Footmen of Deaths Sting",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Kithkin Soldier ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/89_Footmen of Deaths Sting.png"
+			}
+		},
+		{
+			"name": "Dishonorable End",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/85_Dishonorable End.png"
+			}
+		},
+		{
+			"name": "Jump Scared",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/91_Jump Scared.png"
+			}
+		},
+		{
+			"name": "Overt Warning",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/96_Overt Warning.png"
+			}
+		},
+		{
+			"name": "Plaskett Assassin",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Kithkin Assassin ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/98_Plaskett Assassin.png"
+			}
+		},
+		{
+			"name": "Sever the Legacy",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/100_Sever the Legacy.png"
+			}
+		},
+		{
+			"name": "Supernatural Stamina",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/101_Supernatural Stamina.png"
+			}
+		},
+		{
+			"name": "Terrel Stalwart",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Orc Knight ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/104_Terrel Stalwart.png"
+			}
+		},
+		{
+			"name": "Torrent of Destruction",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/106_Torrent of Destruction.png"
+			}
+		},
+		{
+			"name": "Turnberry Legionnaire",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Knight ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/107_Turnberry Legionnaire.png"
+			}
+		},
+		{
+			"name": "Vance Mentor",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elf Warlock ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/110_Vance Mentor.png"
+			}
+		},
+		{
+			"name": "Vance Recruit",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elf Warrior ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/111_Vance Recruit.png"
+			}
+		},
+		{
+			"name": "Whitaker Cavalry",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/114_Whitaker Cavalry.png"
+			}
+		},
+		{
+			"name": "Skyspire Infantry",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Gargoyle Knight ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/143_Skyspire Infantry.png"
+			}
+		},
+		{
+			"name": "Ancestral Anger",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/115_Ancestral Anger.png"
+			}
+		},
+		{
+			"name": "Ardleby Gatekeeper",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Spirit Soldier ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/117_Ardleby Gatekeeper.png"
+			}
+		},
+		{
+			"name": "Barroom Gossip",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Kithkin Bard Rogue ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/118_Barroom Gossip.png"
+			}
+		},
+		{
+			"name": "Battle Scars",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/119_Battle Scars.png"
+			}
+		},
+		{
+			"name": "Beckon Greatness",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/120_Beckon Greatness.png"
+			}
+		},
+		{
+			"name": "Deaths Sting Diplomacy",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/125_Deaths Sting Diplomacy.png"
+			}
+		},
+		{
+			"name": "Determination",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/126_Determination.png"
+			}
+		},
+		{
+			"name": "Doting Caress",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/127_Doting Caress.png"
+			}
+		},
+		{
+			"name": "Ardent Warsworn",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Kithkin Soldier ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/116_Ardent Warsworn.png"
+			}
+		},
+		{
+			"name": "Gleaming Courage",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/130_Gleaming Courage.png"
+			}
+		},
+		{
+			"name": "Hardy Bears",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Bear ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/131_Hardy Bears.png"
+			}
+		},
+		{
+			"name": "Petty Thief",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Ouphe Warrior ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/135_Petty Thief.png"
+			}
+		},
+		{
+			"name": "Phyre Sellsword",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Orc Rogue ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/137_Phyre Sellsword.png"
+			}
+		},
+		{
+			"name": "Puncturing Blow",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/138_Puncturing Blow.png"
+			}
+		},
+		{
+			"name": "Rey Recruit",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/141_Rey Recruit.png"
+			}
+		},
+		{
+			"name": "Phyre Champion",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Satyr Soldier ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/136_Phyre Champion.png"
+			}
+		},
+		{
+			"name": "Summer Tryst",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/145_Summer Tryst.png"
+			}
+		},
+		{
+			"name": "Williams Page",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Gargoyle Soldier ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/151_Williams Page.png"
+			}
+		},
+		{
+			"name": "Aggressive Urge",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/152_Aggressive Urge.png"
+			}
+		},
+		{
+			"name": "Ardleby Vanguard",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Satyr Knight ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/153_Ardleby Vanguard.png"
+			}
+		},
+		{
+			"name": "Attwater Explorer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Azra Knight Scout ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/154_Attwater Explorer.png"
+			}
+		},
+		{
+			"name": "Banefort Archer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Azra Archer Scout ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/155_Banefort Archer.png"
+			}
+		},
+		{
+			"name": "Cherrywood Purification",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/159_Cherrywood Purification.png"
+			}
+		},
+		{
+			"name": "Citadel Outrider",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Zombie Knight ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/160_Citadel Outrider.png"
+			}
+		},
+		{
+			"name": "Flowing Streams Tracker",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Kithkin Scout ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/162_Flowing Streams Tracker.png"
+			}
+		},
+		{
+			"name": "Guerrilla Ambush",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/168_Guerrilla Ambush.png"
+			}
+		},
+		{
+			"name": "House Negotiations",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/169_House Negotiations.png"
+			}
+		},
+		{
+			"name": "Master the Old Ways",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/170_Master the Old Ways.png"
+			}
+		},
+		{
+			"name": "Ready Response",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/175_Ready Response.png"
+			}
+		},
+		{
+			"name": "Replenishing Camp",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/176_Replenishing Camp.png"
+			}
+		},
+		{
+			"name": "Resolute Elk",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elk Spirit ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/177_Resolute Elk.png"
+			}
+		},
+		{
+			"name": "Revenge of the Geistwald",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/178_Revenge of the Geistwald.png"
+			}
+		},
+		{
+			"name": "Sapner Hunter",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Azra Archer ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/181_Sapner Hunter.png"
+			}
+		},
+		{
+			"name": "Sapner Recruit",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Kithkin Scout ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/182_Sapner Recruit.png"
+			}
+		},
+		{
+			"name": "Geistwald Explorer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Gargoyle Scout ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/166_Geistwald Explorer.png"
+			}
+		},
+		{
+			"name": "Spellwild Ouphe",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Ouphe ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/184_Spellwild Ouphe.png"
+			}
+		},
+		{
+			"name": "Tend to the Wounded",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/185_Tend to the Wounded.png"
+			}
+		},
+		{
+			"name": "Reserves-Black",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Reminder",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/2_Reserves-Black.png"
+			}
+		},
+		{
+			"name": "Reserves-Green",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Reminder",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/3_Reserves-Green.png"
+			}
+		},
+		{
+			"name": "Reserves White",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Reminder",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/1_Reserves White.png"
+			}
+		},
+		{
+			"name": "Intisuyus Armies",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/4_Intisuyus Armies.png"
+			}
+		},
+		{
+			"name": "Noble",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Noble ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/20_Noble.png"
+			}
+		},
+		{
+			"name": "The Occultist",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Human Wizard ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/5_The Occultist.png"
+			}
+		},
+		{
+			"name": "Dewold Pirate",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Pirate ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/6_Dewold Pirate.png"
+			}
+		},
+		{
+			"name": "Suyay's Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/7_Suyay's Soldier.png"
+			}
+		},
+		{
+			"name": "Dewold Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/8_Dewold Bird.png"
+			}
+		},
+		{
+			"name": "The Diamond of the Nye",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Human Pirate ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/9_The Diamond of the Nye.png"
+			}
+		},
+		{
+			"name": "Happy Scout",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Scout ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/10_Happy Scout.png"
+			}
+		},
+		{
+			"name": "Dewold Army",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Army ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/11_Dewold Army.png"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Horror ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/12_Horror.png"
+			}
+		},
+		{
+			"name": "Wane Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Knight ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/13_Wane Knight.png"
+			}
+		},
+		{
+			"name": "Vances Claw",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Elf Soldier ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/14_Vances Claw.png"
+			}
+		},
+		{
+			"name": "Lover to All",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Human Noble ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/15_Lover to All.png"
+			}
+		},
+		{
+			"name": "BadgerScout",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Scout ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/16_BadgerScout.png"
+			}
+		},
+		{
+			"name": "Old Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/17_Old Soldier.png"
+			}
+		},
+		{
+			"name": "Young Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/18_Young Soldier.png"
+			}
+		},
+		{
+			"name": "The Sword of Perle",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Orc Soldier ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/19_The Sword of Perle.png"
+			}
+		},
+		{
+			"name": "The Gentle Giant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Azra Knight ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/20_The Gentle Giant.png"
+			}
+		},
+		{
+			"name": "Protection-Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Knight ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/22_Protection-Knight.png"
+			}
+		},
+		{
+			"name": "Destroyed-Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Knight ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/21_Destroyed-Knight.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/23_Clue.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/24_Food.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/25_Treasure.png"
+			}
+		},
+		{
+			"name": "Weapon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/HOD-files/img/26_Weapon.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Caryl Rey, the Rose
+		2 Ranulf, the Seed of Sapner
+		2 Takers of Voice
+		2 Castle on the Delta
+		2 Fort Sapner
+		2 Hall of Graven Laughs
+		2 Kings Rock Castle
+		2 Skyspire Keep
+		2 The Crown of Skyspire
+		2 Dirt to Flesh
+		2 Frenzied Lunge
+		2 Virulent Hexer
+		2 Leon's Claim
+		2 Weight of War
+		2 Campsite Bard
+		2 Geistwald Deceiver
+		2 Captivating Merfolk
+		2 Sapner Cavalry
+		2 House Rivers Escorter
+		2 Nye Informant
+		2 Elias Plaskett, the Hidden Blade
+		2 Oriel Rivers
+		2 Dovizia Attwater
+		2 Wulfric Hook
+		2 Foliage Decoy
+		2 Callous Commander
+		2 Leon Terrel, Unspoken Heir
+		2 Gosfridus Turnberry
+		2 Wilmot Nye, the Crafty
+		2 Thugs at Graven Laughs
+		2 Herald of Storms
+		2 Call to War
+		2 Geistwald Amalgam
+		2 William's Epiphany
+		2 Blazing Phoenix
+		2 Regal Lion
+		2 Inquisitive Otter
+		2 Thriving Hyena
+		2 Quirky Chameleon
+		2 Luminous Distraction
+		2 Petula Vance, the Solemn Joke
+		2 Scorched Earth
+		2 Mirrorkins Bargain
+		2 Grasp of the Mirrorkin
+		2 Taken By House Vance
+		2 Standoff at Beachside
+		2 Battle for the Aciesblade
+		2 Minna Radcliff, the Swift
+		2 The Empty Throne
+		2 Conrad Whitaker, Protector
+		2 Roul Banefort, the Stern
+		2 Alger Perle, Lord of Truetower
+		2 Succession Scandal
+		2 Meeting of Powers
+		2 Inspiring Warsworn
+		2 Drown in Wealth
+		2 Arbiter of the Meek
+		2 Necrotic Pactmage
+		2 Highguard of the Delta
+		2 Serene Meditations
+		1 Bistra Sapner, the Tide
+		1 Bennet Terrel, the High King
+		1 Marilye, Heirloom Pilferer
+		1 Claes, Wandering Alone
+		1 Capac Suyay, Grim Seeker
+		1 Geistwald Retainer
+		1 Waldemar, Forgotten Heir
+		1 The Aciesblade
+		1 Thorough Conflagration
+		1 Elric Nye, the Pirate King
+		1 Edith Rey the Just
+		1 Delora Vance, Lord of Laughs
+		1 Geistwald Kraken
+		1 Blade of Heart and Soul
+		1 Closure
+		[UncommonSlot(3)]
+	9 Imani Whitaker
+		9 Turnberry Scout
+		9 On the Knife's Edge
+		9 Radcliff Dragoncaller
+		9 Royal Seeker
+		9 Rule from Afar
+		9 Proof of Divinity
+		9 Appeal to Ancestry
+		9 Explore the Great Unknown
+		9 Extravagent Airship
+		9 Important Parcel
+		9 Slabman Stoneplate
+		9 Clearing in the Glade
+		9 Overflowing Sanctuary
+		9 Noble Griffin
+		9 Enduring Turtle
+		9 Tacit Scorpion
+		9 Catastrophic Dragon
+		9 Robust Oxen
+		9 Terrel Battlemage
+		9 Wystan Terrel, the Occultist
+		9 Lodema, Diamond of the Nye
+		9 Nye Battlemage
+		9 Alder, Vances Claw
+		9 Vance Battlemage
+		9 Rey Battlemage
+		9 William Rey, Lover to All
+		9 Fulchard Sapner, Gentle Giant
+		9 Sapner Battlemage
+		9 Travelcart Supplier
+		9 Sapner Warsworn
+		9 Plaskett Headhunter
+		9 Highborn Sovereign
+		9 Heart of Banefort
+		9 Flame of Radcliff
+		9 Artillery Shot
+		9 Sacrificial Lunge
+		9 Kirsa Perle, the Sword of Perle
+		9 Petty Negotiations
+		9 Citadel Loyalist
+		9 Monarch-Wing Retainer
+		9 Succumb to History
+		9 Trust in the Future
+		9 Knighted
+		9 Patrol the Geistwald
+		9 Turnberry Overseer
+		9 Whitaker Captain
+		9 Plaskett Trickster
+		9 Plaskett Barber
+		9 Nye Charlatans
+		9 Binding Lightning
+		9 Barroom Bout
+		9 Impulsive Replication
+		9 Hoist from Death
+		9 Facestealing Mirrorkin
+		9 Sapner Elite
+		9 Sapner Geomancer
+		9 Cloudkissed Accorder
+		9 Grab and Go
+		9 Read the Wingbeats
+		9 Royal Send-Off
+		9 Beginning of a Grand Heist
+		9 The Call to Adventure
+		9 Left to Wander
+		9 Travelcart Guardian
+		9 Tithe to the King
+		9 Travelcarts Care
+		9 Catharsis of Grief
+		9 Deadly Interrogation
+		9 Massacre at Ardleby
+		9 Vance Soulsapper
+		9 Gaze Upon Greatness
+		9 Raving Bomber
+		9 Torch
+		9 Truetower Warden
+		9 Nurture
+		9 Scars of Wars Past
+		9 Turnberry Mediator
+		9 Wilderness Training
+		9 Nye Buccaneer
+		[CommonSlot(10)]
+	30 Dreadship Vessel
+		30 Hulking Vessel
+		30 War Map
+		30 Wealthy Slabman
+		30 Writ of Supplies
+		30 Terramorphic Expanse
+		30 Call of the King
+		30 Castle Delta Lookout
+		30 Charitable Faerie
+		30 Rouls High Guard
+		30 Cloudkissed Squire
+		30 Give Penance
+		30 Glimpse
+		30 Honored Eagle
+		30 Hopeful Spouse
+		30 Impaling Lance
+		30 Kings Rock Warden
+		30 Kirsas Page
+		30 Knight of Skyspire
+		30 Overcoming Squire
+		30 Rivers Scoundrel
+		30 Take Root
+		30 Terrel Emissary
+		30 Terrel Recruit
+		30 Wystans Page
+		30 Aerial Interceptor
+		30 Artful Warsworn
+		30 Attwater Drakerider
+		30 Devious Sellsword
+		30 Disappointment
+		30 Evertuning Crane
+		30 Grand Snail Race at Riverdale
+		30 Kidnapping
+		30 Lost at Sea
+		30 Lucky Break
+		30 Naval Diplomacy
+		30 Nye Recruit
+		30 Pilferer of Shrouded Coasts
+		30 Plaskett Informer
+		30 Secluded Arachnomorph
+		30 Tavern Dealings
+		30 Town Busybody
+		30 Under the Cover of Ravens
+		30 Vance Devotee
+		30 Blessing at Graven Laughs
+		30 Creeping Mindreaper
+		30 Debt Collection
+		30 Duplicitous Crow
+		30 Edict of the Mirrorkin
+		30 Fleshborne Horror
+		30 Footmen of Deaths Sting
+		30 Dishonorable End
+		30 Jump Scared
+		30 Overt Warning
+		30 Plaskett Assassin
+		30 Sever the Legacy
+		30 Supernatural Stamina
+		30 Terrel Stalwart
+		30 Torrent of Destruction
+		30 Turnberry Legionnaire
+		30 Vance Mentor
+		30 Vance Recruit
+		30 Whitaker Cavalry
+		30 Skyspire Infantry
+		30 Ancestral Anger
+		30 Ardleby Gatekeeper
+		30 Barroom Gossip
+		30 Battle Scars
+		30 Beckon Greatness
+		30 Deaths Sting Diplomacy
+		30 Determination
+		30 Doting Caress
+		30 Ardent Warsworn
+		30 Gleaming Courage
+		30 Hardy Bears
+		30 Petty Thief
+		30 Phyre Sellsword
+		30 Puncturing Blow
+		30 Rey Recruit
+		30 Phyre Champion
+		30 Summer Tryst
+		30 Williams Page
+		30 Aggressive Urge
+		30 Ardleby Vanguard
+		30 Attwater Explorer
+		30 Banefort Archer
+		30 Cherrywood Purification
+		30 Citadel Outrider
+		30 Flowing Streams Tracker
+		30 Guerrilla Ambush
+		30 House Negotiations
+		30 Master the Old Ways
+		30 Ready Response
+		30 Replenishing Camp
+		30 Resolute Elk
+		30 Revenge of the Geistwald
+		30 Sapner Hunter
+		30 Sapner Recruit
+		30 Geistwald Explorer
+		30 Spellwild Ouphe
+		30 Tend to the Wounded
+		30 Noble
+		

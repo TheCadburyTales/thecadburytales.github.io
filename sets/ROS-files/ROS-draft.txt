@@ -1,0 +1,3444 @@
+﻿[CustomCards]
+	[	{
+			"name": "Burgeoning Satrapy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/278_Burgeoning Satrapy.png"
+			}
+		},
+		{
+			"name": "Soli Fortress",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/288_Soli Fortress.png"
+			}
+		},
+		{
+			"name": "Cyrukan of Heart and Iron",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/220_Cyrukan of Heart and Iron.png"
+			}
+		},
+		{
+			"name": "Rahstahde, Brand of Truth",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/215_Rahstahde, Brand of Truth.png"
+			}
+		},
+		{
+			"name": "Fahrib the EverScheming",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Advisor ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/199_Fahrib the EverScheming.png"
+			}
+		},
+		{
+			"name": "Mahara, General of All",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/212_Mahara, General of All.png"
+			}
+		},
+		{
+			"name": "Abwad Kahroba, Failed Son",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Mutant Warrior ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/208_Abwad Kahroba, Failed Son.png"
+			}
+		},
+		{
+			"name": "Tamaak the Arid Swarm",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Insect ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/219_Tamaak the Arid Swarm.png"
+			}
+		},
+		{
+			"name": "Martoob of Flowing Life",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Human Druid ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/224_Martoob of Flowing Life.png"
+			}
+		},
+		{
+			"name": "Nizev Fortress",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/285_Nizev Fortress.png"
+			}
+		},
+		{
+			"name": "Kaneh Fortress",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/282_Kaneh Fortress.png"
+			}
+		},
+		{
+			"name": "Avaz Fortress",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/275_Avaz Fortress.png"
+			}
+		},
+		{
+			"name": "Danaj Fortress",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/279_Danaj Fortress.png"
+			}
+		},
+		{
+			"name": "Fahribs Command",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/242_Fahribs Command.png"
+			}
+		},
+		{
+			"name": "Tamaaks Command",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/256_Tamaaks Command.png"
+			}
+		},
+		{
+			"name": "Andazir's Command",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}{G}",
+			"type": "Instant",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/228_Andazir's Command.png"
+			}
+		},
+		{
+			"name": "Cyrukans Command",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/233_Cyrukans Command.png"
+			}
+		},
+		{
+			"name": "Dawn Over Soli",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/13_Dawn Over Soli.png"
+			}
+		},
+		{
+			"name": "Scorned Arcanist",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Azra Wizard ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/66_Scorned Arcanist.png"
+			}
+		},
+		{
+			"name": "Reckoner of Kaneh",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Angel Soldier ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/108_Reckoner of Kaneh.png"
+			}
+		},
+		{
+			"name": "Archfiend of Rage",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Manticore Demon ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/121_Archfiend of Rage.png"
+			}
+		},
+		{
+			"name": "Herald of Ruination",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Azra Citizen ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/178_Herald of Ruination_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/178_Herald of Ruination_back.png"
+				}
+			}
+		},
+		{
+			"name": "Listless Maneli",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Nephilim Merfolk Cleric ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/24_Listless Maneli_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/24_Listless Maneli_back.png"
+				}
+			}
+		},
+		{
+			"name": "Dawn Over Nizev",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/48_Dawn Over Nizev.png"
+			}
+		},
+		{
+			"name": "Jahi of Endless Hunger",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Demon Wizard ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/100_Jahi of Endless Hunger.png"
+			}
+		},
+		{
+			"name": "Huma of Glory",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Phoenix ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/135_Huma of Glory.png"
+			}
+		},
+		{
+			"name": "Dawn Over Danaj",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/167_Dawn Over Danaj.png"
+			}
+		},
+		{
+			"name": "Solis Crossbowmaster",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Nephilim Ranger ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/33_Solis Crossbowmaster.png"
+			}
+		},
+		{
+			"name": "Acolyte of Water",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Nephilim Cleric ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/40_Acolyte of Water_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/40_Acolyte of Water_back.png"
+				}
+			}
+		},
+		{
+			"name": "Vagabond of the Dunes",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/117_Vagabond of the Dunes_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/117_Vagabond of the Dunes_back.png"
+				}
+			}
+		},
+		{
+			"name": "Inspiring Tactician",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Nephilim Advisor ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/179_Inspiring Tactician.png"
+			}
+		},
+		{
+			"name": "Chained to the Roc",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/9_Chained to the Roc.png"
+			}
+		},
+		{
+			"name": "Empyrean Scholar",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Angel Dragon ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/50_Empyrean Scholar.png"
+			}
+		},
+		{
+			"name": "Dawn Over Kaneh",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/89_Dawn Over Kaneh.png"
+			}
+		},
+		{
+			"name": "Slinking Raider",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Azra Rogue ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/153_Slinking Raider_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/153_Slinking Raider_back.png"
+				}
+			}
+		},
+		{
+			"name": "Spawn of Andazir",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Snake Hydra ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/193_Spawn of Andazir.png"
+			}
+		},
+		{
+			"name": "Consult the Lineage",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/11_Consult the Lineage.png"
+			}
+		},
+		{
+			"name": "Predatory Tombstalker",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Creature — Manticore ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/250_Predatory Tombstalker.png"
+			}
+		},
+		{
+			"name": "Herald of Untold Riches",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/206_Herald of Untold Riches.png"
+			}
+		},
+		{
+			"name": "A Matricide Most Foul",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/209_A Matricide Most Foul.png"
+			}
+		},
+		{
+			"name": "Rhythm of Soli",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/28_Rhythm of Soli.png"
+			}
+		},
+		{
+			"name": "Ingratiate",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/52_Ingratiate.png"
+			}
+		},
+		{
+			"name": "Azra Warshaper",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Azra Warrior ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/217_Azra Warshaper.png"
+			}
+		},
+		{
+			"name": "Figments of the Muktann",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/221_Figments of the Muktann.png"
+			}
+		},
+		{
+			"name": "Dreaded of Sahra",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Demon Warrior ",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/170_Dreaded of Sahra.png"
+			}
+		},
+		{
+			"name": "Atiehs Disciple",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Nephilim Cleric ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/197_Atiehs Disciple_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/197_Atiehs Disciple_back.png"
+				}
+			}
+		},
+		{
+			"name": "Peer into Eternity",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/58_Peer into Eternity.png"
+			}
+		},
+		{
+			"name": "Triumphant Greed",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/116_Triumphant Greed.png"
+			}
+		},
+		{
+			"name": "Rhythm of Avaz",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/150_Rhythm of Avaz.png"
+			}
+		},
+		{
+			"name": "Rhythm of Danaj",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/187_Rhythm of Danaj.png"
+			}
+		},
+		{
+			"name": "Mehr's Last Captain",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Skeleton Wizard ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/213_Mehr's Last Captain.png"
+			}
+		},
+		{
+			"name": "Abbas and Laila",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Merfolk Wizard ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/214_Abbas and Laila.png"
+			}
+		},
+		{
+			"name": "Mehr's Unending Horde",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Zombie Soldier Army ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/104_Mehr's Unending Horde.png"
+			}
+		},
+		{
+			"name": "Last Priest of Hadak",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/141_Last Priest of Hadak.png"
+			}
+		},
+		{
+			"name": "Nozar, Dunesea Merchant",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Human Merchant ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/225_Nozar, Dunesea Merchant.png"
+			}
+		},
+		{
+			"name": "Rally the Armies",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Instant",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/186_Rally the Armies.png"
+			}
+		},
+		{
+			"name": "Rhythm of Kaneh",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/110_Rhythm of Kaneh.png"
+			}
+		},
+		{
+			"name": "Savior Tactician",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel Soldier ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/29_Savior Tactician.png"
+			}
+		},
+		{
+			"name": "Martoob Lifeshaper",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Nephilim Wizard ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/54_Martoob Lifeshaper.png"
+			}
+		},
+		{
+			"name": "Dali, the Eyes of Danaj",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "Legendary Creature — Sphinx Noble ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/234_Dali, the Eyes of Danaj.png"
+			}
+		},
+		{
+			"name": "Desolate Advance",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/91_Desolate Advance.png"
+			}
+		},
+		{
+			"name": "Furious Blow",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/133_Furious Blow.png"
+			}
+		},
+		{
+			"name": "Streetwise Spellseeker",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/71_Streetwise Spellseeker.png"
+			}
+		},
+		{
+			"name": "Variety of Goods",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}",
+			"type": "Instant",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/195_Variety of Goods.png"
+			}
+		},
+		{
+			"name": "Shideh, Avazs Conqueror",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/253_Shideh, Avazs Conqueror.png"
+			}
+		},
+		{
+			"name": "In Blood, Vengeance",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/137_In Blood, Vengeance.png"
+			}
+		},
+		{
+			"name": "Ineptitude",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Legendary Creature — Horror Incarnation ",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/244_Ineptitude.png"
+			}
+		},
+		{
+			"name": "Parastu, Soli's Overseer",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/248_Parastu, Soli's Overseer.png"
+			}
+		},
+		{
+			"name": "The Brink of War",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/231_The Brink of War.png"
+			}
+		},
+		{
+			"name": "Harsh Spahbed",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Demon Knight ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/17_Harsh Spahbed.png"
+			}
+		},
+		{
+			"name": "Zhubin, Spear of Kaneh",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{W}{B}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/258_Zhubin, Spear of Kaneh.png"
+			}
+		},
+		{
+			"name": "Bloodthirsty Manticore",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Manticore ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/203_Bloodthirsty Manticore_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/203_Bloodthirsty Manticore_back.png"
+				}
+			}
+		},
+		{
+			"name": "From the Skies, Peace",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}{W}",
+			"type": "Instant",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/243_From the Skies, Peace.png"
+			}
+		},
+		{
+			"name": "Sadegh, Tyrant of Nizev",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}{R}",
+			"type": "Legendary Creature — Dragon Shaman ",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/251_Sadegh, Tyrant of Nizev.png"
+			}
+		},
+		{
+			"name": "Wretched Skulker",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Horror ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/37_Wretched Skulker.png"
+			}
+		},
+		{
+			"name": "Rhythm of Nizev",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/63_Rhythm of Nizev.png"
+			}
+		},
+		{
+			"name": "Backalley Connections",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/83_Backalley Connections.png"
+			}
+		},
+		{
+			"name": "Dawn Over Avaz",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/126_Dawn Over Avaz.png"
+			}
+		},
+		{
+			"name": "Shahmaran of the Empty Sea",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Snake Wizard ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/68_Shahmaran of the Empty Sea.png"
+			}
+		},
+		{
+			"name": "Hayat, Hungering Bakhtak",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B/G}{B/G}",
+			"type": "Legendary Creature — Hag Shaman ",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/266_Hayat, Hungering Bakhtak_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/266_Hayat, Hungering Bakhtak_back.png"
+				}
+			}
+		},
+		{
+			"name": "Acrimony",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Horror Incarnation ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/79_Acrimony.png"
+			}
+		},
+		{
+			"name": "Hollow Simulacrum",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/18_Hollow Simulacrum.png"
+			}
+		},
+		{
+			"name": "Jals Spawn",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Manticore ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/139_Jals Spawn.png"
+			}
+		},
+		{
+			"name": "Colossus of Alkabah",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Manticore ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/160_Colossus of Alkabah.png"
+			}
+		},
+		{
+			"name": "Crisis in Danaj",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/47_Crisis in Danaj.png"
+			}
+		},
+		{
+			"name": "Settling of Nizev",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/113_Settling of Nizev.png"
+			}
+		},
+		{
+			"name": "Settling of Avaz",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/151_Settling of Avaz.png"
+			}
+		},
+		{
+			"name": "Crisis in Soli",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/12_Crisis in Soli.png"
+			}
+		},
+		{
+			"name": "Avaz Rising",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/3_Avaz Rising.png"
+			}
+		},
+		{
+			"name": "Nizev Rising",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/57_Nizev Rising.png"
+			}
+		},
+		{
+			"name": "Danaj Rising",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/88_Danaj Rising.png"
+			}
+		},
+		{
+			"name": "Coagulating Strength",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/223_Coagulating Strength.png"
+			}
+		},
+		{
+			"name": "Herald of Atieh",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Nephilim Wizard ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/198_Herald of Atieh.png"
+			}
+		},
+		{
+			"name": "Ruthless Bakhtak",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Hag Shaman ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/201_Ruthless Bakhtak.png"
+			}
+		},
+		{
+			"name": "Djinn of the Waning Candle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Djinn Wizard ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/204_Djinn of the Waning Candle.png"
+			}
+		},
+		{
+			"name": "Crisis in Avaz",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/163_Crisis in Avaz.png"
+			}
+		},
+		{
+			"name": "Valiant Cataphract",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/210_Valiant Cataphract.png"
+			}
+		},
+		{
+			"name": "Angel of Despair",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}{B}{B}",
+			"type": "Creature — Angel ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/211_Angel of Despair.png"
+			}
+		},
+		{
+			"name": "Selection at Danaj",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/216_Selection at Danaj.png"
+			}
+		},
+		{
+			"name": "Herald of Tamaak",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Azra Soldier ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/218_Herald of Tamaak.png"
+			}
+		},
+		{
+			"name": "Kaneh Rising",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/140_Kaneh Rising.png"
+			}
+		},
+		{
+			"name": "Settling of Danaj",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/189_Settling of Danaj.png"
+			}
+		},
+		{
+			"name": "Fulfill the Contract",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/99_Fulfill the Contract.png"
+			}
+		},
+		{
+			"name": "Acolyte of the Far Winds",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Creature — Angel Cleric ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/226_Acolyte of the Far Winds.png"
+			}
+		},
+		{
+			"name": "Firebolt",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/131_Firebolt.png"
+			}
+		},
+		{
+			"name": "Adrift into Endless Stories",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/227_Adrift into Endless Stories.png"
+			}
+		},
+		{
+			"name": "Div's Onslaught",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/238_Div's Onslaught.png"
+			}
+		},
+		{
+			"name": "Descent of the Div",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/235_Descent of the Div.png"
+			}
+		},
+		{
+			"name": "On Andazirs Whims",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/247_On Andazirs Whims.png"
+			}
+		},
+		{
+			"name": "Accept into the Fold",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/157_Accept into the Fold.png"
+			}
+		},
+		{
+			"name": "Djinn of Unfolding Truths",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}{W}",
+			"type": "Creature — Djinn Wizard ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/239_Djinn of Unfolding Truths.png"
+			}
+		},
+		{
+			"name": "Echo of the Simurgh",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/241_Echo of the Simurgh.png"
+			}
+		},
+		{
+			"name": "Dunesea Dreadstalker",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature — Horror ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/240_Dunesea Dreadstalker.png"
+			}
+		},
+		{
+			"name": "Prepare for War",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/60_Prepare for War.png"
+			}
+		},
+		{
+			"name": "Aswaran Conquerer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Creature — Azra Knight ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/229_Aswaran Conquerer.png"
+			}
+		},
+		{
+			"name": "Shah's Caravan",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elephant ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/190_Shah's Caravan.png"
+			}
+		},
+		{
+			"name": "Gather the Forces",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/176_Gather the Forces.png"
+			}
+		},
+		{
+			"name": "Blessing from Wings on High",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/6_Blessing from Wings on High.png"
+			}
+		},
+		{
+			"name": "The Pillaging of Kaneh",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/145_The Pillaging of Kaneh.png"
+			}
+		},
+		{
+			"name": "Spawn of Hadak",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/254_Spawn of Hadak.png"
+			}
+		},
+		{
+			"name": "Andazirs Disdain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/80_Andazirs Disdain.png"
+			}
+		},
+		{
+			"name": "Consult the Cosmos",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/46_Consult the Cosmos.png"
+			}
+		},
+		{
+			"name": "Advocate of Ideals",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Nephilim Soldier ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/1_Advocate of Ideals.png"
+			}
+		},
+		{
+			"name": "Angel of Wisdom",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Angel Shaman ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/43_Angel of Wisdom.png"
+			}
+		},
+		{
+			"name": "Smiting Helix",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/114_Smiting Helix.png"
+			}
+		},
+		{
+			"name": "Ambitious Truthseeker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Nephilim Warrior ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/119_Ambitious Truthseeker.png"
+			}
+		},
+		{
+			"name": "Soli Rising",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/192_Soli Rising.png"
+			}
+		},
+		{
+			"name": "Garrison Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Nephilim Archer ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/16_Garrison Warden_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/16_Garrison Warden_back.png"
+				}
+			}
+		},
+		{
+			"name": "Scholar's Delight",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/64_Scholar's Delight.png"
+			}
+		},
+		{
+			"name": "Crisis in Kaneh",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/87_Crisis in Kaneh.png"
+			}
+		},
+		{
+			"name": "Advocate of Foibles",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Azra Noble ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/118_Advocate of Foibles.png"
+			}
+		},
+		{
+			"name": "Dunesea Merchant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Merchant ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/14_Dunesea Merchant.png"
+			}
+		},
+		{
+			"name": "Fury of Cyrukan",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/15_Fury of Cyrukan.png"
+			}
+		},
+		{
+			"name": "Martoob's Forerunner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Nephilim Scout ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/55_Martoob's Forerunner.png"
+			}
+		},
+		{
+			"name": "Chaosbender",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Demon Warlock ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/86_Chaosbender.png"
+			}
+		},
+		{
+			"name": "Refracting Image",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/148_Refracting Image.png"
+			}
+		},
+		{
+			"name": "Fracturing Swipe",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/175_Fracturing Swipe.png"
+			}
+		},
+		{
+			"name": "Settling of Kaneh",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/31_Settling of Kaneh.png"
+			}
+		},
+		{
+			"name": "Nephilim Wisdomancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Nephilim Wizard ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/56_Nephilim Wisdomancer.png"
+			}
+		},
+		{
+			"name": "Kingpin of Nizev",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/102_Kingpin of Nizev.png"
+			}
+		},
+		{
+			"name": "Rahstahde Swiftspear",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/146_Rahstahde Swiftspear_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/146_Rahstahde Swiftspear_back.png"
+				}
+			}
+		},
+		{
+			"name": "Quickstep Ranger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Ranger ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/185_Quickstep Ranger_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/185_Quickstep Ranger_back.png"
+				}
+			}
+		},
+		{
+			"name": "Standoff",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/34_Standoff.png"
+			}
+		},
+		{
+			"name": "Tidebender",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Merfolk Wizard ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/73_Tidebender.png"
+			}
+		},
+		{
+			"name": "Dutybound Ghul",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Rogue ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/93_Dutybound Ghul.png"
+			}
+		},
+		{
+			"name": "Crisis in Nizev",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/124_Crisis in Nizev.png"
+			}
+		},
+		{
+			"name": "Dunesea Ranger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Azra Druid Ranger ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/171_Dunesea Ranger.png"
+			}
+		},
+		{
+			"name": "Zagos Roc",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/38_Zagos Roc.png"
+			}
+		},
+		{
+			"name": "Wade Through Treasures",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/76_Wade Through Treasures.png"
+			}
+		},
+		{
+			"name": "Oracle of the Unseen",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Azra Wizard ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/105_Oracle of the Unseen.png"
+			}
+		},
+		{
+			"name": "Paygan Firebinder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Azra Shaman ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/143_Paygan Firebinder.png"
+			}
+		},
+		{
+			"name": "Heartweaver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/177_Heartweaver.png"
+			}
+		},
+		{
+			"name": "Confine to the Oasis",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/10_Confine to the Oasis.png"
+			}
+		},
+		{
+			"name": "Settling of Soli",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Battle — Encounter   ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/67_Settling of Soli.png"
+			}
+		},
+		{
+			"name": "Traverse the Endless Well",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/115_Traverse the Endless Well.png"
+			}
+		},
+		{
+			"name": "Djinn of the Twisted Wish",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Djinn Warrior ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/127_Djinn of the Twisted Wish.png"
+			}
+		},
+		{
+			"name": "Quake Devourer",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Horror ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/184_Quake Devourer.png"
+			}
+		},
+		{
+			"name": "Assault on Soli",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/2_Assault on Soli.png"
+			}
+		},
+		{
+			"name": "Truthseeker Prodigy",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/75_Truthseeker Prodigy.png"
+			}
+		},
+		{
+			"name": "Esoteric Visionary",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Azra Cleric ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/95_Esoteric Visionary.png"
+			}
+		},
+		{
+			"name": "Shipment Overseer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Azra Advisor ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/152_Shipment Overseer_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/152_Shipment Overseer_back.png"
+				}
+			}
+		},
+		{
+			"name": "Settling Alkabah",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/188_Settling Alkabah.png"
+			}
+		},
+		{
+			"name": "Cast Judgment",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/8_Cast Judgment.png"
+			}
+		},
+		{
+			"name": "Regretful Chronicler",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/61_Regretful Chronicler_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/61_Regretful Chronicler_back.png"
+				}
+			}
+		},
+		{
+			"name": "Ruthless Advisor",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Azra Advisor ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/111_Ruthless Advisor_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/111_Ruthless Advisor_back.png"
+				}
+			}
+		},
+		{
+			"name": "Eyes of Cyrukan",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Angel Soldier Scout ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/129_Eyes of Cyrukan.png"
+			}
+		},
+		{
+			"name": "Avaz Sentry",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Archer ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/158_Avaz Sentry_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/158_Avaz Sentry_back.png"
+				}
+			}
+		},
+		{
+			"name": "Blessing of Respite",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/7_Blessing of Respite.png"
+			}
+		},
+		{
+			"name": "Adrift Surveyor",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/42_Adrift Surveyor_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/42_Adrift Surveyor_back.png"
+				}
+			}
+		},
+		{
+			"name": "EverWandering Vagabond",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Azra Rogue ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/96_EverWandering Vagabond_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/96_EverWandering Vagabond_back.png"
+				}
+			}
+		},
+		{
+			"name": "Evening Serenade",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/128_Evening Serenade.png"
+			}
+		},
+		{
+			"name": "Cultivator of Crops",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/165_Cultivator of Crops.png"
+			}
+		},
+		{
+			"name": "Sentinel of Avaz",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Angel Soldier ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/30_Sentinel of Avaz.png"
+			}
+		},
+		{
+			"name": "Skyborne Strategist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Angel Scout ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/70_Skyborne Strategist.png"
+			}
+		},
+		{
+			"name": "Demon of Endless Hunger",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Demon Cleric ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/90_Demon of Endless Hunger.png"
+			}
+		},
+		{
+			"name": "Vicious Shamshir",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/156_Vicious Shamshir.png"
+			}
+		},
+		{
+			"name": "Erode",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/172_Erode.png"
+			}
+		},
+		{
+			"name": "Inspirational Beacon",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel Cleric ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/21_Inspirational Beacon.png"
+			}
+		},
+		{
+			"name": "Implacable Djinn",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Djinn Warrior ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/51_Implacable Djinn.png"
+			}
+		},
+		{
+			"name": "Selfserving Ghul",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Warrior ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/112_Selfserving Ghul.png"
+			}
+		},
+		{
+			"name": "Figments of Warriors Lost",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/130_Figments of Warriors Lost.png"
+			}
+		},
+		{
+			"name": "Expose Wickedness",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/173_Expose Wickedness.png"
+			}
+		},
+		{
+			"name": "Vanguard of Glory",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/36_Vanguard of Glory.png"
+			}
+		},
+		{
+			"name": "Tiller of the Paltry Lie",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Demon Soldier ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/74_Tiller of the Paltry Lie.png"
+			}
+		},
+		{
+			"name": "Kaneh Siege",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/101_Kaneh Siege.png"
+			}
+		},
+		{
+			"name": "Refitting for Battle",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/147_Refitting for Battle.png"
+			}
+		},
+		{
+			"name": "Martoob Hawker",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Nephilim Scout ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/182_Martoob Hawker.png"
+			}
+		},
+		{
+			"name": "Zealot of Mahara",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Nephilim Cleric ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/39_Zealot of Mahara_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/39_Zealot of Mahara_back.png"
+				}
+			}
+		},
+		{
+			"name": "Reject Wickedness",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/62_Reject Wickedness.png"
+			}
+		},
+		{
+			"name": "Fiendish Bruiser",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Demon Rogue ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/98_Fiendish Bruiser.png"
+			}
+		},
+		{
+			"name": "Truthbearing Peri",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Angel Soldier ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/155_Truthbearing Peri.png"
+			}
+		},
+		{
+			"name": "Commanders Guidance",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/161_Commanders Guidance.png"
+			}
+		},
+		{
+			"name": "Banishment of Aspirations",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/4_Banishment of Aspirations.png"
+			}
+		},
+		{
+			"name": "Scope the Cosmos",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/65_Scope the Cosmos.png"
+			}
+		},
+		{
+			"name": "Prepare for Assault",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/107_Prepare for Assault.png"
+			}
+		},
+		{
+			"name": "Hesitant Vanguard",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/134_Hesitant Vanguard_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/134_Hesitant Vanguard_back.png"
+				}
+			}
+		},
+		{
+			"name": "Fell LanternBearer",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Demon Warrior ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/174_Fell LanternBearer.png"
+			}
+		},
+		{
+			"name": "Keen Blademaster",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/23_Keen Blademaster.png"
+			}
+		},
+		{
+			"name": "Wave Shield",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/77_Wave Shield.png"
+			}
+		},
+		{
+			"name": "Enigmatic Herald",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Angel Soldier ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/94_Enigmatic Herald.png"
+			}
+		},
+		{
+			"name": "Frantic Efreetspeaker",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Nephilim Cleric ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/132_Frantic Efreetspeaker.png"
+			}
+		},
+		{
+			"name": "Shah's Proclamation",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/191_Shah's Proclamation.png"
+			}
+		},
+		{
+			"name": "Lowly Cataphract",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/25_Lowly Cataphract_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/25_Lowly Cataphract_back.png"
+				}
+			}
+		},
+		{
+			"name": "Wisdom of the Dunesea",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/78_Wisdom of the Dunesea.png"
+			}
+		},
+		{
+			"name": "Astral Assassination",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/82_Astral Assassination.png"
+			}
+		},
+		{
+			"name": "Regroup and Stockpile",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/149_Regroup and Stockpile.png"
+			}
+		},
+		{
+			"name": "Day at the Market",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/168_Day at the Market.png"
+			}
+		},
+		{
+			"name": "Prepare for Rest",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/27_Prepare for Rest.png"
+			}
+		},
+		{
+			"name": "Tempt with Gifts",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/72_Tempt with Gifts.png"
+			}
+		},
+		{
+			"name": "Refine to Nothing",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/109_Refine to Nothing.png"
+			}
+		},
+		{
+			"name": "Andazir Veteran",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Demon Soldier ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/120_Andazir Veteran.png"
+			}
+		},
+		{
+			"name": "Nimble Pathfinder",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/183_Nimble Pathfinder_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/183_Nimble Pathfinder_back.png"
+				}
+			}
+		},
+		{
+			"name": "Mahara Enforcer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Nephilim Soldier ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/26_Mahara Enforcer.png"
+			}
+		},
+		{
+			"name": "Sinking Pessimism",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/69_Sinking Pessimism.png"
+			}
+		},
+		{
+			"name": "Castaway's Remorse",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/85_Castaway's Remorse.png"
+			}
+		},
+		{
+			"name": "Incendiary Flow",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/138_Incendiary Flow.png"
+			}
+		},
+		{
+			"name": "Unstoppable Zealot",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Demon Warrior ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/194_Unstoppable Zealot.png"
+			}
+		},
+		{
+			"name": "Show of Unwavering Honor",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/32_Show of Unwavering Honor.png"
+			}
+		},
+		{
+			"name": "Acquiesce Position",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/41_Acquiesce Position.png"
+			}
+		},
+		{
+			"name": "Fatal Strike",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/97_Fatal Strike.png"
+			}
+		},
+		{
+			"name": "Ignite the Inner Flame",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/136_Ignite the Inner Flame.png"
+			}
+		},
+		{
+			"name": "Kahroba Patrol",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Azra Knight Scout ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/181_Kahroba Patrol.png"
+			}
+		},
+		{
+			"name": "In Defense of Soli",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/20_In Defense of Soli.png"
+			}
+		},
+		{
+			"name": "Maneli Ambassador",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Merfolk Wizard ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/53_Maneli Ambassador.png"
+			}
+		},
+		{
+			"name": "Manipulations of the Div",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/103_Manipulations of the Div.png"
+			}
+		},
+		{
+			"name": "Tomb-Raider Duo",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard Rogue ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/154_Tomb-Raider Duo.png"
+			}
+		},
+		{
+			"name": "Div of Lethargic Ideals",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Horror ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/169_Div of Lethargic Ideals.png"
+			}
+		},
+		{
+			"name": "Kaneh Scribe",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/22_Kaneh Scribe.png"
+			}
+		},
+		{
+			"name": "Dewdrop Ordainer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Angel Soldier ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/49_Dewdrop Ordainer.png"
+			}
+		},
+		{
+			"name": "Drag Through the Alley",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/92_Drag Through the Alley.png"
+			}
+		},
+		{
+			"name": "Piercing Arrow",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/144_Piercing Arrow.png"
+			}
+		},
+		{
+			"name": "Ironclad Sentry",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Demon Warrior ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/180_Ironclad Sentry.png"
+			}
+		},
+		{
+			"name": "Birthright Proselyte",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Demon Soldier ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/5_Birthright Proselyte.png"
+			}
+		},
+		{
+			"name": "Brightwing Sphinx",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Angel Sphinx ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/45_Brightwing Sphinx.png"
+			}
+		},
+		{
+			"name": "Andazirs Pact",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/81_Andazirs Pact.png"
+			}
+		},
+		{
+			"name": "Conjure Quicksand",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/123_Conjure Quicksand.png"
+			}
+		},
+		{
+			"name": "Cherish the Past",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/159_Cherish the Past.png"
+			}
+		},
+		{
+			"name": "Unyielding Aswaran",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight Scout ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/35_Unyielding Aswaran.png"
+			}
+		},
+		{
+			"name": "Benevolent Host",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Nephilim Wizard ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/44_Benevolent Host.png"
+			}
+		},
+		{
+			"name": "Poison-Sky Acolyte",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/106_Poison-Sky Acolyte.png"
+			}
+		},
+		{
+			"name": "Bloodcloaked Wrecker",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Demon Soldier ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/122_Bloodcloaked Wrecker.png"
+			}
+		},
+		{
+			"name": "Crush Opposition",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/164_Crush Opposition.png"
+			}
+		},
+		{
+			"name": "Augur of Pathways",
+			"rarity": "common",
+			"mana_cost": "{W/U}",
+			"type": "Creature — Angel Wizard ",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/259_Augur of Pathways.png"
+			}
+		},
+		{
+			"name": "Cunning Plan",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Sorcery",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/260_Cunning Plan.png"
+			}
+		},
+		{
+			"name": "Offering to the Div",
+			"rarity": "common",
+			"mana_cost": "{1}{B/R}",
+			"type": "Instant",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/261_Offering to the Div.png"
+			}
+		},
+		{
+			"name": "Bazaar Braggart",
+			"rarity": "common",
+			"mana_cost": "{1}{R/G}",
+			"type": "Creature — Human Merchant ",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/262_Bazaar Braggart.png"
+			}
+		},
+		{
+			"name": "Marshal of Brethren",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}",
+			"type": "Creature — Azra Soldier ",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/263_Marshal of Brethren.png"
+			}
+		},
+		{
+			"name": "Toil Beyond Death",
+			"rarity": "common",
+			"mana_cost": "{2}{W/B}{W/B}",
+			"type": "Sorcery",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/264_Toil Beyond Death.png"
+			}
+		},
+		{
+			"name": "Rahstahde Pledge",
+			"rarity": "common",
+			"mana_cost": "{3}{U/R}{U/R}",
+			"type": "Creature — Human Cleric Soldier ",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/265_Rahstahde Pledge.png"
+			}
+		},
+		{
+			"name": "Openmaw Demon",
+			"rarity": "common",
+			"mana_cost": "{3}{B/G}{B/G}",
+			"type": "Creature — Demon Warrior ",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/267_Openmaw Demon.png"
+			}
+		},
+		{
+			"name": "Battlefield Tiger",
+			"rarity": "common",
+			"mana_cost": "{1}{R/W}{R/W}",
+			"type": "Creature — Cat ",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/268_Battlefield Tiger.png"
+			}
+		},
+		{
+			"name": "Venerable Skyblade",
+			"rarity": "common",
+			"mana_cost": "{3}{G/U}",
+			"type": "Creature — Angel Soldier ",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/270_Venerable Skyblade.png"
+			}
+		},
+		{
+			"name": "Attendant of Graves",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/271_Attendant of Graves.png"
+			}
+		},
+		{
+			"name": "Wayfinder's Bauble",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/274_Wayfinder's Bauble.png"
+			}
+		},
+		{
+			"name": "Banner of Warfare",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/272_Banner of Warfare.png"
+			}
+		},
+		{
+			"name": "Zagos Abomination",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Cat Horror ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/222_Zagos Abomination.png"
+			}
+		},
+		{
+			"name": "Guardians of Kallians Tomb",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Artifact",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/205_Guardians of Kallians Tomb.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/2_Soldier.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/8_Treasure.png"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Horror ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/3_Horror.png"
+			}
+		},
+		{
+			"name": "Soldier Army",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier Army ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/6_Soldier Army.png"
+			}
+		},
+		{
+			"name": "Cosmic Banishment",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/232_Cosmic Banishment.png"
+			}
+		},
+		{
+			"name": "Hooded Mystic",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Nephilim Cleric ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/19_Hooded Mystic.png"
+			}
+		},
+		{
+			"name": "Petty Thief",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/59_Petty Thief_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/59_Petty Thief_back.png"
+				}
+			}
+		},
+		{
+			"name": "Blackfeather Cleric",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Nephilim Cleric ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/84_Blackfeather Cleric_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/84_Blackfeather Cleric_back.png"
+				}
+			}
+		},
+		{
+			"name": "Manifold Manipulator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Azra Warrior ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/142_Manifold Manipulator.png"
+			}
+		},
+		{
+			"name": "Convicted Strike",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/162_Convicted Strike.png"
+			}
+		},
+		{
+			"name": "Andazir, First to Aspire",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Creature — Mutant Warlock ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/202_Andazir, First to Aspire.png"
+			}
+		},
+		{
+			"name": "Angel Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Angel Soldier ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/1_Angel Soldier.png"
+			}
+		},
+		{
+			"name": "Pariahs Bargain",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/249_Pariahs Bargain.png"
+			}
+		},
+		{
+			"name": "Danaj Sightseer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Angel Scout ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/166_Danaj Sightseer.png"
+			}
+		},
+		{
+			"name": "Obstinate Wishgranter",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}",
+			"type": "Creature — Djinn Wizard ",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/246_Obstinate Wishgranter.png"
+			}
+		},
+		{
+			"name": "Sahras Harbinger",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}{G}",
+			"type": "Creature — Demon Warlock ",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/252_Sahras Harbinger.png"
+			}
+		},
+		{
+			"name": "Swooping Manticore",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}{W}",
+			"type": "Creature — Manticore ",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/255_Swooping Manticore.png"
+			}
+		},
+		{
+			"name": "Iridescent Savior",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}{U}",
+			"type": "Creature — Angel Soldier ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/245_Iridescent Savior.png"
+			}
+		},
+		{
+			"name": "Div of Unsettling Secrets",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Creature — Horror ",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/237_Div of Unsettling Secrets.png"
+			}
+		},
+		{
+			"name": "Disappointment",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}{B}",
+			"type": "Legendary Creature — Horror Incarnation ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/236_Disappointment.png"
+			}
+		},
+		{
+			"name": "The Lost and Seeking",
+			"rarity": "mythic",
+			"mana_cost": "{R/W}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/269_The Lost and Seeking_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://DNAZangy.github.io/sets/ROS-files/img/269_The Lost and Seeking_back.png"
+				}
+			}
+		},
+		{
+			"name": "Cyrukans Elite",
+			"rarity": "rare",
+			"mana_cost": "{7}{R}",
+			"type": "Creature — Angel Soldier ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/125_Cyrukans Elite.png"
+			}
+		},
+		{
+			"name": "Zareen Kahroba, Shah",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/257_Zareen Kahroba, Shah.png"
+			}
+		},
+		{
+			"name": "Atieh, Seer of Distant Futures",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Merfolk Advisor ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/196_Atieh, Seer of Distant Futures.png"
+			}
+		},
+		{
+			"name": "Sahra, Hadak's Last Warrior",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Ogre Warrior ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/207_Sahra, Hadak's Last Warrior.png"
+			}
+		},
+		{
+			"name": "Avaz Sanctuary",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/276_Avaz Sanctuary.png"
+			}
+		},
+		{
+			"name": "Avaz Temple",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/277_Avaz Temple.png"
+			}
+		},
+		{
+			"name": "Danaj Sanctuary",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/280_Danaj Sanctuary.png"
+			}
+		},
+		{
+			"name": "Danaj Temple",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/281_Danaj Temple.png"
+			}
+		},
+		{
+			"name": "Kaneh Sanctuary",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/283_Kaneh Sanctuary.png"
+			}
+		},
+		{
+			"name": "Kaneh Temple",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/284_Kaneh Temple.png"
+			}
+		},
+		{
+			"name": "Nizev Sanctuary",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/286_Nizev Sanctuary.png"
+			}
+		},
+		{
+			"name": "Nizev Temple",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/287_Nizev Temple.png"
+			}
+		},
+		{
+			"name": "Soli Sanctuary",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/289_Soli Sanctuary.png"
+			}
+		},
+		{
+			"name": "Soli Temple",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Satrapy ",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/290_Soli Temple.png"
+			}
+		},
+		{
+			"name": "Feather of the Simurgh",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/273_Feather of the Simurgh.png"
+			}
+		},
+		{
+			"name": "Atieh's Command",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}{U}",
+			"type": "Instant",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/230_Atieh's Command.png"
+			}
+		},
+		{
+			"name": "Snake",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Snake ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/5_Snake.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/4_Insect.png"
+			}
+		},
+		{
+			"name": "Cleric",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Cleric ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/7_Cleric.png"
+			}
+		},
+		{
+			"name": "Persecutor of Truths",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Demon Rogue Warrior ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ROS-files/img/200_Persecutor of Truths.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Fahribs Command
+		2 Tamaaks Command
+		2 Andazir's Command
+		2 Cyrukans Command
+		2 Dawn Over Soli
+		2 Scorned Arcanist
+		2 Reckoner of Kaneh
+		2 Archfiend of Rage
+		2 Herald of Ruination
+		2 Listless Maneli
+		2 Dawn Over Nizev
+		2 Jahi of Endless Hunger
+		2 Huma of Glory
+		2 Dawn Over Danaj
+		2 Solis Crossbowmaster
+		2 Acolyte of Water
+		2 Vagabond of the Dunes
+		2 Inspiring Tactician
+		2 Chained to the Roc
+		2 Empyrean Scholar
+		2 Dawn Over Kaneh
+		2 Slinking Raider
+		2 Spawn of Andazir
+		2 Consult the Lineage
+		2 Predatory Tombstalker
+		2 Herald of Untold Riches
+		2 A Matricide Most Foul
+		2 Rhythm of Soli
+		2 Ingratiate
+		2 Azra Warshaper
+		2 Figments of the Muktann
+		2 Dreaded of Sahra
+		2 Atiehs Disciple
+		2 Peer into Eternity
+		2 Triumphant Greed
+		2 Rhythm of Avaz
+		2 Rhythm of Danaj
+		2 Mehr's Last Captain
+		2 Abbas and Laila
+		2 Mehr's Unending Horde
+		2 Last Priest of Hadak
+		2 Nozar, Dunesea Merchant
+		2 Rally the Armies
+		2 Rhythm of Kaneh
+		2 Savior Tactician
+		2 Martoob Lifeshaper
+		2 Dali, the Eyes of Danaj
+		2 Desolate Advance
+		2 Furious Blow
+		2 Streetwise Spellseeker
+		2 Variety of Goods
+		2 Shideh, Avazs Conqueror
+		2 Ineptitude
+		2 Parastu, Soli's Overseer
+		2 The Brink of War
+		2 Harsh Spahbed
+		2 Zhubin, Spear of Kaneh
+		2 Bloodthirsty Manticore
+		2 From the Skies, Peace
+		2 Sadegh, Tyrant of Nizev
+		2 Wretched Skulker
+		2 Rhythm of Nizev
+		2 Backalley Connections
+		2 Dawn Over Avaz
+		2 Jals Spawn
+		2 Cosmic Banishment
+		2 Danaj Sightseer
+		2 Obstinate Wishgranter
+		2 Sahras Harbinger
+		2 Swooping Manticore
+		2 Iridescent Savior
+		2 Div of Unsettling Secrets
+		2 Disappointment
+		2 Cyrukans Elite
+		2 Atieh's Command
+		2 Persecutor of Truths
+		1 Cyrukan of Heart and Iron
+		1 Rahstahde, Brand of Truth
+		1 Fahrib the EverScheming
+		1 Mahara, General of All
+		1 Abwad Kahroba, Failed Son
+		1 Tamaak the Arid Swarm
+		1 Martoob of Flowing Life
+		1 In Blood, Vengeance
+		1 Shahmaran of the Empty Sea
+		1 Hayat, Hungering Bakhtak
+		1 Acrimony
+		1 Hollow Simulacrum
+		1 Colossus of Alkabah
+		1 Andazir, First to Aspire
+		1 Pariahs Bargain
+		1 The Lost and Seeking
+		1 Zareen Kahroba, Shah
+		1 Atieh, Seer of Distant Futures
+		1 Sahra, Hadak's Last Warrior
+		1 Feather of the Simurgh
+		[UncommonSlot(3)]
+	9 Soli Fortress
+		9 Nizev Fortress
+		9 Kaneh Fortress
+		9 Avaz Fortress
+		9 Danaj Fortress
+		9 Crisis in Danaj
+		9 Settling of Nizev
+		9 Settling of Avaz
+		9 Crisis in Soli
+		9 Avaz Rising
+		9 Nizev Rising
+		9 Danaj Rising
+		9 Coagulating Strength
+		9 Herald of Atieh
+		9 Ruthless Bakhtak
+		9 Djinn of the Waning Candle
+		9 Crisis in Avaz
+		9 Valiant Cataphract
+		9 Angel of Despair
+		9 Selection at Danaj
+		9 Herald of Tamaak
+		9 Kaneh Rising
+		9 Settling of Danaj
+		9 Fulfill the Contract
+		9 Acolyte of the Far Winds
+		9 Firebolt
+		9 Adrift into Endless Stories
+		9 Div's Onslaught
+		9 Descent of the Div
+		9 On Andazirs Whims
+		9 Accept into the Fold
+		9 Djinn of Unfolding Truths
+		9 Echo of the Simurgh
+		9 Dunesea Dreadstalker
+		9 Prepare for War
+		9 Aswaran Conquerer
+		9 Shah's Caravan
+		9 Gather the Forces
+		9 Blessing from Wings on High
+		9 The Pillaging of Kaneh
+		9 Spawn of Hadak
+		9 Andazirs Disdain
+		9 Consult the Cosmos
+		9 Advocate of Ideals
+		9 Angel of Wisdom
+		9 Smiting Helix
+		9 Ambitious Truthseeker
+		9 Soli Rising
+		9 Garrison Warden
+		9 Scholar's Delight
+		9 Crisis in Kaneh
+		9 Advocate of Foibles
+		9 Dunesea Merchant
+		9 Fury of Cyrukan
+		9 Martoob's Forerunner
+		9 Chaosbender
+		9 Refracting Image
+		9 Fracturing Swipe
+		9 Settling of Kaneh
+		9 Nephilim Wisdomancer
+		9 Kingpin of Nizev
+		9 Rahstahde Swiftspear
+		9 Quickstep Ranger
+		9 Standoff
+		9 Tidebender
+		9 Dutybound Ghul
+		9 Crisis in Nizev
+		9 Dunesea Ranger
+		9 Zagos Roc
+		9 Wade Through Treasures
+		9 Oracle of the Unseen
+		9 Paygan Firebinder
+		9 Heartweaver
+		9 Confine to the Oasis
+		9 Settling of Soli
+		9 Traverse the Endless Well
+		9 Djinn of the Twisted Wish
+		9 Quake Devourer
+		9 Zagos Abomination
+		9 Guardians of Kallians Tomb
+		9 Hooded Mystic
+		9 Petty Thief
+		9 Blackfeather Cleric
+		9 Manifold Manipulator
+		9 Convicted Strike
+		[CommonSlot(10)]
+	30 Burgeoning Satrapy
+		30 Assault on Soli
+		30 Truthseeker Prodigy
+		30 Esoteric Visionary
+		30 Shipment Overseer
+		30 Settling Alkabah
+		30 Cast Judgment
+		30 Regretful Chronicler
+		30 Ruthless Advisor
+		30 Eyes of Cyrukan
+		30 Avaz Sentry
+		30 Blessing of Respite
+		30 Adrift Surveyor
+		30 EverWandering Vagabond
+		30 Evening Serenade
+		30 Cultivator of Crops
+		30 Sentinel of Avaz
+		30 Skyborne Strategist
+		30 Demon of Endless Hunger
+		30 Vicious Shamshir
+		30 Erode
+		30 Inspirational Beacon
+		30 Implacable Djinn
+		30 Selfserving Ghul
+		30 Figments of Warriors Lost
+		30 Expose Wickedness
+		30 Vanguard of Glory
+		30 Tiller of the Paltry Lie
+		30 Kaneh Siege
+		30 Refitting for Battle
+		30 Martoob Hawker
+		30 Zealot of Mahara
+		30 Reject Wickedness
+		30 Fiendish Bruiser
+		30 Truthbearing Peri
+		30 Commanders Guidance
+		30 Banishment of Aspirations
+		30 Scope the Cosmos
+		30 Prepare for Assault
+		30 Hesitant Vanguard
+		30 Fell LanternBearer
+		30 Keen Blademaster
+		30 Wave Shield
+		30 Enigmatic Herald
+		30 Frantic Efreetspeaker
+		30 Shah's Proclamation
+		30 Lowly Cataphract
+		30 Wisdom of the Dunesea
+		30 Astral Assassination
+		30 Regroup and Stockpile
+		30 Day at the Market
+		30 Prepare for Rest
+		30 Tempt with Gifts
+		30 Refine to Nothing
+		30 Andazir Veteran
+		30 Nimble Pathfinder
+		30 Mahara Enforcer
+		30 Sinking Pessimism
+		30 Castaway's Remorse
+		30 Incendiary Flow
+		30 Unstoppable Zealot
+		30 Show of Unwavering Honor
+		30 Acquiesce Position
+		30 Fatal Strike
+		30 Ignite the Inner Flame
+		30 Kahroba Patrol
+		30 In Defense of Soli
+		30 Maneli Ambassador
+		30 Manipulations of the Div
+		30 Tomb-Raider Duo
+		30 Div of Lethargic Ideals
+		30 Kaneh Scribe
+		30 Dewdrop Ordainer
+		30 Drag Through the Alley
+		30 Piercing Arrow
+		30 Ironclad Sentry
+		30 Birthright Proselyte
+		30 Brightwing Sphinx
+		30 Andazirs Pact
+		30 Conjure Quicksand
+		30 Cherish the Past
+		30 Unyielding Aswaran
+		30 Benevolent Host
+		30 Poison-Sky Acolyte
+		30 Bloodcloaked Wrecker
+		30 Crush Opposition
+		30 Augur of Pathways
+		30 Cunning Plan
+		30 Offering to the Div
+		30 Bazaar Braggart
+		30 Marshal of Brethren
+		30 Toil Beyond Death
+		30 Rahstahde Pledge
+		30 Openmaw Demon
+		30 Battlefield Tiger
+		30 Venerable Skyblade
+		30 Attendant of Graves
+		30 Wayfinder's Bauble
+		30 Banner of Warfare
+		30 Avaz Sanctuary
+		30 Avaz Temple
+		30 Danaj Sanctuary
+		30 Danaj Temple
+		30 Kaneh Sanctuary
+		30 Kaneh Temple
+		30 Nizev Sanctuary
+		30 Nizev Temple
+		30 Soli Sanctuary
+		30 Soli Temple
+		

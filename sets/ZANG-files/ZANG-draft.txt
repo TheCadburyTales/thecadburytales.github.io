@@ -1,0 +1,5384 @@
+﻿[CustomCards]
+	[	{
+			"name": "Dower Mountainside",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain ",
+			"collector_number": "407",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/407_Dower Mountainside.png"
+			}
+		},
+		{
+			"name": "Cloistered Yew",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest ",
+			"collector_number": "395",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/395_Cloistered Yew.png"
+			}
+		},
+		{
+			"name": "Remote Trail",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp ",
+			"collector_number": "430",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/430_Remote Trail.png"
+			}
+		},
+		{
+			"name": "Uneasy Lakeside",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Island Swamp ",
+			"collector_number": "442",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/442_Uneasy Lakeside.png"
+			}
+		},
+		{
+			"name": "Grim Marshwood",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "413",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/413_Grim Marshwood.png"
+			}
+		},
+		{
+			"name": "Tomb of the First Scholar",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Island ",
+			"collector_number": "437",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/437_Tomb of the First Scholar.png"
+			}
+		},
+		{
+			"name": "Tomb of the First Fighter",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Plains ",
+			"collector_number": "436",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/436_Tomb of the First Fighter.png"
+			}
+		},
+		{
+			"name": "Valley of Multitudes",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "444",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/444_Valley of Multitudes.png"
+			}
+		},
+		{
+			"name": "Wavering Horizon",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "447",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/447_Wavering Horizon.png"
+			}
+		},
+		{
+			"name": "Shambling Hamlet",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "432",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/432_Shambling Hamlet.png"
+			}
+		},
+		{
+			"name": "Flux Gateway",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "410",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/410_Flux Gateway.png"
+			}
+		},
+		{
+			"name": "Kanna Bastion",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "417",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/417_Kanna Bastion.png"
+			}
+		},
+		{
+			"name": "Tomb of the First Shah",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Forest ",
+			"collector_number": "438",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/438_Tomb of the First Shah.png"
+			}
+		},
+		{
+			"name": "The Place that Quenches the Flood",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Riddle Land",
+			"collector_number": "428",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/428_The Place that Quenches the Flood.png"
+			}
+		},
+		{
+			"name": "Adversarial Savior",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Riddle Creature — Angel Incarnation ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/2_Adversarial Savior.png"
+			}
+		},
+		{
+			"name": "Ilysian Fields",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "416",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/416_Ilysian Fields.png"
+			}
+		},
+		{
+			"name": "Demolition Field",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "406",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/406_Demolition Field.png"
+			}
+		},
+		{
+			"name": "Tomb of the First Usurper",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Swamp ",
+			"collector_number": "440",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/440_Tomb of the First Usurper.png"
+			}
+		},
+		{
+			"name": "Tomb of the First Tyrant",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Mountain ",
+			"collector_number": "439",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/439_Tomb of the First Tyrant.png"
+			}
+		},
+		{
+			"name": "Arid Mesa",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "390",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/390_Arid Mesa.png"
+			}
+		},
+		{
+			"name": "Ash Barrens",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "391",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/391_Ash Barrens.png"
+			}
+		},
+		{
+			"name": "Barren Ashlands",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "392",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/392_Barren Ashlands.png"
+			}
+		},
+		{
+			"name": "Bloodstained Mire",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "393",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/393_Bloodstained Mire.png"
+			}
+		},
+		{
+			"name": "Buried Colossus",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "394",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/394_Buried Colossus.png"
+			}
+		},
+		{
+			"name": "Crossroads of Amnesty",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Island Swamp ",
+			"collector_number": "396",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/396_Crossroads of Amnesty.png"
+			}
+		},
+		{
+			"name": "Crossroads of Artistry",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Island Mountain ",
+			"collector_number": "397",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/397_Crossroads of Artistry.png"
+			}
+		},
+		{
+			"name": "Crossroads of Bravery",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains ",
+			"collector_number": "398",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/398_Crossroads of Bravery.png"
+			}
+		},
+		{
+			"name": "Crossroads of Charity",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Forest Plains ",
+			"collector_number": "399",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/399_Crossroads of Charity.png"
+			}
+		},
+		{
+			"name": "Crossroads of Efficiency",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Forest Island ",
+			"collector_number": "400",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/400_Crossroads of Efficiency.png"
+			}
+		},
+		{
+			"name": "Crossroads of Finality",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain ",
+			"collector_number": "401",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/401_Crossroads of Finality.png"
+			}
+		},
+		{
+			"name": "Crossroads of History",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest ",
+			"collector_number": "402",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/402_Crossroads of History.png"
+			}
+		},
+		{
+			"name": "Crossroads of Serenity",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp ",
+			"collector_number": "403",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/403_Crossroads of Serenity.png"
+			}
+		},
+		{
+			"name": "Crossroads of Tenacity",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest ",
+			"collector_number": "404",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/404_Crossroads of Tenacity.png"
+			}
+		},
+		{
+			"name": "Crossroads of Unity",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Plains Island ",
+			"collector_number": "405",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/405_Crossroads of Unity.png"
+			}
+		},
+		{
+			"name": "Ephemeral Mire",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "408",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/408_Ephemeral Mire.png"
+			}
+		},
+		{
+			"name": "Flooded Strand",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "409",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/409_Flooded Strand.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "455",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/455_Forest.png"
+			}
+		},
+		{
+			"name": "Gates to the Underworld",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "411",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/411_Gates to the Underworld.png"
+			}
+		},
+		{
+			"name": "Geyser Fields",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Island Mountain ",
+			"collector_number": "412",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/412_Geyser Fields.png"
+			}
+		},
+		{
+			"name": "Hermit's River",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Forest Island ",
+			"collector_number": "414",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/414_Hermit's River.png"
+			}
+		},
+		{
+			"name": "Hundred-Handed Pillars",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "415",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/415_Hundred-Handed Pillars.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "452",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/452_Island.png"
+			}
+		},
+		{
+			"name": "Marsh Flats",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "418",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/418_Marsh Flats.png"
+			}
+		},
+		{
+			"name": "Miasmic Cove",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "419",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/419_Miasmic Cove.png"
+			}
+		},
+		{
+			"name": "Misty Rainforest",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "420",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/420_Misty Rainforest.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "454",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/454_Mountain.png"
+			}
+		},
+		{
+			"name": "Nessian Woods",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "421",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/421_Nessian Woods.png"
+			}
+		},
+		{
+			"name": "Nimbus of Thought",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "422",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/422_Nimbus of Thought.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "451",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/451_Plains.png"
+			}
+		},
+		{
+			"name": "Polluted Delta",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "429",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/429_Polluted Delta.png"
+			}
+		},
+		{
+			"name": "Scalding Tarn",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "431",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/431_Scalding Tarn.png"
+			}
+		},
+		{
+			"name": "Shell Cove",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "433",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/433_Shell Cove.png"
+			}
+		},
+		{
+			"name": "Shimmering Beach",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Plains Island ",
+			"collector_number": "434",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/434_Shimmering Beach.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "453",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/453_Swamp.png"
+			}
+		},
+		{
+			"name": "Titan's Stairs",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "435",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/435_Titan's Stairs.png"
+			}
+		},
+		{
+			"name": "Tranquil Heath",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Forest Plains ",
+			"collector_number": "441",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/441_Tranquil Heath.png"
+			}
+		},
+		{
+			"name": "Unrivaled Peak",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains ",
+			"collector_number": "443",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/443_Unrivaled Peak.png"
+			}
+		},
+		{
+			"name": "Verdant Canyon",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest ",
+			"collector_number": "445",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/445_Verdant Canyon.png"
+			}
+		},
+		{
+			"name": "Verdant Catacombs",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "446",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/446_Verdant Catacombs.png"
+			}
+		},
+		{
+			"name": "Ornate Temple",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "427",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/427_Ornate Temple.png"
+			}
+		},
+		{
+			"name": "Ornate Seafloor",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "426",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/426_Ornate Seafloor.png"
+			}
+		},
+		{
+			"name": "Ornate Grove",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "424",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/424_Ornate Grove.png"
+			}
+		},
+		{
+			"name": "Ornate Basilica",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "423",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/423_Ornate Basilica.png"
+			}
+		},
+		{
+			"name": "Ornate Sanctuary",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "425",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/425_Ornate Sanctuary.png"
+			}
+		},
+		{
+			"name": "Wayfarer's Shrine",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "448",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/448_Wayfarer's Shrine.png"
+			}
+		},
+		{
+			"name": "Windswept Heath",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "449",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/449_Windswept Heath.png"
+			}
+		},
+		{
+			"name": "Wooded Foothills",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "450",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/450_Wooded Foothills.png"
+			}
+		},
+		{
+			"name": "Flayer of the Fair Basilica",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Creature — Phyrexian Cleric ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/21_Flayer of the Fair Basilica.png"
+			}
+		},
+		{
+			"name": "Speaker of the Everwinter",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/50_Speaker of the Everwinter.png"
+			}
+		},
+		{
+			"name": "Whitaker Paladin",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric Soldier ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/63_Whitaker Paladin.png"
+			}
+		},
+		{
+			"name": "Teambuilding Exercise",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/54_Teambuilding Exercise.png"
+			}
+		},
+		{
+			"name": "Cleanser of the Blessed Legacy",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Creature — Orc Cleric ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/12_Cleanser of the Blessed Legacy.png"
+			}
+		},
+		{
+			"name": "Agnomakhos's Legionnaire",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/3_Agnomakhos's Legionnaire.png"
+			}
+		},
+		{
+			"name": "Maiden of Dawn",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/30_Maiden of Dawn.png"
+			}
+		},
+		{
+			"name": "Resolute Bugbear",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Creature — Ogre Soldier ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/41_Resolute Bugbear.png"
+			}
+		},
+		{
+			"name": "Ivory Curtain Regular",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Creature — Construct Fox Actor ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/24_Ivory Curtain Regular.png"
+			}
+		},
+		{
+			"name": "Terrel Messenger",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Kithkin Soldier ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/55_Terrel Messenger.png"
+			}
+		},
+		{
+			"name": "Silence at Noon",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/48_Silence at Noon.png"
+			}
+		},
+		{
+			"name": "On the Quest for Friendship",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/35_On the Quest for Friendship.png"
+			}
+		},
+		{
+			"name": "Alamazzar's Command",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/6_Alamazzar's Command.png"
+			}
+		},
+		{
+			"name": "Decree of the King",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/14_Decree of the King.png"
+			}
+		},
+		{
+			"name": "Purge Maliciousness",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/39_Purge Maliciousness.png"
+			}
+		},
+		{
+			"name": "Reforge Resolve",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/40_Reforge Resolve.png"
+			}
+		},
+		{
+			"name": "Benumb",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/8_Benumb.png"
+			}
+		},
+		{
+			"name": "Eternal Embrace",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/17_Eternal Embrace.png"
+			}
+		},
+		{
+			"name": "Tsunayoshi's Valor",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/60_Tsunayoshi's Valor.png"
+			}
+		},
+		{
+			"name": "Omen of Passage",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/34_Omen of Passage.png"
+			}
+		},
+		{
+			"name": "Eviction",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/20_Eviction.png"
+			}
+		},
+		{
+			"name": "Innocence Denied",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/23_Innocence Denied.png"
+			}
+		},
+		{
+			"name": "Bind to the Vessel",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Shard ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/9_Bind to the Vessel.png"
+			}
+		},
+		{
+			"name": "Birth of the Praetor's Voice",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/10_Birth of the Praetor's Voice.png"
+			}
+		},
+		{
+			"name": "Radio Jockey",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Creature — Dog Detective ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/113_Radio Jockey.png"
+			}
+		},
+		{
+			"name": "Harpy Fledgling",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Creature — Harpy ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/89_Harpy Fledgling.png"
+			}
+		},
+		{
+			"name": "Wintertouched Faerie",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Creature — Faerie Warlock ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/127_Wintertouched Faerie.png"
+			}
+		},
+		{
+			"name": "Jahan's Disdain",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/94_Jahan's Disdain.png"
+			}
+		},
+		{
+			"name": "Titan of Surtland",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Giant Warrior ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/124_Titan of Surtland.png"
+			}
+		},
+		{
+			"name": "Achim's Command",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/66_Achim's Command.png"
+			}
+		},
+		{
+			"name": "Induce with Wings",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/91_Induce with Wings.png"
+			}
+		},
+		{
+			"name": "Stargazing",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/121_Stargazing.png"
+			}
+		},
+		{
+			"name": "Removing the Mask",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/114_Removing the Mask.png"
+			}
+		},
+		{
+			"name": "Hamper",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/88_Hamper.png"
+			}
+		},
+		{
+			"name": "Otherworldly Denial",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/110_Otherworldly Denial.png"
+			}
+		},
+		{
+			"name": "Omen of Heroes",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/107_Omen of Heroes.png"
+			}
+		},
+		{
+			"name": "Opulent Mindcage",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/109_Opulent Mindcage.png"
+			}
+		},
+		{
+			"name": "Muse Upon Eternity",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/102_Muse Upon Eternity.png"
+			}
+		},
+		{
+			"name": "Thought Vase",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}",
+			"type": "Artifact",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/123_Thought Vase.png"
+			}
+		},
+		{
+			"name": "Glimpse of Opulent's Eternity",
+			"rarity": "mythic",
+			"mana_cost": "{X}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/86_Glimpse of Opulent's Eternity.png"
+			}
+		},
+		{
+			"name": "Save Face",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/116_Save Face.png"
+			}
+		},
+		{
+			"name": "Foil Frailty",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/84_Foil Frailty.png"
+			}
+		},
+		{
+			"name": "Float into the Page",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/83_Float into the Page.png"
+			}
+		},
+		{
+			"name": "Inspect the Rubstones",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/92_Inspect the Rubstones.png"
+			}
+		},
+		{
+			"name": "Turn to Knowledge",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/126_Turn to Knowledge.png"
+			}
+		},
+		{
+			"name": "Paomar Prerogative",
+			"rarity": "mythic",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/111_Paomar Prerogative.png"
+			}
+		},
+		{
+			"name": "Listlessness",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/97_Listlessness.png"
+			}
+		},
+		{
+			"name": "Beget Knowledge From Aether",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/72_Beget Knowledge From Aether.png"
+			}
+		},
+		{
+			"name": "Scrutinize",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/117_Scrutinize.png"
+			}
+		},
+		{
+			"name": "Animate Prop",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/70_Animate Prop.png"
+			}
+		},
+		{
+			"name": "Aldegar's Trailblazer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Bird Soldier Scout ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/69_Aldegar's Trailblazer.png"
+			}
+		},
+		{
+			"name": "Faulty Omenpath",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/82_Faulty Omenpath.png"
+			}
+		},
+		{
+			"name": "Commit to Text",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/75_Commit to Text.png"
+			}
+		},
+		{
+			"name": "Contemplate",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/76_Contemplate.png"
+			}
+		},
+		{
+			"name": "Tamper with the Timeline",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/122_Tamper with the Timeline.png"
+			}
+		},
+		{
+			"name": "Moonstone of Qabel",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/101_Moonstone of Qabel.png"
+			}
+		},
+		{
+			"name": "Call of Marit Lage",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/74_Call of Marit Lage.png"
+			}
+		},
+		{
+			"name": "For Marva",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/85_For Marva.png"
+			}
+		},
+		{
+			"name": "Nonstop Shop",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/104_Nonstop Shop.png"
+			}
+		},
+		{
+			"name": "Gutterpunk",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Vampire Citizen ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/151_Gutterpunk.png"
+			}
+		},
+		{
+			"name": "Hound of Tizerus",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Creature — Dog Zombie ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/154_Hound of Tizerus.png"
+			}
+		},
+		{
+			"name": "Vile Bakeneko",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Cat Warlock ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/190_Vile Bakeneko.png"
+			}
+		},
+		{
+			"name": "Evergrowing Ichor",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Creature — Ooze ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/146_Evergrowing Ichor.png"
+			}
+		},
+		{
+			"name": "Leymsel Accoylte",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Creature — Orc Warlock ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/157_Leymsel Accoylte.png"
+			}
+		},
+		{
+			"name": "Maiden of Dusk",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/160_Maiden of Dusk.png"
+			}
+		},
+		{
+			"name": "Sage of Growth and Decay",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Creature — Elf Wizard ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/174_Sage of Growth and Decay.png"
+			}
+		},
+		{
+			"name": "Treacherous Orator",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Creature — Satyr Bard Pirate ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/186_Treacherous Orator.png"
+			}
+		},
+		{
+			"name": "Ciar's Command",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/133_Ciar's Command.png"
+			}
+		},
+		{
+			"name": "Spartoi Rising",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/180_Spartoi Rising.png"
+			}
+		},
+		{
+			"name": "Hayat's Plague",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/152_Hayat's Plague.png"
+			}
+		},
+		{
+			"name": "Toxic Spores",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/185_Toxic Spores.png"
+			}
+		},
+		{
+			"name": "Splendid Massacre",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/181_Splendid Massacre.png"
+			}
+		},
+		{
+			"name": "Omen of Affliction",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/168_Omen of Affliction.png"
+			}
+		},
+		{
+			"name": "Vanquish the Oppressor",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/188_Vanquish the Oppressor.png"
+			}
+		},
+		{
+			"name": "Siphon Soulpower",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/178_Siphon Soulpower.png"
+			}
+		},
+		{
+			"name": "Vitality Wellspring",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/191_Vitality Wellspring.png"
+			}
+		},
+		{
+			"name": "Devour",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/140_Devour.png"
+			}
+		},
+		{
+			"name": "Drown Hope",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/142_Drown Hope.png"
+			}
+		},
+		{
+			"name": "Find Fault in the Perfect",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/150_Find Fault in the Perfect.png"
+			}
+		},
+		{
+			"name": "Reconstruct from Scrap",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/173_Reconstruct from Scrap.png"
+			}
+		},
+		{
+			"name": "Empty Rehearsal",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/143_Empty Rehearsal.png"
+			}
+		},
+		{
+			"name": "Murder of the Mind",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/167_Murder of the Mind.png"
+			}
+		},
+		{
+			"name": "The Dead Jarl's Chant",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/135_The Dead Jarl's Chant.png"
+			}
+		},
+		{
+			"name": "The Decline of Dr. Vaughn",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/137_The Decline of Dr. Vaughn.png"
+			}
+		},
+		{
+			"name": "Vizier's Alarm",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental Imp ",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/253_Vizier's Alarm.png"
+			}
+		},
+		{
+			"name": "Hook Executioner",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/219_Hook Executioner.png"
+			}
+		},
+		{
+			"name": "Harvey's Outrider",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/213_Harvey's Outrider.png"
+			}
+		},
+		{
+			"name": "Finicky Connoisseur",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Creature — Monkey Rogue ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/212_Finicky Connoisseur.png"
+			}
+		},
+		{
+			"name": "Bellowing Commands",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/201_Bellowing Commands.png"
+			}
+		},
+		{
+			"name": "Cidraeth Bloodchanter",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/203_Cidraeth Bloodchanter.png"
+			}
+		},
+		{
+			"name": "Wraithslayer",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental Wolf ",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/256_Wraithslayer.png"
+			}
+		},
+		{
+			"name": "Scorned, but Not Broken",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/238_Scorned, but Not Broken.png"
+			}
+		},
+		{
+			"name": "Servant of Shinobu",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Creature — Azra Warrior ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/241_Servant of Shinobu.png"
+			}
+		},
+		{
+			"name": "Novice Flamesage",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Creature — Elf Wizard ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/228_Novice Flamesage.png"
+			}
+		},
+		{
+			"name": "Arena Conqueror",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/194_Arena Conqueror.png"
+			}
+		},
+		{
+			"name": "Emberwood Balladeer",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Creature — Elf Bard ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/209_Emberwood Balladeer.png"
+			}
+		},
+		{
+			"name": "Luminary Dragon",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/226_Luminary Dragon.png"
+			}
+		},
+		{
+			"name": "United Frontliner",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Azra Soldier ",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/252_United Frontliner.png"
+			}
+		},
+		{
+			"name": "Student of the Evoker",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/248_Student of the Evoker.png"
+			}
+		},
+		{
+			"name": "Consult",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/205_Consult.png"
+			}
+		},
+		{
+			"name": "Refine the Past",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/236_Refine the Past.png"
+			}
+		},
+		{
+			"name": "Hawk Shot",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/214_Hawk Shot.png"
+			}
+		},
+		{
+			"name": "Spread the Calling Card",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/247_Spread the Calling Card.png"
+			}
+		},
+		{
+			"name": "Bastazim's Command",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/200_Bastazim's Command.png"
+			}
+		},
+		{
+			"name": "Devastating Blast",
+			"rarity": "mythic",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/206_Devastating Blast.png"
+			}
+		},
+		{
+			"name": "Acidic Eruption",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/193_Acidic Eruption.png"
+			}
+		},
+		{
+			"name": "Impending Peril",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/220_Impending Peril.png"
+			}
+		},
+		{
+			"name": "Burning Echoes",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/202_Burning Echoes.png"
+			}
+		},
+		{
+			"name": "Volt Surge",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/254_Volt Surge.png"
+			}
+		},
+		{
+			"name": "Ferocious Flame",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/211_Ferocious Flame.png"
+			}
+		},
+		{
+			"name": "Sentinel Steelhound",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Gnome Dog ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/240_Sentinel Steelhound.png"
+			}
+		},
+		{
+			"name": "Endless Iteration",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/210_Endless Iteration.png"
+			}
+		},
+		{
+			"name": "Elder of Thirty Thousand Spores",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Creature — Fungus Shaman ",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/268_Elder of Thirty Thousand Spores.png"
+			}
+		},
+		{
+			"name": "Messenger of the Aberrant",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Warlock ",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/293_Messenger of the Aberrant.png"
+			}
+		},
+		{
+			"name": "Orcish Sentinel",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Creature — Orc Archer ",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/300_Orcish Sentinel.png"
+			}
+		},
+		{
+			"name": "Tyrranax Shepherd",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Creature — Phyrexian Shaman ",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/317_Tyrranax Shepherd.png"
+			}
+		},
+		{
+			"name": "Utopia Pair",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Enchantment Creature — Nymph Shard ",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/318_Utopia Pair.png"
+			}
+		},
+		{
+			"name": "Fyndhorn Shaman",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Shaman ",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/276_Fyndhorn Shaman.png"
+			}
+		},
+		{
+			"name": "The Assault on Sandrock",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/262_The Assault on Sandrock.png"
+			}
+		},
+		{
+			"name": "Timber Slayer",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Creature — Troll Rogue ",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/315_Timber Slayer.png"
+			}
+		},
+		{
+			"name": "Collect the Lost Myths",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}",
+			"type": "Instant",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/265_Collect the Lost Myths.png"
+			}
+		},
+		{
+			"name": "Rotating Cast",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/307_Rotating Cast.png"
+			}
+		},
+		{
+			"name": "Omen of Harvests",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/299_Omen of Harvests.png"
+			}
+		},
+		{
+			"name": "Explore the Unknown",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/273_Explore the Unknown.png"
+			}
+		},
+		{
+			"name": "Resolve",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/306_Resolve.png"
+			}
+		},
+		{
+			"name": "Ascend to the Omenpath",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/261_Ascend to the Omenpath.png"
+			}
+		},
+		{
+			"name": "Jerrold's Truest Form",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/286_Jerrold's Truest Form.png"
+			}
+		},
+		{
+			"name": "Dance of the Ending Sun",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/266_Dance of the Ending Sun.png"
+			}
+		},
+		{
+			"name": "As Fact Becomes Fable",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/260_As Fact Becomes Fable.png"
+			}
+		},
+		{
+			"name": "Erwan's Command",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/271_Erwan's Command.png"
+			}
+		},
+		{
+			"name": "Kindly Observer",
+			"rarity": "mythic",
+			"mana_cost": "{0}",
+			"type": "Artifact Creature — Construct Scout ",
+			"collector_number": "372",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/372_Kindly Observer.png"
+			}
+		},
+		{
+			"name": "Simulated Hope",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Angel ",
+			"collector_number": "385",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/385_Simulated Hope.png"
+			}
+		},
+		{
+			"name": "Attentive Automaton",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/362_Attentive Automaton.png"
+			}
+		},
+		{
+			"name": "Bastion of Stars",
+			"rarity": "mythic",
+			"mana_cost": "{8}",
+			"type": "Artifact Creature — Elemental ",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/363_Bastion of Stars.png"
+			}
+		},
+		{
+			"name": "Myr Retriever",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Myr ",
+			"collector_number": "377",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/377_Myr Retriever.png"
+			}
+		},
+		{
+			"name": "Memnarch's Eyes",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Myr ",
+			"collector_number": "374",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/374_Memnarch's Eyes.png"
+			}
+		},
+		{
+			"name": "Structural Plans",
+			"rarity": "mythic",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "386",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/386_Structural Plans.png"
+			}
+		},
+		{
+			"name": "Relic of Lost Love",
+			"rarity": "mythic",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "384",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/384_Relic of Lost Love.png"
+			}
+		},
+		{
+			"name": "Iron-Draining Axe",
+			"rarity": "mythic",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "371",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/371_Iron-Draining Axe.png"
+			}
+		},
+		{
+			"name": "Mysterious Vial",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact — Clue ",
+			"collector_number": "382",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/382_Mysterious Vial.png"
+			}
+		},
+		{
+			"name": "Graven Boat",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "369",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/369_Graven Boat.png"
+			}
+		},
+		{
+			"name": "Adorned Blade",
+			"rarity": "mythic",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/361_Adorned Blade.png"
+			}
+		},
+		{
+			"name": "Mox Spinel",
+			"rarity": "mythic",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "376",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/376_Mox Spinel.png"
+			}
+		},
+		{
+			"name": "Locked Aetherstone",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "373",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/373_Locked Aetherstone.png"
+			}
+		},
+		{
+			"name": "Fans of Ryunosuke",
+			"rarity": "mythic",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "366",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/366_Fans of Ryunosuke.png"
+			}
+		},
+		{
+			"name": "Forge of Inner Strength",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "367",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/367_Forge of Inner Strength.png"
+			}
+		},
+		{
+			"name": "Monument to the Forgotten Hero",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "375",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/375_Monument to the Forgotten Hero.png"
+			}
+		},
+		{
+			"name": "Mysterious Cauldron",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact — Clue ",
+			"collector_number": "379",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/379_Mysterious Cauldron.png"
+			}
+		},
+		{
+			"name": "Bottled Potential",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "364",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/364_Bottled Potential.png"
+			}
+		},
+		{
+			"name": "Grasping Pillars",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "368",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/368_Grasping Pillars.png"
+			}
+		},
+		{
+			"name": "Mysterious Milestone",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact — Clue ",
+			"collector_number": "381",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/381_Mysterious Milestone.png"
+			}
+		},
+		{
+			"name": "Drained Essenceforge",
+			"rarity": "mythic",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "365",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/365_Drained Essenceforge.png"
+			}
+		},
+		{
+			"name": "Tome of Silent Mouths",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "387",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/387_Tome of Silent Mouths.png"
+			}
+		},
+		{
+			"name": "Mysterious Book",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact — Clue ",
+			"collector_number": "378",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/378_Mysterious Book.png"
+			}
+		},
+		{
+			"name": "Vessel of the Empty Mind",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "388",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/388_Vessel of the Empty Mind.png"
+			}
+		},
+		{
+			"name": "Reconstruction Module",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "383",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/383_Reconstruction Module.png"
+			}
+		},
+		{
+			"name": "Mysterious Jewel",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact — Clue ",
+			"collector_number": "380",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/380_Mysterious Jewel.png"
+			}
+		},
+		{
+			"name": "Keeper of the Divine Tablet",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Creature — Orc Soldier ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/29_Keeper of the Divine Tablet.png"
+			}
+		},
+		{
+			"name": "Anguish",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/130_Anguish.png"
+			}
+		},
+		{
+			"name": "Evermarching Legionnaire",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Creature — Phyrexian Scout ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/19_Evermarching Legionnaire.png"
+			}
+		},
+		{
+			"name": "Simic Biocaster",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Crab Wizard ",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/310_Simic Biocaster.png"
+			}
+		},
+		{
+			"name": "Ode of Compassion",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/33_Ode of Compassion.png"
+			}
+		},
+		{
+			"name": "Heart's Betrayal",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/153_Heart's Betrayal.png"
+			}
+		},
+		{
+			"name": "Witherblade Strike",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/255_Witherblade Strike.png"
+			}
+		},
+		{
+			"name": "Deadly Interrogation",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/136_Deadly Interrogation.png"
+			}
+		},
+		{
+			"name": "Retribution",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Incarnation ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/42_Retribution.png"
+			}
+		},
+		{
+			"name": "Warkrei Saboteuse",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Soldier Scout ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/61_Warkrei Saboteuse.png"
+			}
+		},
+		{
+			"name": "Crimson Mist Ambush",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/13_Crimson Mist Ambush.png"
+			}
+		},
+		{
+			"name": "Travelcart Caretaker",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric Soldier ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/58_Travelcart Caretaker.png"
+			}
+		},
+		{
+			"name": "Peyma, Kahroba Poet",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Bard ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/37_Peyma, Kahroba Poet.png"
+			}
+		},
+		{
+			"name": "Naktamun Trapper",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Archer Ranger ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/32_Naktamun Trapper.png"
+			}
+		},
+		{
+			"name": "Rustic Harvester",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Farmer ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/45_Rustic Harvester.png"
+			}
+		},
+		{
+			"name": "Abolish the Mighty",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/1_Abolish the Mighty.png"
+			}
+		},
+		{
+			"name": "Alamazzar's Adoration",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/5_Alamazzar's Adoration.png"
+			}
+		},
+		{
+			"name": "Orb of Uneasy Serenity",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Orb ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/36_Orb of Uneasy Serenity.png"
+			}
+		},
+		{
+			"name": "Soli Commando",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/49_Soli Commando.png"
+			}
+		},
+		{
+			"name": "Tooth Snatcher",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie Rogue ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/125_Tooth Snatcher.png"
+			}
+		},
+		{
+			"name": "Keeper Glamourbinder",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental Bard ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/95_Keeper Glamourbinder.png"
+			}
+		},
+		{
+			"name": "Dust Scatterer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie Wizard ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/77_Dust Scatterer.png"
+			}
+		},
+		{
+			"name": "Fabricator of Relics",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/80_Fabricator of Relics.png"
+			}
+		},
+		{
+			"name": "Seeker of Buried Fortunes",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/118_Seeker of Buried Fortunes.png"
+			}
+		},
+		{
+			"name": "Selezzar's Treasurehunter",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Mercenary ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/177_Selezzar's Treasurehunter.png"
+			}
+		},
+		{
+			"name": "Malevolent Thug",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Azra Warlock ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/161_Malevolent Thug.png"
+			}
+		},
+		{
+			"name": "Prowling Darkness",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Shade ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/171_Prowling Darkness.png"
+			}
+		},
+		{
+			"name": "Priest of the Empty-Vessel",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Cleric ",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/170_Priest of the Empty-Vessel.png"
+			}
+		},
+		{
+			"name": "Background Replacer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Gorgon Horror ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/131_Background Replacer.png"
+			}
+		},
+		{
+			"name": "Inept Noble",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/156_Inept Noble.png"
+			}
+		},
+		{
+			"name": "Vessel of the All-Blood",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Azra Ranger ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/189_Vessel of the All-Blood.png"
+			}
+		},
+		{
+			"name": "Erebos's Lifecaller",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Demigod ",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/145_Erebos's Lifecaller.png"
+			}
+		},
+		{
+			"name": "Margarete's Honor Guard",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Wolf Soldier Wizard ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/163_Margarete's Honor Guard.png"
+			}
+		},
+		{
+			"name": "Hubris",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Incarnation ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/155_Hubris.png"
+			}
+		},
+		{
+			"name": "Fanatic of Andazir",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Azra Warrior ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/147_Fanatic of Andazir.png"
+			}
+		},
+		{
+			"name": "Seco Husk",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Skeleton Warrior ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/176_Seco Husk.png"
+			}
+		},
+		{
+			"name": "Koios's Student",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/224_Koios's Student.png"
+			}
+		},
+		{
+			"name": "Slizt Clan Ambusher",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/243_Slizt Clan Ambusher.png"
+			}
+		},
+		{
+			"name": "Scrappy Sidekick",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Construct Scout ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/239_Scrappy Sidekick.png"
+			}
+		},
+		{
+			"name": "Resentment",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Horror Incarnation ",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/237_Resentment.png"
+			}
+		},
+		{
+			"name": "Axguard Weaponsmith",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Artificer ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/195_Axguard Weaponsmith.png"
+			}
+		},
+		{
+			"name": "Prismari Showcaster",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/233_Prismari Showcaster.png"
+			}
+		},
+		{
+			"name": "Soulbinder Occultist",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/244_Soulbinder Occultist.png"
+			}
+		},
+		{
+			"name": "Elegant Ritualist",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elf Wizard ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/208_Elegant Ritualist.png"
+			}
+		},
+		{
+			"name": "Devourerer of Cosmos",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Soldier ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/207_Devourerer of Cosmos.png"
+			}
+		},
+		{
+			"name": "Gardener of the Endless Grove",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dryad Druid ",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/277_Gardener of the Endless Grove.png"
+			}
+		},
+		{
+			"name": "Sparkfeeder",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Hydra ",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/313_Sparkfeeder.png"
+			}
+		},
+		{
+			"name": "Quandrix Envisionist",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/303_Quandrix Envisionist.png"
+			}
+		},
+		{
+			"name": "Sapner Instructor",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Azra Knight ",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/309_Sapner Instructor.png"
+			}
+		},
+		{
+			"name": "Evermoving Preacher",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Azra Cleric Scout ",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/272_Evermoving Preacher.png"
+			}
+		},
+		{
+			"name": "Llanowar Advocate",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/290_Llanowar Advocate.png"
+			}
+		},
+		{
+			"name": "Skittish Sycamore",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dryad ",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/311_Skittish Sycamore.png"
+			}
+		},
+		{
+			"name": "Ironskin Sensei",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Samurai Druid ",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/285_Ironskin Sensei.png"
+			}
+		},
+		{
+			"name": "Llanowar Raiding Party",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Rogue ",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/291_Llanowar Raiding Party.png"
+			}
+		},
+		{
+			"name": "Milestone of the Grove",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/294_Milestone of the Grove.png"
+			}
+		},
+		{
+			"name": "Demands of the Just Ruler",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/341_Demands of the Just Ruler.png"
+			}
+		},
+		{
+			"name": "Ryunosuke's Contact",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/324_Ryunosuke's Contact.png"
+			}
+		},
+		{
+			"name": "Gruul Trance",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/334_Gruul Trance.png"
+			}
+		},
+		{
+			"name": "The Lotus Petals Fall",
+			"rarity": "mythic",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/351_The Lotus Petals Fall.png"
+			}
+		},
+		{
+			"name": "Frostfire Stalker",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Cat Beast ",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/355_Frostfire Stalker.png"
+			}
+		},
+		{
+			"name": "Ghaqdan Priestess",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/22_Ghaqdan Priestess.png"
+			}
+		},
+		{
+			"name": "Shattered Dealings",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/328_Shattered Dealings.png"
+			}
+		},
+		{
+			"name": "Rot to Life",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Instant",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/352_Rot to Life.png"
+			}
+		},
+		{
+			"name": "Ambitious Trooper",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Elf Soldier ",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/353_Ambitious Trooper.png"
+			}
+		},
+		{
+			"name": "Candid Portraitist",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Inkling Shapeshifter ",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/357_Candid Portraitist.png"
+			}
+		},
+		{
+			"name": "Oracle of Keranos",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Minotaur Wizard ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/230_Oracle of Keranos.png"
+			}
+		},
+		{
+			"name": "Wayfarer Satyr",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Satyr Scout ",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/340_Wayfarer Satyr.png"
+			}
+		},
+		{
+			"name": "Delroy",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Planeswalker — Delroy ",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/267_Delroy.png"
+			}
+		},
+		{
+			"name": "Mireio",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Planeswalker — Mireio ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/165_Mireio.png"
+			}
+		},
+		{
+			"name": "Imani",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Planeswalker — Imani ",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/356_Imani.png"
+			}
+		},
+		{
+			"name": "Kamden",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Planeswalker — Kamden ",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/342_Kamden.png"
+			}
+		},
+		{
+			"name": "Kir",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}",
+			"type": "Legendary Planeswalker — Kir ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/96_Kir.png"
+			}
+		},
+		{
+			"name": "Milos",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Legendary Planeswalker — Milos ",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/295_Milos.png"
+			}
+		},
+		{
+			"name": "Omen of Destiny",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/229_Omen of Destiny.png"
+			}
+		},
+		{
+			"name": "Paul",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Planeswalker — Paul ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/231_Paul.png"
+			}
+		},
+		{
+			"name": "Rightful Kingsguard",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cat Knight ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/43_Rightful Kingsguard.png"
+			}
+		},
+		{
+			"name": "Well-Connected Lead",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Construct Actor ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/62_Well-Connected Lead.png"
+			}
+		},
+		{
+			"name": "Surprise Maneuver",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/52_Surprise Maneuver.png"
+			}
+		},
+		{
+			"name": "Desiccated Maidens",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Zombie ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/15_Desiccated Maidens.png"
+			}
+		},
+		{
+			"name": "The Just King",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Cat Noble ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/27_The Just King.png"
+			}
+		},
+		{
+			"name": "Joyous Dvorovoi",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Faerie ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/26_Joyous Dvorovoi.png"
+			}
+		},
+		{
+			"name": "Ivory Curtain Roleweaver",
+			"rarity": "mythic",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Creature — Construct Actor ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/25_Ivory Curtain Roleweaver.png"
+			}
+		},
+		{
+			"name": "Mehr's Frontliner",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Zombie Soldier ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/31_Mehr's Frontliner.png"
+			}
+		},
+		{
+			"name": "Dunesea Guide",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Merchant ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/16_Dunesea Guide.png"
+			}
+		},
+		{
+			"name": "Slinky Mirrorkin",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/119_Slinky Mirrorkin.png"
+			}
+		},
+		{
+			"name": "Goldnapper Sprite",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Faerie Rogue ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/87_Goldnapper Sprite.png"
+			}
+		},
+		{
+			"name": "Nautopian Seashaper",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Wizard ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/103_Nautopian Seashaper.png"
+			}
+		},
+		{
+			"name": "Jaegrin Woodweaver",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Creature — Goblin Shaman ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/93_Jaegrin Woodweaver.png"
+			}
+		},
+		{
+			"name": "Spawn of Inadequacy",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/120_Spawn of Inadequacy.png"
+			}
+		},
+		{
+			"name": "Bizaare Vendor",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Merchant ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/73_Bizaare Vendor.png"
+			}
+		},
+		{
+			"name": "Evoker of Frost",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/78_Evoker of Frost.png"
+			}
+		},
+		{
+			"name": "The Answer to No Question",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Riddle Creature — Sphinx Incarnation ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/71_The Answer to No Question.png"
+			}
+		},
+		{
+			"name": "Devourer of Ink",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Demon Insect ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/141_Devourer of Ink.png"
+			}
+		},
+		{
+			"name": "Moroii Cleaner",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Vampire Advisor ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/166_Moroii Cleaner.png"
+			}
+		},
+		{
+			"name": "Oriq Soulweaver",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/169_Oriq Soulweaver.png"
+			}
+		},
+		{
+			"name": "Unfinished Stand-In",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Horror Actor ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/187_Unfinished Stand-In.png"
+			}
+		},
+		{
+			"name": "Thrissik's Exarch",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Phyrexian Angel ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/183_Thrissik's Exarch.png"
+			}
+		},
+		{
+			"name": "Mausoleum Enshrouder",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Knight ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/164_Mausoleum Enshrouder.png"
+			}
+		},
+		{
+			"name": "Reaper of Condemnation",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Angel Berserker ",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/172_Reaper of Condemnation.png"
+			}
+		},
+		{
+			"name": "Lifetide Manipulator",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Human Wizard ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/158_Lifetide Manipulator.png"
+			}
+		},
+		{
+			"name": "Ending's Wrangler",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Horror ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/144_Ending's Wrangler.png"
+			}
+		},
+		{
+			"name": "Hawker Passionweaver",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Creature — Azra Bard Wizard ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/215_Hawker Passionweaver.png"
+			}
+		},
+		{
+			"name": "Innerflame Berserker",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Berserker ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/221_Innerflame Berserker.png"
+			}
+		},
+		{
+			"name": "Mahnaz of Moonlit Blades",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/227_Mahnaz of Moonlit Blades.png"
+			}
+		},
+		{
+			"name": "Skophos Gatekeeper",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Minotaur Noble ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/242_Skophos Gatekeeper.png"
+			}
+		},
+		{
+			"name": "Loyalist of the Old Regime",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Jackal Soldier ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/225_Loyalist of the Old Regime.png"
+			}
+		},
+		{
+			"name": "Conceited Coach",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/204_Conceited Coach.png"
+			}
+		},
+		{
+			"name": "Inquisitive Gourdweaver",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Druid ",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/283_Inquisitive Gourdweaver.png"
+			}
+		},
+		{
+			"name": "Minstrel of the Fantastical",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Bard ",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/296_Minstrel of the Fantastical.png"
+			}
+		},
+		{
+			"name": "Verdant Curtain Monologuer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Construct Actor ",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/319_Verdant Curtain Monologuer.png"
+			}
+		},
+		{
+			"name": "Iridescent Croaker",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Frog ",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/284_Iridescent Croaker.png"
+			}
+		},
+		{
+			"name": "Zealot of the Jaspera",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Warrior ",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/320_Zealot of the Jaspera.png"
+			}
+		},
+		{
+			"name": "Street Cat Tagger",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Cat Artist ",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/314_Street Cat Tagger.png"
+			}
+		},
+		{
+			"name": "Empath of Nature's Soul",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Satyr Druid ",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/269_Empath of Nature's Soul.png"
+			}
+		},
+		{
+			"name": "Pendelhaven Defender",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Soldier ",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/302_Pendelhaven Defender.png"
+			}
+		},
+		{
+			"name": "Skola Nyxweaver",
+			"rarity": "mythic",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Creature — Satyr Soldier Scout ",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/312_Skola Nyxweaver.png"
+			}
+		},
+		{
+			"name": "Cave of Many Teeth",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant Cat ",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/264_Cave of Many Teeth.png"
+			}
+		},
+		{
+			"name": "Fassahd Chanters",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/274_Fassahd Chanters.png"
+			}
+		},
+		{
+			"name": "Mitosis Splicer",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/297_Mitosis Splicer.png"
+			}
+		},
+		{
+			"name": "Paladin of the Sacred Cape",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment Creature — Knight ",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/323_Paladin of the Sacred Cape.png"
+			}
+		},
+		{
+			"name": "Stage the Scene",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/335_Stage the Scene.png"
+			}
+		},
+		{
+			"name": "Curio Collector",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Orc Artificer ",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/347_Curio Collector.png"
+			}
+		},
+		{
+			"name": "Netherweave Harbinger",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Demon Soldier ",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/332_Netherweave Harbinger.png"
+			}
+		},
+		{
+			"name": "Envoy of the Realm Eater",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Berserker ",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/329_Envoy of the Realm Eater.png"
+			}
+		},
+		{
+			"name": "Nature's Gift",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/359_Nature's Gift.png"
+			}
+		},
+		{
+			"name": "Hadak's Remains",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "370",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/370_Hadak's Remains.png"
+			}
+		},
+		{
+			"name": "Achim",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Planeswalker — Achim ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/65_Achim.png"
+			}
+		},
+		{
+			"name": "Amaltheos, Endling",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Planeswalker — Amaltheos ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/129_Amaltheos, Endling.png"
+			}
+		},
+		{
+			"name": "Claes",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Planeswalker — Claes ",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/321_Claes.png"
+			}
+		},
+		{
+			"name": "Elissia",
+			"rarity": "mythic",
+			"mana_cost": "{X}{W}{U}",
+			"type": "Legendary Planeswalker — Elissia ",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/322_Elissia.png"
+			}
+		},
+		{
+			"name": "Erwan",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Planeswalker — Erwan ",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/270_Erwan.png"
+			}
+		},
+		{
+			"name": "Jericho",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Planeswalker — Jericho ",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/358_Jericho.png"
+			}
+		},
+		{
+			"name": "Kriemhild",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Planeswalker — Kriemhild ",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/288_Kriemhild.png"
+			}
+		},
+		{
+			"name": "Ludolf",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Planeswalker — Ludolf ",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/330_Ludolf.png"
+			}
+		},
+		{
+			"name": "Nelta",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Planeswalker — Nelta ",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/331_Nelta.png"
+			}
+		},
+		{
+			"name": "Rajabu",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Planeswalker — Rajabu ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/235_Rajabu.png"
+			}
+		},
+		{
+			"name": "The Faceless",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Planeswalker — Arif ",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/326_The Faceless.png"
+			}
+		},
+		{
+			"name": "Tobias",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Planeswalker — Tobias ",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/348_Tobias.png"
+			}
+		},
+		{
+			"name": "Tsunayoshi",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Planeswalker — Tsunayoshi ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/59_Tsunayoshi.png"
+			}
+		},
+		{
+			"name": "Tyrus",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Planeswalker — Tyrus ",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/360_Tyrus.png"
+			}
+		},
+		{
+			"name": "Vice",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Planeswalker — Vice ",
+			"collector_number": "389",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/389_Vice.png"
+			}
+		},
+		{
+			"name": "Yaromir",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Planeswalker — Yaromir ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/64_Yaromir.png"
+			}
+		},
+		{
+			"name": "Siaveed, Destined to Rule",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Nephilim Noble ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/47_Siaveed, Destined to Rule.png"
+			}
+		},
+		{
+			"name": "Evercaring Watcher",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Angel Cleric ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/18_Evercaring Watcher.png"
+			}
+		},
+		{
+			"name": "Shepherd of Redemption",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Angel Warrior ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/46_Shepherd of Redemption.png"
+			}
+		},
+		{
+			"name": "Aurora Walker",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Cat Spirit ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/7_Aurora Walker.png"
+			}
+		},
+		{
+			"name": "Nowhere Explorer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Sphinx ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/105_Nowhere Explorer.png"
+			}
+		},
+		{
+			"name": "Nyxcaller",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/106_Nyxcaller.png"
+			}
+		},
+		{
+			"name": "Rabota Line Worker",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/112_Rabota Line Worker.png"
+			}
+		},
+		{
+			"name": "Agent of the Council",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Sphinx Horror Rogue ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/67_Agent of the Council.png"
+			}
+		},
+		{
+			"name": "Fatespinners of Qawwa",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/148_Fatespinners of Qawwa.png"
+			}
+		},
+		{
+			"name": "Syphoner of Hope",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Creature — Demon ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/182_Syphoner of Hope.png"
+			}
+		},
+		{
+			"name": "Butcher of the Three Paths",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Aetherborn Rogue ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/132_Butcher of the Three Paths.png"
+			}
+		},
+		{
+			"name": "Titan of Urborg",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Zombie Giant Warrior ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/184_Titan of Urborg.png"
+			}
+		},
+		{
+			"name": "Solitary Mothman",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Insect Horror ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/179_Solitary Mothman.png"
+			}
+		},
+		{
+			"name": "The Final Blade",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Creature — Spirit ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/149_The Final Blade.png"
+			}
+		},
+		{
+			"name": "Balladeer of the Falling Snow",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Avatar ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/198_Balladeer of the Falling Snow.png"
+			}
+		},
+		{
+			"name": "Heedless Quartzforger",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dragon Artificer ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/216_Heedless Quartzforger.png"
+			}
+		},
+		{
+			"name": "Sparkborn Phoenix",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Phoenix ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/245_Sparkborn Phoenix.png"
+			}
+		},
+		{
+			"name": "Juggernaut of Burning Hunger",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental Warrior ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/222_Juggernaut of Burning Hunger.png"
+			}
+		},
+		{
+			"name": "Azra Thundershaper",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Azra Pirate ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/197_Azra Thundershaper.png"
+			}
+		},
+		{
+			"name": "Advocate of the True World",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/258_Advocate of the True World.png"
+			}
+		},
+		{
+			"name": "Hammerhead Krasis",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Shark Lizard ",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/279_Hammerhead Krasis.png"
+			}
+		},
+		{
+			"name": "Orphan Maker",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Chimera ",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/301_Orphan Maker.png"
+			}
+		},
+		{
+			"name": "Nessian Hydra",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Hydra ",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/298_Nessian Hydra.png"
+			}
+		},
+		{
+			"name": "Command of the Twin Oni",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}{R}{R}",
+			"type": "Instant",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/346_Command of the Twin Oni.png"
+			}
+		},
+		{
+			"name": "Divine Iron Synthesis",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Angel Artificer ",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/325_Divine Iron Synthesis.png"
+			}
+		},
+		{
+			"name": "Open to the Multiverse",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/108_Open to the Multiverse.png"
+			}
+		},
+		{
+			"name": "Alamazzar",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Alamazzar ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/4_Alamazzar.png"
+			}
+		},
+		{
+			"name": "Aoi and Aka",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Planeswalker — Aoi Aka ",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/345_Aoi and Aka.png"
+			}
+		},
+		{
+			"name": "Derukoskai",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Planeswalker — Derukoskai ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/138_Derukoskai.png"
+			}
+		},
+		{
+			"name": "Devika",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Planeswalker — Devika ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/139_Devika.png"
+			}
+		},
+		{
+			"name": "Fane",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Planeswalker — Fane ",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/333_Fane.png"
+			}
+		},
+		{
+			"name": "Lidija",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Planeswalker — Lidija ",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/289_Lidija.png"
+			}
+		},
+		{
+			"name": "Long-Term Method Actor",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Construct Elemental ",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/292_Long-Term Method Actor.png"
+			}
+		},
+		{
+			"name": "Marilye",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Planeswalker — Marilye ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/99_Marilye.png"
+			}
+		},
+		{
+			"name": "Togar",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Planeswalker — Togar ",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/251_Togar.png"
+			}
+		},
+		{
+			"name": "Vragi, Bretagard's Savior",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Planeswalker — Vragi ",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/339_Vragi, Bretagard's Savior.png"
+			}
+		},
+		{
+			"name": "Martoob's Evangelist",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Angel Cleric ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/100_Martoob's Evangelist.png"
+			}
+		},
+		{
+			"name": "Lustrous Seraph",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Angel Archer ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/98_Lustrous Seraph.png"
+			}
+		},
+		{
+			"name": "Lord of the Mire",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Demon Insect ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/159_Lord of the Mire.png"
+			}
+		},
+		{
+			"name": "Spawn of Hadak",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon Shaman ",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/246_Spawn of Hadak.png"
+			}
+		},
+		{
+			"name": "Surtland Rampager",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Giant Warrior ",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/249_Surtland Rampager.png"
+			}
+		},
+		{
+			"name": "Rottimber Lurker",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Giant Ranger ",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/308_Rottimber Lurker.png"
+			}
+		},
+		{
+			"name": "Attwater General",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Azra Soldier ",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/263_Attwater General.png"
+			}
+		},
+		{
+			"name": "Guardian of the Sacred Grove",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/278_Guardian of the Sacred Grove.png"
+			}
+		},
+		{
+			"name": "Regal Debris",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/305_Regal Debris.png"
+			}
+		},
+		{
+			"name": "Warden of the Seasons",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Bird Horror ",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/344_Warden of the Seasons.png"
+			}
+		},
+		{
+			"name": "Behold, Soli",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/338_Behold, Soli.png"
+			}
+		},
+		{
+			"name": "Aldegar",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Planeswalker — Aldegar ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/68_Aldegar.png"
+			}
+		},
+		{
+			"name": "Bastazim",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Planeswalker — Bastazim ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/199_Bastazim.png"
+			}
+		},
+		{
+			"name": "Hayat",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Legendary Planeswalker — Hayat ",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/350_Hayat.png"
+			}
+		},
+		{
+			"name": "Koios",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Legendary Enchantment Planeswalker — Koios ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/223_Koios.png"
+			}
+		},
+		{
+			"name": "The Mysterious Salome",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Planeswalker — Salome ",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/327_The Mysterious Salome.png"
+			}
+		},
+		{
+			"name": "Sylvia",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Sylvia ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/53_Sylvia.png"
+			}
+		},
+		{
+			"name": "Veceslav",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}{G}{G}",
+			"type": "Legendary Planeswalker — Veceslav ",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/336_Veceslav.png"
+			}
+		},
+		{
+			"name": "Waldemar",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Planeswalker — Waldemar ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/192_Waldemar.png"
+			}
+		},
+		{
+			"name": "Titan of Trax",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Giant Artificer ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/56_Titan of Trax.png"
+			}
+		},
+		{
+			"name": "Fathomless Grasper",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Octopus Shapeshifter ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/81_Fathomless Grasper.png"
+			}
+		},
+		{
+			"name": "Titan of the Great Furnace",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Phyrexian Giant ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/250_Titan of the Great Furnace.png"
+			}
+		},
+		{
+			"name": "Titan of the Rubblebelt",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Giant Warrior ",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/316_Titan of the Rubblebelt.png"
+			}
+		},
+		{
+			"name": "Abomination of Draszke",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Crab Mutant ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/257_Abomination of Draszke.png"
+			}
+		},
+		{
+			"name": "Aryeh",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Legendary Planeswalker — Aryeh ",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/337_Aryeh.png"
+			}
+		},
+		{
+			"name": "Kateryna",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Planeswalker — Kateryna ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/28_Kateryna.png"
+			}
+		},
+		{
+			"name": "Romowum, the Guide",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Legendary Creature — Elemental Wizard ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/115_Romowum, the Guide.png"
+			}
+		},
+		{
+			"name": "Hooved Reverence",
+			"rarity": "mythic",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Ox Spirit ",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/282_Hooved Reverence.png"
+			}
+		},
+		{
+			"name": "Angler Wurm",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Human Wurm ",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/259_Angler Wurm.png"
+			}
+		},
+		{
+			"name": "Ciar",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{G}",
+			"type": "Legendary Planeswalker — Ciar ",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/349_Ciar.png"
+			}
+		},
+		{
+			"name": "Haubay",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Planeswalker — Haubay ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/90_Haubay.png"
+			}
+		},
+		{
+			"name": "Azra Beatweaver",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Azra Bard Rogue ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/196_Azra Beatweaver.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Human ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/7_Human.png"
+			}
+		},
+		{
+			"name": "Powerstone",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Powerstone ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/31_Powerstone.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Insect ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/23_Insect.png"
+			}
+		},
+		{
+			"name": "Adoring Fans",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/3_Adoring Fans.png"
+			}
+		},
+		{
+			"name": "Serf",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Serv ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/10_Serf.png"
+			}
+		},
+		{
+			"name": "Wolf",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Wolf ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/25_Wolf.png"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Basic Land — Waste ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/35_Wastes.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/22_Elemental.png"
+			}
+		},
+		{
+			"name": "Blood",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Blood ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/28_Blood.png"
+			}
+		},
+		{
+			"name": "Shard",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment — Shard ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/2_Shard.png"
+			}
+		},
+		{
+			"name": "Thopter",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Thopter ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/32_Thopter.png"
+			}
+		},
+		{
+			"name": "Pacifism",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/9_Pacifism.png"
+			}
+		},
+		{
+			"name": "Mask",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/8_Mask.png"
+			}
+		},
+		{
+			"name": "Yaromir token",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Fox ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/13_Yaromir token.png"
+			}
+		},
+		{
+			"name": "Glorious Anthem",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/6_Glorious Anthem.png"
+			}
+		},
+		{
+			"name": "Warrior",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Warrior ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/21_Warrior.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/12_Spirit.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/20_Zombie.png"
+			}
+		},
+		{
+			"name": "Saga Token",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment — Saga ",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/0_Saga Token.png"
+			}
+		},
+		{
+			"name": "Angel Soldier",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Angel Soldier ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/4_Angel Soldier.png"
+			}
+		},
+		{
+			"name": "Soldier Army",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier Army ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/19_Soldier Army.png"
+			}
+		},
+		{
+			"name": "Soldier Army",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier Army ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/11_Soldier Army.png"
+			}
+		},
+		{
+			"name": "Phyrexian Angel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Phyrexian Angel ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/27_Phyrexian Angel.png"
+			}
+		},
+		{
+			"name": "Peyma Saga Token",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment — Saga ",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/0_Peyma Saga Token.png"
+			}
+		},
+		{
+			"name": "Unfettered Eidolon",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Token Enchantment Creature — Spirit ",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/0_Unfettered Eidolon.png"
+			}
+		},
+		{
+			"name": "Construct Actor",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Construct Actor ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/1_Construct Actor.png"
+			}
+		},
+		{
+			"name": "To Whom Unity Confers",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Creature — Angel Horror ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/57_To Whom Unity Confers.png"
+			}
+		},
+		{
+			"name": "Royal Doctor",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Construct Cleric ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/44_Royal Doctor.png"
+			}
+		},
+		{
+			"name": "Blade of the Worthy",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/11_Blade of the Worthy.png"
+			}
+		},
+		{
+			"name": "Stonevale Outlander",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Orc Scout ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/51_Stonevale Outlander.png"
+			}
+		},
+		{
+			"name": "Corrupted Valkyrie",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Phyrexian Angel Cleric ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/134_Corrupted Valkyrie.png"
+			}
+		},
+		{
+			"name": "March of Hollowed Bodies",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/162_March of Hollowed Bodies.png"
+			}
+		},
+		{
+			"name": "Herald of Tkabbir",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/281_Herald of Tkabbir.png"
+			}
+		},
+		{
+			"name": "Karo Stone",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/287_Karo Stone.png"
+			}
+		},
+		{
+			"name": "Recoup Vigor",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/304_Recoup Vigor.png"
+			}
+		},
+		{
+			"name": "Phyre Wanderer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Mercenary ",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/232_Phyre Wanderer.png"
+			}
+		},
+		{
+			"name": "Feltmark Violinist",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Bard ",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/275_Feltmark Violinist.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/33_Treasure.png"
+			}
+		},
+		{
+			"name": "Punch Out of Reality",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/234_Punch Out of Reality.png"
+			}
+		},
+		{
+			"name": "Expose",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/79_Expose.png"
+			}
+		},
+		{
+			"name": "Ameret",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Planeswalker — Ameret ",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/354_Ameret.png"
+			}
+		},
+		{
+			"name": "Tentacle",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Tentacle ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/14_Tentacle.png"
+			}
+		},
+		{
+			"name": "Bleeding",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura Curse ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/16_Bleeding.png"
+			}
+		},
+		{
+			"name": "Bat",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Bat ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/15_Bat.png"
+			}
+		},
+		{
+			"name": "Squirrel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Squirrel ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/24_Squirrel.png"
+			}
+		},
+		{
+			"name": "Cleric",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Cleric ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/26_Cleric.png"
+			}
+		},
+		{
+			"name": "Demon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Demon ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/17_Demon.png"
+			}
+		},
+		{
+			"name": "Construct",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/30_Construct.png"
+			}
+		},
+		{
+			"name": "Beast Human",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Beast ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/5_Beast Human.png"
+			}
+		},
+		{
+			"name": "Weapon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/34_Weapon.png"
+			}
+		},
+		{
+			"name": "Clue4",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/29_Clue4.png"
+			}
+		},
+		{
+			"name": "Marit Lage",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Avatar ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/18_Marit Lage.png"
+			}
+		},
+		{
+			"name": "High Roller",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Creature — Azra Rogue ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/218_High Roller.png"
+			}
+		},
+		{
+			"name": "Percy",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Legendary Planeswalker — Perceval ",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/343_Percy.png"
+			}
+		},
+		{
+			"name": "Price of Conquest",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/38_Price of Conquest.png"
+			}
+		},
+		{
+			"name": "Yoshies Operative",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/128_Yoshies Operative.png"
+			}
+		},
+		{
+			"name": "Sanctuary of Hidden Light",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/175_Sanctuary of Hidden Light.png"
+			}
+		},
+		{
+			"name": "High Guard",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Cat Soldier ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/217_High Guard.png"
+			}
+		},
+		{
+			"name": "Haunt of the Yew",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Wolf Spirit ",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/ZANG-files/img/280_Haunt of the Yew.png"
+			}
+		},
+		]
+	[RareSlot(15)]
+	1 Dower Mountainside
+		1 Cloistered Yew
+		1 Remote Trail
+		1 Uneasy Lakeside
+		1 Grim Marshwood
+		1 Tomb of the First Scholar
+		1 Tomb of the First Fighter
+		1 Valley of Multitudes
+		1 Wavering Horizon
+		1 Shambling Hamlet
+		1 Flux Gateway
+		1 Kanna Bastion
+		1 Tomb of the First Shah
+		1 The Place that Quenches the Flood
+		1 Adversarial Savior
+		1 Ilysian Fields
+		1 Demolition Field
+		1 Tomb of the First Usurper
+		1 Tomb of the First Tyrant
+		1 Arid Mesa
+		1 Ash Barrens
+		1 Barren Ashlands
+		1 Bloodstained Mire
+		1 Buried Colossus
+		1 Crossroads of Amnesty
+		1 Crossroads of Artistry
+		1 Crossroads of Bravery
+		1 Crossroads of Charity
+		1 Crossroads of Efficiency
+		1 Crossroads of Finality
+		1 Crossroads of History
+		1 Crossroads of Serenity
+		1 Crossroads of Tenacity
+		1 Crossroads of Unity
+		1 Ephemeral Mire
+		1 Flooded Strand
+		1 Gates to the Underworld
+		1 Geyser Fields
+		1 Hermit's River
+		1 Hundred-Handed Pillars
+		1 Marsh Flats
+		1 Miasmic Cove
+		1 Misty Rainforest
+		1 Nessian Woods
+		1 Nimbus of Thought
+		1 Polluted Delta
+		1 Scalding Tarn
+		1 Shell Cove
+		1 Shimmering Beach
+		1 Titan's Stairs
+		1 Tranquil Heath
+		1 Unrivaled Peak
+		1 Verdant Canyon
+		1 Verdant Catacombs
+		1 Ornate Temple
+		1 Ornate Seafloor
+		1 Ornate Grove
+		1 Ornate Basilica
+		1 Ornate Sanctuary
+		1 Wayfarer's Shrine
+		1 Windswept Heath
+		1 Wooded Foothills
+		1 Flayer of the Fair Basilica
+		1 Speaker of the Everwinter
+		1 Whitaker Paladin
+		1 Teambuilding Exercise
+		1 Cleanser of the Blessed Legacy
+		1 Agnomakhos's Legionnaire
+		1 Maiden of Dawn
+		1 Resolute Bugbear
+		1 Ivory Curtain Regular
+		1 Terrel Messenger
+		1 Silence at Noon
+		1 On the Quest for Friendship
+		1 Alamazzar's Command
+		1 Decree of the King
+		1 Purge Maliciousness
+		1 Reforge Resolve
+		1 Benumb
+		1 Eternal Embrace
+		1 Tsunayoshi's Valor
+		1 Omen of Passage
+		1 Eviction
+		1 Innocence Denied
+		1 Bind to the Vessel
+		1 Birth of the Praetor's Voice
+		1 Radio Jockey
+		1 Harpy Fledgling
+		1 Wintertouched Faerie
+		1 Jahan's Disdain
+		1 Titan of Surtland
+		1 Achim's Command
+		1 Induce with Wings
+		1 Stargazing
+		1 Removing the Mask
+		1 Hamper
+		1 Otherworldly Denial
+		1 Omen of Heroes
+		1 Opulent Mindcage
+		1 Muse Upon Eternity
+		1 Thought Vase
+		1 Glimpse of Opulent's Eternity
+		1 Save Face
+		1 Foil Frailty
+		1 Float into the Page
+		1 Inspect the Rubstones
+		1 Turn to Knowledge
+		1 Paomar Prerogative
+		1 Listlessness
+		1 Beget Knowledge From Aether
+		1 Scrutinize
+		1 Animate Prop
+		1 Aldegar's Trailblazer
+		1 Faulty Omenpath
+		1 Commit to Text
+		1 Contemplate
+		1 Tamper with the Timeline
+		1 Moonstone of Qabel
+		1 Call of Marit Lage
+		1 For Marva
+		1 Nonstop Shop
+		1 Gutterpunk
+		1 Hound of Tizerus
+		1 Vile Bakeneko
+		1 Evergrowing Ichor
+		1 Leymsel Accoylte
+		1 Maiden of Dusk
+		1 Sage of Growth and Decay
+		1 Treacherous Orator
+		1 Ciar's Command
+		1 Spartoi Rising
+		1 Hayat's Plague
+		1 Toxic Spores
+		1 Splendid Massacre
+		1 Omen of Affliction
+		1 Vanquish the Oppressor
+		1 Siphon Soulpower
+		1 Vitality Wellspring
+		1 Devour
+		1 Drown Hope
+		1 Find Fault in the Perfect
+		1 Reconstruct from Scrap
+		1 Empty Rehearsal
+		1 Murder of the Mind
+		1 The Dead Jarl's Chant
+		1 The Decline of Dr. Vaughn
+		1 Vizier's Alarm
+		1 Hook Executioner
+		1 Harvey's Outrider
+		1 Finicky Connoisseur
+		1 Bellowing Commands
+		1 Cidraeth Bloodchanter
+		1 Wraithslayer
+		1 Scorned, but Not Broken
+		1 Servant of Shinobu
+		1 Novice Flamesage
+		1 Arena Conqueror
+		1 Emberwood Balladeer
+		1 Luminary Dragon
+		1 United Frontliner
+		1 Student of the Evoker
+		1 Consult
+		1 Refine the Past
+		1 Hawk Shot
+		1 Spread the Calling Card
+		1 Bastazim's Command
+		1 Devastating Blast
+		1 Acidic Eruption
+		1 Impending Peril
+		1 Burning Echoes
+		1 Volt Surge
+		1 Ferocious Flame
+		1 Sentinel Steelhound
+		1 Endless Iteration
+		1 Elder of Thirty Thousand Spores
+		1 Messenger of the Aberrant
+		1 Orcish Sentinel
+		1 Tyrranax Shepherd
+		1 Utopia Pair
+		1 Fyndhorn Shaman
+		1 The Assault on Sandrock
+		1 Timber Slayer
+		1 Collect the Lost Myths
+		1 Rotating Cast
+		1 Omen of Harvests
+		1 Explore the Unknown
+		1 Resolve
+		1 Ascend to the Omenpath
+		1 Jerrold's Truest Form
+		1 Dance of the Ending Sun
+		1 As Fact Becomes Fable
+		1 Erwan's Command
+		1 Kindly Observer
+		1 Simulated Hope
+		1 Attentive Automaton
+		1 Bastion of Stars
+		1 Myr Retriever
+		1 Memnarch's Eyes
+		1 Structural Plans
+		1 Relic of Lost Love
+		1 Iron-Draining Axe
+		1 Mysterious Vial
+		1 Graven Boat
+		1 Adorned Blade
+		1 Mox Spinel
+		1 Locked Aetherstone
+		1 Fans of Ryunosuke
+		1 Forge of Inner Strength
+		1 Monument to the Forgotten Hero
+		1 Mysterious Cauldron
+		1 Bottled Potential
+		1 Grasping Pillars
+		1 Mysterious Milestone
+		1 Drained Essenceforge
+		1 Tome of Silent Mouths
+		1 Mysterious Book
+		1 Vessel of the Empty Mind
+		1 Reconstruction Module
+		1 Mysterious Jewel
+		1 Keeper of the Divine Tablet
+		1 Anguish
+		1 Evermarching Legionnaire
+		1 Simic Biocaster
+		1 Ode of Compassion
+		1 Heart's Betrayal
+		1 Witherblade Strike
+		1 Deadly Interrogation
+		1 Retribution
+		1 Warkrei Saboteuse
+		1 Crimson Mist Ambush
+		1 Travelcart Caretaker
+		1 Peyma, Kahroba Poet
+		1 Naktamun Trapper
+		1 Rustic Harvester
+		1 Abolish the Mighty
+		1 Alamazzar's Adoration
+		1 Orb of Uneasy Serenity
+		1 Soli Commando
+		1 Tooth Snatcher
+		1 Keeper Glamourbinder
+		1 Dust Scatterer
+		1 Fabricator of Relics
+		1 Seeker of Buried Fortunes
+		1 Selezzar's Treasurehunter
+		1 Malevolent Thug
+		1 Prowling Darkness
+		1 Priest of the Empty-Vessel
+		1 Background Replacer
+		1 Inept Noble
+		1 Vessel of the All-Blood
+		1 Erebos's Lifecaller
+		1 Margarete's Honor Guard
+		1 Hubris
+		1 Fanatic of Andazir
+		1 Seco Husk
+		1 Koios's Student
+		1 Slizt Clan Ambusher
+		1 Scrappy Sidekick
+		1 Resentment
+		1 Axguard Weaponsmith
+		1 Prismari Showcaster
+		1 Soulbinder Occultist
+		1 Elegant Ritualist
+		1 Devourerer of Cosmos
+		1 Gardener of the Endless Grove
+		1 Sparkfeeder
+		1 Quandrix Envisionist
+		1 Sapner Instructor
+		1 Evermoving Preacher
+		1 Llanowar Advocate
+		1 Skittish Sycamore
+		1 Ironskin Sensei
+		1 Llanowar Raiding Party
+		1 Milestone of the Grove
+		1 Demands of the Just Ruler
+		1 Ryunosuke's Contact
+		1 Gruul Trance
+		1 The Lotus Petals Fall
+		1 Frostfire Stalker
+		1 Ghaqdan Priestess
+		1 Shattered Dealings
+		1 Rot to Life
+		1 Ambitious Trooper
+		1 Candid Portraitist
+		1 Oracle of Keranos
+		1 Wayfarer Satyr
+		1 Delroy
+		1 Mireio
+		1 Imani
+		1 Kamden
+		1 Kir
+		1 Milos
+		1 Omen of Destiny
+		1 Paul
+		1 Rightful Kingsguard
+		1 Well-Connected Lead
+		1 Surprise Maneuver
+		1 Desiccated Maidens
+		1 The Just King
+		1 Joyous Dvorovoi
+		1 Ivory Curtain Roleweaver
+		1 Mehr's Frontliner
+		1 Dunesea Guide
+		1 Slinky Mirrorkin
+		1 Goldnapper Sprite
+		1 Nautopian Seashaper
+		1 Jaegrin Woodweaver
+		1 Spawn of Inadequacy
+		1 Bizaare Vendor
+		1 Evoker of Frost
+		1 The Answer to No Question
+		1 Devourer of Ink
+		1 Moroii Cleaner
+		1 Oriq Soulweaver
+		1 Unfinished Stand-In
+		1 Thrissik's Exarch
+		1 Mausoleum Enshrouder
+		1 Reaper of Condemnation
+		1 Lifetide Manipulator
+		1 Ending's Wrangler
+		1 Hawker Passionweaver
+		1 Innerflame Berserker
+		1 Mahnaz of Moonlit Blades
+		1 Skophos Gatekeeper
+		1 Loyalist of the Old Regime
+		1 Conceited Coach
+		1 Inquisitive Gourdweaver
+		1 Minstrel of the Fantastical
+		1 Verdant Curtain Monologuer
+		1 Iridescent Croaker
+		1 Zealot of the Jaspera
+		1 Street Cat Tagger
+		1 Empath of Nature's Soul
+		1 Pendelhaven Defender
+		1 Skola Nyxweaver
+		1 Cave of Many Teeth
+		1 Fassahd Chanters
+		1 Mitosis Splicer
+		1 Paladin of the Sacred Cape
+		1 Stage the Scene
+		1 Curio Collector
+		1 Netherweave Harbinger
+		1 Envoy of the Realm Eater
+		1 Nature's Gift
+		1 Hadak's Remains
+		1 Achim
+		1 Amaltheos, Endling
+		1 Claes
+		1 Elissia
+		1 Erwan
+		1 Jericho
+		1 Kriemhild
+		1 Ludolf
+		1 Nelta
+		1 Rajabu
+		1 The Faceless
+		1 Tobias
+		1 Tsunayoshi
+		1 Tyrus
+		1 Vice
+		1 Yaromir
+		1 Siaveed, Destined to Rule
+		1 Evercaring Watcher
+		1 Shepherd of Redemption
+		1 Aurora Walker
+		1 Nowhere Explorer
+		1 Nyxcaller
+		1 Rabota Line Worker
+		1 Agent of the Council
+		1 Fatespinners of Qawwa
+		1 Syphoner of Hope
+		1 Butcher of the Three Paths
+		1 Titan of Urborg
+		1 Solitary Mothman
+		1 The Final Blade
+		1 Balladeer of the Falling Snow
+		1 Heedless Quartzforger
+		1 Sparkborn Phoenix
+		1 Juggernaut of Burning Hunger
+		1 Azra Thundershaper
+		1 Advocate of the True World
+		1 Hammerhead Krasis
+		1 Orphan Maker
+		1 Nessian Hydra
+		1 Command of the Twin Oni
+		1 Divine Iron Synthesis
+		1 Open to the Multiverse
+		1 Alamazzar
+		1 Aoi and Aka
+		1 Derukoskai
+		1 Devika
+		1 Fane
+		1 Lidija
+		1 Long-Term Method Actor
+		1 Marilye
+		1 Togar
+		1 Vragi, Bretagard's Savior
+		1 Martoob's Evangelist
+		1 Lustrous Seraph
+		1 Lord of the Mire
+		1 Spawn of Hadak
+		1 Surtland Rampager
+		1 Rottimber Lurker
+		1 Attwater General
+		1 Guardian of the Sacred Grove
+		1 Regal Debris
+		1 Warden of the Seasons
+		1 Behold, Soli
+		1 Aldegar
+		1 Bastazim
+		1 Hayat
+		1 Koios
+		1 The Mysterious Salome
+		1 Sylvia
+		1 Veceslav
+		1 Waldemar
+		1 Titan of Trax
+		1 Fathomless Grasper
+		1 Titan of the Great Furnace
+		1 Titan of the Rubblebelt
+		1 Abomination of Draszke
+		1 Aryeh
+		1 Kateryna
+		1 Romowum, the Guide
+		1 Hooved Reverence
+		1 Angler Wurm
+		1 Ciar
+		1 Haubay
+		1 Azra Beatweaver
+		1 To Whom Unity Confers
+		1 Royal Doctor
+		1 Blade of the Worthy
+		1 Stonevale Outlander
+		1 Corrupted Valkyrie
+		1 March of Hollowed Bodies
+		1 Herald of Tkabbir
+		1 Karo Stone
+		1 Recoup Vigor
+		1 Phyre Wanderer
+		1 Feltmark Violinist
+		1 Punch Out of Reality
+		1 Expose
+		1 Ameret
+		1 High Roller
+		1 Percy
+		1 Price of Conquest
+		1 Yoshies Operative
+		1 Sanctuary of Hidden Light
+		1 High Guard
+		1 Haunt of the Yew
+		

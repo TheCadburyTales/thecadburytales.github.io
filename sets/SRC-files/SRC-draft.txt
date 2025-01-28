@@ -1,0 +1,3052 @@
+﻿[CustomCards]
+	[	{
+			"name": "Bishop of Ameret's Way",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/7_Bishop of Ameret's Way.png"
+			}
+		},
+		{
+			"name": "Abigail, Cawyer Station Chief",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/1_Abigail, Cawyer Station Chief.png"
+			}
+		},
+		{
+			"name": "Angelic Embezzler",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Angel Soldier ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/4_Angelic Embezzler.png"
+			}
+		},
+		{
+			"name": "Shepherd Cop",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Angel Soldier ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/35_Shepherd Cop.png"
+			}
+		},
+		{
+			"name": "Adamant Will",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/2_Adamant Will.png"
+			}
+		},
+		{
+			"name": "Lorre Lackey",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/26_Lorre Lackey.png"
+			}
+		},
+		{
+			"name": "Dazzling Archangel",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/16_Dazzling Archangel.png"
+			}
+		},
+		{
+			"name": "Arrest",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/5_Arrest.png"
+			}
+		},
+		{
+			"name": "Backup Brigade",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/6_Backup Brigade.png"
+			}
+		},
+		{
+			"name": "Burden of Guilt",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/9_Burden of Guilt.png"
+			}
+		},
+		{
+			"name": "Fourth Street Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/20_Fourth Street Enforcer.png"
+			}
+		},
+		{
+			"name": "Henry, River Cities Mayor",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human Advisor ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/212_Henry, River Cities Mayor.png"
+			}
+		},
+		{
+			"name": "Citywide Restructuring",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/14_Citywide Restructuring.png"
+			}
+		},
+		{
+			"name": "Ameret's Sanctity",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/3_Ameret's Sanctity.png"
+			}
+		},
+		{
+			"name": "Debt Collection",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/18_Debt Collection.png"
+			}
+		},
+		{
+			"name": "Oblivious Handyman",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/31_Oblivious Handyman.png"
+			}
+		},
+		{
+			"name": "Lorre Lookout",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/27_Lorre Lookout.png"
+			}
+		},
+		{
+			"name": "Cawyer Station Deputy",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/12_Cawyer Station Deputy.png"
+			}
+		},
+		{
+			"name": "Family Man",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/19_Family Man.png"
+			}
+		},
+		{
+			"name": "Cawyer Station Veteran",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/13_Cawyer Station Veteran.png"
+			}
+		},
+		{
+			"name": "Blessing of Hope",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/8_Blessing of Hope.png"
+			}
+		},
+		{
+			"name": "Griffin's Grace",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/21_Griffin's Grace.png"
+			}
+		},
+		{
+			"name": "Jaded Copper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/24_Jaded Copper.png"
+			}
+		},
+		{
+			"name": "Obsessive Bureaucrat",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/32_Obsessive Bureaucrat.png"
+			}
+		},
+		{
+			"name": "Watchful Griffin",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Griffin ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/39_Watchful Griffin.png"
+			}
+		},
+		{
+			"name": "Interrogate",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/23_Interrogate.png"
+			}
+		},
+		{
+			"name": "Lotus Lane Kidnapper",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/28_Lotus Lane Kidnapper.png"
+			}
+		},
+		{
+			"name": "Officer's Gambit",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/33_Officer's Gambit.png"
+			}
+		},
+		{
+			"name": "Lorre Dealbroker",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/25_Lorre Dealbroker.png"
+			}
+		},
+		{
+			"name": "Midnight Call",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/29_Midnight Call.png"
+			}
+		},
+		{
+			"name": "Deacon of the Old Ways",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/17_Deacon of the Old Ways.png"
+			}
+		},
+		{
+			"name": "Mob Cleaning",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/30_Mob Cleaning.png"
+			}
+		},
+		{
+			"name": "Inhibit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/22_Inhibit.png"
+			}
+		},
+		{
+			"name": "Resigned Shepherd",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/34_Resigned Shepherd.png"
+			}
+		},
+		{
+			"name": "Skyscraper Griffin",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Griffin ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/36_Skyscraper Griffin.png"
+			}
+		},
+		{
+			"name": "Solo Officer",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/37_Solo Officer.png"
+			}
+		},
+		{
+			"name": "Up the River",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/38_Up the River.png"
+			}
+		},
+		{
+			"name": "Aerial Sleuth",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Detective ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/40_Aerial Sleuth.png"
+			}
+		},
+		{
+			"name": "Detective's Gambit",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/49_Detective's Gambit.png"
+			}
+		},
+		{
+			"name": "Frankie's Frostmage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue Wizard ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/61_Frankie's Frostmage.png"
+			}
+		},
+		{
+			"name": "Phantom's Jurisdiction",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/68_Phantom's Jurisdiction.png"
+			}
+		},
+		{
+			"name": "Conspiracy Vendor",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/47_Conspiracy Vendor.png"
+			}
+		},
+		{
+			"name": "Ensorcellor",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Human Rogue Wizard ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/55_Ensorcellor.png"
+			}
+		},
+		{
+			"name": "Endless Paper Trail",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Elemental ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/54_Endless Paper Trail.png"
+			}
+		},
+		{
+			"name": "Crippling Hallucinations",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/48_Crippling Hallucinations.png"
+			}
+		},
+		{
+			"name": "Clandestine Snitch",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Detective ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/45_Clandestine Snitch.png"
+			}
+		},
+		{
+			"name": "Examine the Goods",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/57_Examine the Goods.png"
+			}
+		},
+		{
+			"name": "Escape the Plane",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/56_Escape the Plane.png"
+			}
+		},
+		{
+			"name": "Faceless Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Mutant ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/58_Faceless Stalker.png"
+			}
+		},
+		{
+			"name": "Foiled Plans",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/59_Foiled Plans.png"
+			}
+		},
+		{
+			"name": "Forbidden Findings",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/60_Forbidden Findings.png"
+			}
+		},
+		{
+			"name": "Tethaleeg, the Opulent",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Legendary Creature — Elder Horror ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/76_Tethaleeg, the Opulent.png"
+			}
+		},
+		{
+			"name": "Guide Dog",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Dog ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/62_Guide Dog.png"
+			}
+		},
+		{
+			"name": "Double Agent",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/52_Double Agent.png"
+			}
+		},
+		{
+			"name": "Quick-Witted Detective",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Detective ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/70_Quick-Witted Detective.png"
+			}
+		},
+		{
+			"name": "Detective's Ploy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/51_Detective's Ploy.png"
+			}
+		},
+		{
+			"name": "Malevolent Observer",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Spirit ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/63_Malevolent Observer.png"
+			}
+		},
+		{
+			"name": "Master Thief",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/64_Master Thief.png"
+			}
+		},
+		{
+			"name": "Amnesiac Sleuth",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Detective ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/41_Amnesiac Sleuth.png"
+			}
+		},
+		{
+			"name": "Overworked",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/67_Overworked.png"
+			}
+		},
+		{
+			"name": "Messenger Magpie",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/65_Messenger Magpie.png"
+			}
+		},
+		{
+			"name": "Private Eye",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Detective ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/69_Private Eye.png"
+			}
+		},
+		{
+			"name": "Confiscate Evidence",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/46_Confiscate Evidence.png"
+			}
+		},
+		{
+			"name": "Throw Off the Trail",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/77_Throw Off the Trail.png"
+			}
+		},
+		{
+			"name": "Dreamer of the Opulent",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Horror ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/53_Dreamer of the Opulent.png"
+			}
+		},
+		{
+			"name": "Rescue",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/71_Rescue.png"
+			}
+		},
+		{
+			"name": "Occultist of Heirlooms",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/66_Occultist of Heirlooms.png"
+			}
+		},
+		{
+			"name": "Ride to Nowhere",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/72_Ride to Nowhere.png"
+			}
+		},
+		{
+			"name": "Blank Memory",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/44_Blank Memory.png"
+			}
+		},
+		{
+			"name": "Detective's Intuition",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/50_Detective's Intuition.png"
+			}
+		},
+		{
+			"name": "Sleep with the Fishes",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/73_Sleep with the Fishes.png"
+			}
+		},
+		{
+			"name": "Slippery Informant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Detective ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/74_Slippery Informant.png"
+			}
+		},
+		{
+			"name": "Spill the Beans",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/75_Spill the Beans.png"
+			}
+		},
+		{
+			"name": "Uncanny Duplicant",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/78_Uncanny Duplicant.png"
+			}
+		},
+		{
+			"name": "Associate of the Spider",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/42_Associate of the Spider.png"
+			}
+		},
+		{
+			"name": "Woman with a Story",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/80_Woman with a Story.png"
+			}
+		},
+		{
+			"name": "Air of Decay",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/81_Air of Decay.png"
+			}
+		},
+		{
+			"name": "Lorre Earner",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Azra Assassin ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/101_Lorre Earner.png"
+			}
+		},
+		{
+			"name": "Nimble Mothman",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Insect Horror ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/110_Nimble Mothman.png"
+			}
+		},
+		{
+			"name": "Morgue Manager",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Horror Detective ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/106_Morgue Manager.png"
+			}
+		},
+		{
+			"name": "Hound of Rounded Corners",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Dog Spirit ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/96_Hound of Rounded Corners.png"
+			}
+		},
+		{
+			"name": "Brutalize",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/83_Brutalize.png"
+			}
+		},
+		{
+			"name": "Calling Card",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/84_Calling Card.png"
+			}
+		},
+		{
+			"name": "Choking Demise",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/85_Choking Demise.png"
+			}
+		},
+		{
+			"name": "Dame on the Run",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Citizen ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/89_Dame on the Run.png"
+			}
+		},
+		{
+			"name": "Liturgy of Liliana",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/99_Liturgy of Liliana.png"
+			}
+		},
+		{
+			"name": "Exsanguinate",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/92_Exsanguinate.png"
+			}
+		},
+		{
+			"name": "Fishing for Bodies",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/94_Fishing for Bodies.png"
+			}
+		},
+		{
+			"name": "Memory Hostage",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/105_Memory Hostage.png"
+			}
+		},
+		{
+			"name": "Nrom, the Chthonic",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Legendary Creature — Elder Horror ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/111_Nrom, the Chthonic.png"
+			}
+		},
+		{
+			"name": "Zhang Traveller",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Assassin ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/121_Zhang Traveller.png"
+			}
+		},
+		{
+			"name": "Liliana, Femme Fatale",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Planeswalker — Liliana ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/97_Liliana, Femme Fatale.png"
+			}
+		},
+		{
+			"name": "Undead Flapper",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/118_Undead Flapper.png"
+			}
+		},
+		{
+			"name": "Liliana's Goon",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/98_Liliana's Goon.png"
+			}
+		},
+		{
+			"name": "Lucky Break",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/102_Lucky Break.png"
+			}
+		},
+		{
+			"name": "Mafia Capo",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/104_Mafia Capo.png"
+			}
+		},
+		{
+			"name": "Lorre Blackmailer",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Azra Warrior ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/100_Lorre Blackmailer.png"
+			}
+		},
+		{
+			"name": "Moroii Aristocrat",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire Noble ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/107_Moroii Aristocrat.png"
+			}
+		},
+		{
+			"name": "Murder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/108_Murder.png"
+			}
+		},
+		{
+			"name": "Framed Murder",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/95_Framed Murder.png"
+			}
+		},
+		{
+			"name": "Ne'er-do-wells",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Orc Warrior ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/109_Ne'er-do-wells.png"
+			}
+		},
+		{
+			"name": "Duress",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/91_Duress.png"
+			}
+		},
+		{
+			"name": "Stalking Neonate",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire Beast ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/116_Stalking Neonate.png"
+			}
+		},
+		{
+			"name": "Devilish Deal",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/90_Devilish Deal.png"
+			}
+		},
+		{
+			"name": "Primordial Unveiling",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/184_Primordial Unveiling.png"
+			}
+		},
+		{
+			"name": "Seductive Gorgon",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Gorgon Rogue ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/115_Seductive Gorgon.png"
+			}
+		},
+		{
+			"name": "Alley Shade",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Shade ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/82_Alley Shade.png"
+			}
+		},
+		{
+			"name": "Successful Racket",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/117_Successful Racket.png"
+			}
+		},
+		{
+			"name": "Conspicuous Homicide",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/86_Conspicuous Homicide.png"
+			}
+		},
+		{
+			"name": "Rigged Negotiations",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/114_Rigged Negotiations.png"
+			}
+		},
+		{
+			"name": "Corrupt Defrauder",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Azra Advisor ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/87_Corrupt Defrauder.png"
+			}
+		},
+		{
+			"name": "Cryptid's Gambit",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/88_Cryptid's Gambit.png"
+			}
+		},
+		{
+			"name": "Ocular Fog",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Horror ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/112_Ocular Fog.png"
+			}
+		},
+		{
+			"name": "Vicious Cleaner",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/119_Vicious Cleaner.png"
+			}
+		},
+		{
+			"name": "Patron of Veda's Club",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Azra Warrior ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/113_Patron of Veda's Club.png"
+			}
+		},
+		{
+			"name": "Vehement Rage",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/156_Vehement Rage.png"
+			}
+		},
+		{
+			"name": "Last Assault",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/142_Last Assault.png"
+			}
+		},
+		{
+			"name": "Cityscape Dragon",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/128_Cityscape Dragon.png"
+			}
+		},
+		{
+			"name": "Inciting Charmer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elf Wizard ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/141_Inciting Charmer.png"
+			}
+		},
+		{
+			"name": "Blazing Shot",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/124_Blazing Shot.png"
+			}
+		},
+		{
+			"name": "Bloodthirst Vampire",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Vampire ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/125_Bloodthirst Vampire.png"
+			}
+		},
+		{
+			"name": "On Borrowed Time",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/144_On Borrowed Time.png"
+			}
+		},
+		{
+			"name": "Buddy Cops",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Orc Soldier ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/126_Buddy Cops.png"
+			}
+		},
+		{
+			"name": "Threatening Officer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/153_Threatening Officer.png"
+			}
+		},
+		{
+			"name": "Distracting Flapper",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/131_Distracting Flapper.png"
+			}
+		},
+		{
+			"name": "Crime Spree",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/129_Crime Spree.png"
+			}
+		},
+		{
+			"name": "A World of Crime",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/161_A World of Crime.png"
+			}
+		},
+		{
+			"name": "Deranged Cultist",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/130_Deranged Cultist.png"
+			}
+		},
+		{
+			"name": "Dramatic End",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/132_Dramatic End.png"
+			}
+		},
+		{
+			"name": "Heavenly Fire",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/139_Heavenly Fire.png"
+			}
+		},
+		{
+			"name": "Fleeting Options",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/135_Fleeting Options.png"
+			}
+		},
+		{
+			"name": "Getaway Ride",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/136_Getaway Ride.png"
+			}
+		},
+		{
+			"name": "Illicit Electromancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue Wizard ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/140_Illicit Electromancer.png"
+			}
+		},
+		{
+			"name": "Go Nuts",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Instant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/137_Go Nuts.png"
+			}
+		},
+		{
+			"name": "Villain's Gambit",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Instant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/158_Villain's Gambit.png"
+			}
+		},
+		{
+			"name": "Off-Duty Officer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Orc Soldier ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/143_Off-Duty Officer.png"
+			}
+		},
+		{
+			"name": "Reckless Corporal",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/148_Reckless Corporal.png"
+			}
+		},
+		{
+			"name": "Orphanage Keeper",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/145_Orphanage Keeper.png"
+			}
+		},
+		{
+			"name": "Pencil Pusher",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Orc Citizen ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/147_Pencil Pusher.png"
+			}
+		},
+		{
+			"name": "Violent Discharge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/159_Violent Discharge.png"
+			}
+		},
+		{
+			"name": "Sermon of the Way",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/149_Sermon of the Way.png"
+			}
+		},
+		{
+			"name": "Vigilante Firebug",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/157_Vigilante Firebug.png"
+			}
+		},
+		{
+			"name": "Shank",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/150_Shank.png"
+			}
+		},
+		{
+			"name": "Wealthy Patron",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Elf Noble ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/160_Wealthy Patron.png"
+			}
+		},
+		{
+			"name": "Abrupt Possession",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/122_Abrupt Possession.png"
+			}
+		},
+		{
+			"name": "Azra Fixer",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Azra Warrior ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/123_Azra Fixer.png"
+			}
+		},
+		{
+			"name": "Station Seven Host",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/151_Station Seven Host.png"
+			}
+		},
+		{
+			"name": "Elvish Poet",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elf Bard ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/134_Elvish Poet.png"
+			}
+		},
+		{
+			"name": "Street Razings",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/152_Street Razings.png"
+			}
+		},
+		{
+			"name": "Harsh Commander",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/138_Harsh Commander.png"
+			}
+		},
+		{
+			"name": "Torch Singer",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Bard ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/154_Torch Singer.png"
+			}
+		},
+		{
+			"name": "Passionate Reunion",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/146_Passionate Reunion.png"
+			}
+		},
+		{
+			"name": "Cartel Muscle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Azra Warrior ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/127_Cartel Muscle.png"
+			}
+		},
+		{
+			"name": "Dwarven Butcher",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Dwarf Citizen ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/133_Dwarven Butcher.png"
+			}
+		},
+		{
+			"name": "Butcher the Shepherd",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/164_Butcher the Shepherd.png"
+			}
+		},
+		{
+			"name": "Orc Reporter",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Orc Detective ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/182_Orc Reporter.png"
+			}
+		},
+		{
+			"name": "Wander the Outlands",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/201_Wander the Outlands.png"
+			}
+		},
+		{
+			"name": "Epic Confrontation",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/170_Epic Confrontation.png"
+			}
+		},
+		{
+			"name": "Search the Unknown",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/188_Search the Unknown.png"
+			}
+		},
+		{
+			"name": "Cover Up",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/165_Cover Up.png"
+			}
+		},
+		{
+			"name": "Songstress of the River",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Bard ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/194_Songstress of the River.png"
+			}
+		},
+		{
+			"name": "Sleuthhound",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Dog Detective ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/192_Sleuthhound.png"
+			}
+		},
+		{
+			"name": "Investi-Gator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Crocodile Detective ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/174_Investi-Gator.png"
+			}
+		},
+		{
+			"name": "Dust Smugglers",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/168_Dust Smugglers.png"
+			}
+		},
+		{
+			"name": "Dose of Dust",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/167_Dose of Dust.png"
+			}
+		},
+		{
+			"name": "Alluring Spirit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Spirit ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/162_Alluring Spirit.png"
+			}
+		},
+		{
+			"name": "Embiggen",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/169_Embiggen.png"
+			}
+		},
+		{
+			"name": "Share the Concoction",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/190_Share the Concoction.png"
+			}
+		},
+		{
+			"name": "Towering Aracatnid",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Cat Spider ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/196_Towering Aracatnid.png"
+			}
+		},
+		{
+			"name": "Following the Matchbook",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/171_Following the Matchbook.png"
+			}
+		},
+		{
+			"name": "Decipher the Evidence",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/166_Decipher the Evidence.png"
+			}
+		},
+		{
+			"name": "Vine Street Stoolie",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Citizen ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/200_Vine Street Stoolie.png"
+			}
+		},
+		{
+			"name": "Fox Agency Sleuths",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Detective ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/173_Fox Agency Sleuths.png"
+			}
+		},
+		{
+			"name": "Sewer Gators",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Crocodile ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/189_Sewer Gators.png"
+			}
+		},
+		{
+			"name": "Jericho's Assistant",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Detective ",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/175_Jericho's Assistant.png"
+			}
+		},
+		{
+			"name": "Moribund Witness",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Citizen ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/179_Moribund Witness.png"
+			}
+		},
+		{
+			"name": "Lamb of the Aberrant",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/176_Lamb of the Aberrant.png"
+			}
+		},
+		{
+			"name": "Rhulha, the Aberrant",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Legendary Creature — Elder Horror ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/187_Rhulha, the Aberrant.png"
+			}
+		},
+		{
+			"name": "Writhing Thrasher",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Horror ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/202_Writhing Thrasher.png"
+			}
+		},
+		{
+			"name": "Snitch Snacker",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/193_Snitch Snacker.png"
+			}
+		},
+		{
+			"name": "Outlands Farmer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Mutant Farmer ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/183_Outlands Farmer.png"
+			}
+		},
+		{
+			"name": "Resounding Shot",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/186_Resounding Shot.png"
+			}
+		},
+		{
+			"name": "Occultist's Gambit",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Instant",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/181_Occultist's Gambit.png"
+			}
+		},
+		{
+			"name": "Protective Detective",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Detective Wizard ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/185_Protective Detective.png"
+			}
+		},
+		{
+			"name": "Mystery of the Strange Door",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/180_Mystery of the Strange Door.png"
+			}
+		},
+		{
+			"name": "Manipulative Phantom",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Spirit ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/178_Manipulative Phantom.png"
+			}
+		},
+		{
+			"name": "Bizarre Menagerie",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/163_Bizarre Menagerie.png"
+			}
+		},
+		{
+			"name": "Lotus Lane Socialite",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Citizen ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/177_Lotus Lane Socialite.png"
+			}
+		},
+		{
+			"name": "Unexplained Behemoth",
+			"rarity": "common",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Horror ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/199_Unexplained Behemoth.png"
+			}
+		},
+		{
+			"name": "Fox Agency Operator",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Detective ",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/172_Fox Agency Operator.png"
+			}
+		},
+		{
+			"name": "Uncover Evidence",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/198_Uncover Evidence.png"
+			}
+		},
+		{
+			"name": "Uncanny Woodghast",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Spirit Plant ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/197_Uncanny Woodghast.png"
+			}
+		},
+		{
+			"name": "Barton, Sleuth Extraordinaire",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Detective ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/43_Barton, Sleuth Extraordinaire.png"
+			}
+		},
+		{
+			"name": "Ameret, Hope of Night",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Planeswalker — Ameret ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/204_Ameret, Hope of Night.png"
+			}
+		},
+		{
+			"name": "Chief of District Nine",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/206_Chief of District Nine.png"
+			}
+		},
+		{
+			"name": "Incident on Fourth Street",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/213_Incident on Fourth Street.png"
+			}
+		},
+		{
+			"name": "Prying Lawmaker",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/221_Prying Lawmaker.png"
+			}
+		},
+		{
+			"name": "Cult Leader",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/207_Cult Leader.png"
+			}
+		},
+		{
+			"name": "Eldritch Spirit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Spirit ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/208_Eldritch Spirit.png"
+			}
+		},
+		{
+			"name": "Wayward Lawkeeper",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Angel Detective ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/223_Wayward Lawkeeper.png"
+			}
+		},
+		{
+			"name": "Frankie the Spider Lorre",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/210_Frankie the Spider Lorre.png"
+			}
+		},
+		{
+			"name": "Elusive Stranger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Spirit ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/209_Elusive Stranger.png"
+			}
+		},
+		{
+			"name": "Black Dogs of Eve's Garden",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Dog Spirit ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/205_Black Dogs of Eve's Garden.png"
+			}
+		},
+		{
+			"name": "Painter of the Waking Dream",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/219_Painter of the Waking Dream.png"
+			}
+		},
+		{
+			"name": "Perfect Crime",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/220_Perfect Crime.png"
+			}
+		},
+		{
+			"name": "Agency Detectives",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Detective ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/203_Agency Detectives.png"
+			}
+		},
+		{
+			"name": "Gregor Eddie, Dustmaker",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Azra Warlock ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/211_Gregor Eddie, Dustmaker.png"
+			}
+		},
+		{
+			"name": "Scandalous Phantom",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Spirit ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/222_Scandalous Phantom.png"
+			}
+		},
+		{
+			"name": "Loose End Cutter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Azra Mutant ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/215_Loose End Cutter.png"
+			}
+		},
+		{
+			"name": "Moroii Cabalist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Vampire ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/218_Moroii Cabalist.png"
+			}
+		},
+		{
+			"name": "Lorre Underboss",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/216_Lorre Underboss.png"
+			}
+		},
+		{
+			"name": "Attentive Rabota",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/224_Attentive Rabota.png"
+			}
+		},
+		{
+			"name": "Contraband Dagger",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/225_Contraband Dagger.png"
+			}
+		},
+		{
+			"name": "Cozy Rabota",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/228_Cozy Rabota.png"
+			}
+		},
+		{
+			"name": "Detective's Familiar",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Bird Detective ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/229_Detective's Familiar.png"
+			}
+		},
+		{
+			"name": "Forged Documents",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact — Clue ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/230_Forged Documents.png"
+			}
+		},
+		{
+			"name": "The Masked Benefactor",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/217_The Masked Benefactor.png"
+			}
+		},
+		{
+			"name": "Unlicensed Pistol",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/241_Unlicensed Pistol.png"
+			}
+		},
+		{
+			"name": "Impenetrable Vault",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Clue ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/231_Impenetrable Vault.png"
+			}
+		},
+		{
+			"name": "Murder Weapon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment Clue ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/233_Murder Weapon.png"
+			}
+		},
+		{
+			"name": "Pilfered Jewels",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/234_Pilfered Jewels.png"
+			}
+		},
+		{
+			"name": "Portrait of the Lost",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact — Clue ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/235_Portrait of the Lost.png"
+			}
+		},
+		{
+			"name": "Rabota Bystander",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Clue Construct ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/236_Rabota Bystander.png"
+			}
+		},
+		{
+			"name": "Shroud of Disguise",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/237_Shroud of Disguise.png"
+			}
+		},
+		{
+			"name": "Copper Copper",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Construct Soldier ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/226_Copper Copper.png"
+			}
+		},
+		{
+			"name": "Counterfeit Currency",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/227_Counterfeit Currency.png"
+			}
+		},
+		{
+			"name": "Tome of the Primordials",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/239_Tome of the Primordials.png"
+			}
+		},
+		{
+			"name": "Trench Sweeper",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/240_Trench Sweeper.png"
+			}
+		},
+		{
+			"name": "Riverside View",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/250_Riverside View.png"
+			}
+		},
+		{
+			"name": "Thriving Tower",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/253_Thriving Tower.png"
+			}
+		},
+		{
+			"name": "Decadent Hall",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/243_Decadent Hall.png"
+			}
+		},
+		{
+			"name": "Secluded Farmland",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/252_Secluded Farmland.png"
+			}
+		},
+		{
+			"name": "Dubious Path",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/246_Dubious Path.png"
+			}
+		},
+		{
+			"name": "Luxury District",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/248_Luxury District.png"
+			}
+		},
+		{
+			"name": "Rural Sinkhole",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/251_Rural Sinkhole.png"
+			}
+		},
+		{
+			"name": "Magnifying Glass",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/232_Magnifying Glass.png"
+			}
+		},
+		{
+			"name": "Warped Landscape",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/254_Warped Landscape.png"
+			}
+		},
+		{
+			"name": "Lurker on the Walls",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Horror ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/103_Lurker on the Walls.png"
+			}
+		},
+		{
+			"name": "Spectral Boon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/195_Spectral Boon.png"
+			}
+		},
+		{
+			"name": "Witness Protection",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/79_Witness Protection.png"
+			}
+		},
+		{
+			"name": "Vile Blessing",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/120_Vile Blessing.png"
+			}
+		},
+		{
+			"name": "Failing Flaw",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/93_Failing Flaw.png"
+			}
+		},
+		{
+			"name": "True Love's Moment",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/155_True Love's Moment.png"
+			}
+		},
+		{
+			"name": "Cleansing Wave",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/15_Cleansing Wave.png"
+			}
+		},
+		{
+			"name": "Clue 1",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/12_Clue 1.png"
+			}
+		},
+		{
+			"name": "Clue 2",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/13_Clue 2.png"
+			}
+		},
+		{
+			"name": "Clue 3",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/14_Clue 3.png"
+			}
+		},
+		{
+			"name": "Clue 4",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/15_Clue 4.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/2_Soldier.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/6_Human.png"
+			}
+		},
+		{
+			"name": "Zombie Cat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie Cat ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/5_Zombie Cat.png"
+			}
+		},
+		{
+			"name": "Rogue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Rogue ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/7_Rogue.png"
+			}
+		},
+		{
+			"name": "Detective",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Detective ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/8_Detective.png"
+			}
+		},
+		{
+			"name": "Mutant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Mutant ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/10_Mutant.png"
+			}
+		},
+		{
+			"name": "Cleric",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Cleric ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/11_Cleric.png"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Horror ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/3_Horror.png"
+			}
+		},
+		{
+			"name": "Undercover",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/1_Undercover.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/258_Mountain.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/257_Swamp.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/259_Forest.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/256_Island.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/255_Plains.png"
+			}
+		},
+		{
+			"name": "Warrior",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Warrior ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/4_Warrior.png"
+			}
+		},
+		{
+			"name": "Sinuous Tantalizer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Snake ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/191_Sinuous Tantalizer.png"
+			}
+		},
+		{
+			"name": "Catscratch Broker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat Warrior ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/10_Catscratch Broker.png"
+			}
+		},
+		{
+			"name": "Catscratch Mafioso",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cat Warrior ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/11_Catscratch Mafioso.png"
+			}
+		},
+		{
+			"name": "green Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Horror ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/9_green Horror.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/16_Treasure.png"
+			}
+		},
+		{
+			"name": "Swindler's Trinket",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/238_Swindler's Trinket.png"
+			}
+		},
+		{
+			"name": "Jericho Hudson",
+			"rarity": "mythic",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Planeswalker — Jericho ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/214_Jericho Hudson.png"
+			}
+		},
+		{
+			"name": "Beloved Chapel",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/242_Beloved Chapel.png"
+			}
+		},
+		{
+			"name": "Reliable Market",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/249_Reliable Market.png"
+			}
+		},
+		{
+			"name": "Downtown Theater",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/245_Downtown Theater.png"
+			}
+		},
+		{
+			"name": "Disturbing Locale",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/244_Disturbing Locale.png"
+			}
+		},
+		{
+			"name": "Impressive Skyline",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/247_Impressive Skyline.png"
+			}
+		},
+		{
+			"name": "Liliana Emblem",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Emblem — Liliana ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/18_Liliana Emblem.png"
+			}
+		},
+		{
+			"name": "Jericho Emblem",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Emblem — Jericho ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/17_Jericho Emblem.png"
+			}
+		},
+		{
+			"name": "Ameret, Hope of Night",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Planeswalker — Ameret ",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/0_Ameret, Hope of Night.png"
+			}
+		},
+		{
+			"name": "Jericho's Assistant",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Detective ",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://DNAZangy.github.io/sets/SRC-files/img/0_Jericho's Assistant.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Abigail, Cawyer Station Chief
+		2 Citywide Restructuring
+		2 Ameret's Sanctity
+		2 Watchful Griffin
+		2 Officer's Gambit
+		2 Lorre Dealbroker
+		2 Solo Officer
+		2 Detective's Gambit
+		2 Ensorcellor
+		2 Escape the Plane
+		2 Double Agent
+		2 Quick-Witted Detective
+		2 Confiscate Evidence
+		2 Uncanny Duplicant
+		2 Calling Card
+		2 Memory Hostage
+		2 Liliana's Goon
+		2 Mafia Capo
+		2 Framed Murder
+		2 Primordial Unveiling
+		2 Cryptid's Gambit
+		2 Vicious Cleaner
+		2 Crime Spree
+		2 A World of Crime
+		2 Dramatic End
+		2 Villain's Gambit
+		2 Vigilante Firebug
+		2 Station Seven Host
+		2 Torch Singer
+		2 Search the Unknown
+		2 Songstress of the River
+		2 Jericho's Assistant
+		2 Snitch Snacker
+		2 Occultist's Gambit
+		2 Fox Agency Operator
+		2 Uncanny Woodghast
+		2 Barton, Sleuth Extraordinaire
+		2 Incident on Fourth Street
+		2 Wayward Lawkeeper
+		2 Frankie the Spider Lorre
+		2 Painter of the Waking Dream
+		2 Perfect Crime
+		2 Gregor Eddie, Dustmaker
+		2 Attentive Rabota
+		2 Impenetrable Vault
+		2 Shroud of Disguise
+		2 Riverside View
+		2 Thriving Tower
+		2 Decadent Hall
+		2 Secluded Farmland
+		2 Dubious Path
+		2 Lurker on the Walls
+		2 Swindler's Trinket
+		2 Beloved Chapel
+		2 Reliable Market
+		2 Downtown Theater
+		2 Disturbing Locale
+		2 Impressive Skyline
+		1 Dazzling Archangel
+		1 Henry, River Cities Mayor
+		1 Endless Paper Trail
+		1 Tethaleeg, the Opulent
+		1 Nrom, the Chthonic
+		1 Liliana, Femme Fatale
+		1 Cityscape Dragon
+		1 On Borrowed Time
+		1 Rhulha, the Aberrant
+		1 Mystery of the Strange Door
+		1 Ameret, Hope of Night
+		1 Cult Leader
+		1 The Masked Benefactor
+		1 Tome of the Primordials
+		1 Jericho Hudson
+		[UncommonSlot(3)]
+	9 Bishop of Ameret's Way
+		9 Angelic Embezzler
+		9 Arrest
+		9 Fourth Street Enforcer
+		9 Family Man
+		9 Griffin's Grace
+		9 Jaded Copper
+		9 Lotus Lane Kidnapper
+		9 Inhibit
+		9 Up the River
+		9 Frankie's Frostmage
+		9 Crippling Hallucinations
+		9 Faceless Stalker
+		9 Forbidden Findings
+		9 Detective's Ploy
+		9 Master Thief
+		9 Messenger Magpie
+		9 Throw Off the Trail
+		9 Dreamer of the Opulent
+		9 Blank Memory
+		9 Slippery Informant
+		9 Air of Decay
+		9 Lorre Earner
+		9 Morgue Manager
+		9 Liturgy of Liliana
+		9 Exsanguinate
+		9 Zhang Traveller
+		9 Murder
+		9 Stalking Neonate
+		9 Devilish Deal
+		9 Conspicuous Homicide
+		9 Rigged Negotiations
+		9 Patron of Veda's Club
+		9 Last Assault
+		9 Inciting Charmer
+		9 Fleeting Options
+		9 Illicit Electromancer
+		9 Go Nuts
+		9 Orphanage Keeper
+		9 Pencil Pusher
+		9 Violent Discharge
+		9 Sermon of the Way
+		9 Harsh Commander
+		9 Cartel Muscle
+		9 Orc Reporter
+		9 Investi-Gator
+		9 Alluring Spirit
+		9 Embiggen
+		9 Share the Concoction
+		9 Fox Agency Sleuths
+		9 Resounding Shot
+		9 Protective Detective
+		9 Manipulative Phantom
+		9 Bizarre Menagerie
+		9 Chief of District Nine
+		9 Prying Lawmaker
+		9 Eldritch Spirit
+		9 Elusive Stranger
+		9 Black Dogs of Eve's Garden
+		9 Agency Detectives
+		9 Scandalous Phantom
+		9 Loose End Cutter
+		9 Moroii Cabalist
+		9 Lorre Underboss
+		9 Detective's Familiar
+		9 Forged Documents
+		9 Unlicensed Pistol
+		9 Murder Weapon
+		9 Portrait of the Lost
+		9 Rabota Bystander
+		9 Counterfeit Currency
+		9 Luxury District
+		9 Rural Sinkhole
+		9 Magnifying Glass
+		9 Spectral Boon
+		9 Witness Protection
+		9 True Love's Moment
+		9 Cleansing Wave
+		9 Sinuous Tantalizer
+		9 Catscratch Broker
+		[CommonSlot(10)]
+	30 Shepherd Cop
+		30 Adamant Will
+		30 Lorre Lackey
+		30 Backup Brigade
+		30 Burden of Guilt
+		30 Debt Collection
+		30 Oblivious Handyman
+		30 Lorre Lookout
+		30 Cawyer Station Deputy
+		30 Cawyer Station Veteran
+		30 Blessing of Hope
+		30 Obsessive Bureaucrat
+		30 Interrogate
+		30 Midnight Call
+		30 Deacon of the Old Ways
+		30 Mob Cleaning
+		30 Resigned Shepherd
+		30 Skyscraper Griffin
+		30 Aerial Sleuth
+		30 Phantom's Jurisdiction
+		30 Conspiracy Vendor
+		30 Clandestine Snitch
+		30 Examine the Goods
+		30 Foiled Plans
+		30 Guide Dog
+		30 Malevolent Observer
+		30 Amnesiac Sleuth
+		30 Overworked
+		30 Private Eye
+		30 Rescue
+		30 Occultist of Heirlooms
+		30 Ride to Nowhere
+		30 Detective's Intuition
+		30 Sleep with the Fishes
+		30 Spill the Beans
+		30 Associate of the Spider
+		30 Woman with a Story
+		30 Nimble Mothman
+		30 Hound of Rounded Corners
+		30 Brutalize
+		30 Choking Demise
+		30 Dame on the Run
+		30 Fishing for Bodies
+		30 Undead Flapper
+		30 Lucky Break
+		30 Lorre Blackmailer
+		30 Moroii Aristocrat
+		30 Ne'er-do-wells
+		30 Duress
+		30 Seductive Gorgon
+		30 Alley Shade
+		30 Successful Racket
+		30 Corrupt Defrauder
+		30 Ocular Fog
+		30 Vehement Rage
+		30 Blazing Shot
+		30 Bloodthirst Vampire
+		30 Buddy Cops
+		30 Threatening Officer
+		30 Distracting Flapper
+		30 Deranged Cultist
+		30 Heavenly Fire
+		30 Getaway Ride
+		30 Off-Duty Officer
+		30 Reckless Corporal
+		30 Shank
+		30 Wealthy Patron
+		30 Abrupt Possession
+		30 Azra Fixer
+		30 Elvish Poet
+		30 Street Razings
+		30 Passionate Reunion
+		30 Dwarven Butcher
+		30 Butcher the Shepherd
+		30 Wander the Outlands
+		30 Epic Confrontation
+		30 Cover Up
+		30 Sleuthhound
+		30 Dust Smugglers
+		30 Dose of Dust
+		30 Towering Aracatnid
+		30 Following the Matchbook
+		30 Decipher the Evidence
+		30 Vine Street Stoolie
+		30 Sewer Gators
+		30 Moribund Witness
+		30 Lamb of the Aberrant
+		30 Writhing Thrasher
+		30 Outlands Farmer
+		30 Lotus Lane Socialite
+		30 Unexplained Behemoth
+		30 Uncover Evidence
+		30 Contraband Dagger
+		30 Cozy Rabota
+		30 Pilfered Jewels
+		30 Copper Copper
+		30 Trench Sweeper
+		30 Warped Landscape
+		30 Vile Blessing
+		30 Failing Flaw
+		30 Catscratch Mafioso
+		30 Liliana Emblem
+		30 Jericho Emblem
+		
