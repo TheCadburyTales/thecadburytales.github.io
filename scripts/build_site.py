@@ -33,6 +33,7 @@ def genAllCards(codes):
 					card['type2'] = card['type2'].replace('—', '–')
 					card['rules_text2'] = card['rules_text2'].replace('—', '–')
 					card['special_text2'] = card['special_text2'].replace('—', '–')
+				card['image_type'] = 'png' if 'image_type' not in raw else raw['image_type']
 				card_input['cards'].append(card)
 			set_data = {}
 			set_data['set_code'] = code
@@ -128,6 +129,14 @@ set_order_data = {
 with open(os.path.join('lists', 'set-order.json'), 'w', encoding='utf-8-sig') as f:
 	json.dump(set_order_data, f)
 
+custom_list_dir = os.path.join('custom', 'lists')
+if os.path.isdir(custom_list_dir):
+	for file in os.listdir(custom_list_dir):
+		filepath = os.path.join(custom_list_dir, file)
+		destination = 'lists'
+		shutil.copy(filepath, destination)
+		print(filepath + ' added')
+
 for code in set_codes:
 	#F: more important functions
 	#CE: moving this down after we create the 'set-order.json' file
@@ -140,14 +149,6 @@ if os.path.isdir(custom_img_dir):
 	for file in os.listdir(custom_img_dir):
 		filepath = os.path.join(custom_img_dir, file)
 		destination = 'img'
-		shutil.copy(filepath, destination)
-		print(filepath + ' added')
-
-custom_list_dir = os.path.join('custom', 'lists')
-if os.path.isdir(custom_list_dir):
-	for file in os.listdir(custom_list_dir):
-		filepath = os.path.join(custom_list_dir, file)
-		destination = 'lists'
 		shutil.copy(filepath, destination)
 		print(filepath + ' added')
 
