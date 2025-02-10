@@ -1,0 +1,1228 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Squire of Vaelios",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment Creature — Human Knight ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/91_Squire of Vaelios.png"
+			}
+		},
+		{
+			"name": "Requiem Virtuoso",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Spirit Bard ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/87_Requiem Virtuoso.png"
+			}
+		},
+		{
+			"name": "Usher of Undoing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Skeleton Rogue ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/93_Usher of Undoing.png"
+			}
+		},
+		{
+			"name": "Storm Forth, Moonchild",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/92_Storm Forth, Moonchild.png"
+			}
+		},
+		{
+			"name": "Dakarros Goliath",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Giant Warrior ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/81_Dakarros Goliath.png"
+			}
+		},
+		{
+			"name": "Bloodshade Cavalier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Wraith Knight ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/77_Bloodshade Cavalier.png"
+			}
+		},
+		{
+			"name": "Ruthless Varkirn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/88_Ruthless Varkirn.png"
+			}
+		},
+		{
+			"name": "Ozhka's Deliverance",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/86_Ozhka's Deliverance.png"
+			}
+		},
+		{
+			"name": "Wreathed Sentinel",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Enchantment Creature — Spirit Knight ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/95_Wreathed Sentinel.png"
+			}
+		},
+		{
+			"name": "Sky's Eye Legionnaire",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/90_Sky's Eye Legionnaire.png"
+			}
+		},
+		{
+			"name": "Hand of the Ashen Oath",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/84_Hand of the Ashen Oath.png"
+			}
+		},
+		{
+			"name": "Crosswind Sentry",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/80_Crosswind Sentry.png"
+			}
+		},
+		{
+			"name": "Iris Crypt Reaper",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/85_Iris Crypt Reaper.png"
+			}
+		},
+		{
+			"name": "Wickerwretch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/94_Wickerwretch.png"
+			}
+		},
+		{
+			"name": "Auspex of Fortitudes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/76_Auspex of Fortitudes.png"
+			}
+		},
+		{
+			"name": "Gnarled Lifeletter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Enchantment Creature — Treefolk ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/83_Gnarled Lifeletter.png"
+			}
+		},
+		{
+			"name": "Caldera Spawn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Enchantment Creature — Elemental Dragon ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/79_Caldera Spawn.png"
+			}
+		},
+		{
+			"name": "Saint of Sword and Sun",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Spirit Cleric ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/89_Saint of Sword and Sun.png"
+			}
+		},
+		{
+			"name": "Brightblade Duelist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/78_Brightblade Duelist.png"
+			}
+		},
+		{
+			"name": "Fellowship Veteran",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Wraith Knight ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/82_Fellowship Veteran.png"
+			}
+		},
+		{
+			"name": "Mantle of Gallantry",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/6_Mantle of Gallantry.png"
+			}
+		},
+		{
+			"name": "Twilight Cavalry",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Knight ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/14_Twilight Cavalry.png"
+			}
+		},
+		{
+			"name": "Spirelight Shepherd",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/11_Spirelight Shepherd.png"
+			}
+		},
+		{
+			"name": "Cosmic Stitcher",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/2_Cosmic Stitcher.png"
+			}
+		},
+		{
+			"name": "Noble Ashsworn",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Wraith Knight ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/9_Noble Ashsworn.png"
+			}
+		},
+		{
+			"name": "Marble Godhand",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit Knight ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/8_Marble Godhand.png"
+			}
+		},
+		{
+			"name": "Glintpath Guide",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/4_Glintpath Guide.png"
+			}
+		},
+		{
+			"name": "Paragon of Valor",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Angel Cleric ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/10_Paragon of Valor.png"
+			}
+		},
+		{
+			"name": "Steward of the Eclipse",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Wraith Knight ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/12_Steward of the Eclipse.png"
+			}
+		},
+		{
+			"name": "Striding Banneret",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Giant Knight ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/13_Striding Banneret.png"
+			}
+		},
+		{
+			"name": "Umbral Possessor",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Enchantment Creature — Wraith ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/15_Umbral Possessor.png"
+			}
+		},
+		{
+			"name": "Emblem of Myrenhal",
+			"rarity": "common",
+			"mana_cost": "{6}{W}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/3_Emblem of Myrenhal.png"
+			}
+		},
+		{
+			"name": "Ashen Retribution",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/1_Ashen Retribution.png"
+			}
+		},
+		{
+			"name": "Mantra of Order",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/7_Mantra of Order.png"
+			}
+		},
+		{
+			"name": "Make Your Move",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/5_Make Your Move.png"
+			}
+		},
+		{
+			"name": "Wanderwight",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit Knight ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/28_Wanderwight.png"
+			}
+		},
+		{
+			"name": "Mistcloak Drake",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Drake ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/22_Mistcloak Drake.png"
+			}
+		},
+		{
+			"name": "Illusory Outrider",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Wraith Knight ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/19_Illusory Outrider.png"
+			}
+		},
+		{
+			"name": "Rift Wyvern",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Drake ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/23_Rift Wyvern.png"
+			}
+		},
+		{
+			"name": "Tracelight Wayfarer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Human Knight ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/27_Tracelight Wayfarer.png"
+			}
+		},
+		{
+			"name": "Seeker of Lost Light",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/24_Seeker of Lost Light.png"
+			}
+		},
+		{
+			"name": "Sythori Squadron",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment Creature — Spirit Knight ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/25_Sythori Squadron.png"
+			}
+		},
+		{
+			"name": "Worldwind Serpent",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Serpent ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/30_Worldwind Serpent.png"
+			}
+		},
+		{
+			"name": "Embrace of Eless",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/17_Embrace of Eless.png"
+			}
+		},
+		{
+			"name": "Ing'Wei's Artistry",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/20_Ing'Wei's Artistry.png"
+			}
+		},
+		{
+			"name": "Defy Gravity",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/16_Defy Gravity.png"
+			}
+		},
+		{
+			"name": "Mantra of Brilliance",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/21_Mantra of Brilliance.png"
+			}
+		},
+		{
+			"name": "Touch of Oros",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/26_Touch of Oros.png"
+			}
+		},
+		{
+			"name": "Hypnotic Crosswinds",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/18_Hypnotic Crosswinds.png"
+			}
+		},
+		{
+			"name": "Watchers on High",
+			"rarity": "common",
+			"mana_cost": "{6}{U}",
+			"type": "Enchantment Creature — Wraith Knight ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/29_Watchers on High.png"
+			}
+		},
+		{
+			"name": "Shadow Lancer",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Wraith Knight ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/40_Shadow Lancer.png"
+			}
+		},
+		{
+			"name": "Notion Scraper",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Wraith Knight ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/38_Notion Scraper.png"
+			}
+		},
+		{
+			"name": "Duskbringer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bat Demon ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/33_Duskbringer.png"
+			}
+		},
+		{
+			"name": "Portent of Calamity",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Harpy ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/39_Portent of Calamity.png"
+			}
+		},
+		{
+			"name": "Ashen Persecutor",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Knight  ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/31_Ashen Persecutor.png"
+			}
+		},
+		{
+			"name": "Lunar Specter",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spirit ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/36_Lunar Specter.png"
+			}
+		},
+		{
+			"name": "Veleran Butcher",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Wraith Knight ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/44_Veleran Butcher.png"
+			}
+		},
+		{
+			"name": "Taciturn Council",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Spirit Knight ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/42_Taciturn Council.png"
+			}
+		},
+		{
+			"name": "Slaughterbrute",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Beast ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/41_Slaughterbrute.png"
+			}
+		},
+		{
+			"name": "Extinguish Legacies",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/34_Extinguish Legacies.png"
+			}
+		},
+		{
+			"name": "Visions of Prostration",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/45_Visions of Prostration.png"
+			}
+		},
+		{
+			"name": "Beseech the Bones",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/32_Beseech the Bones.png"
+			}
+		},
+		{
+			"name": "Hero's Downfall",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/35_Hero's Downfall.png"
+			}
+		},
+		{
+			"name": "Vareth Beckons",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/43_Vareth Beckons.png"
+			}
+		},
+		{
+			"name": "Mantra of Necrosis",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/37_Mantra of Necrosis.png"
+			}
+		},
+		{
+			"name": "Cinder Stalker",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Wraith ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/47_Cinder Stalker.png"
+			}
+		},
+		{
+			"name": "Servant of Velera",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Wraith Knight ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/59_Servant of Velera.png"
+			}
+		},
+		{
+			"name": "Perfervid Oracle",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/56_Perfervid Oracle.png"
+			}
+		},
+		{
+			"name": "Howling Flesher",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Wolf Knight ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/51_Howling Flesher.png"
+			}
+		},
+		{
+			"name": "Incandescent Paladin",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Spirit Knight ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/52_Incandescent Paladin.png"
+			}
+		},
+		{
+			"name": "Ozhkan Flayer",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Wolf Warrior ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/55_Ozhkan Flayer.png"
+			}
+		},
+		{
+			"name": "Searing Spearman",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/58_Searing Spearman.png"
+			}
+		},
+		{
+			"name": "Carmine Hellkite",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment Creature — Dragon ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/46_Carmine Hellkite.png"
+			}
+		},
+		{
+			"name": "Smoldered Sovereign",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Enchantment Creature — Elemental Knight ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/60_Smoldered Sovereign.png"
+			}
+		},
+		{
+			"name": "Lightning Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/53_Lightning Strike.png"
+			}
+		},
+		{
+			"name": "Draconic Resolve",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/48_Draconic Resolve.png"
+			}
+		},
+		{
+			"name": "Rise of the War Sun",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/57_Rise of the War Sun.png"
+			}
+		},
+		{
+			"name": "Mantra of Dominance",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/54_Mantra of Dominance.png"
+			}
+		},
+		{
+			"name": "Grasp at Lost Light",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/50_Grasp at Lost Light.png"
+			}
+		},
+		{
+			"name": "Flames of Progress",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/49_Flames of Progress.png"
+			}
+		},
+		{
+			"name": "Elyth's Faithful",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/63_Elyth's Faithful.png"
+			}
+		},
+		{
+			"name": "Escort of the Helmless",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Wraith Knight ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/64_Escort of the Helmless.png"
+			}
+		},
+		{
+			"name": "Gloamtender",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dryad ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/66_Gloamtender.png"
+			}
+		},
+		{
+			"name": "Gleaming Soothsayer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Spirit Shaman ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/65_Gleaming Soothsayer.png"
+			}
+		},
+		{
+			"name": "Warden of the Weald",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Wolf Knight ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/73_Warden of the Weald.png"
+			}
+		},
+		{
+			"name": "Ozhkan Brawler",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Wolf Knight ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/70_Ozhkan Brawler.png"
+			}
+		},
+		{
+			"name": "Mantra of Ferocity",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/69_Mantra of Ferocity.png"
+			}
+		},
+		{
+			"name": "Verdant Lieutenant",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment Creature — Spirit Knight ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/72_Verdant Lieutenant.png"
+			}
+		},
+		{
+			"name": "Lockwood Giant",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Giant Knight ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/68_Lockwood Giant.png"
+			}
+		},
+		{
+			"name": "Grotweaver",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Spider ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/67_Grotweaver.png"
+			}
+		},
+		{
+			"name": "Wraithbane's Focus",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/74_Wraithbane's Focus.png"
+			}
+		},
+		{
+			"name": "Contest of the Just",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/62_Contest of the Just.png"
+			}
+		},
+		{
+			"name": "Wreath of Wisterias",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/75_Wreath of Wisterias.png"
+			}
+		},
+		{
+			"name": "Roots of the Hollow Yew",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/71_Roots of the Hollow Yew.png"
+			}
+		},
+		{
+			"name": "Commune with Marisyn",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/61_Commune with Marisyn.png"
+			}
+		},
+		{
+			"name": "Cackleghast",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Spirit ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/97_Cackleghast.png"
+			}
+		},
+		{
+			"name": "Elythi Custodian",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/98_Elythi Custodian.png"
+			}
+		},
+		{
+			"name": "Apocalypse Foil",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/96_Apocalypse Foil.png"
+			}
+		},
+		{
+			"name": "Fractured Orrery",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/99_Fractured Orrery.png"
+			}
+		},
+		{
+			"name": "Sacred Statuary",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/100_Sacred Statuary.png"
+			}
+		},
+		{
+			"name": "Winsome Expanse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/101_Winsome Expanse.png"
+			}
+		},
+		{
+			"name": "Fated War",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Legendary Token Battle",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/1_Fated War.png"
+			}
+		}
+	]
+[UncommonSlot(3)]
+9 Squire of Vaelios
+9 Requiem Virtuoso
+9 Usher of Undoing
+9 Storm Forth, Moonchild
+9 Dakarros Goliath
+9 Bloodshade Cavalier
+9 Ruthless Varkirn
+9 Ozhka's Deliverance
+9 Wreathed Sentinel
+9 Sky's Eye Legionnaire
+9 Hand of the Ashen Oath
+9 Crosswind Sentry
+9 Iris Crypt Reaper
+9 Wickerwretch
+9 Auspex of Fortitudes
+9 Gnarled Lifeletter
+9 Caldera Spawn
+9 Saint of Sword and Sun
+9 Brightblade Duelist
+9 Fellowship Veteran
+[CommonSlot(9)]
+30 Mantle of Gallantry
+30 Twilight Cavalry
+30 Spirelight Shepherd
+30 Cosmic Stitcher
+30 Noble Ashsworn
+30 Marble Godhand
+30 Glintpath Guide
+30 Paragon of Valor
+30 Steward of the Eclipse
+30 Striding Banneret
+30 Umbral Possessor
+30 Emblem of Myrenhal
+30 Ashen Retribution
+30 Mantra of Order
+30 Make Your Move
+30 Wanderwight
+30 Mistcloak Drake
+30 Illusory Outrider
+30 Rift Wyvern
+30 Tracelight Wayfarer
+30 Seeker of Lost Light
+30 Sythori Squadron
+30 Worldwind Serpent
+30 Embrace of Eless
+30 Ing'Wei's Artistry
+30 Defy Gravity
+30 Mantra of Brilliance
+30 Touch of Oros
+30 Hypnotic Crosswinds
+30 Watchers on High
+30 Shadow Lancer
+30 Notion Scraper
+30 Duskbringer
+30 Portent of Calamity
+30 Ashen Persecutor
+30 Lunar Specter
+30 Veleran Butcher
+30 Taciturn Council
+30 Slaughterbrute
+30 Extinguish Legacies
+30 Visions of Prostration
+30 Beseech the Bones
+30 Hero's Downfall
+30 Vareth Beckons
+30 Mantra of Necrosis
+30 Cinder Stalker
+30 Servant of Velera
+30 Perfervid Oracle
+30 Howling Flesher
+30 Incandescent Paladin
+30 Ozhkan Flayer
+30 Searing Spearman
+30 Carmine Hellkite
+30 Smoldered Sovereign
+30 Lightning Strike
+30 Draconic Resolve
+30 Rise of the War Sun
+30 Mantra of Dominance
+30 Grasp at Lost Light
+30 Flames of Progress
+30 Elyth's Faithful
+30 Escort of the Helmless
+30 Gloamtender
+30 Gleaming Soothsayer
+30 Warden of the Weald
+30 Ozhkan Brawler
+30 Mantra of Ferocity
+30 Verdant Lieutenant
+30 Lockwood Giant
+30 Grotweaver
+30 Wraithbane's Focus
+30 Contest of the Just
+30 Wreath of Wisterias
+30 Roots of the Hollow Yew
+30 Commune with Marisyn
+30 Cackleghast
+30 Elythi Custodian
+30 Apocalypse Foil
+30 Fractured Orrery
+30 Sacred Statuary
+30 Winsome Expanse
+[WildcardSlot(2)]
+10 Squire of Vaelios
+10 Requiem Virtuoso
+10 Usher of Undoing
+10 Storm Forth, Moonchild
+10 Dakarros Goliath
+10 Bloodshade Cavalier
+10 Ruthless Varkirn
+10 Ozhka's Deliverance
+10 Wreathed Sentinel
+10 Sky's Eye Legionnaire
+10 Hand of the Ashen Oath
+10 Crosswind Sentry
+10 Iris Crypt Reaper
+10 Wickerwretch
+10 Auspex of Fortitudes
+10 Gnarled Lifeletter
+10 Caldera Spawn
+10 Saint of Sword and Sun
+10 Brightblade Duelist
+10 Fellowship Veteran
+10 Mantle of Gallantry
+10 Twilight Cavalry
+10 Spirelight Shepherd
+10 Cosmic Stitcher
+10 Noble Ashsworn
+10 Marble Godhand
+10 Glintpath Guide
+10 Paragon of Valor
+10 Steward of the Eclipse
+10 Striding Banneret
+10 Umbral Possessor
+10 Emblem of Myrenhal
+10 Ashen Retribution
+10 Mantra of Order
+10 Make Your Move
+10 Wanderwight
+10 Mistcloak Drake
+10 Illusory Outrider
+10 Rift Wyvern
+10 Tracelight Wayfarer
+10 Seeker of Lost Light
+10 Sythori Squadron
+10 Worldwind Serpent
+10 Embrace of Eless
+10 Ing'Wei's Artistry
+10 Defy Gravity
+10 Mantra of Brilliance
+10 Touch of Oros
+10 Hypnotic Crosswinds
+10 Watchers on High
+10 Shadow Lancer
+10 Notion Scraper
+10 Duskbringer
+10 Portent of Calamity
+10 Ashen Persecutor
+10 Lunar Specter
+10 Veleran Butcher
+10 Taciturn Council
+10 Slaughterbrute
+10 Extinguish Legacies
+10 Visions of Prostration
+10 Beseech the Bones
+10 Hero's Downfall
+10 Vareth Beckons
+10 Mantra of Necrosis
+10 Cinder Stalker
+10 Servant of Velera
+10 Perfervid Oracle
+10 Howling Flesher
+10 Incandescent Paladin
+10 Ozhkan Flayer
+10 Searing Spearman
+10 Carmine Hellkite
+10 Smoldered Sovereign
+10 Lightning Strike
+10 Draconic Resolve
+10 Rise of the War Sun
+10 Mantra of Dominance
+10 Grasp at Lost Light
+10 Flames of Progress
+10 Elyth's Faithful
+10 Escort of the Helmless
+10 Gloamtender
+10 Gleaming Soothsayer
+10 Warden of the Weald
+10 Ozhkan Brawler
+10 Mantra of Ferocity
+10 Verdant Lieutenant
+10 Lockwood Giant
+10 Grotweaver
+10 Wraithbane's Focus
+10 Contest of the Just
+10 Wreath of Wisterias
+10 Roots of the Hollow Yew
+10 Commune with Marisyn
+10 Cackleghast
+10 Elythi Custodian
+10 Apocalypse Foil
+10 Fractured Orrery
+10 Sacred Statuary
+10 Winsome Expanse
