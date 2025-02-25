@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/ATT-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>ATT visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 3%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/ATT-files/logo.png" />
+	<img class="preload-hidden" src="/sets/ATR-files/icon.png" />
+		<img class="preload-hidden" src="/sets/ATS-files/icon.png" />
+		<img class="preload-hidden" src="/sets/ATT-files/icon.png" />
+		<img class="preload-hidden" src="/sets/GSS-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="ATR"><img src="/sets/ATR-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="ATS"><img src="/sets/ATS-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="ATT"><img src="/sets/ATT-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="GSS"><img src="/sets/GSS-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/ATT-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets/ATT-files/img/1_Ashen Retribution.png" id="1_Ashen Retribution" data-flag="@X" onclick="openSidebar('1_Ashen Retribution',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/16_Defy Gravity.png" id="16_Defy Gravity" data-flag="@X" onclick="openSidebar('16_Defy Gravity',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/31_Ashen Persecutor.png" id="31_Ashen Persecutor" data-flag="@X" onclick="openSidebar('31_Ashen Persecutor',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/46_Carmine Hellkite.png" id="46_Carmine Hellkite" data-flag="@X" onclick="openSidebar('46_Carmine Hellkite',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/61_Commune with Marisyn.png" id="61_Commune with Marisyn" data-flag="@X" onclick="openSidebar('61_Commune with Marisyn',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/2_Cosmic Stitcher.png" id="2_Cosmic Stitcher" data-flag="@X" onclick="openSidebar('2_Cosmic Stitcher',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/17_Embrace of Eless.png" id="17_Embrace of Eless" data-flag="@X" onclick="openSidebar('17_Embrace of Eless',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/32_Beseech the Bones.png" id="32_Beseech the Bones" data-flag="@X" onclick="openSidebar('32_Beseech the Bones',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/47_Cinder Stalker.png" id="47_Cinder Stalker" data-flag="@X" onclick="openSidebar('47_Cinder Stalker',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/62_Contest of the Just.png" id="62_Contest of the Just" data-flag="@X" onclick="openSidebar('62_Contest of the Just',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/3_Emblem of Myrenhal.png" id="3_Emblem of Myrenhal" data-flag="@X" onclick="openSidebar('3_Emblem of Myrenhal',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/18_Hypnotic Crosswinds.png" id="18_Hypnotic Crosswinds" data-flag="@X" onclick="openSidebar('18_Hypnotic Crosswinds',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/33_Duskbringer.png" id="33_Duskbringer" data-flag="@X" onclick="openSidebar('33_Duskbringer',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/48_Draconic Resolve.png" id="48_Draconic Resolve" data-flag="@X" onclick="openSidebar('48_Draconic Resolve',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/63_Elyth's Faithful.png" id="63_Elyths Faithful" data-flag="@X" onclick="openSidebar('63_Elyths Faithful',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/4_Glintpath Guide.png" id="4_Glintpath Guide" data-flag="@X" onclick="openSidebar('4_Glintpath Guide',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/19_Illusory Outrider.png" id="19_Illusory Outrider" data-flag="@X" onclick="openSidebar('19_Illusory Outrider',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/34_Extinguish Legacies.png" id="34_Extinguish Legacies" data-flag="@X" onclick="openSidebar('34_Extinguish Legacies',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/49_Flames of Progress.png" id="49_Flames of Progress" data-flag="@X" onclick="openSidebar('49_Flames of Progress',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/64_Escort of the Helmless.png" id="64_Escort of the Helmless" data-flag="@X" onclick="openSidebar('64_Escort of the Helmless',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/5_Make Your Move.png" id="5_Make Your Move" data-flag="@X" onclick="openSidebar('5_Make Your Move',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/20_Ing'Wei's Artistry.png" id="20_IngWeis Artistry" data-flag="@X" onclick="openSidebar('20_IngWeis Artistry',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/35_Hero's Downfall.png" id="35_Heros Downfall" data-flag="@X" onclick="openSidebar('35_Heros Downfall',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/50_Grasp at Lost Light.png" id="50_Grasp at Lost Light" data-flag="@X" onclick="openSidebar('50_Grasp at Lost Light',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/65_Gleaming Soothsayer.png" id="65_Gleaming Soothsayer" data-flag="@X" onclick="openSidebar('65_Gleaming Soothsayer',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/6_Mantle of Gallantry.png" id="6_Mantle of Gallantry" data-flag="@X" onclick="openSidebar('6_Mantle of Gallantry',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/21_Mantra of Brilliance.png" id="21_Mantra of Brilliance" data-flag="@X" onclick="openSidebar('21_Mantra of Brilliance',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/36_Lunar Specter.png" id="36_Lunar Specter" data-flag="@X" onclick="openSidebar('36_Lunar Specter',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/51_Howling Flesher.png" id="51_Howling Flesher" data-flag="@X" onclick="openSidebar('51_Howling Flesher',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/66_Gloamtender.png" id="66_Gloamtender" data-flag="@X" onclick="openSidebar('66_Gloamtender',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/7_Mantra of Order.png" id="7_Mantra of Order" data-flag="@X" onclick="openSidebar('7_Mantra of Order',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/22_Mistcloak Drake.png" id="22_Mistcloak Drake" data-flag="@X" onclick="openSidebar('22_Mistcloak Drake',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/37_Mantra of Necrosis.png" id="37_Mantra of Necrosis" data-flag="@X" onclick="openSidebar('37_Mantra of Necrosis',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/52_Incandescent Paladin.png" id="52_Incandescent Paladin" data-flag="@X" onclick="openSidebar('52_Incandescent Paladin',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/67_Grotweaver.png" id="67_Grotweaver" data-flag="@X" onclick="openSidebar('67_Grotweaver',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/8_Marble Godhand.png" id="8_Marble Godhand" data-flag="@X" onclick="openSidebar('8_Marble Godhand',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/23_Rift Wyvern.png" id="23_Rift Wyvern" data-flag="@X" onclick="openSidebar('23_Rift Wyvern',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/38_Notion Scraper.png" id="38_Notion Scraper" data-flag="@X" onclick="openSidebar('38_Notion Scraper',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/53_Lightning Strike.png" id="53_Lightning Strike" data-flag="@X" onclick="openSidebar('53_Lightning Strike',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/68_Lockwood Giant.png" id="68_Lockwood Giant" data-flag="@X" onclick="openSidebar('68_Lockwood Giant',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/9_Noble Ashsworn.png" id="9_Noble Ashsworn" data-flag="@X" onclick="openSidebar('9_Noble Ashsworn',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/24_Seeker of Lost Light.png" id="24_Seeker of Lost Light" data-flag="@X" onclick="openSidebar('24_Seeker of Lost Light',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/39_Portent of Calamity.png" id="39_Portent of Calamity" data-flag="@X" onclick="openSidebar('39_Portent of Calamity',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/54_Mantra of Dominance.png" id="54_Mantra of Dominance" data-flag="@X" onclick="openSidebar('54_Mantra of Dominance',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/69_Mantra of Ferocity.png" id="69_Mantra of Ferocity" data-flag="@X" onclick="openSidebar('69_Mantra of Ferocity',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/10_Paragon of Valor.png" id="10_Paragon of Valor" data-flag="@X" onclick="openSidebar('10_Paragon of Valor',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/25_Sythori Squadron.png" id="25_Sythori Squadron" data-flag="@X" onclick="openSidebar('25_Sythori Squadron',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/40_Shadow Lancer.png" id="40_Shadow Lancer" data-flag="@X" onclick="openSidebar('40_Shadow Lancer',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/55_Ozhkan Flayer.png" id="55_Ozhkan Flayer" data-flag="@X" onclick="openSidebar('55_Ozhkan Flayer',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/70_Ozhkan Brawler.png" id="70_Ozhkan Brawler" data-flag="@X" onclick="openSidebar('70_Ozhkan Brawler',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/11_Spirelight Shepherd.png" id="11_Spirelight Shepherd" data-flag="@X" onclick="openSidebar('11_Spirelight Shepherd',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/26_Touch of Oros.png" id="26_Touch of Oros" data-flag="@X" onclick="openSidebar('26_Touch of Oros',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/41_Slaughterbrute.png" id="41_Slaughterbrute" data-flag="@X" onclick="openSidebar('41_Slaughterbrute',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/56_Perfervid Oracle.png" id="56_Perfervid Oracle" data-flag="@X" onclick="openSidebar('56_Perfervid Oracle',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/71_Roots of the Hollow Yew.png" id="71_Roots of the Hollow Yew" data-flag="@X" onclick="openSidebar('71_Roots of the Hollow Yew',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/12_Steward of the Eclipse.png" id="12_Steward of the Eclipse" data-flag="@X" onclick="openSidebar('12_Steward of the Eclipse',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/27_Tracelight Wayfarer.png" id="27_Tracelight Wayfarer" data-flag="@X" onclick="openSidebar('27_Tracelight Wayfarer',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/42_Taciturn Council.png" id="42_Taciturn Council" data-flag="@X" onclick="openSidebar('42_Taciturn Council',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/57_Rise of the War Sun.png" id="57_Rise of the War Sun" data-flag="@X" onclick="openSidebar('57_Rise of the War Sun',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/72_Verdant Lieutenant.png" id="72_Verdant Lieutenant" data-flag="@X" onclick="openSidebar('72_Verdant Lieutenant',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/13_Striding Banneret.png" id="13_Striding Banneret" data-flag="@X" onclick="openSidebar('13_Striding Banneret',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/28_Wanderwight.png" id="28_Wanderwight" data-flag="@X" onclick="openSidebar('28_Wanderwight',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/43_Vareth Beckons.png" id="43_Vareth Beckons" data-flag="@X" onclick="openSidebar('43_Vareth Beckons',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/58_Searing Spearman.png" id="58_Searing Spearman" data-flag="@X" onclick="openSidebar('58_Searing Spearman',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/73_Warden of the Weald.png" id="73_Warden of the Weald" data-flag="@X" onclick="openSidebar('73_Warden of the Weald',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/14_Twilight Cavalry.png" id="14_Twilight Cavalry" data-flag="@X" onclick="openSidebar('14_Twilight Cavalry',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/29_Watchers on High.png" id="29_Watchers on High" data-flag="@X" onclick="openSidebar('29_Watchers on High',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/44_Veleran Butcher.png" id="44_Veleran Butcher" data-flag="@X" onclick="openSidebar('44_Veleran Butcher',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/59_Servant of Velera.png" id="59_Servant of Velera" data-flag="@X" onclick="openSidebar('59_Servant of Velera',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/74_Wraithbane's Focus.png" id="74_Wraithbanes Focus" data-flag="@X" onclick="openSidebar('74_Wraithbanes Focus',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/15_Umbral Possessor.png" id="15_Umbral Possessor" data-flag="@X" onclick="openSidebar('15_Umbral Possessor',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/30_Worldwind Serpent.png" id="30_Worldwind Serpent" data-flag="@X" onclick="openSidebar('30_Worldwind Serpent',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/45_Visions of Prostration.png" id="45_Visions of Prostration" data-flag="@X" onclick="openSidebar('45_Visions of Prostration',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/60_Smoldered Sovereign.png" id="60_Smoldered Sovereign" data-flag="@X" onclick="openSidebar('60_Smoldered Sovereign',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/75_Wreath of Wisterias.png" id="75_Wreath of Wisterias" data-flag="@X" onclick="openSidebar('75_Wreath of Wisterias',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/87_Requiem Virtuoso.png" id="87_Requiem Virtuoso" data-flag="@X" onclick="openSidebar('87_Requiem Virtuoso',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/92_Storm Forth, Moonchild.png" id="92_Storm Forth, Moonchild" data-flag="@X" onclick="openSidebar('92_Storm Forth, Moonchild',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/77_Bloodshade Cavalier.png" id="77_Bloodshade Cavalier" data-flag="@X" onclick="openSidebar('77_Bloodshade Cavalier',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/86_Ozhka's Deliverance.png" id="86_Ozhkas Deliverance" data-flag="@X" onclick="openSidebar('86_Ozhkas Deliverance',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/90_Sky's Eye Legionnaire.png" id="90_Skys Eye Legionnaire" data-flag="@X" onclick="openSidebar('90_Skys Eye Legionnaire',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/91_Squire of Vaelios.png" id="91_Squire of Vaelios" data-flag="@X" onclick="openSidebar('91_Squire of Vaelios',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/93_Usher of Undoing.png" id="93_Usher of Undoing" data-flag="@X" onclick="openSidebar('93_Usher of Undoing',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/81_Dakarros Goliath.png" id="81_Dakarros Goliath" data-flag="@X" onclick="openSidebar('81_Dakarros Goliath',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/88_Ruthless Varkirn.png" id="88_Ruthless Varkirn" data-flag="@X" onclick="openSidebar('88_Ruthless Varkirn',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/95_Wreathed Sentinel.png" id="95_Wreathed Sentinel" data-flag="@X" onclick="openSidebar('95_Wreathed Sentinel',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/80_Crosswind Sentry.png" id="80_Crosswind Sentry" data-flag="@X" onclick="openSidebar('80_Crosswind Sentry',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/85_Iris Crypt Reaper.png" id="85_Iris Crypt Reaper" data-flag="@X" onclick="openSidebar('85_Iris Crypt Reaper',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/76_Auspex of Fortitudes.png" id="76_Auspex of Fortitudes" data-flag="@X" onclick="openSidebar('76_Auspex of Fortitudes',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/79_Caldera Spawn.png" id="79_Caldera Spawn" data-flag="@X" onclick="openSidebar('79_Caldera Spawn',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/78_Brightblade Duelist.png" id="78_Brightblade Duelist" data-flag="@X" onclick="openSidebar('78_Brightblade Duelist',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/84_Hand of the Ashen Oath.png" id="84_Hand of the Ashen Oath" data-flag="@X" onclick="openSidebar('84_Hand of the Ashen Oath',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/94_Wickerwretch.png" id="94_Wickerwretch" data-flag="@X" onclick="openSidebar('94_Wickerwretch',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/83_Gnarled Lifeletter.png" id="83_Gnarled Lifeletter" data-flag="@X" onclick="openSidebar('83_Gnarled Lifeletter',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/89_Saint of Sword and Sun.png" id="89_Saint of Sword and Sun" data-flag="@X" onclick="openSidebar('89_Saint of Sword and Sun',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/82_Fellowship Veteran.png" id="82_Fellowship Veteran" data-flag="@X" onclick="openSidebar('82_Fellowship Veteran',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/96_Apocalypse Foil.png" id="96_Apocalypse Foil" data-flag="@X" onclick="openSidebar('96_Apocalypse Foil',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/97_Cackleghast.png" id="97_Cackleghast" data-flag="@X" onclick="openSidebar('97_Cackleghast',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/98_Elythi Custodian.png" id="98_Elythi Custodian" data-flag="@X" onclick="openSidebar('98_Elythi Custodian',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/99_Fractured Orrery.png" id="99_Fractured Orrery" data-flag="@X" onclick="openSidebar('99_Fractured Orrery',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/100_Sacred Statuary.png" id="100_Sacred Statuary" data-flag="@X" onclick="openSidebar('100_Sacred Statuary',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/101_Winsome Expanse.png" id="101_Winsome Expanse" data-flag="@X" onclick="openSidebar('101_Winsome Expanse',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets/ATT-files/img/1t_Fated War.png" id="1t_Fated War" data-flag="@X" onclick="openSidebar('1t_Fated War',true)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+
+		if (horizontal && sidebar_img.src.includes("_front"))
+		{
+			rotated_img.src = document.getElementById(id).src;
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+			if (event.key === "Enter") {
+				event.preventDefault();
+				search();
+			}
+		});
+
+		function search() {
+			window.location = ("/search?search=" + document.getElementById("search").value);
+		}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let card_name = card_list_arrayified[i].card_name;
+				for (const char of specialchars)
+				{
+					card_name = card_name.replaceAll(char, "");
+				}
+
+				window.location = ('/cards/' + card_list_arrayified[i].set + '/' + card_list_arrayified[i].number + '_' + card_name);
+			}
+	</script>
+</body>
+</html>

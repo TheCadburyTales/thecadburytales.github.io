@@ -213,7 +213,7 @@
 										<div class="set-group"></div>
 							<div class="preview-container">
 		<div class="set-icon-container">
-									<a href="ATR-spoiler"><div class="set-icon"><img src="sets/ATR-files/icon.png" title="The Shattered Pantheon of Atros"></img></div>
+									<a href="previews/ATR"><div class="set-icon"><img src="sets/ATR-files/icon.png" title="The Shattered Pantheon of Atros"></img></div>
 									<div class="set-icon-name">The Shattered Pantheon of Atros</div></a>
 								</div>
 									</div>
@@ -284,12 +284,17 @@
 				const card_stats = card_list_cleaned[cotd];
 
 				const a = document.createElement("a");
-				let card_name = card_stats.card_name;
-				for (const char of specialchars)
-				{
-					card_name = card_name.replaceAll(char, "");
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: card_stats.set,
+					num: card_stats.number,
+					name: card_stats.card_name
 				}
-				a.href = '/cards/' + card_stats.set + '/' + card_stats.number + '_' + card_name;
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+				a.href = url;
 
 				const img = document.createElement("img");
 				img.id = "cotd";
