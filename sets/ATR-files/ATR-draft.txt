@@ -435,9 +435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Spirit Knight ",
-			"collector_number": "91",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/91_Conflagrant Militant.png"
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/90_Conflagrant Militant.png"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Enchantment Creature — Dragon ",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/114_Smoke Sovereign.png"
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/113_Smoke Sovereign.png"
 			}
 		},
 		{
@@ -555,9 +555,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/113_Sever Mortal Tethers.png"
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/112_Sever Mortal Tethers.png"
 			}
 		},
 		{
@@ -1013,7 +1013,7 @@
 		{
 			"name": "Twilight Cavalry",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Creature — Spirit Knight ",
 			"collector_number": "26",
 			"image_uris": {
@@ -1073,7 +1073,7 @@
 		{
 			"name": "Paragon of Valor",
 			"rarity": "common",
-			"mana_cost": "{3}{W}",
+			"mana_cost": "{4}{W}",
 			"type": "Creature — Angel Cleric ",
 			"collector_number": "22",
 			"image_uris": {
@@ -1083,7 +1083,7 @@
 		{
 			"name": "Steward of the Eclipse",
 			"rarity": "common",
-			"mana_cost": "{3}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Creature — Wraith Knight ",
 			"collector_number": "24",
 			"image_uris": {
@@ -1093,7 +1093,7 @@
 		{
 			"name": "Striding Banneret",
 			"rarity": "common",
-			"mana_cost": "{4}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Creature — Giant Knight ",
 			"collector_number": "25",
 			"image_uris": {
@@ -1171,13 +1171,13 @@
 			}
 		},
 		{
-			"name": "Illusory Outrider",
+			"name": "Illusory Vanguard",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Wraith Knight ",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/39_Illusory Outrider.png"
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/39_Illusory Vanguard.png"
 			}
 		},
 		{
@@ -1451,13 +1451,13 @@
 			}
 		},
 		{
-			"name": "Cinder Stalker",
+			"name": "Doomed Outrider",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Wraith ",
-			"collector_number": "90",
+			"type": "Creature — Human Knight ",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/90_Cinder Stalker.png"
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/91_Doomed Outrider.png"
 			}
 		},
 		{
@@ -1465,9 +1465,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Wraith Knight ",
-			"collector_number": "112",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/112_Servant of Velera.png"
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/111_Servant of Velera.png"
 			}
 		},
 		{
@@ -1493,7 +1493,7 @@
 		{
 			"name": "Incandescent Paladin",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Creature — Spirit Knight ",
 			"collector_number": "99",
 			"image_uris": {
@@ -1513,11 +1513,11 @@
 		{
 			"name": "Searing Piker",
 			"rarity": "common",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Knight ",
-			"collector_number": "111",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/111_Searing Piker.png"
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/110_Searing Piker.png"
 			}
 		},
 		{
@@ -1535,9 +1535,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Enchantment Creature — Elemental Knight ",
-			"collector_number": "115",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/115_Smoldered Monarch.png"
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/114_Smoldered Monarch.png"
 			}
 		},
 		{
@@ -1561,13 +1561,13 @@
 			}
 		},
 		{
-			"name": "Rise of the War Sun",
+			"name": "Sorellan Farewell",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Instant",
-			"collector_number": "110",
+			"type": "Sorcery",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/110_Rise of the War Sun.png"
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/115_Sorellan Farewell.png"
 			}
 		},
 		{
@@ -1915,59 +1915,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island ",
-			"collector_number": "184",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/184_Island.png"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp ",
-			"collector_number": "186",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/186_Swamp.png"
-			}
-		},
-		{
-			"name": "Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain ",
-			"collector_number": "188",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/188_Mountain.png"
-			}
-		},
-		{
-			"name": "Forest",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Forest ",
-			"collector_number": "190",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/190_Forest.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains ",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/183_Plains.png"
-			}
-		},
-		{
-			"name": "Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island ",
-			"collector_number": "185",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/185_Island.png"
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/183_Island.png"
 			}
 		},
 		{
@@ -1975,9 +1925,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp ",
-			"collector_number": "187",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/187_Swamp.png"
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/184_Swamp.png"
 			}
 		},
 		{
@@ -1985,9 +1935,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
-			"collector_number": "189",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/189_Mountain.png"
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/185_Mountain.png"
 			}
 		},
 		{
@@ -1995,9 +1945,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest ",
-			"collector_number": "191",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/191_Forest.png"
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/186_Forest.png"
 			}
 		}
 	]
@@ -2120,7 +2070,7 @@
 30 Make Your Move
 30 Wanderwight
 30 Mistcloak Drake
-30 Illusory Outrider
+30 Illusory Vanguard
 30 Rift Wyvern
 30 Tracelight Wayfarer
 30 Wayward Rustblade
@@ -2148,7 +2098,7 @@
 30 Hero's Downfall
 30 Vareth Beckons
 30 Mantra of Necrosis
-30 Cinder Stalker
+30 Doomed Outrider
 30 Servant of Velera
 30 Perfervid Oracle
 30 Howling Flesher
@@ -2159,7 +2109,7 @@
 30 Smoldered Monarch
 30 Lightning Strike
 30 Draconic Resolve
-30 Rise of the War Sun
+30 Sorellan Farewell
 30 Mantra of Dominance
 30 Grasp at Lost Light
 30 Flames of Progress
@@ -2302,7 +2252,7 @@
 10 Make Your Move
 10 Wanderwight
 10 Mistcloak Drake
-10 Illusory Outrider
+10 Illusory Vanguard
 10 Rift Wyvern
 10 Tracelight Wayfarer
 10 Wayward Rustblade
@@ -2330,7 +2280,7 @@
 10 Hero's Downfall
 10 Vareth Beckons
 10 Mantra of Necrosis
-10 Cinder Stalker
+10 Doomed Outrider
 10 Servant of Velera
 10 Perfervid Oracle
 10 Howling Flesher
@@ -2341,7 +2291,7 @@
 10 Smoldered Monarch
 10 Lightning Strike
 10 Draconic Resolve
-10 Rise of the War Sun
+10 Sorellan Farewell
 10 Mantra of Dominance
 10 Grasp at Lost Light
 10 Flames of Progress
