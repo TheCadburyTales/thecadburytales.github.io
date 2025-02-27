@@ -74,9 +74,6 @@ for entry in os.scandir('.'):
 	if '-spoiler' in entry.name:
 		os.remove(entry)
 
-#CE: copy the entire custom tree
-portCustomFiles('custom', '')
-
 #F: first, get all the set codes
 set_codes = []
 
@@ -90,6 +87,9 @@ for entry in os.scandir('sets'):
 for entry in os.scandir('lists'):
 	if entry.name != 'README.md' and os.path.isfile(entry):
 		os.remove(entry)
+
+#CE: copy the entire custom tree
+portCustomFiles('custom', '')
 
 #F: sort them
 
@@ -121,11 +121,14 @@ for code in set_codes:
 print_html_for_card.generateHTML()
 print(f"HTML file for card display saved as card.html")
 
-set_order_data = {
-	"": set_order
-}
-with open(os.path.join('lists', 'set-order.json'), 'w', encoding='utf-8-sig') as f:
-	json.dump(set_order_data, f)
+#CE: only create set_order file if no custom one is provided
+custom_order = os.path.join('lists', 'set-order.json')
+if not os.path.exists(custom_order):
+	set_order_data = {
+		"": set_order
+	}
+	with open(custom_order, 'w', encoding='utf-8-sig') as f:
+		json.dump(set_order_data, f)
 
 for code in set_codes:
 	#F: more important functions

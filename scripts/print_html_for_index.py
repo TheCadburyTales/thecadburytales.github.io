@@ -230,6 +230,7 @@ def generateHTML():
 		'''
 		set_codes = so_json[key]
 		for code in set_codes:
+			set_name = 'MISSING'
 			if not os.path.exists(os.path.join('sets', code + '-files', 'ignore.txt')):
 				with open(os.path.join('lists', 'all-sets.json'), encoding='utf-8-sig') as f:
 					data = json.load(f)
@@ -408,7 +409,9 @@ def generateHTML():
 			}
 
 			function search() {
-				window.location = ("search?search=" + document.getElementById("search").value);
+				const url = new URL('search', window.location.origin);
+				url.searchParams.append('search', document.getElementById("search").value);
+				window.location.href = url;
 			}
 
 			'''
