@@ -43,7 +43,7 @@
 		{
 			"name": "Marisyni Legion",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{4}{W}",
 			"type": "Enchantment Creature — Spirit Knight ",
 			"collector_number": "16",
 			"image_uris": {
@@ -133,7 +133,7 @@
 		{
 			"name": "Way of the Ashen",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
 			"collector_number": "29",
 			"image_uris": {
@@ -711,13 +711,13 @@
 			}
 		},
 		{
-			"name": "Requiem Virtuoso",
+			"name": "Requiem Soloist",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Spirit Bard ",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/157_Requiem Virtuoso.png"
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/157_Requiem Soloist.png"
 			}
 		},
 		{
@@ -1583,7 +1583,7 @@
 		{
 			"name": "Grasp at Lost Light",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
 			"collector_number": "96",
 			"image_uris": {
@@ -1915,9 +1915,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island ",
-			"collector_number": "183",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/183_Island.png"
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/184_Island.png"
 			}
 		},
 		{
@@ -1925,9 +1925,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp ",
-			"collector_number": "184",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/184_Swamp.png"
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/186_Swamp.png"
 			}
 		},
 		{
@@ -1935,9 +1935,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
-			"collector_number": "185",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/185_Mountain.png"
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/188_Mountain.png"
 			}
 		},
 		{
@@ -1945,9 +1945,59 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest ",
-			"collector_number": "186",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ATR-files/img/186_Forest.png"
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/190_Forest.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/183_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/185_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/187_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/189_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/191_Forest.png"
 			}
 		}
 	]
@@ -2023,7 +2073,7 @@
 9 Overprotect
 9 Branchbrand
 9 Squire of Vaelios
-9 Requiem Virtuoso
+9 Requiem Soloist
 9 Usher of Undoing
 9 Storm Forth, Moonchild
 9 Dakarros Goliath
@@ -2206,7 +2256,7 @@
 10 Overprotect
 10 Branchbrand
 10 Squire of Vaelios
-10 Requiem Virtuoso
+10 Requiem Soloist
 10 Usher of Undoing
 10 Storm Forth, Moonchild
 10 Dakarros Goliath
