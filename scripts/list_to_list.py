@@ -96,8 +96,11 @@ def convertList(setCode):
 		if card['number'] in skipdex:
 			continue
 
+		#CE: fix for devoid cards
+		if 'devoid' in card['rules_text'].lower():
+			card['color'] = card['color_identity']
+
 		# sort types
-		#EDIT - replace the array index with JSON keys; 10 = shape, 1 = color, 3 = type
 		if '!sort_group1' in card['notes']:
 			cards_sorted['sort_group1'].append(card)
 		elif '!sort_group2' in card['notes']:
