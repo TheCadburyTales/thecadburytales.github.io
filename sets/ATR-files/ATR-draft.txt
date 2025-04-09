@@ -2803,6 +2803,26 @@
 	]
 
 [rare(1)]
+	1 Heping, at War's End
+	1 Panya, Swift and Sure
+	1 Litany of Despair
+	1 Progeny of Bloodflame
+	1 Behold the Aeons
+	1 The Divine Vaelias
+	1 The Divine Sythor
+	1 The Divine Velera
+	1 The Divine Ozhka
+	1 The Divine Marisyn
+	1 Jorah, Godslayer
+	1 The Divine Caele
+	1 The Divine Elyth
+	1 The Divine Xalren
+	1 The Divine Sorella
+	1 Ashen Paragon
+	1 That Which Rots
+	1 Ozhkan Blademaster
+	1 Form of the Blue Moon
+	1 The Fire and the Flood
 	2 Ivory Tactician
 	2 Empyrean Challenger
 	2 Sanctuary

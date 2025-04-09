@@ -39,7 +39,7 @@ def generateFile(code):
 			if slot_name == 'wildcard' and not filtered(card, filters) and not 'Basic' in card['type'] and not 'token' in card['shape']:
 				booster[slot_name].append(card)
 			elif not slot['custom']:
-				if card['rarity'] == slot_name and not filtered(card, filters) and not 'Basic' in card['type'] and not 'token' in card['shape']:
+				if ((card['rarity'] == 'mythic' and slot_name == 'rare') or card['rarity'] == slot_name) and not filtered(card, filters) and not 'Basic' in card['type'] and not 'token' in card['shape']:
 					booster[slot_name].append(card)
 			else:
 				if ('!' + slot_name) in card['notes']:
