@@ -3067,264 +3067,264 @@
 	8 Sacred Statuary
 	8 Winsome Expanse
 [wildcard(2)]
-	5 Heping, at War's End
-	5 Panya, Swift and Sure
-	5 Litany of Despair
-	5 Progeny of Bloodflame
-	5 Behold the Aeons
-	5 The Divine Vaelias
-	5 The Divine Sythor
-	5 The Divine Velera
-	5 The Divine Ozhka
-	5 The Divine Marisyn
-	5 Jorah, Godslayer
-	5 The Divine Caele
-	5 The Divine Elyth
-	5 The Divine Xalren
-	5 The Divine Sorella
-	5 Ashen Paragon
-	5 That Which Rots
-	5 Ozhkan Blademaster
-	5 Form of the Blue Moon
-	5 The Fire and the Flood
-	5 Ivory Tactician
-	5 Empyrean Challenger
-	5 Sanctuary
-	5 Pledgeseeker
-	5 Fogborne Brigade
-	5 Annihilation
-	5 Knightfall
-	5 Prescient Phantom
-	5 Astral Seamstress
-	5 Prismatic Nightjar
-	5 Coincidence
-	5 Selenic Augur
-	5 See the Stars Align
-	5 Savior's Quandary
-	5 Deathwind Whisperer
-	5 Bloodrift Overlord
-	5 Enkindled Blackblade
-	5 Nachtengel
-	5 Dismay
-	5 Abyssal Promenade
-	5 In the Shadow of Azumoth
-	5 Sorellan Lamplighter
-	5 Liege of the Pyre
-	5 Emberblaze Warkite
-	5 Verve
-	5 The Liberated Onslaught
-	5 Let the Fray Burn
-	5 Hoard
-	5 Sundrop Cultivator
-	5 Realmsplicer
-	5 Hinterland Overseer
-	5 Existence
-	5 Wilderwarper
-	5 Sky's Eye Recruit
-	5 Arboreal Embrace
-	5 Caress of Moonlight
-	5 Righteous Archangel
-	5 Twist Perceptions
-	5 Syzygy Visionary
-	5 Ozhka's Ceaseless Assault
-	5 Crypt Cleaver
-	5 Ozhkan Huntmaster
-	5 Calamity
-	5 Remarkable Discovery
-	5 Marisyni Adherent
-	5 Epochal Descent
-	5 Cendris, Ashen Champion
-	5 Pestilent Lieutenant
-	5 Oakblight Sage
-	5 Loamlight Shepherd
-	5 Oracle of Azumoth
-	5 Seer of Sword and Sun
-	5 Kinetic Reaver
-	5 Dragonheart Technique
-	5 Blinding Herald
-	5 The Apocalypse Pendulum
-	5 Memorial to the Slain
-	5 Hero's Forum
-	5 Worldbraider
-	5 Tower of Measure
-	5 Keeper of Ghostlight
-	5 Eidolic Procession
-	5 Koryn Thael Guide
-	5 Pallid Emissary
-	5 Marisyni Legion
-	5 Oathsworn Captain
-	5 Gilded Guardian
-	5 Waxen Lyrist
-	5 Paradigm of Frailty
-	5 Majestic Seraph
-	5 Become Faceless
-	5 One Swift Strike
-	5 Feather of Flight
-	5 Way of the Ashen
-	5 Fanciful Brinedancer
-	5 Scion of the Aurora
-	5 Mist Whisperer
-	5 Star-Crossed Bride
-	5 Curio Hoarder
-	5 Occult Sculptor
-	5 Nightbreak Raptor
-	5 Ceremonial Flock
-	5 Celestial Sentry
-	5 Upset Balance
-	5 Song to the Siren
-	5 Taste the Waters
-	5 Better Thy Ken
-	5 Elythi Altar
-	5 Veleran Sellsword
-	5 Traipsing Silhouette
-	5 Ruin Raven
-	5 Auric Migrant
-	5 Plague Oracle
-	5 Gloaming Spearman
-	5 Massacre Behemoth
-	5 Skeletal Colossus
-	5 Withering Torment
-	5 Sights of the Blind
-	5 Eternity Awaits
-	5 Don the Wintercrown
-	5 Perceive the Void
-	5 Abyssal Virtuoso
-	5 Sunhunter
-	5 Conflagrant Militant
-	5 Bearer of the Blood Chalice
-	5 Needle Knight
-	5 Kindled Bladehand
-	5 Magmatic Entity
-	5 Smoke Sovereign
-	5 Ozhkan Cutthroat
-	5 Infernal Disseverer
-	5 Dravak Tyrant
-	5 Rend in Twain
-	5 Flame Sweep
-	5 Hollow Yew Halo
-	5 Sever Mortal Tethers
-	5 Pack Acolyte
-	5 Slavering Greymaw
-	5 Moonflower Culturist
-	5 Everbough Dryad
-	5 Greenwood Trooper
-	5 Verdure Shaper
-	5 Sylvan Sprites
-	5 Starbather
-	5 Hinterland Huntsman
-	5 Marrowholt Elder
-	5 Defile Pious Halls
-	5 Fall on the Sword
-	5 Overprotect
-	5 Branchbrand
-	5 Squire of Vaelias
-	5 Requiem Soloist
-	5 Usher of Undoing
-	5 Storm Forth, Moonchild
-	5 Dakarros Goliath
-	5 Bloodshade Cavalier
-	5 Ruthless Varkirn
-	5 Ozhka's Deliverance
-	5 Wreathed Sentinel
-	5 Sky's Eye Legionnaire
-	5 Hand of the Ashen Oath
-	5 Crosswind Partisan
-	5 Iris Crypt Reaper
-	5 Wickerwretch
-	5 Auspex of Fortitudes
-	5 Gnarled Lifeletter
-	5 Caldera Spawn
-	5 Saint of Sword and Sun
-	5 Brightblade Duelist
-	5 Fellowship Veteran
-	5 Flattening Ram
-	5 It That Tolls for Thee
-	5 Timeworn Tome
-	5 Imperious Pennant
-	5 War-Scarred Remnants
-	5 Paper Birch Path
-	5 Lunar Beck Path
-	5 Gloom Stone Path
-	5 Painted Cliff Path
-	5 Mystic Arbor Path
-	5 Mantle of Gallantry
-	5 Twilight Conscript
-	5 Spirelight Shepherd
-	5 Cosmic Stitcher
-	5 Noble Ashsworn
-	5 Marble Godhand
-	5 Glintpath Attendant
-	5 Exemplar of Valor
-	5 Steward of the Eclipse
-	5 Striding Banneret
-	5 Umbral Possessor
-	5 Emblem of Myrenhal
-	5 Ashen Retribution
-	5 Mantra of Order
-	5 Make Your Move
-	5 Wanderwight
-	5 Skycloak Drake
-	5 Illusory Vanguard
-	5 Rift Wyvern
-	5 Tracelight Wayfarer
-	5 Wayward Moonblade
-	5 Sythori Squadron
-	5 Worldwind Serpent
-	5 Breaths of Eless
-	5 Ing'Wei's Artistry
-	5 Defy Gravity
-	5 Mantra of Brilliance
-	5 Touch of Oros
-	5 Hypnotic Crosswinds
-	5 Watchers on High
-	5 Shadow Lancer
-	5 Notion Scraper
-	5 Duskbringer
-	5 Portent of Calamity
-	5 Ashen Persecutor
-	5 Lunar Specter
-	5 Brittle Butcher
-	5 Taciturn Council
-	5 Slaughterbrute
-	5 Extinguish Legacies
-	5 Visions of Prostration
-	5 Beseech the Bones
-	5 Hero's Downfall
-	5 Velera's Seduction
-	5 Mantra of Necrosis
-	5 Doomed Outrider
-	5 Servant of Velera
-	5 Perfervid Oracle
-	5 Howling Flesher
-	5 Incandescent Paladin
-	5 Ozhkan Flayer
-	5 Searing Piker
-	5 Carmine Hellkite
-	5 Smoldered Monarch
-	5 Lightning Strike
-	5 Draconic Resolve
-	5 Sorellan Farewell
-	5 Mantra of Dominance
-	5 Grasp at Lost Light
-	5 Flames of Progress
-	5 Elyth's Faithful
-	5 Escort of the Helmless
-	5 Gloamtender
-	5 Gleaming Soothsayer
-	5 Warden of the Weald
-	5 Solemn Packleader
-	5 Mantra of Ferocity
-	5 Verdant Cavalry
-	5 Lockwood Giant
-	5 Grotweaver
-	5 Wraithbane's Focus
-	5 Contest of the Just
-	5 Wreath of Wisterias
-	5 Roots of the Hollow Yew
-	5 Commune with Marisyn
-	5 Shackleghast
-	5 Elythi Custodian
-	5 Apocalypse Foil
-	5 Fractured Orrery
-	5 Sacred Statuary
-	5 Winsome Expanse
+	4 Heping, at War's End
+	4 Panya, Swift and Sure
+	4 Litany of Despair
+	4 Progeny of Bloodflame
+	4 Behold the Aeons
+	4 The Divine Vaelias
+	4 The Divine Sythor
+	4 The Divine Velera
+	4 The Divine Ozhka
+	4 The Divine Marisyn
+	4 Jorah, Godslayer
+	4 The Divine Caele
+	4 The Divine Elyth
+	4 The Divine Xalren
+	4 The Divine Sorella
+	4 Ashen Paragon
+	4 That Which Rots
+	4 Ozhkan Blademaster
+	4 Form of the Blue Moon
+	4 The Fire and the Flood
+	7 Ivory Tactician
+	7 Empyrean Challenger
+	7 Sanctuary
+	7 Pledgeseeker
+	7 Fogborne Brigade
+	7 Annihilation
+	7 Knightfall
+	7 Prescient Phantom
+	7 Astral Seamstress
+	7 Prismatic Nightjar
+	7 Coincidence
+	7 Selenic Augur
+	7 See the Stars Align
+	7 Savior's Quandary
+	7 Deathwind Whisperer
+	7 Bloodrift Overlord
+	7 Enkindled Blackblade
+	7 Nachtengel
+	7 Dismay
+	7 Abyssal Promenade
+	7 In the Shadow of Azumoth
+	7 Sorellan Lamplighter
+	7 Liege of the Pyre
+	7 Emberblaze Warkite
+	7 Verve
+	7 The Liberated Onslaught
+	7 Let the Fray Burn
+	7 Hoard
+	7 Sundrop Cultivator
+	7 Realmsplicer
+	7 Hinterland Overseer
+	7 Existence
+	7 Wilderwarper
+	7 Sky's Eye Recruit
+	7 Arboreal Embrace
+	7 Caress of Moonlight
+	7 Righteous Archangel
+	7 Twist Perceptions
+	7 Syzygy Visionary
+	7 Ozhka's Ceaseless Assault
+	7 Crypt Cleaver
+	7 Ozhkan Huntmaster
+	7 Calamity
+	7 Remarkable Discovery
+	7 Marisyni Adherent
+	7 Epochal Descent
+	7 Cendris, Ashen Champion
+	7 Pestilent Lieutenant
+	7 Oakblight Sage
+	7 Loamlight Shepherd
+	7 Oracle of Azumoth
+	7 Seer of Sword and Sun
+	7 Kinetic Reaver
+	7 Dragonheart Technique
+	7 Blinding Herald
+	7 The Apocalypse Pendulum
+	7 Memorial to the Slain
+	7 Hero's Forum
+	7 Worldbraider
+	7 Tower of Measure
+	15 Keeper of Ghostlight
+	15 Eidolic Procession
+	15 Koryn Thael Guide
+	15 Pallid Emissary
+	15 Marisyni Legion
+	15 Oathsworn Captain
+	15 Gilded Guardian
+	15 Waxen Lyrist
+	15 Paradigm of Frailty
+	15 Majestic Seraph
+	15 Become Faceless
+	15 One Swift Strike
+	15 Feather of Flight
+	15 Way of the Ashen
+	15 Fanciful Brinedancer
+	15 Scion of the Aurora
+	15 Mist Whisperer
+	15 Star-Crossed Bride
+	15 Curio Hoarder
+	15 Occult Sculptor
+	15 Nightbreak Raptor
+	15 Ceremonial Flock
+	15 Celestial Sentry
+	15 Upset Balance
+	15 Song to the Siren
+	15 Taste the Waters
+	15 Better Thy Ken
+	15 Elythi Altar
+	15 Veleran Sellsword
+	15 Traipsing Silhouette
+	15 Ruin Raven
+	15 Auric Migrant
+	15 Plague Oracle
+	15 Gloaming Spearman
+	15 Massacre Behemoth
+	15 Skeletal Colossus
+	15 Withering Torment
+	15 Sights of the Blind
+	15 Eternity Awaits
+	15 Don the Wintercrown
+	15 Perceive the Void
+	15 Abyssal Virtuoso
+	15 Sunhunter
+	15 Conflagrant Militant
+	15 Bearer of the Blood Chalice
+	15 Needle Knight
+	15 Kindled Bladehand
+	15 Magmatic Entity
+	15 Smoke Sovereign
+	15 Ozhkan Cutthroat
+	15 Infernal Disseverer
+	15 Dravak Tyrant
+	15 Rend in Twain
+	15 Flame Sweep
+	15 Hollow Yew Halo
+	15 Sever Mortal Tethers
+	15 Pack Acolyte
+	15 Slavering Greymaw
+	15 Moonflower Culturist
+	15 Everbough Dryad
+	15 Greenwood Trooper
+	15 Verdure Shaper
+	15 Sylvan Sprites
+	15 Starbather
+	15 Hinterland Huntsman
+	15 Marrowholt Elder
+	15 Defile Pious Halls
+	15 Fall on the Sword
+	15 Overprotect
+	15 Branchbrand
+	15 Squire of Vaelias
+	15 Requiem Soloist
+	15 Usher of Undoing
+	15 Storm Forth, Moonchild
+	15 Dakarros Goliath
+	15 Bloodshade Cavalier
+	15 Ruthless Varkirn
+	15 Ozhka's Deliverance
+	15 Wreathed Sentinel
+	15 Sky's Eye Legionnaire
+	15 Hand of the Ashen Oath
+	15 Crosswind Partisan
+	15 Iris Crypt Reaper
+	15 Wickerwretch
+	15 Auspex of Fortitudes
+	15 Gnarled Lifeletter
+	15 Caldera Spawn
+	15 Saint of Sword and Sun
+	15 Brightblade Duelist
+	15 Fellowship Veteran
+	15 Flattening Ram
+	15 It That Tolls for Thee
+	15 Timeworn Tome
+	15 Imperious Pennant
+	15 War-Scarred Remnants
+	15 Paper Birch Path
+	15 Lunar Beck Path
+	15 Gloom Stone Path
+	15 Painted Cliff Path
+	15 Mystic Arbor Path
+	6 Mantle of Gallantry
+	6 Twilight Conscript
+	6 Spirelight Shepherd
+	6 Cosmic Stitcher
+	6 Noble Ashsworn
+	6 Marble Godhand
+	6 Glintpath Attendant
+	6 Exemplar of Valor
+	6 Steward of the Eclipse
+	6 Striding Banneret
+	6 Umbral Possessor
+	6 Emblem of Myrenhal
+	6 Ashen Retribution
+	6 Mantra of Order
+	6 Make Your Move
+	6 Wanderwight
+	6 Skycloak Drake
+	6 Illusory Vanguard
+	6 Rift Wyvern
+	6 Tracelight Wayfarer
+	6 Wayward Moonblade
+	6 Sythori Squadron
+	6 Worldwind Serpent
+	6 Breaths of Eless
+	6 Ing'Wei's Artistry
+	6 Defy Gravity
+	6 Mantra of Brilliance
+	6 Touch of Oros
+	6 Hypnotic Crosswinds
+	6 Watchers on High
+	6 Shadow Lancer
+	6 Notion Scraper
+	6 Duskbringer
+	6 Portent of Calamity
+	6 Ashen Persecutor
+	6 Lunar Specter
+	6 Brittle Butcher
+	6 Taciturn Council
+	6 Slaughterbrute
+	6 Extinguish Legacies
+	6 Visions of Prostration
+	6 Beseech the Bones
+	6 Hero's Downfall
+	6 Velera's Seduction
+	6 Mantra of Necrosis
+	6 Doomed Outrider
+	6 Servant of Velera
+	6 Perfervid Oracle
+	6 Howling Flesher
+	6 Incandescent Paladin
+	6 Ozhkan Flayer
+	6 Searing Piker
+	6 Carmine Hellkite
+	6 Smoldered Monarch
+	6 Lightning Strike
+	6 Draconic Resolve
+	6 Sorellan Farewell
+	6 Mantra of Dominance
+	6 Grasp at Lost Light
+	6 Flames of Progress
+	6 Elyth's Faithful
+	6 Escort of the Helmless
+	6 Gloamtender
+	6 Gleaming Soothsayer
+	6 Warden of the Weald
+	6 Solemn Packleader
+	6 Mantra of Ferocity
+	6 Verdant Cavalry
+	6 Lockwood Giant
+	6 Grotweaver
+	6 Wraithbane's Focus
+	6 Contest of the Just
+	6 Wreath of Wisterias
+	6 Roots of the Hollow Yew
+	6 Commune with Marisyn
+	6 Shackleghast
+	6 Elythi Custodian
+	6 Apocalypse Foil
+	6 Fractured Orrery
+	6 Sacred Statuary
+	6 Winsome Expanse
