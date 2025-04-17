@@ -4,7 +4,7 @@
 			"name": "Zarax Broodqueen",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Creature — Galaxian Noble",
+			"type": "Creature â€” Galaxian Noble",
 			"collector_number": "36",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/36_Zarax Broodqueen.png"
@@ -24,7 +24,7 @@
 			"name": "Sirocco Cruiser",
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Human Pilot",
+			"type": "Creature â€” Human Pilot",
 			"collector_number": "68",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/68_Sirocco Cruiser.png"
@@ -34,7 +34,7 @@
 			"name": "The Black Mask",
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Legendary Creature — Galaxian Rogue",
+			"type": "Legendary Creature â€” Galaxian Rogue",
 			"collector_number": "79",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/79_The Black Mask.png"
@@ -44,7 +44,7 @@
 			"name": "Wreckage Ravager",
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Dragon",
+			"type": "Creature â€” Dragon",
 			"collector_number": "147",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/147_Wreckage Ravager.png"
@@ -54,7 +54,7 @@
 			"name": "Sigrid, the Golden Gunmaiden",
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Legendary Planeswalker — Sigrid",
+			"type": "Legendary Planeswalker â€” Sigrid",
 			"collector_number": "137",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/137_Sigrid, the Golden Gunmaiden.png"
@@ -64,7 +64,7 @@
 			"name": "Skinshifting Puma",
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Cat Lizard",
+			"type": "Creature â€” Cat Lizard",
 			"collector_number": "172",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/172_Skinshifting Puma.png"
@@ -74,7 +74,7 @@
 			"name": "Roaming Cactegu",
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Plant Lizard",
+			"type": "Creature â€” Plant Lizard",
 			"collector_number": "169",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/169_Roaming Cactegu.png"
@@ -94,7 +94,7 @@
 			"name": "Xylo, the Starfallen",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Legendary Planeswalker — Xylo",
+			"type": "Legendary Planeswalker â€” Xylo",
 			"collector_number": "233",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/233_Xylo, the Starfallen.png"
@@ -104,7 +104,7 @@
 			"name": "Eli, Wistful Drifter",
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Legendary Planeswalker — Eli",
+			"type": "Legendary Planeswalker â€” Eli",
 			"collector_number": "198",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/198_Eli, Wistful Drifter.png"
@@ -114,7 +114,7 @@
 			"name": "Interstellar Realignment",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}{W}",
-			"type": "Instant — Projectile",
+			"type": "Instant â€” Projectile",
 			"collector_number": "210",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/210_Interstellar Realignment.png"
@@ -134,7 +134,7 @@
 			"name": "Rusty, Sidewinders Brass",
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{R}{G}",
-			"type": "Legendary Planeswalker — Xiong Mao",
+			"type": "Legendary Planeswalker â€” Xiong Mao",
 			"collector_number": "221",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/221_Rusty, Sidewinders Brass.png"
@@ -144,7 +144,7 @@
 			"name": "Stalker of the Bogs",
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{G}{U}",
-			"type": "Creature — Wolf",
+			"type": "Creature â€” Wolf",
 			"collector_number": "226",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/226_Stalker of the Bogs.png"
@@ -154,7 +154,7 @@
 			"name": "Amelia Hawkeye Hayes",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}",
-			"type": "Legendary Creature — Human Mercenary",
+			"type": "Legendary Creature â€” Human Mercenary",
 			"collector_number": "188",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/188_Amelia Hawkeye Hayes.png"
@@ -164,7 +164,7 @@
 			"name": "The Twilight Riders",
 			"rarity": "mythic",
 			"mana_cost": "{R}{W}{B}",
-			"type": "Legendary Creature — Galaxian Mercenary",
+			"type": "Legendary Creature â€” Galaxian Mercenary",
 			"collector_number": "229",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/229_The Twilight Riders.png"
@@ -194,7 +194,7 @@
 			"name": "The Smoking Gun",
 			"rarity": "mythic",
 			"mana_cost": "{5}",
-			"type": "Legendary Planeswalker — Ghariv",
+			"type": "Legendary Planeswalker â€” Ghariv",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/1_The Smoking Gun.png"
@@ -204,7 +204,7 @@
 			"name": "Drifting Moon",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Jellyfish",
+			"type": "Creature â€” Jellyfish",
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/11_Drifting Moon.png"
@@ -214,7 +214,7 @@
 			"name": "Opportune Musketeer",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Galaxian Mercenary",
+			"type": "Creature â€” Galaxian Mercenary",
 			"collector_number": "23",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/23_Opportune Musketeer.png"
@@ -224,7 +224,7 @@
 			"name": "Annie White Rose Harper",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Legendary Creature — Human Mercenary",
+			"type": "Legendary Creature â€” Human Mercenary",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/2_Annie White Rose Harper.png"
@@ -254,7 +254,7 @@
 			"name": "Blessing of the Twin Suns",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
-			"type": "Instant — Projectile",
+			"type": "Instant â€” Projectile",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/5_Blessing of the Twin Suns.png"
@@ -264,7 +264,7 @@
 			"name": "Jack Flash Jacobs",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Legendary Creature — Human Rogue",
+			"type": "Legendary Creature â€” Human Rogue",
 			"collector_number": "55",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/55_Jack Flash Jacobs.png"
@@ -274,7 +274,7 @@
 			"name": "Shadow Puppeteer",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Bard",
+			"type": "Creature â€” Human Bard",
 			"collector_number": "67",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/67_Shadow Puppeteer.png"
@@ -284,7 +284,7 @@
 			"name": "Aione, the First Galaxian",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
-			"type": "Legendary Creature — Galaxian Pilot",
+			"type": "Legendary Creature â€” Galaxian Pilot",
 			"collector_number": "39",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/39_Aione, the First Galaxian.png"
@@ -304,7 +304,7 @@
 			"name": "Canyon Maraterra",
 			"rarity": "rare",
 			"mana_cost": "{6}{U}{U}",
-			"type": "Creature — Whale",
+			"type": "Creature â€” Whale",
 			"collector_number": "44",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/44_Canyon Maraterra.png"
@@ -314,7 +314,7 @@
 			"name": "Ad Astra",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Sorcery — Projectile",
+			"type": "Sorcery â€” Projectile",
 			"collector_number": "38",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/38_Ad Astra.png"
@@ -324,7 +324,7 @@
 			"name": "Nox, the Graven Gunman",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
-			"type": "Legendary Creature — Galaxian Rogue",
+			"type": "Legendary Creature â€” Galaxian Rogue",
 			"collector_number": "98",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/98_Nox, the Graven Gunman.png"
@@ -334,7 +334,7 @@
 			"name": "Shadowband Posse",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Creature — Galaxian Rogue",
+			"type": "Creature â€” Galaxian Rogue",
 			"collector_number": "105",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/105_Shadowband Posse.png"
@@ -344,7 +344,7 @@
 			"name": "Debt Collectors",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "83",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/83_Debt Collectors.png"
@@ -374,7 +374,7 @@
 			"name": "Spray and Pray",
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
-			"type": "Sorcery — Projectile",
+			"type": "Sorcery â€” Projectile",
 			"collector_number": "107",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/107_Spray and Pray.png"
@@ -384,7 +384,7 @@
 			"name": "Gearworks Pest",
 			"rarity": "rare",
 			"mana_cost": "{R}",
-			"type": "Creature — Scorpion",
+			"type": "Creature â€” Scorpion",
 			"collector_number": "125",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/125_Gearworks Pest.png"
@@ -394,7 +394,7 @@
 			"name": "Kaelan Nova, Starsplitter",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
-			"type": "Legendary Creature — Galaxian Mercenary",
+			"type": "Legendary Creature â€” Galaxian Mercenary",
 			"collector_number": "130",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/130_Kaelan Nova, Starsplitter.png"
@@ -404,7 +404,7 @@
 			"name": "Fireball Bootleggers",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Creature — Human Mercenary",
+			"type": "Creature â€” Human Mercenary",
 			"collector_number": "121",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/121_Fireball Bootleggers.png"
@@ -414,7 +414,7 @@
 			"name": "Skyfissure Dragon",
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Creature — Dragon",
+			"type": "Creature â€” Dragon",
 			"collector_number": "138",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/138_Skyfissure Dragon.png"
@@ -434,7 +434,7 @@
 			"name": "Chase the Ace",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
-			"type": "Sorcery — Projectile",
+			"type": "Sorcery â€” Projectile",
 			"collector_number": "115",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/115_Chase the Ace.png"
@@ -444,7 +444,7 @@
 			"name": "Verdurous Sibyl",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Galaxian Druid",
+			"type": "Creature â€” Galaxian Druid",
 			"collector_number": "180",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/180_Verdurous Sibyl.png"
@@ -454,7 +454,7 @@
 			"name": "Barbed Cactimber",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Plant Treefolk",
+			"type": "Creature â€” Plant Treefolk",
 			"collector_number": "150",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/150_Barbed Cactimber.png"
@@ -464,7 +464,7 @@
 			"name": "Scourge of Devil's Spine",
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{G}",
-			"type": "Creature — Wurm",
+			"type": "Creature â€” Wurm",
 			"collector_number": "170",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/170_Scourge of Devil's Spine.png"
@@ -494,7 +494,7 @@
 			"name": "Tactical Emesis",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
-			"type": "Sorcery — Projectile",
+			"type": "Sorcery â€” Projectile",
 			"collector_number": "177",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/177_Tactical Emesis.png"
@@ -504,7 +504,7 @@
 			"name": "The Varathian Consulate",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Legendary Creature — Galaxian Advisor",
+			"type": "Legendary Creature â€” Galaxian Advisor",
 			"collector_number": "231",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/231_The Varathian Consulate.png"
@@ -514,7 +514,7 @@
 			"name": "Cloudbreacher Oktujo",
 			"rarity": "rare",
 			"mana_cost": "{5}{W}{U}",
-			"type": "Creature — Fish",
+			"type": "Creature â€” Fish",
 			"collector_number": "194",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/194_Cloudbreacher Oktujo.png"
@@ -534,7 +534,7 @@
 			"name": "The Goon Squad",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{B}",
-			"type": "Legendary Creature — Galaxian Mercenary",
+			"type": "Legendary Creature â€” Galaxian Mercenary",
 			"collector_number": "204",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/204_The Goon Squad.png"
@@ -554,7 +554,7 @@
 			"name": "Preacher Moore",
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
-			"type": "Legendary Creature — Human Mercenary",
+			"type": "Legendary Creature â€” Human Mercenary",
 			"collector_number": "219",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/219_Preacher Moore.png"
@@ -564,7 +564,7 @@
 			"name": "Ravenous Cactyrant",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
-			"type": "Creature — Plant Dragon",
+			"type": "Creature â€” Plant Dragon",
 			"collector_number": "220",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/220_Ravenous Cactyrant.png"
@@ -574,7 +574,7 @@
 			"name": "Hunted Sandwurm",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
-			"type": "Creature — Wurm",
+			"type": "Creature â€” Wurm",
 			"collector_number": "208",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/208_Hunted Sandwurm.png"
@@ -584,7 +584,7 @@
 			"name": "Juniper Greenthumb Carter",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Legendary Creature — Human Scout",
+			"type": "Legendary Creature â€” Human Scout",
 			"collector_number": "212",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/212_Juniper Greenthumb Carter.png"
@@ -594,7 +594,7 @@
 			"name": "Amberhorn Bear",
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
-			"type": "Creature — Bear",
+			"type": "Creature â€” Bear",
 			"collector_number": "187",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/187_Amberhorn Bear.png"
@@ -604,7 +604,7 @@
 			"name": "Marketto, the Trafficker",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Legendary Creature — Galaxian Rogue",
+			"type": "Legendary Creature â€” Galaxian Rogue",
 			"collector_number": "214",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/214_Marketto, the Trafficker.png"
@@ -614,7 +614,7 @@
 			"name": "Morris and the Lacy Gang",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}",
-			"type": "Legendary Creature — Human Mercenary",
+			"type": "Legendary Creature â€” Human Mercenary",
 			"collector_number": "217",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/217_Morris and the Lacy Gang.png"
@@ -634,7 +634,7 @@
 			"name": "Hound of the Hellbreak",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
-			"type": "Legendary Creature — Demon Dog",
+			"type": "Legendary Creature â€” Demon Dog",
 			"collector_number": "207",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/207_Hound of the Hellbreak.png"
@@ -654,7 +654,7 @@
 			"name": "Oktujo Shepherd",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
-			"type": "Creature — Galaxian Scout",
+			"type": "Creature â€” Galaxian Scout",
 			"collector_number": "218",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/218_Oktujo Shepherd.png"
@@ -664,7 +664,7 @@
 			"name": "Clementine Cogs Faraday",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Legendary Creature — Galaxian Artificer",
+			"type": "Legendary Creature â€” Galaxian Artificer",
 			"collector_number": "193",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/193_Clementine Cogs Faraday.png"
@@ -674,7 +674,7 @@
 			"name": "Impavid Trailblazer",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{R}",
-			"type": "Creature — Galaxian Scout",
+			"type": "Creature â€” Galaxian Scout",
 			"collector_number": "209",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/209_Impavid Trailblazer.png"
@@ -694,7 +694,7 @@
 			"name": "Carson Livewire Legette",
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
-			"type": "Legendary Creature — Human Mercenary",
+			"type": "Legendary Creature â€” Human Mercenary",
 			"collector_number": "192",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/192_Carson Livewire Legette.png"
@@ -704,7 +704,7 @@
 			"name": "Galaxian's Best Friend",
 			"rarity": "rare",
 			"mana_cost": "{1}",
-			"type": "Artifact Creature — Junk Dog",
+			"type": "Artifact Creature â€” Junk Dog",
 			"collector_number": "240",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/240_Galaxian's Best Friend.png"
@@ -724,7 +724,7 @@
 			"name": "Gunslinger's Leatherworks",
 			"rarity": "rare",
 			"mana_cost": "{2}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "241",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/241_Gunslinger's Leatherworks.png"
@@ -734,7 +734,7 @@
 			"name": "Runaway Freight",
 			"rarity": "rare",
 			"mana_cost": "{3}",
-			"type": "Artifact — Vehicle",
+			"type": "Artifact â€” Vehicle",
 			"collector_number": "244",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/244_Runaway Freight.png"
@@ -744,7 +744,7 @@
 			"name": "Consulate Bellwether",
 			"rarity": "rare",
 			"mana_cost": "{5}",
-			"type": "Legendary Artifact — Vehicle",
+			"type": "Legendary Artifact â€” Vehicle",
 			"collector_number": "237",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/237_Consulate Bellwether.png"
@@ -754,7 +754,7 @@
 			"name": "Varathian Watchtower",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Tower",
+			"type": "Land â€” Tower",
 			"collector_number": "270",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/270_Varathian Watchtower.png"
@@ -764,7 +764,7 @@
 			"name": "Crystalline Clutches",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Mine",
+			"type": "Land â€” Mine",
 			"collector_number": "255",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/255_Crystalline Clutches.png"
@@ -774,7 +774,7 @@
 			"name": "Transuding Grotto",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Cave",
+			"type": "Land â€” Cave",
 			"collector_number": "266",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/266_Transuding Grotto.png"
@@ -784,7 +784,7 @@
 			"name": "The Slaughterhills",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Lair",
+			"type": "Land â€” Lair",
 			"collector_number": "262",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/262_The Slaughterhills.png"
@@ -794,7 +794,7 @@
 			"name": "Galactic Reach",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Gate",
+			"type": "Land â€” Gate",
 			"collector_number": "256",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/256_Galactic Reach.png"
@@ -804,7 +804,7 @@
 			"name": "Laden Steed",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Creature — Horse",
+			"type": "Creature â€” Horse",
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/17_Laden Steed.png"
@@ -814,7 +814,7 @@
 			"name": "Zarax Duelist",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Galaxian Mercenary",
+			"type": "Creature â€” Galaxian Mercenary",
 			"collector_number": "37",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/37_Zarax Duelist.png"
@@ -824,7 +824,7 @@
 			"name": "Boot Hill Liberator",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Mercenary",
+			"type": "Creature â€” Human Mercenary",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/6_Boot Hill Liberator.png"
@@ -834,7 +834,7 @@
 			"name": "Hissing Sunspitter",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Lizard Horse",
+			"type": "Creature â€” Lizard Horse",
 			"collector_number": "16",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/16_Hissing Sunspitter.png"
@@ -844,7 +844,7 @@
 			"name": "Luke The Duke McCall",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Legendary Creature — Human Mercenary",
+			"type": "Legendary Creature â€” Human Mercenary",
 			"collector_number": "21",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/21_Luke The Duke McCall.png"
@@ -854,7 +854,7 @@
 			"name": "Sandsteppe Trooper",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Creature — Galaxian Scout",
+			"type": "Creature â€” Galaxian Scout",
 			"collector_number": "27",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/27_Sandsteppe Trooper.png"
@@ -864,7 +864,7 @@
 			"name": "Varathian Foragers",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Galaxian Scout",
+			"type": "Creature â€” Galaxian Scout",
 			"collector_number": "35",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/35_Varathian Foragers.png"
@@ -874,7 +874,7 @@
 			"name": "Caravan Sideshow",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
-			"type": "Creature — Human Bard",
+			"type": "Creature â€” Human Bard",
 			"collector_number": "8",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/8_Caravan Sideshow.png"
@@ -884,7 +884,7 @@
 			"name": "Charitable Oktujo",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Beast",
+			"type": "Creature â€” Beast",
 			"collector_number": "10",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/10_Charitable Oktujo.png"
@@ -904,7 +904,7 @@
 			"name": "Quickdraw Revolver",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "25",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/25_Quickdraw Revolver.png"
@@ -934,7 +934,7 @@
 			"name": "The Shot That Saved Skyhaven",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Sorcery — Projectile",
+			"type": "Sorcery â€” Projectile",
 			"collector_number": "29",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/29_The Shot That Saved Skyhaven.png"
@@ -944,7 +944,7 @@
 			"name": "Skyhaven Deputy",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Mercenary",
+			"type": "Creature â€” Human Mercenary",
 			"collector_number": "69",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/69_Skyhaven Deputy.png"
@@ -954,7 +954,7 @@
 			"name": "Ephemeral Fennec",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Fox",
+			"type": "Creature â€” Fox",
 			"collector_number": "51",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/51_Ephemeral Fennec.png"
@@ -964,7 +964,7 @@
 			"name": "Akimbo Specialist",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Galaxian Mercenary",
+			"type": "Creature â€” Galaxian Mercenary",
 			"collector_number": "40",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/40_Akimbo Specialist.png"
@@ -974,7 +974,7 @@
 			"name": "Back Country Navigator",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "42",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/42_Back Country Navigator.png"
@@ -984,7 +984,7 @@
 			"name": "Slicky Glump",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Creature — Lizard",
+			"type": "Creature â€” Lizard",
 			"collector_number": "70",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/70_Slicky Glump.png"
@@ -994,7 +994,7 @@
 			"name": "Kono, Galvanic Gunman",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
-			"type": "Legendary Creature — Galaxian Rogue",
+			"type": "Legendary Creature â€” Galaxian Rogue",
 			"collector_number": "56",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/56_Kono, Galvanic Gunman.png"
@@ -1004,7 +1004,7 @@
 			"name": "Crimson Sea Glider",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Human Mercenary",
+			"type": "Creature â€” Human Mercenary",
 			"collector_number": "47",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/47_Crimson Sea Glider.png"
@@ -1014,7 +1014,7 @@
 			"name": "Crash Site Curators",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}",
-			"type": "Creature — Galaxian Artificer",
+			"type": "Creature â€” Galaxian Artificer",
 			"collector_number": "46",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/46_Crash Site Curators.png"
@@ -1024,7 +1024,7 @@
 			"name": "Scrapper's Shank",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "66",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/66_Scrapper's Shank.png"
@@ -1034,7 +1034,7 @@
 			"name": "Run Off the Tracks",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "63",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/63_Run Off the Tracks.png"
@@ -1064,7 +1064,7 @@
 			"name": "Qualms of Conscience",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "61",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/61_Qualms of Conscience.png"
@@ -1074,7 +1074,7 @@
 			"name": "Starshard",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Sorcery — Projectile",
+			"type": "Sorcery â€” Projectile",
 			"collector_number": "71",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/71_Starshard.png"
@@ -1084,7 +1084,7 @@
 			"name": "Subterranean Ravager",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
-			"type": "Creature — Mole",
+			"type": "Creature â€” Mole",
 			"collector_number": "108",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/108_Subterranean Ravager.png"
@@ -1094,7 +1094,7 @@
 			"name": "Grim Visionary",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
-			"type": "Creature — Galaxian Mercenary",
+			"type": "Creature â€” Galaxian Mercenary",
 			"collector_number": "90",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/90_Grim Visionary.png"
@@ -1104,7 +1104,7 @@
 			"name": "Backland Scrounger",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Mercenary",
+			"type": "Creature â€” Human Mercenary",
 			"collector_number": "76",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/76_Backland Scrounger.png"
@@ -1114,7 +1114,7 @@
 			"name": "Pestilent Ghelhound",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Dog",
+			"type": "Creature â€” Dog",
 			"collector_number": "99",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/99_Pestilent Ghelhound.png"
@@ -1124,7 +1124,7 @@
 			"name": "Hunter of the Helpless",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Galaxian Rogue",
+			"type": "Creature â€” Galaxian Rogue",
 			"collector_number": "92",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/92_Hunter of the Helpless.png"
@@ -1134,7 +1134,7 @@
 			"name": "Ghost Town Crier",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "89",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/89_Ghost Town Crier.png"
@@ -1144,7 +1144,7 @@
 			"name": "Dust Devil Lieutenant",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "84",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/84_Dust Devil Lieutenant.png"
@@ -1154,7 +1154,7 @@
 			"name": "Mr. Skath of the Brain Gang",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
-			"type": "Legendary Creature — Galaxian Mercenary",
+			"type": "Legendary Creature â€” Galaxian Mercenary",
 			"collector_number": "97",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/97_Mr. Skath of the Brain Gang.png"
@@ -1164,7 +1164,7 @@
 			"name": "Pit Cockatrice",
 			"rarity": "uncommon",
 			"mana_cost": "{8}{B}",
-			"type": "Creature — Cockatrice",
+			"type": "Creature â€” Cockatrice",
 			"collector_number": "100",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/100_Pit Cockatrice.png"
@@ -1194,7 +1194,7 @@
 			"name": "Hunter's Carapace",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "93",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/93_Hunter's Carapace.png"
@@ -1214,7 +1214,7 @@
 			"name": "Lever-Action at Nearly-Lethal Range",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
-			"type": "Sorcery — Projectile",
+			"type": "Sorcery â€” Projectile",
 			"collector_number": "95",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/95_Lever-Action at Nearly-Lethal Range.png"
@@ -1224,7 +1224,7 @@
 			"name": "Slag Spitter",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Creature — Lizard",
+			"type": "Creature â€” Lizard",
 			"collector_number": "139",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/139_Slag Spitter.png"
@@ -1234,7 +1234,7 @@
 			"name": "Trickshot Artist",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Mercenary",
+			"type": "Creature â€” Human Mercenary",
 			"collector_number": "144",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/144_Trickshot Artist.png"
@@ -1244,7 +1244,7 @@
 			"name": "Gearworks Supervisor",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Artificer",
+			"type": "Creature â€” Human Artificer",
 			"collector_number": "126",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/126_Gearworks Supervisor.png"
@@ -1254,7 +1254,7 @@
 			"name": "Blitzreaver",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Lizard",
+			"type": "Creature â€” Lizard",
 			"collector_number": "113",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/113_Blitzreaver.png"
@@ -1264,7 +1264,7 @@
 			"name": "Debris Pillager",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Galaxian Mercenary",
+			"type": "Creature â€” Galaxian Mercenary",
 			"collector_number": "118",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/118_Debris Pillager.png"
@@ -1274,7 +1274,7 @@
 			"name": "Ravine Thresher",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Wurm",
+			"type": "Creature â€” Wurm",
 			"collector_number": "134",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/134_Ravine Thresher.png"
@@ -1284,7 +1284,7 @@
 			"name": "Beast of the Bluffs",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Beast",
+			"type": "Creature â€” Beast",
 			"collector_number": "112",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/112_Beast of the Bluffs.png"
@@ -1294,7 +1294,7 @@
 			"name": "Hemophage Infuser",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
-			"type": "Creature — Galaxian Warlock",
+			"type": "Creature â€” Galaxian Warlock",
 			"collector_number": "129",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/129_Hemophage Infuser.png"
@@ -1354,7 +1354,7 @@
 			"name": "Now Watch Me Whip",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{R}",
-			"type": "Sorcery — Projectile",
+			"type": "Sorcery â€” Projectile",
 			"collector_number": "132",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/132_Now Watch Me Whip.png"
@@ -1364,7 +1364,7 @@
 			"name": "Silent Sands Wanderer",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
-			"type": "Creature — Galaxian Scout",
+			"type": "Creature â€” Galaxian Scout",
 			"collector_number": "171",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/171_Silent Sands Wanderer.png"
@@ -1374,7 +1374,7 @@
 			"name": "Barging Tusker",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Rhino",
+			"type": "Creature â€” Rhino",
 			"collector_number": "151",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/151_Barging Tusker.png"
@@ -1384,7 +1384,7 @@
 			"name": "Weathered Survivor",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Mercenary",
+			"type": "Creature â€” Human Mercenary",
 			"collector_number": "184",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/184_Weathered Survivor.png"
@@ -1394,7 +1394,7 @@
 			"name": "Oktujo Tracker",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Galaxian Scout",
+			"type": "Creature â€” Galaxian Scout",
 			"collector_number": "165",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/165_Oktujo Tracker.png"
@@ -1404,7 +1404,7 @@
 			"name": "Slobbering Moa",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Bird",
+			"type": "Creature â€” Bird",
 			"collector_number": "174",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/174_Slobbering Moa.png"
@@ -1414,7 +1414,7 @@
 			"name": "Virulent Cactaipan",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
-			"type": "Creature — Plant Beast",
+			"type": "Creature â€” Plant Beast",
 			"collector_number": "181",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/181_Virulent Cactaipan.png"
@@ -1424,7 +1424,7 @@
 			"name": "Jake's Sentinels",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Human Mercenary",
+			"type": "Creature â€” Human Mercenary",
 			"collector_number": "159",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/159_Jake's Sentinels.png"
@@ -1434,7 +1434,7 @@
 			"name": "Burgeoning Cactiger",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Plant Cat",
+			"type": "Creature â€” Plant Cat",
 			"collector_number": "153",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/153_Burgeoning Cactiger.png"
@@ -1444,7 +1444,7 @@
 			"name": "Moss-Laden Leaper",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Frog",
+			"type": "Creature â€” Frog",
 			"collector_number": "161",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/161_Moss-Laden Leaper.png"
@@ -1474,7 +1474,7 @@
 			"name": "Chirring Rig",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "155",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/155_Chirring Rig.png"
@@ -1494,7 +1494,7 @@
 			"name": "Aim Skyward",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
-			"type": "Instant — Projectile",
+			"type": "Instant â€” Projectile",
 			"collector_number": "148",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/148_Aim Skyward.png"
@@ -1504,7 +1504,7 @@
 			"name": "Zarax Supermajor",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
-			"type": "Creature — Galaxian Soldier",
+			"type": "Creature â€” Galaxian Soldier",
 			"collector_number": "234",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/234_Zarax Supermajor.png"
@@ -1514,7 +1514,7 @@
 			"name": "Force Propulsion",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
-			"type": "Instant — Projectile",
+			"type": "Instant â€” Projectile",
 			"collector_number": "200",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/200_Force Propulsion.png"
@@ -1524,7 +1524,7 @@
 			"name": "Underrift War Merchant",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
-			"type": "Creature — Galaxian Rogue",
+			"type": "Creature â€” Galaxian Rogue",
 			"collector_number": "230",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/230_Underrift War Merchant.png"
@@ -1534,7 +1534,7 @@
 			"name": "Gulch Bandit",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "205",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/205_Gulch Bandit.png"
@@ -1544,7 +1544,7 @@
 			"name": "Mesa Interloper",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Creature — Galaxian Scout",
+			"type": "Creature â€” Galaxian Scout",
 			"collector_number": "216",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/216_Mesa Interloper.png"
@@ -1554,7 +1554,7 @@
 			"name": "Hotshot Rifle",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
-			"type": "Artifact — Junk Equipment",
+			"type": "Artifact â€” Junk Equipment",
 			"collector_number": "206",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/206_Hotshot Rifle.png"
@@ -1564,7 +1564,7 @@
 			"name": "Maverick Mutt",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
-			"type": "Creature — Beast",
+			"type": "Creature â€” Beast",
 			"collector_number": "215",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/215_Maverick Mutt.png"
@@ -1574,7 +1574,7 @@
 			"name": "Whiptail Manticore",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
-			"type": "Creature — Manticore",
+			"type": "Creature â€” Manticore",
 			"collector_number": "232",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/232_Whiptail Manticore.png"
@@ -1584,7 +1584,7 @@
 			"name": "Consulate Nomads",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{W}",
-			"type": "Creature — Galaxian Scout",
+			"type": "Creature â€” Galaxian Scout",
 			"collector_number": "195",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/195_Consulate Nomads.png"
@@ -1604,7 +1604,7 @@
 			"name": "Jules, the Beacon",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Legendary Creature — Human Rogue",
+			"type": "Legendary Creature â€” Human Rogue",
 			"collector_number": "211",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/211_Jules, the Beacon.png"
@@ -1614,7 +1614,7 @@
 			"name": "Barron, the Smoke",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Legendary Creature — Galaxian Rogue",
+			"type": "Legendary Creature â€” Galaxian Rogue",
 			"collector_number": "189",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/189_Barron, the Smoke.png"
@@ -1624,7 +1624,7 @@
 			"name": "Cosmic Restitcher",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{G}",
-			"type": "Creature — Galaxian Warlock",
+			"type": "Creature â€” Galaxian Warlock",
 			"collector_number": "196",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/196_Cosmic Restitcher.png"
@@ -1634,7 +1634,7 @@
 			"name": "Bloodsand Gorger",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
-			"type": "Creature — Wurm",
+			"type": "Creature â€” Wurm",
 			"collector_number": "191",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/191_Bloodsand Gorger.png"
@@ -1644,7 +1644,7 @@
 			"name": "Frilled Starspitter",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
-			"type": "Creature — Lizard",
+			"type": "Creature â€” Lizard",
 			"collector_number": "201",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/201_Frilled Starspitter.png"
@@ -1664,7 +1664,7 @@
 			"name": "Shifty Dealer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Creature — Human Bard",
+			"type": "Creature â€” Human Bard",
 			"collector_number": "222",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/222_Shifty Dealer.png"
@@ -1674,7 +1674,7 @@
 			"name": "Tumultuous Flare",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
-			"type": "Sorcery — Projectile",
+			"type": "Sorcery â€” Projectile",
 			"collector_number": "228",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/228_Tumultuous Flare.png"
@@ -1684,7 +1684,7 @@
 			"name": "Hot Hands Lurk",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
-			"type": "Legendary Creature — Galaxian Rogue",
+			"type": "Legendary Creature â€” Galaxian Rogue",
 			"collector_number": "186",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/186_Hot Hands Lurk.png"
@@ -1694,7 +1694,7 @@
 			"name": "Six-Shot Sheriff",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
-			"type": "Creature — Human Mercenary",
+			"type": "Creature â€” Human Mercenary",
 			"collector_number": "225",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/225_Six-Shot Sheriff.png"
@@ -1704,7 +1704,7 @@
 			"name": "Noxian Visage",
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct",
 			"collector_number": "243",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/243_Noxian Visage.png"
@@ -1734,7 +1734,7 @@
 			"name": "Trusty Ten-Gallon",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "248",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/248_Trusty Ten-Gallon.png"
@@ -1744,7 +1744,7 @@
 			"name": "Varathian Caravan",
 			"rarity": "uncommon",
 			"mana_cost": "{6}",
-			"type": "Artifact — Vehicle",
+			"type": "Artifact â€” Vehicle",
 			"collector_number": "249",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/249_Varathian Caravan.png"
@@ -1754,7 +1754,7 @@
 			"name": "The Eldoria Express",
 			"rarity": "uncommon",
 			"mana_cost": "{7}",
-			"type": "Artifact — Vehicle",
+			"type": "Artifact â€” Vehicle",
 			"collector_number": "238",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/238_The Eldoria Express.png"
@@ -1764,7 +1764,7 @@
 			"name": "Streets of Sunforge",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Desert",
+			"type": "Land â€” Desert",
 			"collector_number": "264",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/264_Streets of Sunforge.png"
@@ -1774,7 +1774,7 @@
 			"name": "Varathian Ootheca",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Locus",
+			"type": "Land â€” Locus",
 			"collector_number": "269",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/269_Varathian Ootheca.png"
@@ -1784,7 +1784,7 @@
 			"name": "Varathian Battery",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Power-Plant",
+			"type": "Land â€” Power-Plant",
 			"collector_number": "267",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/267_Varathian Battery.png"
@@ -1794,7 +1794,7 @@
 			"name": "Varathian Nucleus",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Academy",
+			"type": "Land â€” Academy",
 			"collector_number": "268",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/268_Varathian Nucleus.png"
@@ -1804,7 +1804,7 @@
 			"name": "Feisty Scrapper",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Galaxian Scout",
+			"type": "Creature â€” Galaxian Scout",
 			"collector_number": "13",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/13_Feisty Scrapper.png"
@@ -1814,7 +1814,7 @@
 			"name": "Skysteed",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Fish",
+			"type": "Creature â€” Fish",
 			"collector_number": "31",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/31_Skysteed.png"
@@ -1824,7 +1824,7 @@
 			"name": "Fleetfinger Five-Shooter",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Galaxian Mercenary",
+			"type": "Creature â€” Galaxian Mercenary",
 			"collector_number": "14",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/14_Fleetfinger Five-Shooter.png"
@@ -1834,7 +1834,7 @@
 			"name": "Roadside Raconteur",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Bard",
+			"type": "Creature â€” Human Bard",
 			"collector_number": "26",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/26_Roadside Raconteur.png"
@@ -1844,7 +1844,7 @@
 			"name": "Galvanized Recruiter",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Mercenary",
+			"type": "Creature â€” Human Mercenary",
 			"collector_number": "15",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/15_Galvanized Recruiter.png"
@@ -1854,7 +1854,7 @@
 			"name": "Skychaser Trainer",
 			"rarity": "common",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Human Scout",
+			"type": "Creature â€” Human Scout",
 			"collector_number": "30",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/30_Skychaser Trainer.png"
@@ -1864,7 +1864,7 @@
 			"name": "Eldoria Sureshot",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Galaxian Mercenary",
+			"type": "Creature â€” Galaxian Mercenary",
 			"collector_number": "12",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/12_Eldoria Sureshot.png"
@@ -1874,7 +1874,7 @@
 			"name": "Boot Hill Outrider",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Mercenary",
+			"type": "Creature â€” Human Mercenary",
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/7_Boot Hill Outrider.png"
@@ -1884,7 +1884,7 @@
 			"name": "Tradewind Courier",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Galaxian Scout",
+			"type": "Creature â€” Galaxian Scout",
 			"collector_number": "33",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/33_Tradewind Courier.png"
@@ -1894,7 +1894,7 @@
 			"name": "Unbridled Colt",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Horse",
+			"type": "Creature â€” Horse",
 			"collector_number": "34",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/34_Unbridled Colt.png"
@@ -1904,7 +1904,7 @@
 			"name": "Bladetusk Herd",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Rhino",
+			"type": "Creature â€” Rhino",
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/4_Bladetusk Herd.png"
@@ -1934,7 +1934,7 @@
 			"name": "Long Arm of the Law",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Instant — Projectile",
+			"type": "Instant â€” Projectile",
 			"collector_number": "19",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/19_Long Arm of the Law.png"
@@ -1954,7 +1954,7 @@
 			"name": "Zarax Broodling",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature — Insect",
+			"type": "Creature â€” Insect",
 			"collector_number": "74",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/74_Zarax Broodling.png"
@@ -1964,7 +1964,7 @@
 			"name": "Quickdraw Broker",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Galaxian Artificer",
+			"type": "Creature â€” Galaxian Artificer",
 			"collector_number": "62",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/62_Quickdraw Broker.png"
@@ -1974,7 +1974,7 @@
 			"name": "Flintlock Lass",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Mercenary",
+			"type": "Creature â€” Human Mercenary",
 			"collector_number": "53",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/53_Flintlock Lass.png"
@@ -1984,7 +1984,7 @@
 			"name": "Itinerant Oktujo",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Beast",
+			"type": "Creature â€” Beast",
 			"collector_number": "54",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/54_Itinerant Oktujo.png"
@@ -1994,7 +1994,7 @@
 			"name": "Fleetfoot Screecher",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Lizard",
+			"type": "Creature â€” Lizard",
 			"collector_number": "52",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/52_Fleetfoot Screecher.png"
@@ -2004,7 +2004,7 @@
 			"name": "Corpus Cobbler",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Artificer",
+			"type": "Creature â€” Human Artificer",
 			"collector_number": "45",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/45_Corpus Cobbler.png"
@@ -2014,7 +2014,7 @@
 			"name": "Breaching Slugsnout",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Whale",
+			"type": "Creature â€” Whale",
 			"collector_number": "43",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/43_Breaching Slugsnout.png"
@@ -2024,7 +2024,7 @@
 			"name": "Sandskiff Raider",
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
-			"type": "Creature — Galaxian Pilot",
+			"type": "Creature â€” Galaxian Pilot",
 			"collector_number": "64",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/64_Sandskiff Raider.png"
@@ -2034,7 +2034,7 @@
 			"name": "Scrapfield Migrant",
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
-			"type": "Creature — Beast",
+			"type": "Creature â€” Beast",
 			"collector_number": "65",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/65_Scrapfield Migrant.png"
@@ -2064,7 +2064,7 @@
 			"name": "Astral Projection",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Sorcery — Projectile",
+			"type": "Sorcery â€” Projectile",
 			"collector_number": "41",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/41_Astral Projection.png"
@@ -2084,7 +2084,7 @@
 			"name": "Croak",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "48",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/48_Croak.png"
@@ -2104,7 +2104,7 @@
 			"name": "Dead Man Walkin'",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Galaxian Mercenary",
+			"type": "Creature â€” Galaxian Mercenary",
 			"collector_number": "82",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/82_Dead Man Walkin'.png"
@@ -2114,7 +2114,7 @@
 			"name": "Silent Sands Survivor",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "106",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/106_Silent Sands Survivor.png"
@@ -2124,7 +2124,7 @@
 			"name": "Ar'Ghel Desperado",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Galaxian Rogue",
+			"type": "Creature â€” Galaxian Rogue",
 			"collector_number": "75",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/75_Ar'Ghel Desperado.png"
@@ -2134,7 +2134,7 @@
 			"name": "Fen Conservators",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Mercenary",
+			"type": "Creature â€” Human Mercenary",
 			"collector_number": "87",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/87_Fen Conservators.png"
@@ -2144,7 +2144,7 @@
 			"name": "Junkyard Vulture",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Bird",
+			"type": "Creature â€” Bird",
 			"collector_number": "94",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/94_Junkyard Vulture.png"
@@ -2154,7 +2154,7 @@
 			"name": "Seeker of Sinner's Court",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Galaxian Mercenary",
+			"type": "Creature â€” Galaxian Mercenary",
 			"collector_number": "104",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/104_Seeker of Sinner's Court.png"
@@ -2164,7 +2164,7 @@
 			"name": "Experiment X",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Cat",
+			"type": "Creature â€” Cat",
 			"collector_number": "85",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/85_Experiment X.png"
@@ -2174,7 +2174,7 @@
 			"name": "Gulch Ranger",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Human Scout",
+			"type": "Creature â€” Human Scout",
 			"collector_number": "91",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/91_Gulch Ranger.png"
@@ -2224,7 +2224,7 @@
 			"name": "Retribution for a Gamblin' Man",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Sorcery — Projectile",
+			"type": "Sorcery â€” Projectile",
 			"collector_number": "101",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/101_Retribution for a Gamblin' Man.png"
@@ -2254,7 +2254,7 @@
 			"name": "Salvage Trafficker",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Galaxian Scout",
+			"type": "Creature â€” Galaxian Scout",
 			"collector_number": "136",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/136_Salvage Trafficker.png"
@@ -2264,7 +2264,7 @@
 			"name": "Fuselage Scavenger",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Artificer",
+			"type": "Creature â€” Human Artificer",
 			"collector_number": "124",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/124_Fuselage Scavenger.png"
@@ -2274,7 +2274,7 @@
 			"name": "Crimson Sea Sabertooth",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Cat",
+			"type": "Creature â€” Cat",
 			"collector_number": "116",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/116_Crimson Sea Sabertooth.png"
@@ -2284,7 +2284,7 @@
 			"name": "Badland Hustler",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Human Mercenary",
+			"type": "Creature â€” Human Mercenary",
 			"collector_number": "111",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/111_Badland Hustler.png"
@@ -2294,7 +2294,7 @@
 			"name": "Deadheat Duo",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Galaxian Mercenary",
+			"type": "Creature â€” Human Galaxian Mercenary",
 			"collector_number": "117",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/117_Deadheat Duo.png"
@@ -2304,7 +2304,7 @@
 			"name": "Sunforge Outlaw",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Galaxian Mercenary",
+			"type": "Creature â€” Galaxian Mercenary",
 			"collector_number": "141",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/141_Sunforge Outlaw.png"
@@ -2314,7 +2314,7 @@
 			"name": "Whiskey Bend Marshal",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Mercenary",
+			"type": "Creature â€” Human Mercenary",
 			"collector_number": "146",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/146_Whiskey Bend Marshal.png"
@@ -2324,7 +2324,7 @@
 			"name": "Terror of Thrasher's Pass",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Lizard",
+			"type": "Creature â€” Lizard",
 			"collector_number": "143",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/143_Terror of Thrasher's Pass.png"
@@ -2334,7 +2334,7 @@
 			"name": "Pack Monitor",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
-			"type": "Creature — Lizard",
+			"type": "Creature â€” Lizard",
 			"collector_number": "133",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/133_Pack Monitor.png"
@@ -2374,7 +2374,7 @@
 			"name": "Dynamite in the Cargo Hold",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Sorcery — Projectile",
+			"type": "Sorcery â€” Projectile",
 			"collector_number": "119",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/119_Dynamite in the Cargo Hold.png"
@@ -2404,7 +2404,7 @@
 			"name": "Cactaurus",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature — Plant Beast",
+			"type": "Creature â€” Plant Beast",
 			"collector_number": "154",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/154_Cactaurus.png"
@@ -2414,7 +2414,7 @@
 			"name": "Travellers on Yonder",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Scout",
+			"type": "Creature â€” Human Scout",
 			"collector_number": "179",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/179_Travellers on Yonder.png"
@@ -2424,7 +2424,7 @@
 			"name": "Stardust Courier",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Galaxian Scout",
+			"type": "Creature â€” Galaxian Scout",
 			"collector_number": "175",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/175_Stardust Courier.png"
@@ -2434,7 +2434,7 @@
 			"name": "Skyfall Acolyte",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Shaman",
+			"type": "Creature â€” Human Shaman",
 			"collector_number": "173",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/173_Skyfall Acolyte.png"
@@ -2444,7 +2444,7 @@
 			"name": "Migratory Grazer",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Anteater",
+			"type": "Creature â€” Anteater",
 			"collector_number": "160",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/160_Migratory Grazer.png"
@@ -2454,7 +2454,7 @@
 			"name": "Reedcreeper Posse",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Galaxian Mercenary",
+			"type": "Creature â€” Galaxian Mercenary",
 			"collector_number": "167",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/167_Reedcreeper Posse.png"
@@ -2464,7 +2464,7 @@
 			"name": "Stoic Steadhand",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Scout",
+			"type": "Creature â€” Human Scout",
 			"collector_number": "176",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/176_Stoic Steadhand.png"
@@ -2474,7 +2474,7 @@
 			"name": "Rhangol Wrangler",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Galaxian Scout",
+			"type": "Creature â€” Galaxian Scout",
 			"collector_number": "168",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/168_Rhangol Wrangler.png"
@@ -2494,7 +2494,7 @@
 			"name": "Razorgorge Wurm",
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Wurm",
+			"type": "Creature â€” Wurm",
 			"collector_number": "166",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/166_Razorgorge Wurm.png"
@@ -2544,7 +2544,7 @@
 			"name": "Bristly Landing",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Instant — Projectile",
+			"type": "Instant â€” Projectile",
 			"collector_number": "152",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/152_Bristly Landing.png"
@@ -2564,7 +2564,7 @@
 			"name": "Steadfast Reaper",
 			"rarity": "common",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Scarecrow",
+			"type": "Artifact Creature â€” Scarecrow",
 			"collector_number": "247",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/247_Steadfast Reaper.png"
@@ -2574,7 +2574,7 @@
 			"name": "Winestago Freighter",
 			"rarity": "common",
 			"mana_cost": "{5}",
-			"type": "Artifact — Vehicle",
+			"type": "Artifact â€” Vehicle",
 			"collector_number": "250",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/250_Winestago Freighter.png"
@@ -2584,7 +2584,7 @@
 			"name": "McCall .45 Special",
 			"rarity": "common",
 			"mana_cost": "{1}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "242",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/242_McCall .45 Special.png"
@@ -2604,7 +2604,7 @@
 			"name": "Conduit Pylons",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Desert",
+			"type": "Land â€” Desert",
 			"collector_number": "254",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/254_Conduit Pylons.png"
@@ -2614,7 +2614,7 @@
 			"name": "Salt Pool Citadel",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Tower",
+			"type": "Land â€” Tower",
 			"collector_number": "261",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/261_Salt Pool Citadel.png"
@@ -2624,7 +2624,7 @@
 			"name": "Oil-Worn Depths",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Cave",
+			"type": "Land â€” Cave",
 			"collector_number": "258",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/258_Oil-Worn Depths.png"
@@ -2634,7 +2634,7 @@
 			"name": "Basalt Quarry",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Mine",
+			"type": "Land â€” Mine",
 			"collector_number": "252",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/252_Basalt Quarry.png"
@@ -2644,7 +2644,7 @@
 			"name": "Weirding Territory",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Lair",
+			"type": "Land â€” Lair",
 			"collector_number": "272",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/272_Weirding Territory.png"
@@ -2654,7 +2654,7 @@
 			"name": "Henge of Safe Passage",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Gate",
+			"type": "Land â€” Gate",
 			"collector_number": "257",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/257_Henge of Safe Passage.png"
@@ -2664,7 +2664,7 @@
 			"name": "Transplanted Hive",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Lair",
+			"type": "Land â€” Lair",
 			"collector_number": "265",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/265_Transplanted Hive.png"
@@ -2674,7 +2674,7 @@
 			"name": "Pungent Smokestacks",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Tower",
+			"type": "Land â€” Tower",
 			"collector_number": "260",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/260_Pungent Smokestacks.png"
@@ -2684,7 +2684,7 @@
 			"name": "Phosphorescent Bileway",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Mine",
+			"type": "Land â€” Mine",
 			"collector_number": "259",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/259_Phosphorescent Bileway.png"
@@ -2694,7 +2694,7 @@
 			"name": "Stormsurge Waypoint",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Gate",
+			"type": "Land â€” Gate",
 			"collector_number": "263",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/263_Stormsurge Waypoint.png"
@@ -2704,7 +2704,7 @@
 			"name": "Chiseled Hideaway",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Cave",
+			"type": "Land â€” Cave",
 			"collector_number": "253",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/253_Chiseled Hideaway.png"
@@ -2724,7 +2724,7 @@
 			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Plains",
+			"type": "Basic Land â€” Plains",
 			"collector_number": "273",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/273_Plains.png"
@@ -2734,7 +2734,7 @@
 			"name": "Island",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Island",
+			"type": "Basic Land â€” Island",
 			"collector_number": "274",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/274_Island.png"
@@ -2744,7 +2744,7 @@
 			"name": "Swamp",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp",
+			"type": "Basic Land â€” Swamp",
 			"collector_number": "275",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/275_Swamp.png"
@@ -2754,7 +2754,7 @@
 			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Mountain",
+			"type": "Basic Land â€” Mountain",
 			"collector_number": "276",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/276_Mountain.png"
@@ -2764,7 +2764,7 @@
 			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Forest",
+			"type": "Basic Land â€” Forest",
 			"collector_number": "277",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/277_Forest.png"
@@ -2774,7 +2774,7 @@
 			"name": "Junk",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Junk",
+			"type": "Token Artifact â€” Junk",
 			"collector_number": "12",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/12_Junk.png"
@@ -2784,7 +2784,7 @@
 			"name": "Equipment",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Equipment",
+			"type": "Token Artifact â€” Equipment",
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/11_Equipment.png"
@@ -2794,7 +2794,7 @@
 			"name": "Bullet",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Bullet",
+			"type": "Token Artifact â€” Bullet",
 			"collector_number": "10",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/10_Bullet.png"
@@ -2804,7 +2804,7 @@
 			"name": "Treasure",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Treasure",
+			"type": "Token Artifact â€” Treasure",
 			"collector_number": "13",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/13_Treasure.png"
@@ -2814,7 +2814,7 @@
 			"name": "Scooter",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Legendary Token Creature — Dog",
+			"type": "Legendary Token Creature â€” Dog",
 			"collector_number": "3",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/3_Scooter.png"
@@ -2824,7 +2824,7 @@
 			"name": "Vehicle",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Vehicle",
+			"type": "Token Artifact â€” Vehicle",
 			"collector_number": "14",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/14_Vehicle.png"
@@ -2834,7 +2834,7 @@
 			"name": "Elemental",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Elemental",
+			"type": "Token Creature â€” Elemental",
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/4_Elemental.png"
@@ -2844,7 +2844,7 @@
 			"name": "Elemental",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Elemental",
+			"type": "Token Creature â€” Elemental",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/6_Elemental.png"
@@ -2854,7 +2854,7 @@
 			"name": "Plant",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Plant",
+			"type": "Token Creature â€” Plant",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/9_Plant.png"
@@ -2864,7 +2864,7 @@
 			"name": "Beast",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Beast",
+			"type": "Token Creature â€” Beast",
 			"collector_number": "8",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/8_Beast.png"
@@ -2874,7 +2874,7 @@
 			"name": "Mercenary",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Mercenary",
+			"type": "Token Creature â€” Mercenary",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/1_Mercenary.png"
@@ -2884,7 +2884,7 @@
 			"name": "Mercenary",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Mercenary",
+			"type": "Token Creature â€” Mercenary",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/2_Mercenary.png"
@@ -2894,7 +2894,7 @@
 			"name": "Bones",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Legendary Token Creature — Dog",
+			"type": "Legendary Token Creature â€” Dog",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/5_Bones.png"
@@ -2904,7 +2904,7 @@
 			"name": "Flesh",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Legendary Token Creature — Cat",
+			"type": "Legendary Token Creature â€” Cat",
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/7_Flesh.png"

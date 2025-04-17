@@ -4,7 +4,7 @@
 			"name": "Heping, at War's End",
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Legendary Planeswalker — Heping",
+			"type": "Legendary Planeswalker â€” Heping",
 			"collector_number": "13",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/13_Heping, at War's End.png"
@@ -14,7 +14,7 @@
 			"name": "Panya, Swift and Sure",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}",
-			"type": "Legendary Creature — Mouse Warrior",
+			"type": "Legendary Creature â€” Mouse Warrior",
 			"collector_number": "55",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/55_Panya, Swift and Sure.png"
@@ -34,7 +34,7 @@
 			"name": "Progeny of Bloodflame",
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{R}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "138",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/138_Progeny of Bloodflame.png"
@@ -54,7 +54,7 @@
 			"name": "The Divine Vaelias",
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{W}{U}{U}",
-			"type": "Legendary Enchantment Creature — God",
+			"type": "Legendary Enchantment Creature â€” God",
 			"collector_number": "204",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/204_The Divine Vaelias.png"
@@ -64,7 +64,7 @@
 			"name": "The Divine Sythor",
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{U}{B}{B}",
-			"type": "Legendary Enchantment Creature — God",
+			"type": "Legendary Enchantment Creature â€” God",
 			"collector_number": "203",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/203_The Divine Sythor.png"
@@ -74,7 +74,7 @@
 			"name": "The Divine Velera",
 			"rarity": "mythic",
 			"mana_cost": "{B}{B}{R}{R}",
-			"type": "Legendary Enchantment Creature — God",
+			"type": "Legendary Enchantment Creature â€” God",
 			"collector_number": "205",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/205_The Divine Velera.png"
@@ -84,7 +84,7 @@
 			"name": "The Divine Ozhka",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}{G}{G}",
-			"type": "Legendary Enchantment Creature — God",
+			"type": "Legendary Enchantment Creature â€” God",
 			"collector_number": "201",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/201_The Divine Ozhka.png"
@@ -94,7 +94,7 @@
 			"name": "The Divine Marisyn",
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}{W}{W}",
-			"type": "Legendary Enchantment Creature — God",
+			"type": "Legendary Enchantment Creature â€” God",
 			"collector_number": "200",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/200_The Divine Marisyn.png"
@@ -104,7 +104,7 @@
 			"name": "Jorah, Godslayer",
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{W}{B}{B}",
-			"type": "Legendary Planeswalker — Jorah",
+			"type": "Legendary Planeswalker â€” Jorah",
 			"collector_number": "215",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/215_Jorah, Godslayer.png"
@@ -114,7 +114,7 @@
 			"name": "The Divine Caele",
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{B}{G}{G}",
-			"type": "Legendary Enchantment Creature — God",
+			"type": "Legendary Enchantment Creature â€” God",
 			"collector_number": "198",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/198_The Divine Caele.png"
@@ -124,7 +124,7 @@
 			"name": "The Divine Elyth",
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{G}{U}{U}",
-			"type": "Legendary Enchantment Creature — God",
+			"type": "Legendary Enchantment Creature â€” God",
 			"collector_number": "199",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/199_The Divine Elyth.png"
@@ -134,7 +134,7 @@
 			"name": "The Divine Xalren",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}{R}{R}",
-			"type": "Legendary Enchantment Creature — God",
+			"type": "Legendary Enchantment Creature â€” God",
 			"collector_number": "206",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/206_The Divine Xalren.png"
@@ -144,7 +144,7 @@
 			"name": "The Divine Sorella",
 			"rarity": "mythic",
 			"mana_cost": "{R}{R}{W}{W}",
-			"type": "Legendary Enchantment Creature — God",
+			"type": "Legendary Enchantment Creature â€” God",
 			"collector_number": "202",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/202_The Divine Sorella.png"
@@ -154,7 +154,7 @@
 			"name": "Ashen Paragon",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "186",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/186_Ashen Paragon.png"
@@ -164,7 +164,7 @@
 			"name": "That Which Rots",
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{G}",
-			"type": "Creature — Avatar",
+			"type": "Creature â€” Avatar",
 			"collector_number": "236",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/236_That Which Rots.png"
@@ -174,7 +174,7 @@
 			"name": "Ozhkan Blademaster",
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{G}",
-			"type": "Creature — Wolf Warrior",
+			"type": "Creature â€” Wolf Warrior",
 			"collector_number": "221",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/221_Ozhkan Blademaster.png"
@@ -194,7 +194,7 @@
 			"name": "The Fire and the Flood",
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{R}{W}",
-			"type": "Legendary Planeswalker — Seto Ing'Wei",
+			"type": "Legendary Planeswalker â€” Seto Ing'Wei",
 			"collector_number": "210",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/210_The Fire and the Flood.png"
@@ -204,7 +204,7 @@
 			"name": "Ivory Tactician",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Creature — Spirit Knight",
+			"type": "Creature â€” Spirit Knight",
 			"collector_number": "14",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/14_Ivory Tactician.png"
@@ -214,7 +214,7 @@
 			"name": "Empyrean Challenger",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Creature — Angel Knight",
+			"type": "Creature â€” Angel Knight",
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/7_Empyrean Challenger.png"
@@ -224,7 +224,7 @@
 			"name": "Sanctuary",
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Enchantment Creature — Incarnation",
+			"type": "Enchantment Creature â€” Incarnation",
 			"collector_number": "30",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/30_Sanctuary.png"
@@ -234,7 +234,7 @@
 			"name": "Pledgeseeker",
 			"rarity": "rare",
 			"mana_cost": "{W}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "29",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/29_Pledgeseeker.png"
@@ -244,7 +244,7 @@
 			"name": "Fogborne Brigade",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "10",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/10_Fogborne Brigade.png"
@@ -274,7 +274,7 @@
 			"name": "Prescient Phantom",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Spirit Wizard",
+			"type": "Creature â€” Spirit Wizard",
 			"collector_number": "56",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/56_Prescient Phantom.png"
@@ -284,7 +284,7 @@
 			"name": "Astral Seamstress",
 			"rarity": "rare",
 			"mana_cost": "{5}{U}{U}",
-			"type": "Enchantment Creature — Spirit",
+			"type": "Enchantment Creature â€” Spirit",
 			"collector_number": "38",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/38_Astral Seamstress.png"
@@ -294,7 +294,7 @@
 			"name": "Prismatic Nightjar",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Creature — Bird Drake",
+			"type": "Creature â€” Bird Drake",
 			"collector_number": "57",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/57_Prismatic Nightjar.png"
@@ -304,7 +304,7 @@
 			"name": "Coincidence",
 			"rarity": "rare",
 			"mana_cost": "{7}{U}{U}",
-			"type": "Enchantment Creature — Incarnation",
+			"type": "Enchantment Creature â€” Incarnation",
 			"collector_number": "43",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/43_Coincidence.png"
@@ -314,7 +314,7 @@
 			"name": "Selenic Augur",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "62",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/62_Selenic Augur.png"
@@ -344,7 +344,7 @@
 			"name": "Deathwind Whisperer",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "82",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/82_Deathwind Whisperer.png"
@@ -354,7 +354,7 @@
 			"name": "Bloodrift Overlord",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Creature — Demon",
+			"type": "Creature â€” Demon",
 			"collector_number": "80",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/80_Bloodrift Overlord.png"
@@ -364,7 +364,7 @@
 			"name": "Enkindled Blackblade",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "86",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/86_Enkindled Blackblade.png"
@@ -374,7 +374,7 @@
 			"name": "Nachtengel",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Creature — Skeleton Angel",
+			"type": "Creature â€” Skeleton Angel",
 			"collector_number": "96",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/96_Nachtengel.png"
@@ -384,7 +384,7 @@
 			"name": "Dismay",
 			"rarity": "rare",
 			"mana_cost": "{5}{B}{B}",
-			"type": "Enchantment Creature — Incarnation",
+			"type": "Enchantment Creature â€” Incarnation",
 			"collector_number": "83",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/83_Dismay.png"
@@ -414,7 +414,7 @@
 			"name": "Sorellan Lamplighter",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Spirit Knight",
+			"type": "Creature â€” Spirit Knight",
 			"collector_number": "146",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/146_Sorellan Lamplighter.png"
@@ -424,7 +424,7 @@
 			"name": "Liege of the Pyre",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "130",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/130_Liege of the Pyre.png"
@@ -434,7 +434,7 @@
 			"name": "Emberblaze Warkite",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Dragon",
+			"type": "Creature â€” Dragon",
 			"collector_number": "118",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/118_Emberblaze Warkite.png"
@@ -444,7 +444,7 @@
 			"name": "Verve",
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Enchantment Creature — Incarnation",
+			"type": "Enchantment Creature â€” Incarnation",
 			"collector_number": "148",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/148_Verve.png"
@@ -484,7 +484,7 @@
 			"name": "Sundrop Cultivator",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Dryad",
+			"type": "Creature â€” Dryad",
 			"collector_number": "178",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/178_Sundrop Cultivator.png"
@@ -494,7 +494,7 @@
 			"name": "Realmsplicer",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Giant Knight",
+			"type": "Creature â€” Giant Knight",
 			"collector_number": "172",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/172_Realmsplicer.png"
@@ -504,7 +504,7 @@
 			"name": "Hinterland Overseer",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Enchantment Creature — Giant Druid",
+			"type": "Enchantment Creature â€” Giant Druid",
 			"collector_number": "165",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/165_Hinterland Overseer.png"
@@ -514,7 +514,7 @@
 			"name": "Existence",
 			"rarity": "rare",
 			"mana_cost": "{6}{G}{G}",
-			"type": "Enchantment Creature — Incarnation",
+			"type": "Enchantment Creature â€” Incarnation",
 			"collector_number": "158",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/158_Existence.png"
@@ -524,7 +524,7 @@
 			"name": "Wilderwarper",
 			"rarity": "rare",
 			"mana_cost": "{G}{G}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "183",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/183_Wilderwarper.png"
@@ -534,7 +534,7 @@
 			"name": "Sky's Eye Recruit",
 			"rarity": "rare",
 			"mana_cost": "{G}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "174",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/174_Sky's Eye Recruit.png"
@@ -564,7 +564,7 @@
 			"name": "Righteous Archangel",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}{U}{U}",
-			"type": "Creature — Angel Knight",
+			"type": "Creature â€” Angel Knight",
 			"collector_number": "228",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/228_Righteous Archangel.png"
@@ -584,7 +584,7 @@
 			"name": "Syzygy Visionary",
 			"rarity": "rare",
 			"mana_cost": "{U}{U}{B}{B}",
-			"type": "Creature — Wraith Warlock",
+			"type": "Creature â€” Wraith Warlock",
 			"collector_number": "235",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/235_Syzygy Visionary.png"
@@ -604,7 +604,7 @@
 			"name": "Crypt Cleaver",
 			"rarity": "rare",
 			"mana_cost": "{B}{B}{R}{R}",
-			"type": "Creature — Giant Skeleton Knight",
+			"type": "Creature â€” Giant Skeleton Knight",
 			"collector_number": "196",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/196_Crypt Cleaver.png"
@@ -614,7 +614,7 @@
 			"name": "Ozhkan Huntmaster",
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
-			"type": "Creature — Wolf Warrior",
+			"type": "Creature â€” Wolf Warrior",
 			"collector_number": "222",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/222_Ozhkan Huntmaster.png"
@@ -644,7 +644,7 @@
 			"name": "Marisyni Adherent",
 			"rarity": "rare",
 			"mana_cost": "{G}{G}{W}{W}",
-			"type": "Creature — Giant Knight",
+			"type": "Creature â€” Giant Knight",
 			"collector_number": "218",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/218_Marisyni Adherent.png"
@@ -664,7 +664,7 @@
 			"name": "Cendris, Ashen Champion",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Legendary Creature — Human Knight",
+			"type": "Legendary Creature â€” Human Knight",
 			"collector_number": "194",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/194_Cendris, Ashen Champion.png"
@@ -674,7 +674,7 @@
 			"name": "Pestilent Lieutenant",
 			"rarity": "rare",
 			"mana_cost": "{B}{B}{G}{G}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "225",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/225_Pestilent Lieutenant.png"
@@ -684,7 +684,7 @@
 			"name": "Oakblight Sage",
 			"rarity": "rare",
 			"mana_cost": "{5}{B}{G}",
-			"type": "Creature — Giant Warlock",
+			"type": "Creature â€” Giant Warlock",
 			"collector_number": "219",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/219_Oakblight Sage.png"
@@ -694,7 +694,7 @@
 			"name": "Loamlight Shepherd",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
-			"type": "Creature — Human Scout",
+			"type": "Creature â€” Human Scout",
 			"collector_number": "217",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/217_Loamlight Shepherd.png"
@@ -704,7 +704,7 @@
 			"name": "Oracle of Azumoth",
 			"rarity": "rare",
 			"mana_cost": "{G}{G}{U}{U}",
-			"type": "Creature — Eldrazi Shaman",
+			"type": "Creature â€” Eldrazi Shaman",
 			"collector_number": "220",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/220_Oracle of Azumoth.png"
@@ -714,7 +714,7 @@
 			"name": "Seer of Sword and Sun",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Creature — Horror Wizard",
+			"type": "Creature â€” Horror Wizard",
 			"collector_number": "231",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/231_Seer of Sword and Sun.png"
@@ -724,7 +724,7 @@
 			"name": "Kinetic Reaver",
 			"rarity": "rare",
 			"mana_cost": "{U}{U}{R}{R}",
-			"type": "Creature — Dragon",
+			"type": "Creature â€” Dragon",
 			"collector_number": "216",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/216_Kinetic Reaver.png"
@@ -744,7 +744,7 @@
 			"name": "Blinding Herald",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}{W}{W}",
-			"type": "Creature — Angel Horror",
+			"type": "Creature â€” Angel Horror",
 			"collector_number": "188",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/188_Blinding Herald.png"
@@ -784,7 +784,7 @@
 			"name": "Worldbraider",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}{B}{R}{G}",
-			"type": "Legendary Creature — Elemental",
+			"type": "Legendary Creature â€” Elemental",
 			"collector_number": "240",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/240_Worldbraider.png"
@@ -794,7 +794,7 @@
 			"name": "Tower of Measure",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Tower",
+			"type": "Land â€” Tower",
 			"collector_number": "259",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/259_Tower of Measure.png"
@@ -804,7 +804,7 @@
 			"name": "Keeper of Ghostlight",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Creature — Spirit Knight",
+			"type": "Creature â€” Spirit Knight",
 			"collector_number": "15",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/15_Keeper of Ghostlight.png"
@@ -814,7 +814,7 @@
 			"name": "Eidolic Procession",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Wraith Cleric",
+			"type": "Creature â€” Wraith Cleric",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/5_Eidolic Procession.png"
@@ -824,7 +824,7 @@
 			"name": "Koryn Thael Guide",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Scout",
+			"type": "Creature â€” Human Scout",
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/17_Koryn Thael Guide.png"
@@ -834,7 +834,7 @@
 			"name": "Pallid Emissary",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "27",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/27_Pallid Emissary.png"
@@ -844,7 +844,7 @@
 			"name": "Marisyni Legion",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
-			"type": "Enchantment Creature — Spirit Knight",
+			"type": "Enchantment Creature â€” Spirit Knight",
 			"collector_number": "23",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/23_Marisyni Legion.png"
@@ -854,7 +854,7 @@
 			"name": "Oathsworn Captain",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "25",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/25_Oathsworn Captain.png"
@@ -864,7 +864,7 @@
 			"name": "Gilded Guardian",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/11_Gilded Guardian.png"
@@ -874,7 +874,7 @@
 			"name": "Waxen Lyrist",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Spirit Bard",
+			"type": "Creature â€” Spirit Bard",
 			"collector_number": "36",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/36_Waxen Lyrist.png"
@@ -884,7 +884,7 @@
 			"name": "Paradigm of Frailty",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Creature — Angel",
+			"type": "Creature â€” Angel",
 			"collector_number": "28",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/28_Paradigm of Frailty.png"
@@ -894,7 +894,7 @@
 			"name": "Majestic Seraph",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}{W}",
-			"type": "Enchantment Creature — Angel Cleric",
+			"type": "Enchantment Creature â€” Angel Cleric",
 			"collector_number": "18",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/18_Majestic Seraph.png"
@@ -924,7 +924,7 @@
 			"name": "Feather of Flight",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/9_Feather of Flight.png"
@@ -944,7 +944,7 @@
 			"name": "Fanciful Brinedancer",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Creature — Spirit",
+			"type": "Creature â€” Spirit",
 			"collector_number": "47",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/47_Fanciful Brinedancer.png"
@@ -954,7 +954,7 @@
 			"name": "Scion of the Aurora",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Spirit Wizard",
+			"type": "Creature â€” Spirit Wizard",
 			"collector_number": "60",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/60_Scion of the Aurora.png"
@@ -964,7 +964,7 @@
 			"name": "Mist Whisperer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Spirit Wizard",
+			"type": "Creature â€” Spirit Wizard",
 			"collector_number": "52",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/52_Mist Whisperer.png"
@@ -974,7 +974,7 @@
 			"name": "Star-Crossed Bride",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Spirit",
+			"type": "Creature â€” Spirit",
 			"collector_number": "65",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/65_Star-Crossed Bride.png"
@@ -984,7 +984,7 @@
 			"name": "Curio Hoarder",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Drake",
+			"type": "Creature â€” Drake",
 			"collector_number": "44",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/44_Curio Hoarder.png"
@@ -994,7 +994,7 @@
 			"name": "Occult Sculptor",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Human Artificer",
+			"type": "Creature â€” Human Artificer",
 			"collector_number": "54",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/54_Occult Sculptor.png"
@@ -1004,7 +1004,7 @@
 			"name": "Nightbreak Raptor",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Bird Horror",
+			"type": "Creature â€” Bird Horror",
 			"collector_number": "53",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/53_Nightbreak Raptor.png"
@@ -1014,7 +1014,7 @@
 			"name": "Ceremonial Flock",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{U}",
-			"type": "Enchantment Creature — Spirit Knight",
+			"type": "Enchantment Creature â€” Spirit Knight",
 			"collector_number": "42",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/42_Ceremonial Flock.png"
@@ -1024,7 +1024,7 @@
 			"name": "Celestial Sentry",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}{U}",
-			"type": "Enchantment Creature — Giant Knight",
+			"type": "Enchantment Creature â€” Giant Knight",
 			"collector_number": "41",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/41_Celestial Sentry.png"
@@ -1084,7 +1084,7 @@
 			"name": "Veleran Sellsword",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
-			"type": "Creature — Skeleton Knight",
+			"type": "Creature â€” Skeleton Knight",
 			"collector_number": "108",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/108_Veleran Sellsword.png"
@@ -1094,7 +1094,7 @@
 			"name": "Traipsing Silhouette",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "107",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/107_Traipsing Silhouette.png"
@@ -1104,7 +1104,7 @@
 			"name": "Ruin Raven",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Bird",
+			"type": "Creature â€” Bird",
 			"collector_number": "101",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/101_Ruin Raven.png"
@@ -1114,7 +1114,7 @@
 			"name": "Auric Migrant",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "78",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/78_Auric Migrant.png"
@@ -1124,7 +1124,7 @@
 			"name": "Plague Oracle",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Warlock",
+			"type": "Creature â€” Human Warlock",
 			"collector_number": "99",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/99_Plague Oracle.png"
@@ -1134,7 +1134,7 @@
 			"name": "Gloaming Spearman",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "89",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/89_Gloaming Spearman.png"
@@ -1144,7 +1144,7 @@
 			"name": "Massacre Behemoth",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Creature — Giant Knight",
+			"type": "Creature â€” Giant Knight",
 			"collector_number": "95",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/95_Massacre Behemoth.png"
@@ -1154,7 +1154,7 @@
 			"name": "Skeletal Colossus",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{B}",
-			"type": "Enchantment Creature — Skeleton",
+			"type": "Enchantment Creature â€” Skeleton",
 			"collector_number": "104",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/104_Skeletal Colossus.png"
@@ -1214,7 +1214,7 @@
 			"name": "Abyssal Virtuoso",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{B}{B}",
-			"type": "Enchantment Creature — Demon",
+			"type": "Enchantment Creature â€” Demon",
 			"collector_number": "76",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/76_Abyssal Virtuoso.png"
@@ -1224,7 +1224,7 @@
 			"name": "Sunhunter",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Creature — Spirit Knight",
+			"type": "Creature â€” Spirit Knight",
 			"collector_number": "147",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/147_Sunhunter.png"
@@ -1234,7 +1234,7 @@
 			"name": "Conflagrant Militant",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Spirit Knight",
+			"type": "Creature â€” Spirit Knight",
 			"collector_number": "114",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/114_Conflagrant Militant.png"
@@ -1244,7 +1244,7 @@
 			"name": "Bearer of the Blood Chalice",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Cleric",
+			"type": "Creature â€” Human Cleric",
 			"collector_number": "112",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/112_Bearer of the Blood Chalice.png"
@@ -1254,7 +1254,7 @@
 			"name": "Needle Knight",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Devil Knight",
+			"type": "Creature â€” Devil Knight",
 			"collector_number": "134",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/134_Needle Knight.png"
@@ -1264,7 +1264,7 @@
 			"name": "Kindled Bladehand",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "127",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/127_Kindled Bladehand.png"
@@ -1274,7 +1274,7 @@
 			"name": "Magmatic Entity",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Elemental",
+			"type": "Creature â€” Elemental",
 			"collector_number": "132",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/132_Magmatic Entity.png"
@@ -1284,7 +1284,7 @@
 			"name": "Smoke Sovereign",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Enchantment Creature — Dragon",
+			"type": "Enchantment Creature â€” Dragon",
 			"collector_number": "143",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/143_Smoke Sovereign.png"
@@ -1294,7 +1294,7 @@
 			"name": "Ozhkan Cutthroat",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
-			"type": "Creature — Wolf Warrior",
+			"type": "Creature â€” Wolf Warrior",
 			"collector_number": "135",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/135_Ozhkan Cutthroat.png"
@@ -1304,7 +1304,7 @@
 			"name": "Infernal Disseverer",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "126",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/126_Infernal Disseverer.png"
@@ -1314,7 +1314,7 @@
 			"name": "Dravak Tyrant",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{R}{R}",
-			"type": "Enchantment Creature — Dragon Knight",
+			"type": "Enchantment Creature â€” Dragon Knight",
 			"collector_number": "117",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/117_Dravak Tyrant.png"
@@ -1344,7 +1344,7 @@
 			"name": "Hollow Yew Halo",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "123",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/123_Hollow Yew Halo.png"
@@ -1364,7 +1364,7 @@
 			"name": "Pack Acolyte",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
-			"type": "Creature — Human Druid",
+			"type": "Creature â€” Human Druid",
 			"collector_number": "171",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/171_Pack Acolyte.png"
@@ -1374,7 +1374,7 @@
 			"name": "Slavering Greymaw",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Wolf Warrior",
+			"type": "Creature â€” Wolf Warrior",
 			"collector_number": "175",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/175_Slavering Greymaw.png"
@@ -1384,7 +1384,7 @@
 			"name": "Moonflower Culturist",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Spirit Druid",
+			"type": "Creature â€” Spirit Druid",
 			"collector_number": "169",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/169_Moonflower Culturist.png"
@@ -1394,7 +1394,7 @@
 			"name": "Everbough Dryad",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Dryad",
+			"type": "Creature â€” Dryad",
 			"collector_number": "157",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/157_Everbough Dryad.png"
@@ -1404,7 +1404,7 @@
 			"name": "Greenwood Trooper",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Giant Knight",
+			"type": "Creature â€” Giant Knight",
 			"collector_number": "162",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/162_Greenwood Trooper.png"
@@ -1414,7 +1414,7 @@
 			"name": "Verdure Shaper",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Spirit Warlock",
+			"type": "Creature â€” Spirit Warlock",
 			"collector_number": "181",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/181_Verdure Shaper.png"
@@ -1424,7 +1424,7 @@
 			"name": "Sylvan Sprites",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
-			"type": "Creature — Ouphe",
+			"type": "Creature â€” Ouphe",
 			"collector_number": "179",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/179_Sylvan Sprites.png"
@@ -1434,7 +1434,7 @@
 			"name": "Starbather",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Enchantment Creature — Spirit",
+			"type": "Enchantment Creature â€” Spirit",
 			"collector_number": "177",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/177_Starbather.png"
@@ -1444,7 +1444,7 @@
 			"name": "Hinterland Huntsman",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Spider",
+			"type": "Creature â€” Spider",
 			"collector_number": "164",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/164_Hinterland Huntsman.png"
@@ -1454,7 +1454,7 @@
 			"name": "Marrowholt Elder",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}{G}",
-			"type": "Enchantment Creature — Beast",
+			"type": "Enchantment Creature â€” Beast",
 			"collector_number": "168",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/168_Marrowholt Elder.png"
@@ -1494,7 +1494,7 @@
 			"name": "Branchbrand",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "151",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/151_Branchbrand.png"
@@ -1504,7 +1504,7 @@
 			"name": "Squire of Vaelias",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Enchantment Creature — Human Knight",
+			"type": "Enchantment Creature â€” Human Knight",
 			"collector_number": "233",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/233_Squire of Vaelias.png"
@@ -1514,7 +1514,7 @@
 			"name": "Requiem Soloist",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
-			"type": "Creature — Spirit Bard",
+			"type": "Creature â€” Spirit Bard",
 			"collector_number": "227",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/227_Requiem Soloist.png"
@@ -1524,7 +1524,7 @@
 			"name": "Usher of Undoing",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
-			"type": "Creature — Skeleton Rogue",
+			"type": "Creature â€” Skeleton Rogue",
 			"collector_number": "238",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/238_Usher of Undoing.png"
@@ -1544,7 +1544,7 @@
 			"name": "Dakarros Goliath",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Creature — Giant Warrior",
+			"type": "Creature â€” Giant Warrior",
 			"collector_number": "197",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/197_Dakarros Goliath.png"
@@ -1554,7 +1554,7 @@
 			"name": "Bloodshade Cavalier",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "189",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/189_Bloodshade Cavalier.png"
@@ -1564,7 +1564,7 @@
 			"name": "Ruthless Varkirn",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
-			"type": "Creature — Beast",
+			"type": "Creature â€” Beast",
 			"collector_number": "229",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/229_Ruthless Varkirn.png"
@@ -1584,7 +1584,7 @@
 			"name": "Wreathed Sentinel",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{W}",
-			"type": "Enchantment Creature — Spirit Knight",
+			"type": "Enchantment Creature â€” Spirit Knight",
 			"collector_number": "241",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/241_Wreathed Sentinel.png"
@@ -1594,7 +1594,7 @@
 			"name": "Sky's Eye Legionnaire",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "232",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/232_Sky's Eye Legionnaire.png"
@@ -1604,7 +1604,7 @@
 			"name": "Hand of the Ashen Oath",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "213",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/213_Hand of the Ashen Oath.png"
@@ -1614,7 +1614,7 @@
 			"name": "Crosswind Partisan",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{B}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "195",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/195_Crosswind Partisan.png"
@@ -1624,7 +1624,7 @@
 			"name": "Iris Crypt Reaper",
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
-			"type": "Creature — Human Warlock",
+			"type": "Creature â€” Human Warlock",
 			"collector_number": "214",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/214_Iris Crypt Reaper.png"
@@ -1634,7 +1634,7 @@
 			"name": "Wickerwretch",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
-			"type": "Creature — Human Druid",
+			"type": "Creature â€” Human Druid",
 			"collector_number": "239",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/239_Wickerwretch.png"
@@ -1644,7 +1644,7 @@
 			"name": "Auspex of Fortitudes",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
-			"type": "Creature — Human Druid",
+			"type": "Creature â€” Human Druid",
 			"collector_number": "187",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/187_Auspex of Fortitudes.png"
@@ -1654,7 +1654,7 @@
 			"name": "Gnarled Lifeletter",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{U}",
-			"type": "Enchantment Creature — Treefolk",
+			"type": "Enchantment Creature â€” Treefolk",
 			"collector_number": "212",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/212_Gnarled Lifeletter.png"
@@ -1664,7 +1664,7 @@
 			"name": "Caldera Spawn",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
-			"type": "Enchantment Creature — Elemental Dragon",
+			"type": "Enchantment Creature â€” Elemental Dragon",
 			"collector_number": "192",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/192_Caldera Spawn.png"
@@ -1674,7 +1674,7 @@
 			"name": "Saint of Sword and Sun",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{R}",
-			"type": "Creature — Spirit Cleric",
+			"type": "Creature â€” Spirit Cleric",
 			"collector_number": "230",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/230_Saint of Sword and Sun.png"
@@ -1684,7 +1684,7 @@
 			"name": "Brightblade Duelist",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "190",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/190_Brightblade Duelist.png"
@@ -1694,7 +1694,7 @@
 			"name": "Fellowship Veteran",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "209",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/209_Fellowship Veteran.png"
@@ -1704,7 +1704,7 @@
 			"name": "Flattening Ram",
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
-			"type": "Artifact Creature — Juggernaut",
+			"type": "Artifact Creature â€” Juggernaut",
 			"collector_number": "245",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/245_Flattening Ram.png"
@@ -1714,7 +1714,7 @@
 			"name": "It That Tolls for Thee",
 			"rarity": "uncommon",
 			"mana_cost": "{8}",
-			"type": "Enchantment Artifact Creature — Spirit",
+			"type": "Enchantment Artifact Creature â€” Spirit",
 			"collector_number": "249",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/249_It That Tolls for Thee.png"
@@ -1804,7 +1804,7 @@
 			"name": "Mantle of Gallantry",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "20",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/20_Mantle of Gallantry.png"
@@ -1814,7 +1814,7 @@
 			"name": "Twilight Conscript",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Spirit Knight",
+			"type": "Creature â€” Spirit Knight",
 			"collector_number": "34",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/34_Twilight Conscript.png"
@@ -1824,7 +1824,7 @@
 			"name": "Spirelight Shepherd",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Angel",
+			"type": "Creature â€” Angel",
 			"collector_number": "31",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/31_Spirelight Shepherd.png"
@@ -1834,7 +1834,7 @@
 			"name": "Cosmic Stitcher",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Spirit",
+			"type": "Creature â€” Spirit",
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/4_Cosmic Stitcher.png"
@@ -1844,7 +1844,7 @@
 			"name": "Noble Ashsworn",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "24",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/24_Noble Ashsworn.png"
@@ -1854,7 +1854,7 @@
 			"name": "Marble Godhand",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Spirit Knight",
+			"type": "Creature â€” Spirit Knight",
 			"collector_number": "22",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/22_Marble Godhand.png"
@@ -1864,7 +1864,7 @@
 			"name": "Glintpath Attendant",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Spirit",
+			"type": "Creature â€” Spirit",
 			"collector_number": "12",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/12_Glintpath Attendant.png"
@@ -1874,7 +1874,7 @@
 			"name": "Exemplar of Valor",
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
-			"type": "Creature — Angel Cleric",
+			"type": "Creature â€” Angel Cleric",
 			"collector_number": "8",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/8_Exemplar of Valor.png"
@@ -1884,7 +1884,7 @@
 			"name": "Steward of the Eclipse",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "32",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/32_Steward of the Eclipse.png"
@@ -1894,7 +1894,7 @@
 			"name": "Striding Banneret",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Giant Knight",
+			"type": "Creature â€” Giant Knight",
 			"collector_number": "33",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/33_Striding Banneret.png"
@@ -1904,7 +1904,7 @@
 			"name": "Umbral Possessor",
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
-			"type": "Enchantment Creature — Wraith",
+			"type": "Enchantment Creature â€” Wraith",
 			"collector_number": "35",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/35_Umbral Possessor.png"
@@ -1914,7 +1914,7 @@
 			"name": "Emblem of Myrenhal",
 			"rarity": "common",
 			"mana_cost": "{6}{W}",
-			"type": "Enchantment Creature — Spirit",
+			"type": "Enchantment Creature â€” Spirit",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/6_Emblem of Myrenhal.png"
@@ -1954,7 +1954,7 @@
 			"name": "Wanderwight",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Spirit Knight",
+			"type": "Creature â€” Spirit Knight",
 			"collector_number": "71",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/71_Wanderwight.png"
@@ -1964,7 +1964,7 @@
 			"name": "Skycloak Drake",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Drake",
+			"type": "Creature â€” Drake",
 			"collector_number": "63",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/63_Skycloak Drake.png"
@@ -1974,7 +1974,7 @@
 			"name": "Illusory Vanguard",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "49",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/49_Illusory Vanguard.png"
@@ -1984,7 +1984,7 @@
 			"name": "Rift Wyvern",
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
-			"type": "Creature — Drake",
+			"type": "Creature â€” Drake",
 			"collector_number": "58",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/58_Rift Wyvern.png"
@@ -1994,7 +1994,7 @@
 			"name": "Tracelight Wayfarer",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Enchantment Creature — Human Knight",
+			"type": "Enchantment Creature â€” Human Knight",
 			"collector_number": "69",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/69_Tracelight Wayfarer.png"
@@ -2004,7 +2004,7 @@
 			"name": "Wayward Moonblade",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "73",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/73_Wayward Moonblade.png"
@@ -2014,7 +2014,7 @@
 			"name": "Sythori Squadron",
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
-			"type": "Enchantment Creature — Spirit Knight",
+			"type": "Enchantment Creature â€” Spirit Knight",
 			"collector_number": "66",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/66_Sythori Squadron.png"
@@ -2024,7 +2024,7 @@
 			"name": "Worldwind Serpent",
 			"rarity": "common",
 			"mana_cost": "{5}{U}{U}",
-			"type": "Creature — Serpent",
+			"type": "Creature â€” Serpent",
 			"collector_number": "74",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/74_Worldwind Serpent.png"
@@ -2074,7 +2074,7 @@
 			"name": "Touch of Oros",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "68",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/68_Touch of Oros.png"
@@ -2094,7 +2094,7 @@
 			"name": "Watchers on High",
 			"rarity": "common",
 			"mana_cost": "{6}{U}",
-			"type": "Enchantment Creature — Wraith Knight",
+			"type": "Enchantment Creature â€” Wraith Knight",
 			"collector_number": "72",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/72_Watchers on High.png"
@@ -2104,7 +2104,7 @@
 			"name": "Shadow Lancer",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "102",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/102_Shadow Lancer.png"
@@ -2114,7 +2114,7 @@
 			"name": "Notion Scraper",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "97",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/97_Notion Scraper.png"
@@ -2124,7 +2124,7 @@
 			"name": "Duskbringer",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Bat Demon",
+			"type": "Creature â€” Bat Demon",
 			"collector_number": "85",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/85_Duskbringer.png"
@@ -2134,7 +2134,7 @@
 			"name": "Portent of Calamity",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Harpy",
+			"type": "Creature â€” Harpy",
 			"collector_number": "100",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/100_Portent of Calamity.png"
@@ -2144,7 +2144,7 @@
 			"name": "Ashen Persecutor",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "77",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/77_Ashen Persecutor.png"
@@ -2154,7 +2154,7 @@
 			"name": "Lunar Specter",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Spirit",
+			"type": "Creature â€” Spirit",
 			"collector_number": "93",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/93_Lunar Specter.png"
@@ -2164,7 +2164,7 @@
 			"name": "Brittle Butcher",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "81",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/81_Brittle Butcher.png"
@@ -2174,7 +2174,7 @@
 			"name": "Taciturn Council",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Spirit Knight",
+			"type": "Creature â€” Spirit Knight",
 			"collector_number": "106",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/106_Taciturn Council.png"
@@ -2184,7 +2184,7 @@
 			"name": "Slaughterbrute",
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
-			"type": "Creature — Beast",
+			"type": "Creature â€” Beast",
 			"collector_number": "105",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/105_Slaughterbrute.png"
@@ -2254,7 +2254,7 @@
 			"name": "Doomed Outrider",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "115",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/115_Doomed Outrider.png"
@@ -2264,7 +2264,7 @@
 			"name": "Servant of Velera",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "141",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/141_Servant of Velera.png"
@@ -2274,7 +2274,7 @@
 			"name": "Perfervid Oracle",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Elemental",
+			"type": "Creature â€” Elemental",
 			"collector_number": "137",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/137_Perfervid Oracle.png"
@@ -2284,7 +2284,7 @@
 			"name": "Howling Flesher",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Wolf Warrior",
+			"type": "Creature â€” Wolf Warrior",
 			"collector_number": "124",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/124_Howling Flesher.png"
@@ -2294,7 +2294,7 @@
 			"name": "Incandescent Paladin",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Spirit Knight",
+			"type": "Creature â€” Spirit Knight",
 			"collector_number": "125",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/125_Incandescent Paladin.png"
@@ -2304,7 +2304,7 @@
 			"name": "Ozhkan Flayer",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Wolf Warrior",
+			"type": "Creature â€” Wolf Warrior",
 			"collector_number": "136",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/136_Ozhkan Flayer.png"
@@ -2314,7 +2314,7 @@
 			"name": "Searing Piker",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "140",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/140_Searing Piker.png"
@@ -2324,7 +2324,7 @@
 			"name": "Carmine Hellkite",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
-			"type": "Enchantment Creature — Dragon",
+			"type": "Enchantment Creature â€” Dragon",
 			"collector_number": "113",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/113_Carmine Hellkite.png"
@@ -2334,7 +2334,7 @@
 			"name": "Smoldered Monarch",
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Enchantment Creature — Elemental Knight",
+			"type": "Enchantment Creature â€” Elemental Knight",
 			"collector_number": "144",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/144_Smoldered Monarch.png"
@@ -2354,7 +2354,7 @@
 			"name": "Draconic Resolve",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "116",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/116_Draconic Resolve.png"
@@ -2404,7 +2404,7 @@
 			"name": "Elyth's Faithful",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Druid",
+			"type": "Creature â€” Human Druid",
 			"collector_number": "155",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/155_Elyth's Faithful.png"
@@ -2414,7 +2414,7 @@
 			"name": "Escort of the Helmless",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Wraith Knight",
+			"type": "Creature â€” Wraith Knight",
 			"collector_number": "156",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/156_Escort of the Helmless.png"
@@ -2424,7 +2424,7 @@
 			"name": "Gloamtender",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Dryad",
+			"type": "Creature â€” Dryad",
 			"collector_number": "161",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/161_Gloamtender.png"
@@ -2434,7 +2434,7 @@
 			"name": "Gleaming Soothsayer",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Spirit Shaman",
+			"type": "Creature â€” Spirit Shaman",
 			"collector_number": "160",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/160_Gleaming Soothsayer.png"
@@ -2444,7 +2444,7 @@
 			"name": "Warden of the Weald",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Wolf Warrior",
+			"type": "Creature â€” Wolf Warrior",
 			"collector_number": "182",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/182_Warden of the Weald.png"
@@ -2454,7 +2454,7 @@
 			"name": "Solemn Packleader",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Wolf Warrior",
+			"type": "Creature â€” Wolf Warrior",
 			"collector_number": "176",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/176_Solemn Packleader.png"
@@ -2474,7 +2474,7 @@
 			"name": "Verdant Cavalry",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
-			"type": "Enchantment Creature — Spirit Knight",
+			"type": "Enchantment Creature â€” Spirit Knight",
 			"collector_number": "180",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/180_Verdant Cavalry.png"
@@ -2484,7 +2484,7 @@
 			"name": "Lockwood Giant",
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Giant Knight",
+			"type": "Creature â€” Giant Knight",
 			"collector_number": "166",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/166_Lockwood Giant.png"
@@ -2494,7 +2494,7 @@
 			"name": "Grotweaver",
 			"rarity": "common",
 			"mana_cost": "{5}{G}{G}",
-			"type": "Creature — Spider",
+			"type": "Creature â€” Spider",
 			"collector_number": "163",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/163_Grotweaver.png"
@@ -2524,7 +2524,7 @@
 			"name": "Wreath of Wisterias",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "185",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/185_Wreath of Wisterias.png"
@@ -2534,7 +2534,7 @@
 			"name": "Roots of the Hollow Yew",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "173",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/173_Roots of the Hollow Yew.png"
@@ -2554,7 +2554,7 @@
 			"name": "Shackleghast",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Spirit",
+			"type": "Artifact Creature â€” Spirit",
 			"collector_number": "252",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/252_Shackleghast.png"
@@ -2564,7 +2564,7 @@
 			"name": "Elythi Custodian",
 			"rarity": "common",
 			"mana_cost": "{4}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct",
 			"collector_number": "244",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/244_Elythi Custodian.png"
@@ -2574,7 +2574,7 @@
 			"name": "Apocalypse Foil",
 			"rarity": "common",
 			"mana_cost": "{3}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "242",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/242_Apocalypse Foil.png"
@@ -2594,7 +2594,7 @@
 			"name": "Sacred Statuary",
 			"rarity": "common",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct",
 			"collector_number": "251",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/251_Sacred Statuary.png"
@@ -2624,7 +2624,7 @@
 			"name": "Angel",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Angel",
+			"type": "Token Creature â€” Angel",
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/4_Angel.png"
@@ -2634,7 +2634,7 @@
 			"name": "Dragon",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Dragon",
+			"type": "Token Creature â€” Dragon",
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/7_Dragon.png"
@@ -2644,7 +2644,7 @@
 			"name": "Wraith",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Wraith",
+			"type": "Token Creature â€” Wraith",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/5_Wraith.png"
@@ -2654,7 +2654,7 @@
 			"name": "Beast",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Beast",
+			"type": "Token Creature â€” Beast",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/6_Beast.png"
@@ -2664,7 +2664,7 @@
 			"name": "Spirit",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Spirit",
+			"type": "Token Creature â€” Spirit",
 			"collector_number": "3",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/3_Spirit.png"
@@ -2674,7 +2674,7 @@
 			"name": "Knight",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Knight",
+			"type": "Token Creature â€” Knight",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/2_Knight.png"
@@ -2684,7 +2684,7 @@
 			"name": "Omen",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Omen",
+			"type": "Token Artifact â€” Omen",
 			"collector_number": "8",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/8_Omen.png"
@@ -2694,7 +2694,7 @@
 			"name": "Treasure",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Treasure",
+			"type": "Token Artifact â€” Treasure",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/9_Treasure.png"
@@ -2704,7 +2704,7 @@
 			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Plains",
+			"type": "Basic Land â€” Plains",
 			"collector_number": "262",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/262_Plains.png"
@@ -2714,7 +2714,7 @@
 			"name": "Island",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Island",
+			"type": "Basic Land â€” Island",
 			"collector_number": "264",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/264_Island.png"
@@ -2724,7 +2724,7 @@
 			"name": "Swamp",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp",
+			"type": "Basic Land â€” Swamp",
 			"collector_number": "266",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/266_Swamp.png"
@@ -2734,7 +2734,7 @@
 			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Mountain",
+			"type": "Basic Land â€” Mountain",
 			"collector_number": "268",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/268_Mountain.png"
@@ -2744,7 +2744,7 @@
 			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Forest",
+			"type": "Basic Land â€” Forest",
 			"collector_number": "270",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/270_Forest.png"
@@ -2754,7 +2754,7 @@
 			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Plains",
+			"type": "Basic Land â€” Plains",
 			"collector_number": "263",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/263_Plains.png"
@@ -2764,7 +2764,7 @@
 			"name": "Island",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Island",
+			"type": "Basic Land â€” Island",
 			"collector_number": "265",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/265_Island.png"
@@ -2774,7 +2774,7 @@
 			"name": "Swamp",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp",
+			"type": "Basic Land â€” Swamp",
 			"collector_number": "267",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/267_Swamp.png"
@@ -2784,7 +2784,7 @@
 			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Mountain",
+			"type": "Basic Land â€” Mountain",
 			"collector_number": "269",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/269_Mountain.png"
@@ -2794,7 +2794,7 @@
 			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Forest",
+			"type": "Basic Land â€” Forest",
 			"collector_number": "271",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/271_Forest.png"
