@@ -1,0 +1,80 @@
+﻿VERSION 3 CHANGELOG
+====================
+
+Heping, at War's End added.
+Panya, Swift and Sure added.
+
+Heping, at War's End TEST removed.
+Panya, Swift and Sure TEST removed.
+
+Behold the Aeons
+cost: {6}{G}{G}{G} => {5}{G}{G}{G}
+Astral Seamstress
+cost: {6}{U}{U} => {5}{U}{U}
+Dismay
+cost: {6}{B}{B} => {5}{B}{B}
+Twist Perceptions
+rules_text: Look at the top X cards of your library and separate them into a face-up pile and a face-down pile, where X is the amount of mana spent to cast this spell. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.
+Flashback {6}{U}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Look at the top X cards of your library and separate them into a face-up pile and a face-down pile, where X is the amount of mana spent to cast this spell. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.
+Flashback {5}{U}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+Oakblight Sage
+cost: {6}{B}{G} => {5}{B}{G}
+Majestic Seraph
+cost: {6}{W}{W} => {5}{W}{W}
+Celestial Sentry
+cost: {6}{U}{U} => {5}{U}{U}
+Abyssal Virtuoso
+cost: {6}{B}{B} => {5}{B}{B}
+Dravak Tyrant
+cost: {6}{R}{R} => {5}{R}{R}
+Marrowholt Elder
+cost: {6}{G}{G} => {5}{G}{G}
+Umbral Possessor
+cost: {6}{W} => {5}{W}
+Worldwind Serpent
+cost: {6}{U}{U} => {5}{U}{U}
+Grotweaver
+cost: {6}{G}{G} => {5}{G}{G}
+
+VERSION 2 CHANGELOG
+====================
+
+Heping, at War's End TEST added.
+Panya, Swift and Sure TEST added.
+
+Heping, at War's End removed.
+Panya, Swift and Sure removed.
+
+Behold the Aeons
+cost: {5}{G}{G}{G} => {6}{G}{G}{G}
+Astral Seamstress
+cost: {5}{U}{U} => {6}{U}{U}
+Dismay
+cost: {5}{B}{B} => {6}{B}{B}
+Twist Perceptions
+rules_text: Look at the top X cards of your library and separate them into a face-up pile and a face-down pile, where X is the amount of mana spent to cast this spell. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.
+Flashback {5}{U}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Look at the top X cards of your library and separate them into a face-up pile and a face-down pile, where X is the amount of mana spent to cast this spell. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.
+Flashback {6}{U}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+Oakblight Sage
+cost: {5}{B}{G} => {6}{B}{G}
+Majestic Seraph
+cost: {5}{W}{W} => {6}{W}{W}
+Celestial Sentry
+cost: {5}{U}{U} => {6}{U}{U}
+Abyssal Virtuoso
+cost: {5}{B}{B} => {6}{B}{B}
+Dravak Tyrant
+cost: {5}{R}{R} => {6}{R}{R}
+Marrowholt Elder
+cost: {5}{G}{G} => {6}{G}{G}
+Umbral Possessor
+cost: {5}{W} => {6}{W}
+Worldwind Serpent
+cost: {5}{U}{U} => {6}{U}{U}
+Grotweaver
+cost: {5}{G}{G} => {6}{G}{G}
+
+VERSION 1 CHANGELOG
+====================
+
+First version published.
