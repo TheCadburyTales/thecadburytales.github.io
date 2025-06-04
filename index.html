@@ -30,7 +30,7 @@
 		max-height: 200px;
 		display: block;
 		margin: auto;
-		padding-bottom: 20px;
+		padding: 20px 0;
 	}
 	select {
 		position: absolute;
@@ -213,6 +213,10 @@
 										<div class="set-group"></div>
 							<div class="preview-container">
 		<div class="set-icon-container">
+									<a href="previews/ACE"><div class="set-icon"><img src="sets/ACE-files/icon.png" title="Aldmore Cube"></img></div>
+									<div class="set-icon-name">Aldmore Cube</div></a>
+								</div>
+				<div class="set-icon-container">
 									<a href="previews/AEX"><div class="set-icon"><img src="sets/AEX-files/icon.png" title="Aldmore Explorations"></img></div>
 									<div class="set-icon-name">Aldmore Explorations</div></a>
 								</div>
@@ -382,8 +386,10 @@
 			}
 
 			function setGradient() {
-				if (!initial_gradient && localStorage.getItem("gradient") != null) 
+				if (!initial_gradient || !localStorage.getItem("gradient"))
+				{
 					localStorage.setItem("gradient", document.getElementById("color-select").value);
+				}
 				
 				gradient = localStorage.getItem("gradient");
 
@@ -399,7 +405,9 @@
 				}
 				
 				if (initial_gradient)
+				{
 					document.getElementById("color-select").value = gradient;
+				}
 
 				initial_gradient = false;
 				document.body.style.backgroundImage = `linear-gradient(to bottom, ${gradTop}, ${gradBottom})`;
