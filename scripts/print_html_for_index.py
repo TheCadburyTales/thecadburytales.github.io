@@ -38,7 +38,7 @@ def generateHTML():
 		max-height: 200px;
 		display: block;
 		margin: auto;
-		padding-bottom: 20px;
+		padding: 20px 0;
 	}
 	select {
 		position: absolute;
@@ -385,8 +385,10 @@ def generateHTML():
 			}
 
 			function setGradient() {
-				if (!initial_gradient && localStorage.getItem("gradient") != null) 
+				if (!initial_gradient || !localStorage.getItem("gradient"))
+				{
 					localStorage.setItem("gradient", document.getElementById("color-select").value);
+				}
 				
 				gradient = localStorage.getItem("gradient");
 
@@ -402,7 +404,9 @@ def generateHTML():
 				}
 				
 				if (initial_gradient)
+				{
 					document.getElementById("color-select").value = gradient;
+				}
 
 				initial_gradient = false;
 				document.body.style.backgroundImage = `linear-gradient(to bottom, ${gradTop}, ${gradBottom})`;
