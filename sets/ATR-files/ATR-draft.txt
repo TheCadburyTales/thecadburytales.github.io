@@ -1,4 +1,4 @@
-[CustomCards]
+﻿[CustomCards]
 	[
 		{
 			"name": "Heping, at War's End",

@@ -1,4 +1,4 @@
-[CustomCards]
+﻿[CustomCards]
 	[
 		{
 			"name": "Zarax Broodqueen",

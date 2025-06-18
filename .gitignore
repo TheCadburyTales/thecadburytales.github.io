@@ -4,3 +4,4 @@ resources/.DS_Store
 resources/magic-egg-allinone-exporter.mse-export-template/.DS_Store
 resources/magic-egg-allinone-exporter.mse-export-template/.DS_Store
 *.pyc
+*.pyc
