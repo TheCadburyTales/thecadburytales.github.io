@@ -108,6 +108,17 @@ def generateFile(code):
 						count = 15
 					case 'common':
 						count = 6
+			elif slot['balanced'] == 'f': # foil distribution
+				# ditto, except 0.57 c / 0.35 u / 0.07 r / 0.01 m
+				match c['rarity']:
+					case 'mythic':
+						count = 1
+					case 'rare':
+						count = 2
+					case 'uncommon':
+						count = 6
+					case 'common':
+						count = 12
 			elif slot['balanced'] == 'c': # cube distribution
 				count = 1
 			else:
@@ -117,5 +128,5 @@ def generateFile(code):
 				draft_string += '''	''' + str(count) + ''' ''' + c['card_name'] + '''
 '''
 
-	with open(os.path.join('sets', code + '-files', code + '-draft.txt'), 'w') as f:
+	with open(os.path.join('sets', code + '-files', code + '-draft.txt'), 'w', encoding='utf-8-sig') as f:
 		f.write(draft_string)
