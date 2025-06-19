@@ -69,6 +69,7 @@ def generateHTML(code):
 	}
 	.set-banner img {
 		width: 50px;
+		padding-right: 8px;
 	}
 	.set-banner a {
 		font-size: 18px;
@@ -340,13 +341,11 @@ def generateHTML(code):
 	#F: sets/SET-files/SET-draft.txt
 	if os.path.exists(os.path.join('sets', code + '-files', code + '-draft.txt')):
 		html_content += '''<div class="dot"> • </div><a href="/sets/''' + code + '''-files/''' + code + '''-draft.txt" download>Draft</a>
-		'''
-	if os.path.exists(os.path.join('sets', code + '-files', code + '-p1p1.json')):
-		html_content += '''<div class="dot"> • </div><a onclick="packOnePickOne()">P1P1</a>
+		<div class="dot"> • </div><a onclick="packOnePickOne()">P1P1</a>
+		</div>
 		'''
 
 	html_content += '''
-			</div>
 			<div class="select-text">Cards displayed as<select name="display" id="display"><option value="cards-only">Cards Only</option><option value="cards-text">Cards + Text</option></select>sorted by<select name="sort-by" id="sort-by"><option value="set-code">Set Number</option><option value="name">Name</option><option value="mv">Mana Value</option><option value="color">Color</option><option value="rarity">Rarity</option></select> : <select name="sort-order" id="sort-order"><option value="ascending">Asc</option><option value="descending">Desc</option></select></div>
 		</div>
 	</div>
@@ -407,6 +406,7 @@ def generateHTML(code):
 		let set_list_arrayified = [];
 		let specialchars = "";
 		let displayStyle = "";
+		let p1p1cards = [];
 
 		document.addEventListener("DOMContentLoaded", async function () {
 			'''
@@ -417,6 +417,14 @@ def generateHTML(code):
 
 	html_content += '''
 
+			await fetch('/sets/''' + code + '''-files/''' + code + '''-draft.txt')
+				.then(response => response.text())
+				.then(text => {
+					draft_file = text;
+			}).catch(error => console.error('Error:', error));
+
+			draftmancerToP1P1(draft_file);
+      
 			for (let i = 0; i < card_list_arrayified.length; i++)
 			{
 				if (card_list_arrayified[i].set == "''' + code + '''")
@@ -524,18 +532,80 @@ def generateHTML(code):
 			}
 		}
 
-		async function packOnePickOne() {
-			await fetch('/sets/''' + code + '''-files/''' + code + '''-p1p1.json')
-				.then(response => response.json())
-				.then(json => {
-					p1p1_cards = json;
-			}).catch(error => console.error('Error:', error));
+		function draftmancerToP1P1(draft_file) { // comments in here by aanginer
+			let draft_slots = {};
+			let p1p1_object = [];
+			let result_json = [];
+			let card_map    = {};
+			let current_slot_index = 0;
+			let slot_indexes = {};
+			const draft_headers = draft_file.matchAll(/\\[(.*?)\\]/g); // match text between [ and ]
+			for (const result of draft_headers) {
+				if (result[1] == "CustomCards")
+					continue; // skip the CustomCards header
 
+				const copies = parseInt(result[0].match(/\\((.*?)\\)/g)[0].split("(")[1].split(")")[0]); // match text between ( and ) -- do the split thing bc js regex doesnt let me grab the group for some reason????????
+				// -- this is useless but if needed, const name = result.groups[0].match(/\\[(.*)\\(/g); // match text before (
+				draft_slots[result[0]] = copies;
+				slot_indexes[result[0]] = current_slot_index;
+				current_slot_index += copies;
+			}
+
+			console.log(slot_indexes);
+
+			for (let i = 0; i < current_slot_index; i++) { // the current index should be the total number
+				p1p1_object.push([]);
+			}
+
+			draft_slots["EOF"] = 0; // add this so when we check for the next slot in the final one we don't get an index error
+			for (let i = 0; i < Object.keys(draft_slots).length - 1; i++) {
+				const draft_slot = Object.keys(draft_slots)[i];
+				const next_slot  = Object.keys(draft_slots)[i + 1];
+				const slot_size  = draft_slots[draft_slot];
+
+				let card_lines = draft_file.split(draft_slot)[1].split(next_slot)[0].split("\\n"); // split between the 2 slots -- splitting by EOF shouldnt be a problem as thatll yield a 1 element list
+				for (const line of card_lines) {
+					const count = parseInt(line.substring(0, line.indexOf(' ')));
+					const card_name = line.substring(line.indexOf(' ') + 1).trim();
+
+					if (!card_map[card_name]) {
+						card_map[card_name] = {};
+					}
+
+					card_map[card_name][draft_slot] = card_map[card_name][draft_slot] ? card_map[card_name][draft_slot] + count : count; // fancy way to do a null check to decide between = and +=
+				}
+			}
+
+			for (const card of card_list_arrayified) { // grab the needed card data
+				if (Object.keys(card_map).includes(card.card_name)) {
+					const card_slots = card_map[card.card_name];
+					for (const slot in card_slots) {
+						const slot_copies = draft_slots[slot];
+						for (let i = 0; i < slot_copies; i++) {
+							for (let j = 0; j < card_slots[slot]; j++) {
+								p1p1_object[slot_indexes[slot] + i].push(card);
+							}
+						}
+					}
+				}
+			}
+
+			p1p1_cards = p1p1_object;
+		}
+
+
+		function packOnePickOne() {
 			img_list = [];
+			used_cards = [];
 			for (const slot of p1p1_cards)
 			{
-				rand_i = Math.floor(Math.random() * (slot.length));
-				card = slot[rand_i];
+				if (slot.length == 0) 
+					continue;
+
+				do {
+					rand_i = Math.floor(Math.random() * (slot.length));
+					card = slot[rand_i];
+				} while (used_cards.includes(card));
 
 				const img_url = '/sets/' + card.set + '-files/img/' + card.number + '_' + card.card_name + (card.shape.includes('double') ? '_front' : '') + '.' + card.image_type;
 
@@ -543,6 +613,7 @@ def generateHTML(code):
 				image.src = img_url;
 
 				img_list.push(image);
+				used_cards.push(card);
 			}
 
 			const canvas = document.getElementById("canvas");
@@ -551,22 +622,13 @@ def generateHTML(code):
 			canvas.width = 1883;
 			canvas.height = 1573;
 
-			x_offset = 0;
-			y_offset = 0;
-
-			for (let i = 1; i <= img_list.length; i++)
+			for (let i = 0; i < img_list.length; i++)
 			{
-				ctx.drawImage(img_list[i-1], x_offset, y_offset, 375, 523);
-
-				if (i % 5 == 0)
-				{
-					x_offset = 0;
-					y_offset += 525;
-				}
-				else
-				{
-					x_offset += 377;
-				}
+				img_list[i].onload = function() {
+					x_offset = 377 * (i % 5);
+					y_offset = 525 * Math.floor(i / 5);
+				    ctx.drawImage(img_list[i], x_offset, y_offset, 375, 523);
+				};
 			}
 
 			document.getElementById("p1p1").style.display = "block";
