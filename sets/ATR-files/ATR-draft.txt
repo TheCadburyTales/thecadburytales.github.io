@@ -2799,7 +2799,7 @@
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/ATR-files/img/271_Forest.png"
 			}
-		},
+		}
 	]
 
 [rare(1)]

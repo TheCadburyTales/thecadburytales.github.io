@@ -2916,7 +2916,7 @@
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/7_Flesh.png"
 			}
-		},
+		}
 	]
 
 [rare(1)]
