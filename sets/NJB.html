@@ -540,7 +540,7 @@
 						card_map[card_name] = {};
 					}
 
-					card_map[card_name][draft_slot] = card_map[card_name][draft_slot] ? card_map[card_name][draft_slot] + count : count; // fancy way to do a null check to decide between = and +=r
+					card_map[card_name][draft_slot] = card_map[card_name][draft_slot] ? card_map[card_name][draft_slot] + count : count; // fancy way to do a null check to decide between = and +=
 				}
 			}
 
@@ -595,7 +595,7 @@
 				img_list[i].onload = function() {
 					x_offset = 377 * (i % 5);
 					y_offset = 525 * Math.floor(i / 5);
-						ctx.drawImage(img_list[i], x_offset, y_offset, 375, 523);
+					ctx.drawImage(img_list[i], x_offset, y_offset, 375, 523);
 				};
 			}
 
