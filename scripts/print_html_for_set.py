@@ -645,7 +645,7 @@ def generateHTML(code):
 				img_list[i].onload = function() {
 					x_offset = 377 * (i % 5);
 					y_offset = 525 * Math.floor(i / 5);
-						ctx.drawImage(img_list[i], x_offset, y_offset, 375, 523);
+					ctx.drawImage(img_list[i], x_offset, y_offset, 375, 523);
 				};
 			}
 
