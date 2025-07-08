@@ -1,1 +1,14 @@
-﻿{"": ["ACE", "AEX", "ATR", "GSM", "GSS", "KND", "NJB", "SHF"]}
+﻿{
+    "": [
+        "ACE",
+        "AEX",
+        "AOD",
+        "ATR",
+        "GHQ",
+        "GSM",
+        "GSS",
+        "KND",
+        "NJB",
+        "SHF"
+    ]
+}
