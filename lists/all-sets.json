@@ -36,6 +36,11 @@
             "formats": "standard"
         },
         {
+            "set_code": "ICO",
+            "set_name": "Inner Coriansa",
+            "formats": "standard"
+        },
+        {
             "set_code": "KND",
             "set_name": "Kahembo: New Dawn",
             "formats": "standard"
