@@ -1,5 +1,4 @@
 ﻿[
-	{ "html": "addenda.md" },
 	{ "cards":  [ "W", "U", "B", "R", "G" ] },
 	{ "title": "gold", "cards":  [ "WU", "UB", "BR", "RG", "GW" ] },
 	{ "cards":  [ "WB", "UR", "BG", "RW", "GU" ] },
