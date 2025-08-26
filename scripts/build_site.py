@@ -176,7 +176,14 @@ for code in set_codes:
 				else:
 					prev_card = previous_data['cards'][prev_card_names.index(card['card_name'])]
 					prev_card_names[prev_card_names.index(card['card_name'])] = ''
-					if card != prev_card:
+
+					# ignore card number, since that often changes for reasons unrelated to the card itself
+					card_copy = card.copy()
+					prev_card_copy = prev_card.copy()
+					card_copy.pop("number", None)
+					prev_card_copy.pop("number", None)
+
+					if card_copy != prev_card_copy:
 						changed = True
 						changed_string += card['card_name'] + '\n'
 						for key in [ 'type', 'cost', 'rules_text', 'pt', 'special_text', 'loyalty' ]:
@@ -231,8 +238,7 @@ for code in set_codes:
 	#CE: moving this down after we create the 'set-order.json' file
 	if not os.path.exists(os.path.join('sets', code + '-files', 'ignore.txt')):
 		print_html_for_preview.generateHTML(code)
-	if not os.path.exists(os.path.join('sets', code + '-files', 'previewed.txt')):	
-		print_html_for_set.generateHTML(code)
+	print_html_for_set.generateHTML(code)
 
 print_html_for_sets_page.generateHTML()
 print_html_for_search.generateHTML(set_codes)
