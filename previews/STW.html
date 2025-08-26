@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/STW-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>STW visual preview</title>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 10%;
+			width: fit-content;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: flex;
+			flex-direction: column;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/STW-files/logo.png" />
+	<img class="preload-hidden" src="/sets/ATR-files/icon.png" />
+		<img class="preload-hidden" src="/sets/SHF-files/icon.png" />
+		<img class="preload-hidden" src="/sets/GSS-files/icon.png" />
+		<img class="preload-hidden" src="/sets/KND-files/icon.png" />
+		<img class="preload-hidden" src="/sets/NJB-files/icon.png" />
+		<img class="preload-hidden" src="/sets/WAS-files/icon.png" />
+		<img class="preload-hidden" src="/sets/GQC-files/icon.png" />
+		<img class="preload-hidden" src="/sets/VYI-files/icon.png" />
+		<img class="preload-hidden" src="/sets/CNF-files/icon.png" />
+		<img class="preload-hidden" src="/sets/KDT-files/icon.png" />
+		<img class="preload-hidden" src="/sets/KLA-files/icon.png" />
+		<img class="preload-hidden" src="/sets/SOL-files/icon.png" />
+		<img class="preload-hidden" src="/sets/MOX-files/icon.png" />
+		<img class="preload-hidden" src="/sets/KRK-files/icon.png" />
+		<img class="preload-hidden" src="/sets/GS2-files/icon.png" />
+		<img class="preload-hidden" src="/sets/STW-files/icon.png" />
+		<img class="preload-hidden" src="/sets/X24-files/icon.png" />
+		<img class="preload-hidden" src="/sets/ICO-files/icon.png" />
+		<img class="preload-hidden" id="bg" src="/sets/STW-files/bg.png" />
+
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="STW"><img src="/sets/STW-files/icon.png">Star Wars Microset</a>
+	
+		<a class="set-bar inactive" href="ATR"><img src="/sets/ATR-files/icon.png">The Shattered Pantheon of Atros</a>
+	
+		<a class="set-bar inactive" href="SHF"><img src="/sets/SHF-files/icon.png">The Starholme Frontier</a>
+	
+		<a class="set-bar inactive" href="GSS"><img src="/sets/GSS-files/icon.png">Golden Shores of Shiryen</a>
+	
+		<a class="set-bar inactive" href="KND"><img src="/sets/KND-files/icon.png">Kahembo: New Dawn</a>
+	
+		<a class="set-bar inactive" href="NJB"><img src="/sets/NJB-files/icon.png">Nangjiao in Bloom</a>
+	
+		<a class="set-bar inactive" href="WAS"><img src="/sets/WAS-files/icon.png">Weir Astele</a>
+	
+		<a class="set-bar inactive" href="GQC"><img src="/sets/GQC-files/icon.png">Ghariv, the Quaking City</a>
+	
+		<a class="set-bar inactive" href="VYI"><img src="/sets/VYI-files/icon.png">Kallatree: Voyage to Infinity</a>
+	
+		<a class="set-bar inactive" href="CNF"><img src="/sets/CNF-files/icon.png">Confluence</a>
+	
+		<a class="set-bar inactive" href="KDT"><img src="/sets/KDT-files/icon.png">Kitsuo: Dusk of Time</a>
+	
+		<a class="set-bar inactive" href="KLA"><img src="/sets/KLA-files/icon.png">Kallatree Ascension</a>
+	
+		<a class="set-bar inactive" href="SOL"><img src="/sets/SOL-files/icon.png">The Solitudines</a>
+	
+		<a class="set-bar inactive" href="MOX"><img src="/sets/MOX-files/icon.png">Midnight Omens of Xogoa</a>
+	
+		<a class="set-bar inactive" href="KRK"><img src="/sets/KRK-files/icon.png">Seas of Krakonos</a>
+	
+		<a class="set-bar inactive" href="GS2"><img src="/sets/GS2-files/icon.png">Global Series 2</a>
+	
+		<a class="set-bar inactive" href="X24"><img src="/sets/X24-files/icon.png">Moxtober 2024</a>
+	
+		<a class="set-bar inactive" href="ICO"><img src="/sets/ICO-files/icon.png">Inner Coriansa</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/STW-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img alt="/sets/STW-files/img/1_Battlefront Medic.png" id="1_Battlefront Medic" data-flag="@X" onclick="openSidebar('1_Battlefront Medic',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/7_Admiral Ackbar.png" id="7_Admiral Ackbar" data-flag="@X" onclick="openSidebar('7_Admiral Ackbar',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/16_Might of the Empire.png" id="16_Might of the Empire" data-flag="@X" onclick="openSidebar('16_Might of the Empire',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/25_Shoot First.png" id="25_Shoot First" data-flag="@X" onclick="openSidebar('25_Shoot First',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/33_Wookiee Guerrilla.png" id="33_Wookiee Guerrilla" data-flag="@X" onclick="openSidebar('33_Wookiee Guerrilla',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/5_Loyal Tauntaun.png" id="5_Loyal Tauntaun" data-flag="@X" onclick="openSidebar('5_Loyal Tauntaun',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/12_Outer Rim Dealer.png" id="12_Outer Rim Dealer" data-flag="@X" onclick="openSidebar('12_Outer Rim Dealer',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/18_Spice Smuggler.png" id="18_Spice Smuggler" data-flag="@X" onclick="openSidebar('18_Spice Smuggler',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/21_Disintegration.png" id="21_Disintegration" data-flag="@X" onclick="openSidebar('21_Disintegration',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/27_Chirpa's Archer.png" id="27_Chirpas Archer" data-flag="@X" onclick="openSidebar('27_Chirpas Archer',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/2_Echo Defender.png" id="2_Echo Defender" data-flag="@X" onclick="openSidebar('2_Echo Defender',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/8_Do or Do Not.png" id="8_Do or Do Not" data-flag="@X" onclick="openSidebar('8_Do or Do Not',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/14_Dagobah Dragonsnake.png" id="14_Dagobah Dragonsnake" data-flag="@X" onclick="openSidebar('14_Dagobah Dragonsnake',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/22_Jabba's Mechanic.png" id="22_Jabbas Mechanic" data-flag="@X" onclick="openSidebar('22_Jabbas Mechanic',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/28_Lumbering Dewback.png" id="28_Lumbering Dewback" data-flag="@X" onclick="openSidebar('28_Lumbering Dewback',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/3_Flight Commander.png" id="3_Flight Commander" data-flag="@X" onclick="openSidebar('3_Flight Commander',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/9_Intel Officer.png" id="9_Intel Officer" data-flag="@X" onclick="openSidebar('9_Intel Officer',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/15_Imperial Navigators.png" id="15_Imperial Navigators" data-flag="@X" onclick="openSidebar('15_Imperial Navigators',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/23_Ravenous Rancor.png" id="23_Ravenous Rancor" data-flag="@X" onclick="openSidebar('23_Ravenous Rancor',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/29_Territorial Wampa.png" id="29_Territorial Wampa" data-flag="@X" onclick="openSidebar('29_Territorial Wampa',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/4_Imperial Stormtrooper.png" id="4_Imperial Stormtrooper" data-flag="@X" onclick="openSidebar('4_Imperial Stormtrooper',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/10_Meditation.png" id="10_Meditation" data-flag="@X" onclick="openSidebar('10_Meditation',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/17_Mos Espa Crimelord.png" id="17_Mos Espa Crimelord" data-flag="@X" onclick="openSidebar('17_Mos Espa Crimelord',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/24_Reprogram.png" id="24_Reprogram" data-flag="@X" onclick="openSidebar('24_Reprogram',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/30_Tree-Village Elder.png" id="30_Tree-Village Elder" data-flag="@X" onclick="openSidebar('30_Tree-Village Elder',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/6_Reload Malfunction.png" id="6_Reload Malfunction" data-flag="@X" onclick="openSidebar('6_Reload Malfunction',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/11_Mos Eisley Sneak.png" id="11_Mos Eisley Sneak" data-flag="@X" onclick="openSidebar('11_Mos Eisley Sneak',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/19_Trandoshan Trackers.png" id="19_Trandoshan Trackers" data-flag="@X" onclick="openSidebar('19_Trandoshan Trackers',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/26_Tusken Raiders.png" id="26_Tusken Raiders" data-flag="@X" onclick="openSidebar('26_Tusken Raiders',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/31_Unruly Brawl.png" id="31_Unruly Brawl" data-flag="@X" onclick="openSidebar('31_Unruly Brawl',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/13_Snowspeeder Ace.png" id="13_Snowspeeder Ace" data-flag="@X" onclick="openSidebar('13_Snowspeeder Ace',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/20_Womp Rats.png" id="20_Womp Rats" data-flag="@X" onclick="openSidebar('20_Womp Rats',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/32_Whispers of Endor.png" id="32_Whispers of Endor" data-flag="@X" onclick="openSidebar('32_Whispers of Endor',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/38_Imperial TIE Fighter.png" id="38_Imperial TIE Fighter" data-flag="@X" onclick="openSidebar('38_Imperial TIE Fighter',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/35_Boba Fett.png" id="35_Boba Fett" data-flag="@X" onclick="openSidebar('35_Boba Fett',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/36_Ewok Firedancers.png" id="36_Ewok Firedancers" data-flag="@X" onclick="openSidebar('36_Ewok Firedancers',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/34_Beskar Duelist.png" id="34_Beskar Duelist" data-flag="@X" onclick="openSidebar('34_Beskar Duelist',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/37_Imperial Technician.png" id="37_Imperial Technician" data-flag="@X" onclick="openSidebar('37_Imperial Technician',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/40_Rebellion X-Wing.png" id="40_Rebellion X-Wing" data-flag="@X" onclick="openSidebar('40_Rebellion X-Wing',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/39_One With the Force.png" id="39_One With the Force" data-flag="@X" onclick="openSidebar('39_One With the Force',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img alt="/sets/STW-files/img/44_Imperial Star Destroyer.png" id="44_Imperial Star Destroyer" data-flag="@X" onclick="openSidebar('44_Imperial Star Destroyer',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/45_Plasma Rifle.png" id="45_Plasma Rifle" data-flag="@X" onclick="openSidebar('45_Plasma Rifle',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/41_A280 Blaster.png" id="41_A280 Blaster" data-flag="@X" onclick="openSidebar('41_A280 Blaster',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/42_AT-ST Assault Transport.png" id="42_AT-ST Assault Transport" data-flag="@X" onclick="openSidebar('42_AT-ST Assault Transport',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/43_Hangar Repair Droid.png" id="43_Hangar Repair Droid" data-flag="@X" onclick="openSidebar('43_Hangar Repair Droid',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/47_Island.png" id="47_Island" data-flag="@X" onclick="openSidebar('47_Island',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/48_Swamp.png" id="48_Swamp" data-flag="@X" onclick="openSidebar('48_Swamp',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/49_Mountain.png" id="49_Mountain" data-flag="@X" onclick="openSidebar('49_Mountain',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/50_Forest.png" id="50_Forest" data-flag="@X" onclick="openSidebar('50_Forest',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/46_Plains.png" id="46_Plains" data-flag="@X" onclick="openSidebar('46_Plains',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img alt="/sets/STW-files/img/4t_Food.png" id="4t_Food" data-flag="@X" onclick="openSidebar('4t_Food',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/5t_Treasure.png" id="5t_Treasure" data-flag="@X" onclick="openSidebar('5t_Treasure',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/1t_Army.png" id="1t_Army" data-flag="@X" onclick="openSidebar('1t_Army',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/2t_Rebel.png" id="2t_Rebel" data-flag="@X" onclick="openSidebar('2t_Rebel',false)"></div>
+				<div class="container"><img alt="/sets/STW-files/img/3t_Ewok.png" id="3t_Ewok" data-flag="@X" onclick="openSidebar('3t_Ewok',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		document.body.style.backgroundImage = 'url(' + document.getElementById("bg").src + ')';
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>

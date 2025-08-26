@@ -1,0 +1,3977 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Drakkonic Mekkastruct",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Dragon Berserker",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/260_Drakkonic Mekkastruct.png"
+			}
+		},
+		{
+			"name": "Kjaldiran Battlewolves",
+			"rarity": "uncommon",
+			"mana_cost": "{W/B}{W/B}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "249",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/249_Kjaldiran Battlewolves_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/249_Kjaldiran Battlewolves_front.png"
+			}
+		},
+		{
+			"name": "Null Knight",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Avatar Knight",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/109_Null Knight.png"
+			}
+		},
+		{
+			"name": "Stalwart Spear",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Artifact Creature — Cyborg Berserker",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/194_Stalwart Spear.png"
+			}
+		},
+		{
+			"name": "Kjaldiran Talehunter",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/141_Kjaldiran Talehunter.png"
+			}
+		},
+		{
+			"name": "Kjaldiran Berserker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/140_Kjaldiran Berserker.png"
+			}
+		},
+		{
+			"name": "Go Forth and Slaughter",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/16_Go Forth and Slaughter.png"
+			}
+		},
+		{
+			"name": "Starkarve Deployment",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/196_Starkarve Deployment.png"
+			}
+		},
+		{
+			"name": "Collapsed Ring",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/276_Collapsed Ring.png"
+			}
+		},
+		{
+			"name": "Terraformer Archengine",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/197_Terraformer Archengine.png"
+			}
+		},
+		{
+			"name": "Aeon's Forerunner",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Avatar Scout",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/125_Aeon's Forerunner.png"
+			}
+		},
+		{
+			"name": "Chart the Starpaths",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/212_Chart the Starpaths.png"
+			}
+		},
+		{
+			"name": "Valiant Titanhunter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/81_Valiant Titanhunter.png"
+			}
+		},
+		{
+			"name": "Kjaldiran Lookout",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Scout",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/105_Kjaldiran Lookout.png"
+			}
+		},
+		{
+			"name": "Ancient Communion",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/85_Ancient Communion.png"
+			}
+		},
+		{
+			"name": "Unstoppable Remnant",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/272_Unstoppable Remnant.png"
+			}
+		},
+		{
+			"name": "Esmund, Shard of Nebula",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — God",
+			"collector_number": "53",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/53_Esmund, Shard of Nebula_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/53_Esmund, Shard of Nebula_front.png"
+			}
+		},
+		{
+			"name": "Void Potentate",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Avatar Warlock",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/120_Void Potentate.png"
+			}
+		},
+		{
+			"name": "Cosmic Heart",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/258_Cosmic Heart.png"
+			}
+		},
+		{
+			"name": "Oda, Shard of Abyss",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — God",
+			"collector_number": "112",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/112_Oda, Shard of Abyss_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/112_Oda, Shard of Abyss_front.png"
+			}
+		},
+		{
+			"name": "Friede, Shard of Light",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — God",
+			"collector_number": "13",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/13_Friede, Shard of Light_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/13_Friede, Shard of Light_front.png"
+			}
+		},
+		{
+			"name": "Vjala, Shard of Creation",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — God",
+			"collector_number": "163",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/163_Vjala, Shard of Creation_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/163_Vjala, Shard of Creation_front.png"
+			}
+		},
+		{
+			"name": "Objects In Motion",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/148_Objects In Motion.png"
+			}
+		},
+		{
+			"name": "Inga, Shard of Genesis",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — God",
+			"collector_number": "184",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/184_Inga, Shard of Genesis_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/184_Inga, Shard of Genesis_front.png"
+			}
+		},
+		{
+			"name": "Chronicler of Irregularities",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Avatar",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/46_Chronicler of Irregularities.png"
+			}
+		},
+		{
+			"name": "Garden of Evolution",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/220_Garden of Evolution.png"
+			}
+		},
+		{
+			"name": "Chronicler of Regrets",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact Creature — Avatar",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/89_Chronicler of Regrets.png"
+			}
+		},
+		{
+			"name": "Kallatree, Whorl of Life",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/278_Kallatree, Whorl of Life.png"
+			}
+		},
+		{
+			"name": "Captain Elai",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Planeswalker — Elai",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/210_Captain Elai.png"
+			}
+		},
+		{
+			"name": "Covet Infinity",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/90_Covet Infinity.png"
+			}
+		},
+		{
+			"name": "Amede, Vessel of Alune",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Planeswalker — Amede",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/166_Amede, Vessel of Alune.png"
+			}
+		},
+		{
+			"name": "Sojourner's Gateway",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/281_Sojourner's Gateway.png"
+			}
+		},
+		{
+			"name": "Sun-Eater Nautiloid",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/116_Sun-Eater Nautiloid.png"
+			}
+		},
+		{
+			"name": "Migrating Cetacean",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/U}{G/U}",
+			"type": "Creature — Leviathan",
+			"collector_number": "251",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/251_Migrating Cetacean_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/251_Migrating Cetacean_front.png"
+			}
+		},
+		{
+			"name": "Origin's Vestige",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/231_Origin's Vestige.png"
+			}
+		},
+		{
+			"name": "Titan of Helgahraun",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Beast Leviathan",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/199_Titan of Helgahraun.png"
+			}
+		},
+		{
+			"name": "Sundeath Maw",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Creature — Kraken Horror",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/241_Sundeath Maw.png"
+			}
+		},
+		{
+			"name": "Currents of the Hyperlanes",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/215_Currents of the Hyperlanes.png"
+			}
+		},
+		{
+			"name": "Atmosphere Trawlers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Leviathan",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/45_Atmosphere Trawlers.png"
+			}
+		},
+		{
+			"name": "Heaven's Exhalation",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Creature — Leviathan",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/55_Heaven's Exhalation.png"
+			}
+		},
+		{
+			"name": "Feed on the Cosmos",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/98_Feed on the Cosmos.png"
+			}
+		},
+		{
+			"name": "Falling Star's Wake",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/134_Falling Star's Wake.png"
+			}
+		},
+		{
+			"name": "Shambling Terrarium",
+			"rarity": "uncommon",
+			"mana_cost": "{B/G}{B/G}",
+			"type": "Creature — Skeleton Pilot",
+			"collector_number": "254",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/254_Shambling Terrarium_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/254_Shambling Terrarium_front.png"
+			}
+		},
+		{
+			"name": "Brightheart Serpent",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Serpent",
+			"collector_number": "170",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/170_Brightheart Serpent_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/170_Brightheart Serpent_front.png"
+			}
+		},
+		{
+			"name": "Go Dark",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/136_Go Dark.png"
+			}
+		},
+		{
+			"name": "Fraying Cluster",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/100_Fraying Cluster.png"
+			}
+		},
+		{
+			"name": "Waning Child of Aeon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Demigod",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/122_Waning Child of Aeon.png"
+			}
+		},
+		{
+			"name": "Devour All Light",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/2_Devour All Light.png"
+			}
+		},
+		{
+			"name": "Colony Migration",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/174_Colony Migration.png"
+			}
+		},
+		{
+			"name": "Plant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/7_Plant.png"
+			}
+		},
+		{
+			"name": "Prophecied Alignment",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/234_Prophecied Alignment.png"
+			}
+		},
+		{
+			"name": "Doomed Pilot",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Pilot",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/178_Doomed Pilot.png"
+			}
+		},
+		{
+			"name": "Pilot",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Pilot",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/5_Pilot.png"
+			}
+		},
+		{
+			"name": "Kion, Chosen Chronicler",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Artifact Creature — Avatar",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/223_Kion, Chosen Chronicler.png"
+			}
+		},
+		{
+			"name": "Parasite Incubation",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "113",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/113_Parasite Incubation_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/113_Parasite Incubation_front.png"
+			}
+		},
+		{
+			"name": "Chaotic Godling",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Demigod",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/211_Chaotic Godling.png"
+			}
+		},
+		{
+			"name": "Starhunter Drakkon",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/155_Starhunter Drakkon.png"
+			}
+		},
+		{
+			"name": "Hungering Abyss",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/103_Hungering Abyss.png"
+			}
+		},
+		{
+			"name": "Xenobotanist",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Pilot",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/205_Xenobotanist.png"
+			}
+		},
+		{
+			"name": "Meteor Harvester",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/268_Meteor Harvester.png"
+			}
+		},
+		{
+			"name": "Myrkdrasil, Cradle of Nihility",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/280_Myrkdrasil, Cradle of Nihility.png"
+			}
+		},
+		{
+			"name": "Approach of the Black Sun",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/87_Approach of the Black Sun.png"
+			}
+		},
+		{
+			"name": "Drakkonfell, First Starkarve",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/259_Drakkonfell, First Starkarve.png"
+			}
+		},
+		{
+			"name": "Curious Horticulturist",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/177_Curious Horticulturist.png"
+			}
+		},
+		{
+			"name": "Charge into the Void",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/88_Charge into the Void.png"
+			}
+		},
+		{
+			"name": "Adrift in a Twilit Sea",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/3_Adrift in a Twilit Sea.png"
+			}
+		},
+		{
+			"name": "Hive Forerunner",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/181_Hive Forerunner.png"
+			}
+		},
+		{
+			"name": "Shield Surfer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/191_Shield Surfer.png"
+			}
+		},
+		{
+			"name": "The Colossus Approaches",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/48_The Colossus Approaches.png"
+			}
+		},
+		{
+			"name": "Ancestral Mageflame",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/127_Ancestral Mageflame.png"
+			}
+		},
+		{
+			"name": "Sudden Decompression",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/74_Sudden Decompression.png"
+			}
+		},
+		{
+			"name": "Woolly Abomination",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Yeti Kraken",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/82_Woolly Abomination.png"
+			}
+		},
+		{
+			"name": "Mechanized Propagator",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Insect Robot",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/108_Mechanized Propagator.png"
+			}
+		},
+		{
+			"name": "Zero Gravity Maneuver",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/124_Zero Gravity Maneuver.png"
+			}
+		},
+		{
+			"name": "Voidsent Ghoul",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/244_Voidsent Ghoul.png"
+			}
+		},
+		{
+			"name": "Drifting Among Regrets",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/94_Drifting Among Regrets.png"
+			}
+		},
+		{
+			"name": "Protostar Tender",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Viridar Warlock",
+			"collector_number": "150",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/150_Protostar Tender_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/150_Protostar Tender_front.png"
+			}
+		},
+		{
+			"name": "Prophetic Prism",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/270_Prophetic Prism.png"
+			}
+		},
+		{
+			"name": "Excavator Spider",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Spider Robot",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/133_Excavator Spider.png"
+			}
+		},
+		{
+			"name": "Stardust Explorer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Pilot",
+			"collector_number": "195",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/195_Stardust Explorer_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/195_Stardust Explorer_front.png"
+			}
+		},
+		{
+			"name": "Starscape Shift",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/71_Starscape Shift.png"
+			}
+		},
+		{
+			"name": "Repair Mech",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/67_Repair Mech.png"
+			}
+		},
+		{
+			"name": "Ventilate",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/118_Ventilate.png"
+			}
+		},
+		{
+			"name": "Automatic Reconstruction",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/4_Automatic Reconstruction.png"
+			}
+		},
+		{
+			"name": "Living Meteor",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/143_Living Meteor.png"
+			}
+		},
+		{
+			"name": "Pillbot",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/63_Pillbot.png"
+			}
+		},
+		{
+			"name": "Staunch Sentinel",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Robot Knight",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/34_Staunch Sentinel.png"
+			}
+		},
+		{
+			"name": "Chronicler's Directive",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/213_Chronicler's Directive.png"
+			}
+		},
+		{
+			"name": "Companion's Grave",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/175_Companion's Grave.png"
+			}
+		},
+		{
+			"name": "Quasar Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/235_Quasar Tyrant.png"
+			}
+		},
+		{
+			"name": "Unknown Beings Lurk",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/201_Unknown Beings Lurk.png"
+			}
+		},
+		{
+			"name": "Eir, Voidtwisted Valkyrie",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Angel Warlock",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/95_Eir, Voidtwisted Valkyrie.png"
+			}
+		},
+		{
+			"name": "Angel",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Angel",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/2_Angel.png"
+			}
+		},
+		{
+			"name": "Void Corona",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/1_Void Corona.png"
+			}
+		},
+		{
+			"name": "Aeon",
+			"rarity": "mythic",
+			"mana_cost": "{8}",
+			"type": "Legendary Planeswalker — Aeon",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/1_Aeon.png"
+			}
+		},
+		{
+			"name": "Into the Singularity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/23_Into the Singularity.png"
+			}
+		},
+		{
+			"name": "Viridar Corpsehulk",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Viridar Zombie Warlock",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/119_Viridar Corpsehulk.png"
+			}
+		},
+		{
+			"name": "Fall Forever",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/97_Fall Forever.png"
+			}
+		},
+		{
+			"name": "Zaender, Anomaly Analyst",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Planeswalker — Zaender",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/123_Zaender, Anomaly Analyst.png"
+			}
+		},
+		{
+			"name": "Spirit Elk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit Elk",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/8_Spirit Elk.png"
+			}
+		},
+		{
+			"name": "Last Audience",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}{R}",
+			"type": "Instany",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/225_Last Audience.png"
+			}
+		},
+		{
+			"name": "Tectonic Megapod",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Kraken",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/76_Tectonic Megapod.png"
+			}
+		},
+		{
+			"name": "Brandr's Wrecksifters",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/129_Brandr's Wrecksifters.png"
+			}
+		},
+		{
+			"name": "Lightning Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/142_Lightning Strike.png"
+			}
+		},
+		{
+			"name": "Voidbeast's Fury",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/121_Voidbeast's Fury.png"
+			}
+		},
+		{
+			"name": "Herald of Nothing",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Robot Scout",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/102_Herald of Nothing.png"
+			}
+		},
+		{
+			"name": "Quintessence Division",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/151_Quintessence Division.png"
+			}
+		},
+		{
+			"name": "Mysterious Chronicler",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Avatar",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/29_Mysterious Chronicler.png"
+			}
+		},
+		{
+			"name": "Eir Succumbs",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/132_Eir Succumbs.png"
+			}
+		},
+		{
+			"name": "Guiding Seraph",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/17_Guiding Seraph.png"
+			}
+		},
+		{
+			"name": "Sunshadow Drake",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Drake",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/36_Sunshadow Drake.png"
+			}
+		},
+		{
+			"name": "Varassi, Firstborn of Aeon",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/243_Varassi, Firstborn of Aeon.png"
+			}
+		},
+		{
+			"name": "Share the Hyperlanes",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/70_Share the Hyperlanes.png"
+			}
+		},
+		{
+			"name": "Starwhale Crossing",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/72_Starwhale Crossing.png"
+			}
+		},
+		{
+			"name": "Kjotvi, Chosen of Irne",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Berserker",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/185_Kjotvi, Chosen of Irne.png"
+			}
+		},
+		{
+			"name": "Berserker",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Berserker",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/6_Berserker.png"
+			}
+		},
+		{
+			"name": "Shieldmaidens of Vjala",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/154_Shieldmaidens of Vjala.png"
+			}
+		},
+		{
+			"name": "Hero of Dofrar",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Cyborg Berserker",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/137_Hero of Dofrar.png"
+			}
+		},
+		{
+			"name": "Wolf of Anjarja",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/165_Wolf of Anjarja.png"
+			}
+		},
+		{
+			"name": "Valkyrie of Shared Dawn",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel Berserker",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/41_Valkyrie of Shared Dawn.png"
+			}
+		},
+		{
+			"name": "Fizzle Ray",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Fish",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/180_Fizzle Ray.png"
+			}
+		},
+		{
+			"name": "Viridar Chaoseer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Viridar Warlock",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/162_Viridar Chaoseer.png"
+			}
+		},
+		{
+			"name": "Caelistic Thunderhoof",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Ox Beast",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/171_Caelistic Thunderhoof.png"
+			}
+		},
+		{
+			"name": "So Much Goo",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/238_So Much Goo.png"
+			}
+		},
+		{
+			"name": "Uncontrolled Descent",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/159_Uncontrolled Descent.png"
+			}
+		},
+		{
+			"name": "Prince Bronwyn, the Fair",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/233_Prince Bronwyn, the Fair.png"
+			}
+		},
+		{
+			"name": "Unsettling Traveler",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Vampire Cyborg",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/39_Unsettling Traveler.png"
+			}
+		},
+		{
+			"name": "Stitched Simulacrum",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/73_Stitched Simulacrum.png"
+			}
+		},
+		{
+			"name": "System Cage",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/38_System Cage.png"
+			}
+		},
+		{
+			"name": "Echoed Vanguard",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/9_Echoed Vanguard.png"
+			}
+		},
+		{
+			"name": "Varassi's Silencers",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/160_Varassi's Silencers.png"
+			}
+		},
+		{
+			"name": "Rocket-Powered Canine",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dog",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/32_Rocket-Powered Canine.png"
+			}
+		},
+		{
+			"name": "Intergalactic Security",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Pilot",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/22_Intergalactic Security.png"
+			}
+		},
+		{
+			"name": "Beyond Design",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/5_Beyond Design.png"
+			}
+		},
+		{
+			"name": "Viridar Voidmass",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Viridar Warrior",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/203_Viridar Voidmass.png"
+			}
+		},
+		{
+			"name": "Nova Blast",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/30_Nova Blast.png"
+			}
+		},
+		{
+			"name": "Machine Prophets",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R/W}{R/W}",
+			"type": "Artifact Creature — Robot Cleric",
+			"collector_number": "250",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/250_Machine Prophets_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/250_Machine Prophets_front.png"
+			}
+		},
+		{
+			"name": "Kinetic Gauntlets",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/266_Kinetic Gauntlets.png"
+			}
+		},
+		{
+			"name": "Scrapyard Repairer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Pilot",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/190_Scrapyard Repairer.png"
+			}
+		},
+		{
+			"name": "Abandoned Crewmate",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Pilot",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/84_Abandoned Crewmate.png"
+			}
+		},
+		{
+			"name": "Hired Protector",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/18_Hired Protector.png"
+			}
+		},
+		{
+			"name": "Modified Shieldmaiden",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Cyborg Berserker",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/28_Modified Shieldmaiden.png"
+			}
+		},
+		{
+			"name": "Toxic Cavernicole",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Leech",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/117_Toxic Cavernicole.png"
+			}
+		},
+		{
+			"name": "Command Reality",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/49_Command Reality.png"
+			}
+		},
+		{
+			"name": "Massive Mantid",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/187_Massive Mantid.png"
+			}
+		},
+		{
+			"name": "Hive Scytheclaw",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Insect",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/138_Hive Scytheclaw.png"
+			}
+		},
+		{
+			"name": "Colossal Railgun",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/256_Colossal Railgun.png"
+			}
+		},
+		{
+			"name": "Pulsar Prophet",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Artifact Creature — Angel Warlock",
+			"collector_number": "31",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/31_Pulsar Prophet_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/31_Pulsar Prophet_front.png"
+			}
+		},
+		{
+			"name": "Desaturate",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/93_Desaturate.png"
+			}
+		},
+		{
+			"name": "It Takes Two",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/24_It Takes Two.png"
+			}
+		},
+		{
+			"name": "Call the Infinite Bridge",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/172_Call the Infinite Bridge.png"
+			}
+		},
+		{
+			"name": "Leif, Hero of Kallatree",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Berserker",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/227_Leif, Hero of Kallatree.png"
+			}
+		},
+		{
+			"name": "Cybertouched Spirit",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Spirit Cyborg",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/7_Cybertouched Spirit.png"
+			}
+		},
+		{
+			"name": "Ecliptic Harbinger",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/10_Ecliptic Harbinger.png"
+			}
+		},
+		{
+			"name": "Sereium, Viridar Hegemon",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Viridar Avatar",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/115_Sereium, Viridar Hegemon.png"
+			}
+		},
+		{
+			"name": "Leviathan",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Leviathan",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/4_Leviathan.png"
+			}
+		},
+		{
+			"name": "Swimming in Moonlight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/75_Swimming in Moonlight.png"
+			}
+		},
+		{
+			"name": "Voidsent Stalker",
+			"rarity": "common",
+			"mana_cost": "{7}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/274_Voidsent Stalker.png"
+			}
+		},
+		{
+			"name": "IGF Supplyship",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/264_IGF Supplyship.png"
+			}
+		},
+		{
+			"name": "Depths of the Dark",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/50_Depths of the Dark.png"
+			}
+		},
+		{
+			"name": "Drop Through Reality",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/8_Drop Through Reality.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/282_Plains.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/284_Swamp.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/283_Island.png"
+			}
+		},
+		{
+			"name": "Nythr, Stargate Goliath",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Leviathan",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/230_Nythr, Stargate Goliath.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/286_Forest.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/285_Mountain.png"
+			}
+		},
+		{
+			"name": "Supernova",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/37_Supernova.png"
+			}
+		},
+		{
+			"name": "Faster than Light",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/135_Faster than Light.png"
+			}
+		},
+		{
+			"name": "Corporate Fumigator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/176_Corporate Fumigator.png"
+			}
+		},
+		{
+			"name": "Mageflame Unleashed",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/144_Mageflame Unleashed.png"
+			}
+		},
+		{
+			"name": "Decimator Legion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/92_Decimator Legion.png"
+			}
+		},
+		{
+			"name": "Starwhale Harvest",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/240_Starwhale Harvest.png"
+			}
+		},
+		{
+			"name": "Scrapyard Bargain",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/114_Scrapyard Bargain.png"
+			}
+		},
+		{
+			"name": "Driftweld Column",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/52_Driftweld Column.png"
+			}
+		},
+		{
+			"name": "Trajectory Analyzer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/271_Trajectory Analyzer.png"
+			}
+		},
+		{
+			"name": "Domesticated Voidbeast",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Lizard Horror",
+			"collector_number": "51",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/51_Domesticated Voidbeast_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/51_Domesticated Voidbeast_front.png"
+			}
+		},
+		{
+			"name": "Mangled Atrocity",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Creature — Dragon Horror",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/107_Mangled Atrocity.png"
+			}
+		},
+		{
+			"name": "Event Horizon",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/12_Event Horizon.png"
+			}
+		},
+		{
+			"name": "Through the Wormhole",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/198_Through the Wormhole.png"
+			}
+		},
+		{
+			"name": "Behemoth Tracker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Robot Scout",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/168_Behemoth Tracker.png"
+			}
+		},
+		{
+			"name": "Helgahraun Hero",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact Creature — Robot Berserker",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/221_Helgahraun Hero.png"
+			}
+		},
+		{
+			"name": "Noxela, the Gloom",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Viridar Warlock",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/146_Noxela, the Gloom.png"
+			}
+		},
+		{
+			"name": "Kjotvi's Companion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/59_Kjotvi's Companion.png"
+			}
+		},
+		{
+			"name": "Upgraded Marauder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/R}{B/R}",
+			"type": "Artifact Creature — Cyborg Pirate",
+			"collector_number": "255",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/255_Upgraded Marauder_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/255_Upgraded Marauder_front.png"
+			}
+		},
+		{
+			"name": "Interdictor Skiff",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/21_Interdictor Skiff.png"
+			}
+		},
+		{
+			"name": "The Infinity Bridge",
+			"rarity": "mythic",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/265_The Infinity Bridge.png"
+			}
+		},
+		{
+			"name": "Brand New Frontiers",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/169_Brand New Frontiers.png"
+			}
+		},
+		{
+			"name": "Captain Brandr",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Artifact Creature — Cyborg Pirate",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/209_Captain Brandr.png"
+			}
+		},
+		{
+			"name": "Nullforged Automaton",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/110_Nullforged Automaton.png"
+			}
+		},
+		{
+			"name": "Wreck Survivor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/42_Wreck Survivor.png"
+			}
+		},
+		{
+			"name": "Blazing Starstorm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U/R}{U/R}",
+			"type": "Sorcery",
+			"collector_number": "246",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/246_Blazing Starstorm_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/246_Blazing Starstorm_front.png"
+			}
+		},
+		{
+			"name": "The Dead of Space",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/216_The Dead of Space.png"
+			}
+		},
+		{
+			"name": "Hull Fuser",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/56_Hull Fuser.png"
+			}
+		},
+		{
+			"name": "All Hands On Deck",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/126_All Hands On Deck.png"
+			}
+		},
+		{
+			"name": "Cryosphere Trawler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/214_Cryosphere Trawler.png"
+			}
+		},
+		{
+			"name": "Dunebreaker Wurm",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R/G}{R/G}",
+			"type": "Creature — Wurm",
+			"collector_number": "247",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/247_Dunebreaker Wurm_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/247_Dunebreaker Wurm_front.png"
+			}
+		},
+		{
+			"name": "Three Thousand Years Later",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/77_Three Thousand Years Later.png"
+			}
+		},
+		{
+			"name": "Chronicler's Probe",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/47_Chronicler's Probe.png"
+			}
+		},
+		{
+			"name": "Valkyrja, the Final Voyage",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/273_Valkyrja, the Final Voyage.png"
+			}
+		},
+		{
+			"name": "Lightless, Star of Oblivion",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/267_Lightless, Star of Oblivion.png"
+			}
+		},
+		{
+			"name": "Man-Eating Mandrake",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Plant Horror",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/186_Man-Eating Mandrake.png"
+			}
+		},
+		{
+			"name": "Moonsea Terror",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Kraken",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/189_Moonsea Terror.png"
+			}
+		},
+		{
+			"name": "Might of the Machine",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/188_Might of the Machine.png"
+			}
+		},
+		{
+			"name": "Viridar Yearling",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Viridar Warrior",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/204_Viridar Yearling.png"
+			}
+		},
+		{
+			"name": "Floating Processors",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Jellyfish Robot",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/99_Floating Processors.png"
+			}
+		},
+		{
+			"name": "Android of Forgotten Creeds",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Robot Samurai",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/86_Android of Forgotten Creeds.png"
+			}
+		},
+		{
+			"name": "Eternal Mekkastruct",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Dragon",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/261_Eternal Mekkastruct.png"
+			}
+		},
+		{
+			"name": "Oblivion Monarch",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/111_Oblivion Monarch.png"
+			}
+		},
+		{
+			"name": "Scout the Landscape",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/153_Scout the Landscape.png"
+			}
+		},
+		{
+			"name": "Mutated Ragebeast",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/145_Mutated Ragebeast.png"
+			}
+		},
+		{
+			"name": "Viridar Battalion",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Viridar Warrior",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/161_Viridar Battalion.png"
+			}
+		},
+		{
+			"name": "Aridian Wanderer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/128_Aridian Wanderer.png"
+			}
+		},
+		{
+			"name": "Warp-Ring Terror",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Dragon",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/275_Warp-Ring Terror.png"
+			}
+		},
+		{
+			"name": "Terror of Skolha Peak",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Ape Octopus",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/158_Terror of Skolha Peak.png"
+			}
+		},
+		{
+			"name": "Rimescale Wurm",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Creature — Wurm",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/69_Rimescale Wurm.png"
+			}
+		},
+		{
+			"name": "Recorder of Auroras",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Artifact Creature — Robot Lizard",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/66_Recorder of Auroras.png"
+			}
+		},
+		{
+			"name": "Mystifying Denial",
+			"rarity": "common",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/61_Mystifying Denial.png"
+			}
+		},
+		{
+			"name": "Unknowable Bond",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/79_Unknowable Bond.png"
+			}
+		},
+		{
+			"name": "Esmund's Starpather",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/54_Esmund's Starpather.png"
+			}
+		},
+		{
+			"name": "Leave Home Behind",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/60_Leave Home Behind.png"
+			}
+		},
+		{
+			"name": "Inflated Siphonophore",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Jellyfish",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/57_Inflated Siphonophore.png"
+			}
+		},
+		{
+			"name": "Ad Astra",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/43_Ad Astra.png"
+			}
+		},
+		{
+			"name": "Spore Spew",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/239_Spore Spew.png"
+			}
+		},
+		{
+			"name": "Reality Splicer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/65_Reality Splicer.png"
+			}
+		},
+		{
+			"name": "Uploaded Intelligence",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/80_Uploaded Intelligence.png"
+			}
+		},
+		{
+			"name": "Luminary Weaver",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/26_Luminary Weaver.png"
+			}
+		},
+		{
+			"name": "Heavencraft Valkyrie",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Angel",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/262_Heavencraft Valkyrie.png"
+			}
+		},
+		{
+			"name": "Core Guardian",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/257_Core Guardian.png"
+			}
+		},
+		{
+			"name": "Worldspan Treader",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Leviathan",
+			"collector_number": "83",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/83_Worldspan Treader_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/83_Worldspan Treader_front.png"
+			}
+		},
+		{
+			"name": "Luscious Planetscape",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/279_Luscious Planetscape.png"
+			}
+		},
+		{
+			"name": "Edge of the Universe",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/277_Edge of the Universe.png"
+			}
+		},
+		{
+			"name": "Narve, Lord of the Wastes",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Human Berserker",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/229_Narve, Lord of the Wastes.png"
+			}
+		},
+		{
+			"name": "Asbjal, Startouched",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Legendary Creature — Viridar Warlock",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/206_Asbjal, Startouched.png"
+			}
+		},
+		{
+			"name": "Xrogg, Star's Shadow",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Creature — Kraken Horror",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/245_Xrogg, Star's Shadow.png"
+			}
+		},
+		{
+			"name": "Shiruun, Evolved One",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Viridar Avatar",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/236_Shiruun, Evolved One.png"
+			}
+		},
+		{
+			"name": "Monument of Waning Faith",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/269_Monument of Waning Faith.png"
+			}
+		},
+		{
+			"name": "In the Wake of Gods",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/20_In the Wake of Gods.png"
+			}
+		},
+		{
+			"name": "Creation Redoubled",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/6_Creation Redoubled.png"
+			}
+		},
+		{
+			"name": "Touch the Infinite",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/78_Touch the Infinite.png"
+			}
+		},
+		{
+			"name": "Asteroid Trawler",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/44_Asteroid Trawler.png"
+			}
+		},
+		{
+			"name": "Portal Conservator",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/64_Portal Conservator.png"
+			}
+		},
+		{
+			"name": "Kallacore Vanguard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elf Knight",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/58_Kallacore Vanguard.png"
+			}
+		},
+		{
+			"name": "Orrhion, Survey Medusae",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/232_Orrhion, Survey Medusae.png"
+			}
+		},
+		{
+			"name": "Icareum, Perfected Mind",
+			"rarity": "mythic",
+			"mana_cost": "{X}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/263_Icareum, Perfected Mind.png"
+			}
+		},
+		{
+			"name": "Wanderer of the Wastes",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/164_Wanderer of the Wastes.png"
+			}
+		},
+		{
+			"name": "Repel Aggression",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/68_Repel Aggression.png"
+			}
+		},
+		{
+			"name": "Rusted Moontrotter",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "33",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/33_Rusted Moontrotter_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/33_Rusted Moontrotter_front.png"
+			}
+		},
+		{
+			"name": "Hive Sporespreader",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/182_Hive Sporespreader.png"
+			}
+		},
+		{
+			"name": "Onemind, Eye of Discovery",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact Creature — Orb Robot",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/62_Onemind, Eye of Discovery.png"
+			}
+		},
+		{
+			"name": "Elin, Beyond the Horizon",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/11_Elin, Beyond the Horizon.png"
+			}
+		},
+		{
+			"name": "Demigod",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Demigod",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/3_Demigod.png"
+			}
+		},
+		{
+			"name": "The Fludemarmak",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Creature — Worm Horror",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/218_The Fludemarmak.png"
+			}
+		},
+		{
+			"name": "Caelira, Dawn Unbroken",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/208_Caelira, Dawn Unbroken.png"
+			}
+		},
+		{
+			"name": "Brigand's Tanker",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/130_Brigand's Tanker.png"
+			}
+		},
+		{
+			"name": "Chaos Wyrm",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "131",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/131_Chaos Wyrm_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/131_Chaos Wyrm_front.png"
+			}
+		},
+		{
+			"name": "Into the Unknown",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/139_Into the Unknown.png"
+			}
+		},
+		{
+			"name": "Starscape Journeyer",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/156_Starscape Journeyer.png"
+			}
+		},
+		{
+			"name": "Orbital Cannon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/149_Orbital Cannon.png"
+			}
+		},
+		{
+			"name": "Viridar Research Vessel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/202_Viridar Research Vessel.png"
+			}
+		},
+		{
+			"name": "Nullforged Executioner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/147_Nullforged Executioner.png"
+			}
+		},
+		{
+			"name": "Strange Avian",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Dinosaur Bird Unicorn",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/157_Strange Avian.png"
+			}
+		},
+		{
+			"name": "Darkspace Probe",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/91_Darkspace Probe.png"
+			}
+		},
+		{
+			"name": "Kallaheart Rescuer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/25_Kallaheart Rescuer.png"
+			}
+		},
+		{
+			"name": "Inverter Dreadnought",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/104_Inverter Dreadnought.png"
+			}
+		},
+		{
+			"name": "Reality Dissolution",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/152_Reality Dissolution.png"
+			}
+		},
+		{
+			"name": "Friede's Purifier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/14_Friede's Purifier.png"
+			}
+		},
+		{
+			"name": "Robot",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Robot",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/9_Robot.png"
+			}
+		},
+		{
+			"name": "Lauded Imperator",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Avatar Soldier",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/106_Lauded Imperator.png"
+			}
+		},
+		{
+			"name": "Freefall Diver",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Pilot",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/101_Freefall Diver.png"
+			}
+		},
+		{
+			"name": "Emergent Godling",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Demigod",
+			"collector_number": "96",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/96_Emergent Godling_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/96_Emergent Godling_front.png"
+			}
+		},
+		{
+			"name": "First Expedition Explorer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Pilot",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/179_First Expedition Explorer.png"
+			}
+		},
+		{
+			"name": "Steelframe Viridar",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Artifact Creature — Viridar Cyborg",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/35_Steelframe Viridar.png"
+			}
+		},
+		{
+			"name": "Upload Capsule",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/40_Upload Capsule.png"
+			}
+		},
+		{
+			"name": "Mesa Dunedancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/27_Mesa Dunedancer.png"
+			}
+		},
+		{
+			"name": "Gilded Corvette",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/15_Gilded Corvette.png"
+			}
+		},
+		{
+			"name": "IGF Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/19_IGF Enforcer.png"
+			}
+		},
+		{
+			"name": "Cloudsifter Float",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/173_Cloudsifter Float.png"
+			}
+		},
+		{
+			"name": "Skittering Geopede",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/192_Skittering Geopede.png"
+			}
+		},
+		{
+			"name": "Horde Scorpion",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/183_Horde Scorpion.png"
+			}
+		},
+		{
+			"name": "Spawner Leviathan",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Leviathan",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/193_Spawner Leviathan.png"
+			}
+		},
+		{
+			"name": "To Infinity",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/200_To Infinity.png"
+			}
+		},
+		{
+			"name": "Lanion, Lethal Hologram",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Artifact Creature — Illusion",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/224_Lanion, Lethal Hologram.png"
+			}
+		},
+		{
+			"name": "Trozel, Pyramid's Master",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{G}",
+			"type": "Legendary Creature — Horror",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/242_Trozel, Pyramid's Master.png"
+			}
+		},
+		{
+			"name": "Last Dusk",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/226_Last Dusk.png"
+			}
+		},
+		{
+			"name": "Augmented Assassin",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Artifact Creature — Cyborg Rogue",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/207_Augmented Assassin.png"
+			}
+		},
+		{
+			"name": "Seek the Last Light",
+			"rarity": "uncommon",
+			"mana_cost": "{U/B}{U/B}",
+			"type": "Instant",
+			"collector_number": "253",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/253_Seek the Last Light_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/253_Seek the Last Light_front.png"
+			}
+		},
+		{
+			"name": "Elevated by the Gods",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/217_Elevated by the Gods.png"
+			}
+		},
+		{
+			"name": "Rip in Half",
+			"rarity": "uncommon",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Instant",
+			"collector_number": "252",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/252_Rip in Half_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/252_Rip in Half_front.png"
+			}
+		},
+		{
+			"name": "Battle for Survival",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/167_Battle for Survival.png"
+			}
+		},
+		{
+			"name": "False God Interface",
+			"rarity": "uncommon",
+			"mana_cost": "{W/U}{W/U}",
+			"type": "Instant",
+			"collector_number": "248",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/248_False God Interface_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/248_False God Interface_front.png"
+			}
+		},
+		{
+			"name": "Signe, the First Maiden",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Creature — Human Berserker",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/237_Signe, the First Maiden.png"
+			}
+		},
+		{
+			"name": "Inexorable Advance",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/222_Inexorable Advance.png"
+			}
+		},
+		{
+			"name": "Mirrorscreen Vampire",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/228_Mirrorscreen Vampire.png"
+			}
+		},
+		{
+			"name": "Freydis, the Astrobiologist",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/219_Freydis, the Astrobiologist.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Drakkonic Mekkastruct
+	2 Null Knight
+	2 Terraformer Archengine
+	1 Esmund, Shard of Nebula
+	2 Cosmic Heart
+	1 Oda, Shard of Abyss
+	1 Friede, Shard of Light
+	1 Vjala, Shard of Creation
+	1 Inga, Shard of Genesis
+	2 Chronicler of Irregularities
+	2 Garden of Evolution
+	2 Kallatree, Whorl of Life
+	1 Captain Elai
+	1 Amede, Vessel of Alune
+	2 Sojourner's Gateway
+	2 Sun-Eater Nautiloid
+	2 Origin's Vestige
+	2 Titan of Helgahraun
+	1 Sundeath Maw
+	2 Heaven's Exhalation
+	2 Brightheart Serpent
+	2 Fraying Cluster
+	2 Devour All Light
+	2 Colony Migration
+	2 Prophecied Alignment
+	2 Kion, Chosen Chronicler
+	2 Parasite Incubation
+	1 Starhunter Drakkon
+	2 Xenobotanist
+	2 Meteor Harvester
+	2 Myrkdrasil, Cradle of Nihility
+	2 Approach of the Black Sun
+	2 Drakkonfell, First Starkarve
+	2 Adrift in a Twilit Sea
+	2 Hive Forerunner
+	2 Ancestral Mageflame
+	1 Sudden Decompression
+	2 Woolly Abomination
+	2 Mechanized Propagator
+	2 Voidsent Ghoul
+	2 Protostar Tender
+	2 Living Meteor
+	2 Chronicler's Directive
+	2 Quasar Tyrant
+	2 Eir, Voidtwisted Valkyrie
+	1 Aeon
+	2 Fall Forever
+	1 Zaender, Anomaly Analyst
+	2 Quintessence Division
+	1 Varassi, Firstborn of Aeon
+	2 Share the Hyperlanes
+	1 Starwhale Crossing
+	2 Kjotvi, Chosen of Irne
+	2 Wolf of Anjarja
+	1 Valkyrie of Shared Dawn
+	2 Prince Bronwyn, the Fair
+	2 Echoed Vanguard
+	2 Hive Scytheclaw
+	2 Call the Infinite Bridge
+	1 Leif, Hero of Kallatree
+	1 Sereium, Viridar Hegemon
+	2 Depths of the Dark
+	2 Nythr, Stargate Goliath
+	2 Supernova
+	1 Faster than Light
+	2 Starwhale Harvest
+	2 Domesticated Voidbeast
+	2 Mangled Atrocity
+	2 Event Horizon
+	2 Noxela, the Gloom
+	2 Interdictor Skiff
+	1 The Infinity Bridge
+	2 Captain Brandr
+	2 Three Thousand Years Later
+	2 Chronicler's Probe
+	1 Valkyrja, the Final Voyage
+	1 Lightless, Star of Oblivion
+	2 Narve, Lord of the Wastes
+	2 Asbjal, Startouched
+	2 Xrogg, Star's Shadow
+	2 Shiruun, Evolved One
+	2 Creation Redoubled
+	2 Orrhion, Survey Medusae
+	1 Icareum, Perfected Mind
+	2 Rusted Moontrotter
+	2 Hive Sporespreader
+	2 Onemind, Eye of Discovery
+	2 Elin, Beyond the Horizon
+	2 The Fludemarmak
+	2 Caelira, Dawn Unbroken
+	2 Brigand's Tanker
+	2 Kallaheart Rescuer
+	2 Reality Dissolution
+	2 Lanion, Lethal Hologram
+	2 Trozel, Pyramid's Master
+	2 Last Dusk
+	2 Elevated by the Gods
+	2 Signe, the First Maiden
+	2 Inexorable Advance
+	2 Mirrorscreen Vampire
+	2 Freydis, the Astrobiologist
+[uncommon(3)]
+	4 Kjaldiran Battlewolves
+	4 Stalwart Spear
+	4 Kjaldiran Talehunter
+	4 Starkarve Deployment
+	4 Collapsed Ring
+	4 Chart the Starpaths
+	4 Unstoppable Remnant
+	4 Covet Infinity
+	4 Migrating Cetacean
+	4 Currents of the Hyperlanes
+	4 Atmosphere Trawlers
+	4 Falling Star's Wake
+	4 Shambling Terrarium
+	4 Waning Child of Aeon
+	4 Chaotic Godling
+	4 Hungering Abyss
+	4 Charge into the Void
+	4 The Colossus Approaches
+	4 Excavator Spider
+	4 Stardust Explorer
+	4 Automatic Reconstruction
+	4 Unknown Beings Lurk
+	4 Into the Singularity
+	4 Viridar Corpsehulk
+	4 Last Audience
+	4 Eir Succumbs
+	4 Shieldmaidens of Vjala
+	4 Hero of Dofrar
+	4 Caelistic Thunderhoof
+	4 So Much Goo
+	4 Rocket-Powered Canine
+	4 Machine Prophets
+	4 Kinetic Gauntlets
+	4 Command Reality
+	4 Colossal Railgun
+	4 Pulsar Prophet
+	4 Desaturate
+	4 Swimming in Moonlight
+	4 Drop Through Reality
+	4 Corporate Fumigator
+	4 Decimator Legion
+	4 Scrapyard Bargain
+	4 Driftweld Column
+	4 Trajectory Analyzer
+	4 Behemoth Tracker
+	4 Helgahraun Hero
+	4 Kjotvi's Companion
+	4 Upgraded Marauder
+	4 Nullforged Automaton
+	4 Wreck Survivor
+	4 Blazing Starstorm
+	4 The Dead of Space
+	4 Hull Fuser
+	4 All Hands On Deck
+	4 Cryosphere Trawler
+	4 Dunebreaker Wurm
+	4 Eternal Mekkastruct
+	4 Rimescale Wurm
+	4 Spore Spew
+	4 Luminary Weaver
+	4 Worldspan Treader
+	4 Luscious Planetscape
+	4 Monument of Waning Faith
+	4 In the Wake of Gods
+	4 Touch the Infinite
+	4 Asteroid Trawler
+	4 Portal Conservator
+	4 Kallacore Vanguard
+	4 Wanderer of the Wastes
+	4 Repel Aggression
+	4 Chaos Wyrm
+	4 Into the Unknown
+	4 Starscape Journeyer
+	4 Orbital Cannon
+	4 Viridar Research Vessel
+	4 Nullforged Executioner
+	4 Strange Avian
+	4 Darkspace Probe
+	4 Inverter Dreadnought
+	4 Friede's Purifier
+	4 Lauded Imperator
+	4 Freefall Diver
+	4 Emergent Godling
+	4 First Expedition Explorer
+	4 Steelframe Viridar
+	4 Upload Capsule
+	4 Mesa Dunedancer
+	4 Gilded Corvette
+	4 IGF Enforcer
+	4 Cloudsifter Float
+	4 Skittering Geopede
+	4 Horde Scorpion
+	4 Spawner Leviathan
+	4 To Infinity
+	4 Augmented Assassin
+	4 Seek the Last Light
+	4 Rip in Half
+	4 False God Interface
+[common(7)]
+	8 Kjaldiran Berserker
+	8 Go Forth and Slaughter
+	8 Aeon's Forerunner
+	8 Valiant Titanhunter
+	8 Kjaldiran Lookout
+	8 Ancient Communion
+	8 Void Potentate
+	8 Objects In Motion
+	8 Chronicler of Regrets
+	8 Feed on the Cosmos
+	8 Go Dark
+	8 Doomed Pilot
+	8 Curious Horticulturist
+	8 Shield Surfer
+	8 Zero Gravity Maneuver
+	8 Drifting Among Regrets
+	8 Prophetic Prism
+	8 Starscape Shift
+	8 Repair Mech
+	8 Ventilate
+	8 Pillbot
+	8 Staunch Sentinel
+	8 Companion's Grave
+	8 Tectonic Megapod
+	8 Brandr's Wrecksifters
+	8 Lightning Strike
+	8 Voidbeast's Fury
+	8 Herald of Nothing
+	8 Mysterious Chronicler
+	8 Guiding Seraph
+	8 Sunshadow Drake
+	8 Fizzle Ray
+	8 Viridar Chaoseer
+	8 Uncontrolled Descent
+	8 Unsettling Traveler
+	8 Stitched Simulacrum
+	8 System Cage
+	8 Varassi's Silencers
+	8 Intergalactic Security
+	8 Beyond Design
+	8 Viridar Voidmass
+	8 Nova Blast
+	8 Scrapyard Repairer
+	8 Abandoned Crewmate
+	8 Hired Protector
+	8 Modified Shieldmaiden
+	8 Toxic Cavernicole
+	8 Massive Mantid
+	8 It Takes Two
+	8 Cybertouched Spirit
+	8 Ecliptic Harbinger
+	8 Voidsent Stalker
+	8 IGF Supplyship
+	8 Mageflame Unleashed
+	8 Through the Wormhole
+	8 Brand New Frontiers
+	8 Man-Eating Mandrake
+	8 Moonsea Terror
+	8 Might of the Machine
+	8 Viridar Yearling
+	8 Floating Processors
+	8 Android of Forgotten Creeds
+	8 Oblivion Monarch
+	8 Scout the Landscape
+	8 Mutated Ragebeast
+	8 Viridar Battalion
+	8 Aridian Wanderer
+	8 Warp-Ring Terror
+	8 Terror of Skolha Peak
+	8 Recorder of Auroras
+	8 Mystifying Denial
+	8 Unknowable Bond
+	8 Esmund's Starpather
+	8 Leave Home Behind
+	8 Inflated Siphonophore
+	8 Ad Astra
+	8 Reality Splicer
+	8 Uploaded Intelligence
+	8 Heavencraft Valkyrie
+	8 Core Guardian
+	8 Edge of the Universe
+	8 Battle for Survival
+[foil(1)]
+	2 Drakkonic Mekkastruct
+	6 Kjaldiran Battlewolves
+	2 Null Knight
+	6 Stalwart Spear
+	6 Kjaldiran Talehunter
+	12 Kjaldiran Berserker
+	12 Go Forth and Slaughter
+	6 Starkarve Deployment
+	6 Collapsed Ring
+	2 Terraformer Archengine
+	12 Aeon's Forerunner
+	6 Chart the Starpaths
+	12 Valiant Titanhunter
+	12 Kjaldiran Lookout
+	12 Ancient Communion
+	6 Unstoppable Remnant
+	1 Esmund, Shard of Nebula
+	12 Void Potentate
+	2 Cosmic Heart
+	1 Oda, Shard of Abyss
+	1 Friede, Shard of Light
+	1 Vjala, Shard of Creation
+	12 Objects In Motion
+	1 Inga, Shard of Genesis
+	2 Chronicler of Irregularities
+	2 Garden of Evolution
+	12 Chronicler of Regrets
+	2 Kallatree, Whorl of Life
+	1 Captain Elai
+	6 Covet Infinity
+	1 Amede, Vessel of Alune
+	2 Sojourner's Gateway
+	2 Sun-Eater Nautiloid
+	6 Migrating Cetacean
+	2 Origin's Vestige
+	2 Titan of Helgahraun
+	1 Sundeath Maw
+	6 Currents of the Hyperlanes
+	6 Atmosphere Trawlers
+	2 Heaven's Exhalation
+	12 Feed on the Cosmos
+	6 Falling Star's Wake
+	6 Shambling Terrarium
+	2 Brightheart Serpent
+	12 Go Dark
+	2 Fraying Cluster
+	6 Waning Child of Aeon
+	2 Devour All Light
+	2 Colony Migration
+	2 Prophecied Alignment
+	12 Doomed Pilot
+	2 Kion, Chosen Chronicler
+	2 Parasite Incubation
+	6 Chaotic Godling
+	1 Starhunter Drakkon
+	6 Hungering Abyss
+	2 Xenobotanist
+	2 Meteor Harvester
+	2 Myrkdrasil, Cradle of Nihility
+	2 Approach of the Black Sun
+	2 Drakkonfell, First Starkarve
+	12 Curious Horticulturist
+	6 Charge into the Void
+	2 Adrift in a Twilit Sea
+	2 Hive Forerunner
+	12 Shield Surfer
+	6 The Colossus Approaches
+	2 Ancestral Mageflame
+	1 Sudden Decompression
+	2 Woolly Abomination
+	2 Mechanized Propagator
+	12 Zero Gravity Maneuver
+	2 Voidsent Ghoul
+	12 Drifting Among Regrets
+	2 Protostar Tender
+	12 Prophetic Prism
+	6 Excavator Spider
+	6 Stardust Explorer
+	12 Starscape Shift
+	12 Repair Mech
+	12 Ventilate
+	6 Automatic Reconstruction
+	2 Living Meteor
+	12 Pillbot
+	12 Staunch Sentinel
+	2 Chronicler's Directive
+	12 Companion's Grave
+	2 Quasar Tyrant
+	6 Unknown Beings Lurk
+	2 Eir, Voidtwisted Valkyrie
+	1 Aeon
+	6 Into the Singularity
+	6 Viridar Corpsehulk
+	2 Fall Forever
+	1 Zaender, Anomaly Analyst
+	6 Last Audience
+	12 Tectonic Megapod
+	12 Brandr's Wrecksifters
+	12 Lightning Strike
+	12 Voidbeast's Fury
+	12 Herald of Nothing
+	2 Quintessence Division
+	12 Mysterious Chronicler
+	6 Eir Succumbs
+	12 Guiding Seraph
+	12 Sunshadow Drake
+	1 Varassi, Firstborn of Aeon
+	2 Share the Hyperlanes
+	1 Starwhale Crossing
+	2 Kjotvi, Chosen of Irne
+	6 Shieldmaidens of Vjala
+	6 Hero of Dofrar
+	2 Wolf of Anjarja
+	1 Valkyrie of Shared Dawn
+	12 Fizzle Ray
+	12 Viridar Chaoseer
+	6 Caelistic Thunderhoof
+	6 So Much Goo
+	12 Uncontrolled Descent
+	2 Prince Bronwyn, the Fair
+	12 Unsettling Traveler
+	12 Stitched Simulacrum
+	12 System Cage
+	2 Echoed Vanguard
+	12 Varassi's Silencers
+	6 Rocket-Powered Canine
+	12 Intergalactic Security
+	12 Beyond Design
+	12 Viridar Voidmass
+	12 Nova Blast
+	6 Machine Prophets
+	6 Kinetic Gauntlets
+	12 Scrapyard Repairer
+	12 Abandoned Crewmate
+	12 Hired Protector
+	12 Modified Shieldmaiden
+	12 Toxic Cavernicole
+	6 Command Reality
+	12 Massive Mantid
+	2 Hive Scytheclaw
+	6 Colossal Railgun
+	6 Pulsar Prophet
+	6 Desaturate
+	12 It Takes Two
+	2 Call the Infinite Bridge
+	1 Leif, Hero of Kallatree
+	12 Cybertouched Spirit
+	12 Ecliptic Harbinger
+	1 Sereium, Viridar Hegemon
+	6 Swimming in Moonlight
+	12 Voidsent Stalker
+	12 IGF Supplyship
+	2 Depths of the Dark
+	6 Drop Through Reality
+	2 Nythr, Stargate Goliath
+	2 Supernova
+	1 Faster than Light
+	6 Corporate Fumigator
+	12 Mageflame Unleashed
+	6 Decimator Legion
+	2 Starwhale Harvest
+	6 Scrapyard Bargain
+	6 Driftweld Column
+	6 Trajectory Analyzer
+	2 Domesticated Voidbeast
+	2 Mangled Atrocity
+	2 Event Horizon
+	12 Through the Wormhole
+	6 Behemoth Tracker
+	6 Helgahraun Hero
+	2 Noxela, the Gloom
+	6 Kjotvi's Companion
+	6 Upgraded Marauder
+	2 Interdictor Skiff
+	1 The Infinity Bridge
+	12 Brand New Frontiers
+	2 Captain Brandr
+	6 Nullforged Automaton
+	6 Wreck Survivor
+	6 Blazing Starstorm
+	6 The Dead of Space
+	6 Hull Fuser
+	6 All Hands On Deck
+	6 Cryosphere Trawler
+	6 Dunebreaker Wurm
+	2 Three Thousand Years Later
+	2 Chronicler's Probe
+	1 Valkyrja, the Final Voyage
+	1 Lightless, Star of Oblivion
+	12 Man-Eating Mandrake
+	12 Moonsea Terror
+	12 Might of the Machine
+	12 Viridar Yearling
+	12 Floating Processors
+	12 Android of Forgotten Creeds
+	6 Eternal Mekkastruct
+	12 Oblivion Monarch
+	12 Scout the Landscape
+	12 Mutated Ragebeast
+	12 Viridar Battalion
+	12 Aridian Wanderer
+	12 Warp-Ring Terror
+	12 Terror of Skolha Peak
+	6 Rimescale Wurm
+	12 Recorder of Auroras
+	12 Mystifying Denial
+	12 Unknowable Bond
+	12 Esmund's Starpather
+	12 Leave Home Behind
+	12 Inflated Siphonophore
+	12 Ad Astra
+	6 Spore Spew
+	12 Reality Splicer
+	12 Uploaded Intelligence
+	6 Luminary Weaver
+	12 Heavencraft Valkyrie
+	12 Core Guardian
+	6 Worldspan Treader
+	6 Luscious Planetscape
+	12 Edge of the Universe
+	2 Narve, Lord of the Wastes
+	2 Asbjal, Startouched
+	2 Xrogg, Star's Shadow
+	2 Shiruun, Evolved One
+	6 Monument of Waning Faith
+	6 In the Wake of Gods
+	2 Creation Redoubled
+	6 Touch the Infinite
+	6 Asteroid Trawler
+	6 Portal Conservator
+	6 Kallacore Vanguard
+	2 Orrhion, Survey Medusae
+	1 Icareum, Perfected Mind
+	6 Wanderer of the Wastes
+	6 Repel Aggression
+	2 Rusted Moontrotter
+	2 Hive Sporespreader
+	2 Onemind, Eye of Discovery
+	2 Elin, Beyond the Horizon
+	2 The Fludemarmak
+	2 Caelira, Dawn Unbroken
+	2 Brigand's Tanker
+	6 Chaos Wyrm
+	6 Into the Unknown
+	6 Starscape Journeyer
+	6 Orbital Cannon
+	6 Viridar Research Vessel
+	6 Nullforged Executioner
+	6 Strange Avian
+	6 Darkspace Probe
+	2 Kallaheart Rescuer
+	6 Inverter Dreadnought
+	2 Reality Dissolution
+	6 Friede's Purifier
+	6 Lauded Imperator
+	6 Freefall Diver
+	6 Emergent Godling
+	6 First Expedition Explorer
+	6 Steelframe Viridar
+	6 Upload Capsule
+	6 Mesa Dunedancer
+	6 Gilded Corvette
+	6 IGF Enforcer
+	6 Cloudsifter Float
+	6 Skittering Geopede
+	6 Horde Scorpion
+	6 Spawner Leviathan
+	6 To Infinity
+	2 Lanion, Lethal Hologram
+	2 Trozel, Pyramid's Master
+	2 Last Dusk
+	6 Augmented Assassin
+	6 Seek the Last Light
+	2 Elevated by the Gods
+	6 Rip in Half
+	12 Battle for Survival
+	6 False God Interface
+	2 Signe, the First Maiden
+	2 Inexorable Advance
+	2 Mirrorscreen Vampire
+	2 Freydis, the Astrobiologist
+[wildcard(1)]
+	7 Drakkonic Mekkastruct
+	15 Kjaldiran Battlewolves
+	7 Null Knight
+	15 Stalwart Spear
+	15 Kjaldiran Talehunter
+	6 Kjaldiran Berserker
+	6 Go Forth and Slaughter
+	15 Starkarve Deployment
+	15 Collapsed Ring
+	7 Terraformer Archengine
+	6 Aeon's Forerunner
+	15 Chart the Starpaths
+	6 Valiant Titanhunter
+	6 Kjaldiran Lookout
+	6 Ancient Communion
+	15 Unstoppable Remnant
+	4 Esmund, Shard of Nebula
+	6 Void Potentate
+	7 Cosmic Heart
+	4 Oda, Shard of Abyss
+	4 Friede, Shard of Light
+	4 Vjala, Shard of Creation
+	6 Objects In Motion
+	4 Inga, Shard of Genesis
+	7 Chronicler of Irregularities
+	7 Garden of Evolution
+	6 Chronicler of Regrets
+	7 Kallatree, Whorl of Life
+	4 Captain Elai
+	15 Covet Infinity
+	4 Amede, Vessel of Alune
+	7 Sojourner's Gateway
+	7 Sun-Eater Nautiloid
+	15 Migrating Cetacean
+	7 Origin's Vestige
+	7 Titan of Helgahraun
+	4 Sundeath Maw
+	15 Currents of the Hyperlanes
+	15 Atmosphere Trawlers
+	7 Heaven's Exhalation
+	6 Feed on the Cosmos
+	15 Falling Star's Wake
+	15 Shambling Terrarium
+	7 Brightheart Serpent
+	6 Go Dark
+	7 Fraying Cluster
+	15 Waning Child of Aeon
+	7 Devour All Light
+	7 Colony Migration
+	7 Prophecied Alignment
+	6 Doomed Pilot
+	7 Kion, Chosen Chronicler
+	7 Parasite Incubation
+	15 Chaotic Godling
+	4 Starhunter Drakkon
+	15 Hungering Abyss
+	7 Xenobotanist
+	7 Meteor Harvester
+	7 Myrkdrasil, Cradle of Nihility
+	7 Approach of the Black Sun
+	7 Drakkonfell, First Starkarve
+	6 Curious Horticulturist
+	15 Charge into the Void
+	7 Adrift in a Twilit Sea
+	7 Hive Forerunner
+	6 Shield Surfer
+	15 The Colossus Approaches
+	7 Ancestral Mageflame
+	4 Sudden Decompression
+	7 Woolly Abomination
+	7 Mechanized Propagator
+	6 Zero Gravity Maneuver
+	7 Voidsent Ghoul
+	6 Drifting Among Regrets
+	7 Protostar Tender
+	6 Prophetic Prism
+	15 Excavator Spider
+	15 Stardust Explorer
+	6 Starscape Shift
+	6 Repair Mech
+	6 Ventilate
+	15 Automatic Reconstruction
+	7 Living Meteor
+	6 Pillbot
+	6 Staunch Sentinel
+	7 Chronicler's Directive
+	6 Companion's Grave
+	7 Quasar Tyrant
+	15 Unknown Beings Lurk
+	7 Eir, Voidtwisted Valkyrie
+	4 Aeon
+	15 Into the Singularity
+	15 Viridar Corpsehulk
+	7 Fall Forever
+	4 Zaender, Anomaly Analyst
+	15 Last Audience
+	6 Tectonic Megapod
+	6 Brandr's Wrecksifters
+	6 Lightning Strike
+	6 Voidbeast's Fury
+	6 Herald of Nothing
+	7 Quintessence Division
+	6 Mysterious Chronicler
+	15 Eir Succumbs
+	6 Guiding Seraph
+	6 Sunshadow Drake
+	4 Varassi, Firstborn of Aeon
+	7 Share the Hyperlanes
+	4 Starwhale Crossing
+	7 Kjotvi, Chosen of Irne
+	15 Shieldmaidens of Vjala
+	15 Hero of Dofrar
+	7 Wolf of Anjarja
+	4 Valkyrie of Shared Dawn
+	6 Fizzle Ray
+	6 Viridar Chaoseer
+	15 Caelistic Thunderhoof
+	15 So Much Goo
+	6 Uncontrolled Descent
+	7 Prince Bronwyn, the Fair
+	6 Unsettling Traveler
+	6 Stitched Simulacrum
+	6 System Cage
+	7 Echoed Vanguard
+	6 Varassi's Silencers
+	15 Rocket-Powered Canine
+	6 Intergalactic Security
+	6 Beyond Design
+	6 Viridar Voidmass
+	6 Nova Blast
+	15 Machine Prophets
+	15 Kinetic Gauntlets
+	6 Scrapyard Repairer
+	6 Abandoned Crewmate
+	6 Hired Protector
+	6 Modified Shieldmaiden
+	6 Toxic Cavernicole
+	15 Command Reality
+	6 Massive Mantid
+	7 Hive Scytheclaw
+	15 Colossal Railgun
+	15 Pulsar Prophet
+	15 Desaturate
+	6 It Takes Two
+	7 Call the Infinite Bridge
+	4 Leif, Hero of Kallatree
+	6 Cybertouched Spirit
+	6 Ecliptic Harbinger
+	4 Sereium, Viridar Hegemon
+	15 Swimming in Moonlight
+	6 Voidsent Stalker
+	6 IGF Supplyship
+	7 Depths of the Dark
+	15 Drop Through Reality
+	7 Nythr, Stargate Goliath
+	7 Supernova
+	4 Faster than Light
+	15 Corporate Fumigator
+	6 Mageflame Unleashed
+	15 Decimator Legion
+	7 Starwhale Harvest
+	15 Scrapyard Bargain
+	15 Driftweld Column
+	15 Trajectory Analyzer
+	7 Domesticated Voidbeast
+	7 Mangled Atrocity
+	7 Event Horizon
+	6 Through the Wormhole
+	15 Behemoth Tracker
+	15 Helgahraun Hero
+	7 Noxela, the Gloom
+	15 Kjotvi's Companion
+	15 Upgraded Marauder
+	7 Interdictor Skiff
+	4 The Infinity Bridge
+	6 Brand New Frontiers
+	7 Captain Brandr
+	15 Nullforged Automaton
+	15 Wreck Survivor
+	15 Blazing Starstorm
+	15 The Dead of Space
+	15 Hull Fuser
+	15 All Hands On Deck
+	15 Cryosphere Trawler
+	15 Dunebreaker Wurm
+	7 Three Thousand Years Later
+	7 Chronicler's Probe
+	4 Valkyrja, the Final Voyage
+	4 Lightless, Star of Oblivion
+	6 Man-Eating Mandrake
+	6 Moonsea Terror
+	6 Might of the Machine
+	6 Viridar Yearling
+	6 Floating Processors
+	6 Android of Forgotten Creeds
+	15 Eternal Mekkastruct
+	6 Oblivion Monarch
+	6 Scout the Landscape
+	6 Mutated Ragebeast
+	6 Viridar Battalion
+	6 Aridian Wanderer
+	6 Warp-Ring Terror
+	6 Terror of Skolha Peak
+	15 Rimescale Wurm
+	6 Recorder of Auroras
+	6 Mystifying Denial
+	6 Unknowable Bond
+	6 Esmund's Starpather
+	6 Leave Home Behind
+	6 Inflated Siphonophore
+	6 Ad Astra
+	15 Spore Spew
+	6 Reality Splicer
+	6 Uploaded Intelligence
+	15 Luminary Weaver
+	6 Heavencraft Valkyrie
+	6 Core Guardian
+	15 Worldspan Treader
+	15 Luscious Planetscape
+	6 Edge of the Universe
+	7 Narve, Lord of the Wastes
+	7 Asbjal, Startouched
+	7 Xrogg, Star's Shadow
+	7 Shiruun, Evolved One
+	15 Monument of Waning Faith
+	15 In the Wake of Gods
+	7 Creation Redoubled
+	15 Touch the Infinite
+	15 Asteroid Trawler
+	15 Portal Conservator
+	15 Kallacore Vanguard
+	7 Orrhion, Survey Medusae
+	4 Icareum, Perfected Mind
+	15 Wanderer of the Wastes
+	15 Repel Aggression
+	7 Rusted Moontrotter
+	7 Hive Sporespreader
+	7 Onemind, Eye of Discovery
+	7 Elin, Beyond the Horizon
+	7 The Fludemarmak
+	7 Caelira, Dawn Unbroken
+	7 Brigand's Tanker
+	15 Chaos Wyrm
+	15 Into the Unknown
+	15 Starscape Journeyer
+	15 Orbital Cannon
+	15 Viridar Research Vessel
+	15 Nullforged Executioner
+	15 Strange Avian
+	15 Darkspace Probe
+	7 Kallaheart Rescuer
+	15 Inverter Dreadnought
+	7 Reality Dissolution
+	15 Friede's Purifier
+	15 Lauded Imperator
+	15 Freefall Diver
+	15 Emergent Godling
+	15 First Expedition Explorer
+	15 Steelframe Viridar
+	15 Upload Capsule
+	15 Mesa Dunedancer
+	15 Gilded Corvette
+	15 IGF Enforcer
+	15 Cloudsifter Float
+	15 Skittering Geopede
+	15 Horde Scorpion
+	15 Spawner Leviathan
+	15 To Infinity
+	7 Lanion, Lethal Hologram
+	7 Trozel, Pyramid's Master
+	7 Last Dusk
+	15 Augmented Assassin
+	15 Seek the Last Light
+	7 Elevated by the Gods
+	15 Rip in Half
+	6 Battle for Survival
+	15 False God Interface
+	7 Signe, the First Maiden
+	7 Inexorable Advance
+	7 Mirrorscreen Vampire
+	7 Freydis, the Astrobiologist

@@ -1,6 +1,11 @@
 {
 	"gradients":[
 	{
+		"name":"Roseanna",
+		"color1":"#ffafbd",
+		"color2":"#ffc3a0"
+	},
+	{
 		"name":"Purple White",
 		"color1":"#ba5370",
 		"color2":"#f4e2d8"
@@ -14,11 +19,6 @@
 		"name":"Sexy Blue",
 		"color1":"#2193b0",
 		"color2":"#6dd5ed"
-	},
-	{
-		"name":"Roseanna",
-		"color1":"#ffafbd",
-		"color2":"#ffc3a0"
 	},
 	{
 		"name":"Purple Love",

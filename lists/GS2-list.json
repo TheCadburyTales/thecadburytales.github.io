@@ -1,0 +1,47 @@
+﻿[
+    {
+        "card_name": "Treasure",
+        "number": 7,
+        "shape": "token",
+        "set": "GS2"
+    },
+    {
+        "card_name": "Soldier",
+        "number": 3,
+        "shape": "token",
+        "set": "GS2"
+    },
+    {
+        "card_name": "Rat",
+        "number": 4,
+        "shape": "token",
+        "set": "GS2"
+    },
+    {
+        "card_name": "Warrior",
+        "number": 5,
+        "shape": "token",
+        "set": "GS2"
+    },
+    {
+        "card_name": "Wurm",
+        "number": 6,
+        "shape": "token",
+        "set": "GS2"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

@@ -1,29 +1,24 @@
 ﻿{
     "sets": [
         {
-            "set_code": "ACE",
-            "set_name": "Aldmore Cube",
-            "formats": "aldmore"
-        },
-        {
-            "set_code": "AEX",
-            "set_name": "Aldmore Explorations",
-            "formats": "standard"
-        },
-        {
-            "set_code": "AOD",
-            "set_name": "Ascent of Deities",
-            "formats": "legacy"
-        },
-        {
             "set_code": "ATR",
             "set_name": "The Shattered Pantheon of Atros",
             "formats": "standard"
         },
         {
-            "set_code": "GHQ",
-            "set_name": "Glacia: Hail to the Queen",
+            "set_code": "CNF",
+            "set_name": "Confluence",
+            "formats": ""
+        },
+        {
+            "set_code": "GQC",
+            "set_name": "Ghariv, the Quaking City",
             "formats": "modern"
+        },
+        {
+            "set_code": "GS2",
+            "set_name": "Global Series 2",
+            "formats": ""
         },
         {
             "set_code": "GSM",
@@ -41,9 +36,29 @@
             "formats": "standard"
         },
         {
+            "set_code": "KDT",
+            "set_name": "Kitsuo: Dusk of Time",
+            "formats": ""
+        },
+        {
+            "set_code": "KLA",
+            "set_name": "Kallatree Ascension",
+            "formats": ""
+        },
+        {
             "set_code": "KND",
             "set_name": "Kahembo: New Dawn",
             "formats": "standard"
+        },
+        {
+            "set_code": "KRK",
+            "set_name": "Seas of Krakonos",
+            "formats": ""
+        },
+        {
+            "set_code": "MOX",
+            "set_name": "Midnight Omens of Xogoa",
+            "formats": ""
         },
         {
             "set_code": "NJB",
@@ -54,6 +69,31 @@
             "set_code": "SHF",
             "set_name": "The Starholme Frontier",
             "formats": "standard"
+        },
+        {
+            "set_code": "SOL",
+            "set_name": "The Solitudines",
+            "formats": ""
+        },
+        {
+            "set_code": "STW",
+            "set_name": "Star Wars Microset",
+            "formats": ""
+        },
+        {
+            "set_code": "VYI",
+            "set_name": "Kallatree: Voyage to Infinity",
+            "formats": ""
+        },
+        {
+            "set_code": "WAS",
+            "set_name": "Weir Astele",
+            "formats": "modern"
+        },
+        {
+            "set_code": "X24",
+            "set_name": "Moxtober 2024",
+            "formats": ""
         }
     ]
 }

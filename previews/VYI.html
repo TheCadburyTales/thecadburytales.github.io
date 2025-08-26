@@ -1,0 +1,832 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/VYI-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>VYI visual preview</title>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 10%;
+			width: fit-content;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: flex;
+			flex-direction: column;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/VYI-files/logo.png" />
+	<img class="preload-hidden" src="/sets/ATR-files/icon.png" />
+		<img class="preload-hidden" src="/sets/SHF-files/icon.png" />
+		<img class="preload-hidden" src="/sets/GSS-files/icon.png" />
+		<img class="preload-hidden" src="/sets/KND-files/icon.png" />
+		<img class="preload-hidden" src="/sets/NJB-files/icon.png" />
+		<img class="preload-hidden" src="/sets/WAS-files/icon.png" />
+		<img class="preload-hidden" src="/sets/GQC-files/icon.png" />
+		<img class="preload-hidden" src="/sets/VYI-files/icon.png" />
+		<img class="preload-hidden" src="/sets/CNF-files/icon.png" />
+		<img class="preload-hidden" src="/sets/KDT-files/icon.png" />
+		<img class="preload-hidden" src="/sets/KLA-files/icon.png" />
+		<img class="preload-hidden" src="/sets/SOL-files/icon.png" />
+		<img class="preload-hidden" src="/sets/MOX-files/icon.png" />
+		<img class="preload-hidden" src="/sets/KRK-files/icon.png" />
+		<img class="preload-hidden" src="/sets/GS2-files/icon.png" />
+		<img class="preload-hidden" src="/sets/STW-files/icon.png" />
+		<img class="preload-hidden" src="/sets/X24-files/icon.png" />
+		<img class="preload-hidden" src="/sets/ICO-files/icon.png" />
+		<img class="preload-hidden" id="bg" src="/sets/VYI-files/bg.png" />
+
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="VYI"><img src="/sets/VYI-files/icon.png">Kallatree: Voyage to Infinity</a>
+	
+		<a class="set-bar inactive" href="ATR"><img src="/sets/ATR-files/icon.png">The Shattered Pantheon of Atros</a>
+	
+		<a class="set-bar inactive" href="SHF"><img src="/sets/SHF-files/icon.png">The Starholme Frontier</a>
+	
+		<a class="set-bar inactive" href="GSS"><img src="/sets/GSS-files/icon.png">Golden Shores of Shiryen</a>
+	
+		<a class="set-bar inactive" href="KND"><img src="/sets/KND-files/icon.png">Kahembo: New Dawn</a>
+	
+		<a class="set-bar inactive" href="NJB"><img src="/sets/NJB-files/icon.png">Nangjiao in Bloom</a>
+	
+		<a class="set-bar inactive" href="WAS"><img src="/sets/WAS-files/icon.png">Weir Astele</a>
+	
+		<a class="set-bar inactive" href="GQC"><img src="/sets/GQC-files/icon.png">Ghariv, the Quaking City</a>
+	
+		<a class="set-bar inactive" href="CNF"><img src="/sets/CNF-files/icon.png">Confluence</a>
+	
+		<a class="set-bar inactive" href="KDT"><img src="/sets/KDT-files/icon.png">Kitsuo: Dusk of Time</a>
+	
+		<a class="set-bar inactive" href="KLA"><img src="/sets/KLA-files/icon.png">Kallatree Ascension</a>
+	
+		<a class="set-bar inactive" href="SOL"><img src="/sets/SOL-files/icon.png">The Solitudines</a>
+	
+		<a class="set-bar inactive" href="MOX"><img src="/sets/MOX-files/icon.png">Midnight Omens of Xogoa</a>
+	
+		<a class="set-bar inactive" href="KRK"><img src="/sets/KRK-files/icon.png">Seas of Krakonos</a>
+	
+		<a class="set-bar inactive" href="GS2"><img src="/sets/GS2-files/icon.png">Global Series 2</a>
+	
+		<a class="set-bar inactive" href="STW"><img src="/sets/STW-files/icon.png">Star Wars Microset</a>
+	
+		<a class="set-bar inactive" href="X24"><img src="/sets/X24-files/icon.png">Moxtober 2024</a>
+	
+		<a class="set-bar inactive" href="ICO"><img src="/sets/ICO-files/icon.png">Inner Coriansa</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/VYI-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img alt="/sets/VYI-files/img/13_Friede, Shard of Light.png" id="13_Friede, Shard of Light" data-flag="@N" onclick="openSidebar('13_Friede, Shard of Light',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/53_Esmund, Shard of Nebula.png" id="53_Esmund, Shard of Nebula" data-flag="@N" onclick="openSidebar('53_Esmund, Shard of Nebula',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/112_Oda, Shard of Abyss.png" id="112_Oda, Shard of Abyss" data-flag="@N" onclick="openSidebar('112_Oda, Shard of Abyss',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/135_Faster than Light.png" id="135_Faster than Light" data-flag="@N" onclick="openSidebar('135_Faster than Light',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/166_Amede, Vessel of Alune.png" id="166_Amede, Vessel of Alune" data-flag="@N" onclick="openSidebar('166_Amede, Vessel of Alune',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/41_Valkyrie of Shared Dawn.png" id="41_Valkyrie of Shared Dawn" data-flag="@N" onclick="openSidebar('41_Valkyrie of Shared Dawn',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/72_Starwhale Crossing.png" id="72_Starwhale Crossing" data-flag="@N" onclick="openSidebar('72_Starwhale Crossing',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/115_Sereium, Viridar Hegemon.png" id="115_Sereium, Viridar Hegemon" data-flag="@N" onclick="openSidebar('115_Sereium, Viridar Hegemon',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/155_Starhunter Drakkon.png" id="155_Starhunter Drakkon" data-flag="@N" onclick="openSidebar('155_Starhunter Drakkon',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/184_Inga, Shard of Genesis.png" id="184_Inga, Shard of Genesis" data-flag="@N" onclick="openSidebar('184_Inga, Shard of Genesis',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/3_Adrift in a Twilit Sea.png" id="3_Adrift in a Twilit Sea" data-flag="@N" onclick="openSidebar('3_Adrift in a Twilit Sea',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/74_Sudden Decompression.png" id="74_Sudden Decompression" data-flag="@N" onclick="openSidebar('74_Sudden Decompression',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/123_Zaender, Anomaly Analyst.png" id="123_Zaender, Anomaly Analyst" data-flag="@N" onclick="openSidebar('123_Zaender, Anomaly Analyst',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/163_Vjala, Shard of Creation.png" id="163_Vjala, Shard of Creation" data-flag="@N" onclick="openSidebar('163_Vjala, Shard of Creation',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/170_Brightheart Serpent.png" id="170_Brightheart Serpent" data-flag="@N" onclick="openSidebar('170_Brightheart Serpent',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/6_Creation Redoubled.png" id="6_Creation Redoubled" data-flag="@N" onclick="openSidebar('6_Creation Redoubled',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/46_Chronicler of Irregularities.png" id="46_Chronicler of Irregularities" data-flag="@N" onclick="openSidebar('46_Chronicler of Irregularities',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/87_Approach of the Black Sun.png" id="87_Approach of the Black Sun" data-flag="@N" onclick="openSidebar('87_Approach of the Black Sun',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/127_Ancestral Mageflame.png" id="127_Ancestral Mageflame" data-flag="@N" onclick="openSidebar('127_Ancestral Mageflame',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/172_Call the Infinite Bridge.png" id="172_Call the Infinite Bridge" data-flag="@N" onclick="openSidebar('172_Call the Infinite Bridge',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/9_Echoed Vanguard.png" id="9_Echoed Vanguard" data-flag="@N" onclick="openSidebar('9_Echoed Vanguard',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/47_Chronicler's Probe.png" id="47_Chroniclers Probe" data-flag="@N" onclick="openSidebar('47_Chroniclers Probe',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/95_Eir, Voidtwisted Valkyrie.png" id="95_Eir, Voidtwisted Valkyrie" data-flag="@N" onclick="openSidebar('95_Eir, Voidtwisted Valkyrie',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/130_Brigand's Tanker.png" id="130_Brigands Tanker" data-flag="@N" onclick="openSidebar('130_Brigands Tanker',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/174_Colony Migration.png" id="174_Colony Migration" data-flag="@N" onclick="openSidebar('174_Colony Migration',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/11_Elin, Beyond the Horizon.png" id="11_Elin, Beyond the Horizon" data-flag="@N" onclick="openSidebar('11_Elin, Beyond the Horizon',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/50_Depths of the Dark.png" id="50_Depths of the Dark" data-flag="@N" onclick="openSidebar('50_Depths of the Dark',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/97_Fall Forever.png" id="97_Fall Forever" data-flag="@N" onclick="openSidebar('97_Fall Forever',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/138_Hive Scytheclaw.png" id="138_Hive Scytheclaw" data-flag="@N" onclick="openSidebar('138_Hive Scytheclaw',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/181_Hive Forerunner.png" id="181_Hive Forerunner" data-flag="@N" onclick="openSidebar('181_Hive Forerunner',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/12_Event Horizon.png" id="12_Event Horizon" data-flag="@N" onclick="openSidebar('12_Event Horizon',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/51_Domesticated Voidbeast.png" id="51_Domesticated Voidbeast" data-flag="@N" onclick="openSidebar('51_Domesticated Voidbeast',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/100_Fraying Cluster.png" id="100_Fraying Cluster" data-flag="@N" onclick="openSidebar('100_Fraying Cluster',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/143_Living Meteor.png" id="143_Living Meteor" data-flag="@N" onclick="openSidebar('143_Living Meteor',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/182_Hive Sporespreader.png" id="182_Hive Sporespreader" data-flag="@N" onclick="openSidebar('182_Hive Sporespreader',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/21_Interdictor Skiff.png" id="21_Interdictor Skiff" data-flag="@N" onclick="openSidebar('21_Interdictor Skiff',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/55_Heaven's Exhalation.png" id="55_Heavens Exhalation" data-flag="@N" onclick="openSidebar('55_Heavens Exhalation',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/107_Mangled Atrocity.png" id="107_Mangled Atrocity" data-flag="@N" onclick="openSidebar('107_Mangled Atrocity',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/146_Noxela, the Gloom.png" id="146_Noxela, the Gloom" data-flag="@N" onclick="openSidebar('146_Noxela, the Gloom',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/185_Kjotvi, Chosen of Irne.png" id="185_Kjotvi, Chosen of Irne" data-flag="@N" onclick="openSidebar('185_Kjotvi, Chosen of Irne',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/25_Kallaheart Rescuer.png" id="25_Kallaheart Rescuer" data-flag="@N" onclick="openSidebar('25_Kallaheart Rescuer',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/62_Onemind, Eye of Discovery.png" id="62_Onemind, Eye of Discovery" data-flag="@N" onclick="openSidebar('62_Onemind, Eye of Discovery',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/108_Mechanized Propagator.png" id="108_Mechanized Propagator" data-flag="@N" onclick="openSidebar('108_Mechanized Propagator',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/150_Protostar Tender.png" id="150_Protostar Tender" data-flag="@N" onclick="openSidebar('150_Protostar Tender',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/197_Terraformer Archengine.png" id="197_Terraformer Archengine" data-flag="@N" onclick="openSidebar('197_Terraformer Archengine',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/33_Rusted Moontrotter.png" id="33_Rusted Moontrotter" data-flag="@N" onclick="openSidebar('33_Rusted Moontrotter',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/70_Share the Hyperlanes.png" id="70_Share the Hyperlanes" data-flag="@N" onclick="openSidebar('70_Share the Hyperlanes',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/109_Null Knight.png" id="109_Null Knight" data-flag="@N" onclick="openSidebar('109_Null Knight',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/151_Quintessence Division.png" id="151_Quintessence Division" data-flag="@N" onclick="openSidebar('151_Quintessence Division',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/199_Titan of Helgahraun.png" id="199_Titan of Helgahraun" data-flag="@N" onclick="openSidebar('199_Titan of Helgahraun',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/37_Supernova.png" id="37_Supernova" data-flag="@N" onclick="openSidebar('37_Supernova',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/77_Three Thousand Years Later.png" id="77_Three Thousand Years Later" data-flag="@N" onclick="openSidebar('77_Three Thousand Years Later',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/113_Parasite Incubation.png" id="113_Parasite Incubation" data-flag="@N" onclick="openSidebar('113_Parasite Incubation',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/152_Reality Dissolution.png" id="152_Reality Dissolution" data-flag="@N" onclick="openSidebar('152_Reality Dissolution',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/205_Xenobotanist.png" id="205_Xenobotanist" data-flag="@N" onclick="openSidebar('205_Xenobotanist',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/4_Automatic Reconstruction.png" id="4_Automatic Reconstruction" data-flag="@N" onclick="openSidebar('4_Automatic Reconstruction',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/82_Woolly Abomination.png" id="82_Woolly Abomination" data-flag="@N" onclick="openSidebar('82_Woolly Abomination',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/116_Sun-Eater Nautiloid.png" id="116_Sun-Eater Nautiloid" data-flag="@N" onclick="openSidebar('116_Sun-Eater Nautiloid',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/165_Wolf of Anjarja.png" id="165_Wolf of Anjarja" data-flag="@N" onclick="openSidebar('165_Wolf of Anjarja',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/168_Behemoth Tracker.png" id="168_Behemoth Tracker" data-flag="@N" onclick="openSidebar('168_Behemoth Tracker',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/8_Drop Through Reality.png" id="8_Drop Through Reality" data-flag="@N" onclick="openSidebar('8_Drop Through Reality',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/44_Asteroid Trawler.png" id="44_Asteroid Trawler" data-flag="@N" onclick="openSidebar('44_Asteroid Trawler',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/88_Charge into the Void.png" id="88_Charge into the Void" data-flag="@N" onclick="openSidebar('88_Charge into the Void',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/126_All Hands On Deck.png" id="126_All Hands On Deck" data-flag="@N" onclick="openSidebar('126_All Hands On Deck',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/171_Caelistic Thunderhoof.png" id="171_Caelistic Thunderhoof" data-flag="@N" onclick="openSidebar('171_Caelistic Thunderhoof',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/14_Friede's Purifier.png" id="14_Friedes Purifier" data-flag="@N" onclick="openSidebar('14_Friedes Purifier',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/45_Atmosphere Trawlers.png" id="45_Atmosphere Trawlers" data-flag="@N" onclick="openSidebar('45_Atmosphere Trawlers',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/90_Covet Infinity.png" id="90_Covet Infinity" data-flag="@N" onclick="openSidebar('90_Covet Infinity',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/131_Chaos Wyrm.png" id="131_Chaos Wyrm" data-flag="@N" onclick="openSidebar('131_Chaos Wyrm',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/173_Cloudsifter Float.png" id="173_Cloudsifter Float" data-flag="@N" onclick="openSidebar('173_Cloudsifter Float',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/15_Gilded Corvette.png" id="15_Gilded Corvette" data-flag="@N" onclick="openSidebar('15_Gilded Corvette',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/48_The Colossus Approaches.png" id="48_The Colossus Approaches" data-flag="@N" onclick="openSidebar('48_The Colossus Approaches',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/91_Darkspace Probe.png" id="91_Darkspace Probe" data-flag="@N" onclick="openSidebar('91_Darkspace Probe',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/132_Eir Succumbs.png" id="132_Eir Succumbs" data-flag="@N" onclick="openSidebar('132_Eir Succumbs',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/176_Corporate Fumigator.png" id="176_Corporate Fumigator" data-flag="@N" onclick="openSidebar('176_Corporate Fumigator',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/19_IGF Enforcer.png" id="19_IGF Enforcer" data-flag="@N" onclick="openSidebar('19_IGF Enforcer',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/49_Command Reality.png" id="49_Command Reality" data-flag="@N" onclick="openSidebar('49_Command Reality',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/92_Decimator Legion.png" id="92_Decimator Legion" data-flag="@N" onclick="openSidebar('92_Decimator Legion',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/133_Excavator Spider.png" id="133_Excavator Spider" data-flag="@N" onclick="openSidebar('133_Excavator Spider',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/179_First Expedition Explorer.png" id="179_First Expedition Explorer" data-flag="@N" onclick="openSidebar('179_First Expedition Explorer',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/20_In the Wake of Gods.png" id="20_In the Wake of Gods" data-flag="@N" onclick="openSidebar('20_In the Wake of Gods',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/52_Driftweld Column.png" id="52_Driftweld Column" data-flag="@N" onclick="openSidebar('52_Driftweld Column',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/93_Desaturate.png" id="93_Desaturate" data-flag="@N" onclick="openSidebar('93_Desaturate',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/134_Falling Star's Wake.png" id="134_Falling Stars Wake" data-flag="@N" onclick="openSidebar('134_Falling Stars Wake',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/183_Horde Scorpion.png" id="183_Horde Scorpion" data-flag="@N" onclick="openSidebar('183_Horde Scorpion',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/23_Into the Singularity.png" id="23_Into the Singularity" data-flag="@N" onclick="openSidebar('23_Into the Singularity',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/56_Hull Fuser.png" id="56_Hull Fuser" data-flag="@N" onclick="openSidebar('56_Hull Fuser',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/96_Emergent Godling.png" id="96_Emergent Godling" data-flag="@N" onclick="openSidebar('96_Emergent Godling',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/137_Hero of Dofrar.png" id="137_Hero of Dofrar" data-flag="@N" onclick="openSidebar('137_Hero of Dofrar',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/192_Skittering Geopede.png" id="192_Skittering Geopede" data-flag="@N" onclick="openSidebar('192_Skittering Geopede',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/26_Luminary Weaver.png" id="26_Luminary Weaver" data-flag="@N" onclick="openSidebar('26_Luminary Weaver',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/58_Kallacore Vanguard.png" id="58_Kallacore Vanguard" data-flag="@N" onclick="openSidebar('58_Kallacore Vanguard',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/101_Freefall Diver.png" id="101_Freefall Diver" data-flag="@N" onclick="openSidebar('101_Freefall Diver',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/139_Into the Unknown.png" id="139_Into the Unknown" data-flag="@N" onclick="openSidebar('139_Into the Unknown',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/193_Spawner Leviathan.png" id="193_Spawner Leviathan" data-flag="@N" onclick="openSidebar('193_Spawner Leviathan',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/27_Mesa Dunedancer.png" id="27_Mesa Dunedancer" data-flag="@N" onclick="openSidebar('27_Mesa Dunedancer',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/59_Kjotvi's Companion.png" id="59_Kjotvis Companion" data-flag="@N" onclick="openSidebar('59_Kjotvis Companion',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/103_Hungering Abyss.png" id="103_Hungering Abyss" data-flag="@N" onclick="openSidebar('103_Hungering Abyss',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/141_Kjaldiran Talehunter.png" id="141_Kjaldiran Talehunter" data-flag="@N" onclick="openSidebar('141_Kjaldiran Talehunter',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/194_Stalwart Spear.png" id="194_Stalwart Spear" data-flag="@N" onclick="openSidebar('194_Stalwart Spear',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/31_Pulsar Prophet.png" id="31_Pulsar Prophet" data-flag="@N" onclick="openSidebar('31_Pulsar Prophet',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/64_Portal Conservator.png" id="64_Portal Conservator" data-flag="@N" onclick="openSidebar('64_Portal Conservator',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/104_Inverter Dreadnought.png" id="104_Inverter Dreadnought" data-flag="@N" onclick="openSidebar('104_Inverter Dreadnought',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/147_Nullforged Executioner.png" id="147_Nullforged Executioner" data-flag="@N" onclick="openSidebar('147_Nullforged Executioner',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/195_Stardust Explorer.png" id="195_Stardust Explorer" data-flag="@N" onclick="openSidebar('195_Stardust Explorer',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/32_Rocket-Powered Canine.png" id="32_Rocket-Powered Canine" data-flag="@N" onclick="openSidebar('32_Rocket-Powered Canine',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/68_Repel Aggression.png" id="68_Repel Aggression" data-flag="@N" onclick="openSidebar('68_Repel Aggression',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/106_Lauded Imperator.png" id="106_Lauded Imperator" data-flag="@N" onclick="openSidebar('106_Lauded Imperator',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/149_Orbital Cannon.png" id="149_Orbital Cannon" data-flag="@N" onclick="openSidebar('149_Orbital Cannon',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/196_Starkarve Deployment.png" id="196_Starkarve Deployment" data-flag="@N" onclick="openSidebar('196_Starkarve Deployment',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/35_Steelframe Viridar.png" id="35_Steelframe Viridar" data-flag="@N" onclick="openSidebar('35_Steelframe Viridar',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/69_Rimescale Wurm.png" id="69_Rimescale Wurm" data-flag="@N" onclick="openSidebar('69_Rimescale Wurm',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/110_Nullforged Automaton.png" id="110_Nullforged Automaton" data-flag="@N" onclick="openSidebar('110_Nullforged Automaton',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/154_Shieldmaidens of Vjala.png" id="154_Shieldmaidens of Vjala" data-flag="@N" onclick="openSidebar('154_Shieldmaidens of Vjala',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/200_To Infinity.png" id="200_To Infinity" data-flag="@N" onclick="openSidebar('200_To Infinity',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/40_Upload Capsule.png" id="40_Upload Capsule" data-flag="@N" onclick="openSidebar('40_Upload Capsule',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/75_Swimming in Moonlight.png" id="75_Swimming in Moonlight" data-flag="@N" onclick="openSidebar('75_Swimming in Moonlight',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/114_Scrapyard Bargain.png" id="114_Scrapyard Bargain" data-flag="@N" onclick="openSidebar('114_Scrapyard Bargain',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/156_Starscape Journeyer.png" id="156_Starscape Journeyer" data-flag="@N" onclick="openSidebar('156_Starscape Journeyer',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/201_Unknown Beings Lurk.png" id="201_Unknown Beings Lurk" data-flag="@N" onclick="openSidebar('201_Unknown Beings Lurk',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/42_Wreck Survivor.png" id="42_Wreck Survivor" data-flag="@N" onclick="openSidebar('42_Wreck Survivor',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/78_Touch the Infinite.png" id="78_Touch the Infinite" data-flag="@N" onclick="openSidebar('78_Touch the Infinite',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/119_Viridar Corpsehulk.png" id="119_Viridar Corpsehulk" data-flag="@N" onclick="openSidebar('119_Viridar Corpsehulk',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/157_Strange Avian.png" id="157_Strange Avian" data-flag="@N" onclick="openSidebar('157_Strange Avian',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/202_Viridar Research Vessel.png" id="202_Viridar Research Vessel" data-flag="@N" onclick="openSidebar('202_Viridar Research Vessel',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/5_Beyond Design.png" id="5_Beyond Design" data-flag="@N" onclick="openSidebar('5_Beyond Design',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/83_Worldspan Treader.png" id="83_Worldspan Treader" data-flag="@N" onclick="openSidebar('83_Worldspan Treader',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/122_Waning Child of Aeon.png" id="122_Waning Child of Aeon" data-flag="@N" onclick="openSidebar('122_Waning Child of Aeon',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/164_Wanderer of the Wastes.png" id="164_Wanderer of the Wastes" data-flag="@N" onclick="openSidebar('164_Wanderer of the Wastes',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/167_Battle for Survival.png" id="167_Battle for Survival" data-flag="@N" onclick="openSidebar('167_Battle for Survival',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/7_Cybertouched Spirit.png" id="7_Cybertouched Spirit" data-flag="@N" onclick="openSidebar('7_Cybertouched Spirit',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/43_Ad Astra.png" id="43_Ad Astra" data-flag="@N" onclick="openSidebar('43_Ad Astra',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/84_Abandoned Crewmate.png" id="84_Abandoned Crewmate" data-flag="@N" onclick="openSidebar('84_Abandoned Crewmate',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/125_Aeon's Forerunner.png" id="125_Aeons Forerunner" data-flag="@N" onclick="openSidebar('125_Aeons Forerunner',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/169_Brand New Frontiers.png" id="169_Brand New Frontiers" data-flag="@N" onclick="openSidebar('169_Brand New Frontiers',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/10_Ecliptic Harbinger.png" id="10_Ecliptic Harbinger" data-flag="@N" onclick="openSidebar('10_Ecliptic Harbinger',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/54_Esmund's Starpather.png" id="54_Esmunds Starpather" data-flag="@N" onclick="openSidebar('54_Esmunds Starpather',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/85_Ancient Communion.png" id="85_Ancient Communion" data-flag="@N" onclick="openSidebar('85_Ancient Communion',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/128_Aridian Wanderer.png" id="128_Aridian Wanderer" data-flag="@N" onclick="openSidebar('128_Aridian Wanderer',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/175_Companion's Grave.png" id="175_Companions Grave" data-flag="@N" onclick="openSidebar('175_Companions Grave',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/16_Go Forth and Slaughter.png" id="16_Go Forth and Slaughter" data-flag="@N" onclick="openSidebar('16_Go Forth and Slaughter',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/57_Inflated Siphonophore.png" id="57_Inflated Siphonophore" data-flag="@N" onclick="openSidebar('57_Inflated Siphonophore',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/86_Android of Forgotten Creeds.png" id="86_Android of Forgotten Creeds" data-flag="@N" onclick="openSidebar('86_Android of Forgotten Creeds',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/129_Brandr's Wrecksifters.png" id="129_Brandrs Wrecksifters" data-flag="@N" onclick="openSidebar('129_Brandrs Wrecksifters',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/177_Curious Horticulturist.png" id="177_Curious Horticulturist" data-flag="@N" onclick="openSidebar('177_Curious Horticulturist',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/17_Guiding Seraph.png" id="17_Guiding Seraph" data-flag="@N" onclick="openSidebar('17_Guiding Seraph',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/60_Leave Home Behind.png" id="60_Leave Home Behind" data-flag="@N" onclick="openSidebar('60_Leave Home Behind',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/89_Chronicler of Regrets.png" id="89_Chronicler of Regrets" data-flag="@N" onclick="openSidebar('89_Chronicler of Regrets',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/136_Go Dark.png" id="136_Go Dark" data-flag="@N" onclick="openSidebar('136_Go Dark',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/178_Doomed Pilot.png" id="178_Doomed Pilot" data-flag="@N" onclick="openSidebar('178_Doomed Pilot',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/18_Hired Protector.png" id="18_Hired Protector" data-flag="@N" onclick="openSidebar('18_Hired Protector',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/61_Mystifying Denial.png" id="61_Mystifying Denial" data-flag="@N" onclick="openSidebar('61_Mystifying Denial',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/94_Drifting Among Regrets.png" id="94_Drifting Among Regrets" data-flag="@N" onclick="openSidebar('94_Drifting Among Regrets',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/140_Kjaldiran Berserker.png" id="140_Kjaldiran Berserker" data-flag="@N" onclick="openSidebar('140_Kjaldiran Berserker',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/180_Fizzle Ray.png" id="180_Fizzle Ray" data-flag="@N" onclick="openSidebar('180_Fizzle Ray',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/22_Intergalactic Security.png" id="22_Intergalactic Security" data-flag="@N" onclick="openSidebar('22_Intergalactic Security',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/63_Pillbot.png" id="63_Pillbot" data-flag="@N" onclick="openSidebar('63_Pillbot',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/98_Feed on the Cosmos.png" id="98_Feed on the Cosmos" data-flag="@N" onclick="openSidebar('98_Feed on the Cosmos',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/142_Lightning Strike.png" id="142_Lightning Strike" data-flag="@N" onclick="openSidebar('142_Lightning Strike',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/186_Man-Eating Mandrake.png" id="186_Man-Eating Mandrake" data-flag="@N" onclick="openSidebar('186_Man-Eating Mandrake',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/24_It Takes Two.png" id="24_It Takes Two" data-flag="@N" onclick="openSidebar('24_It Takes Two',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/65_Reality Splicer.png" id="65_Reality Splicer" data-flag="@N" onclick="openSidebar('65_Reality Splicer',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/99_Floating Processors.png" id="99_Floating Processors" data-flag="@N" onclick="openSidebar('99_Floating Processors',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/144_Mageflame Unleashed.png" id="144_Mageflame Unleashed" data-flag="@N" onclick="openSidebar('144_Mageflame Unleashed',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/187_Massive Mantid.png" id="187_Massive Mantid" data-flag="@N" onclick="openSidebar('187_Massive Mantid',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/28_Modified Shieldmaiden.png" id="28_Modified Shieldmaiden" data-flag="@N" onclick="openSidebar('28_Modified Shieldmaiden',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/66_Recorder of Auroras.png" id="66_Recorder of Auroras" data-flag="@N" onclick="openSidebar('66_Recorder of Auroras',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/102_Herald of Nothing.png" id="102_Herald of Nothing" data-flag="@N" onclick="openSidebar('102_Herald of Nothing',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/145_Mutated Ragebeast.png" id="145_Mutated Ragebeast" data-flag="@N" onclick="openSidebar('145_Mutated Ragebeast',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/188_Might of the Machine.png" id="188_Might of the Machine" data-flag="@N" onclick="openSidebar('188_Might of the Machine',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/29_Mysterious Chronicler.png" id="29_Mysterious Chronicler" data-flag="@N" onclick="openSidebar('29_Mysterious Chronicler',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/67_Repair Mech.png" id="67_Repair Mech" data-flag="@N" onclick="openSidebar('67_Repair Mech',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/105_Kjaldiran Lookout.png" id="105_Kjaldiran Lookout" data-flag="@N" onclick="openSidebar('105_Kjaldiran Lookout',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/148_Objects In Motion.png" id="148_Objects In Motion" data-flag="@N" onclick="openSidebar('148_Objects In Motion',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/189_Moonsea Terror.png" id="189_Moonsea Terror" data-flag="@N" onclick="openSidebar('189_Moonsea Terror',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/30_Nova Blast.png" id="30_Nova Blast" data-flag="@N" onclick="openSidebar('30_Nova Blast',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/71_Starscape Shift.png" id="71_Starscape Shift" data-flag="@N" onclick="openSidebar('71_Starscape Shift',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/111_Oblivion Monarch.png" id="111_Oblivion Monarch" data-flag="@N" onclick="openSidebar('111_Oblivion Monarch',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/153_Scout the Landscape.png" id="153_Scout the Landscape" data-flag="@N" onclick="openSidebar('153_Scout the Landscape',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/190_Scrapyard Repairer.png" id="190_Scrapyard Repairer" data-flag="@N" onclick="openSidebar('190_Scrapyard Repairer',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/34_Staunch Sentinel.png" id="34_Staunch Sentinel" data-flag="@N" onclick="openSidebar('34_Staunch Sentinel',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/73_Stitched Simulacrum.png" id="73_Stitched Simulacrum" data-flag="@N" onclick="openSidebar('73_Stitched Simulacrum',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/117_Toxic Cavernicole.png" id="117_Toxic Cavernicole" data-flag="@N" onclick="openSidebar('117_Toxic Cavernicole',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/158_Terror of Skolha Peak.png" id="158_Terror of Skolha Peak" data-flag="@N" onclick="openSidebar('158_Terror of Skolha Peak',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/191_Shield Surfer.png" id="191_Shield Surfer" data-flag="@N" onclick="openSidebar('191_Shield Surfer',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/36_Sunshadow Drake.png" id="36_Sunshadow Drake" data-flag="@N" onclick="openSidebar('36_Sunshadow Drake',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/76_Tectonic Megapod.png" id="76_Tectonic Megapod" data-flag="@N" onclick="openSidebar('76_Tectonic Megapod',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/118_Ventilate.png" id="118_Ventilate" data-flag="@N" onclick="openSidebar('118_Ventilate',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/159_Uncontrolled Descent.png" id="159_Uncontrolled Descent" data-flag="@N" onclick="openSidebar('159_Uncontrolled Descent',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/198_Through the Wormhole.png" id="198_Through the Wormhole" data-flag="@N" onclick="openSidebar('198_Through the Wormhole',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/38_System Cage.png" id="38_System Cage" data-flag="@N" onclick="openSidebar('38_System Cage',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/79_Unknowable Bond.png" id="79_Unknowable Bond" data-flag="@N" onclick="openSidebar('79_Unknowable Bond',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/120_Void Potentate.png" id="120_Void Potentate" data-flag="@N" onclick="openSidebar('120_Void Potentate',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/160_Varassi's Silencers.png" id="160_Varassis Silencers" data-flag="@N" onclick="openSidebar('160_Varassis Silencers',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/203_Viridar Voidmass.png" id="203_Viridar Voidmass" data-flag="@N" onclick="openSidebar('203_Viridar Voidmass',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/39_Unsettling Traveler.png" id="39_Unsettling Traveler" data-flag="@N" onclick="openSidebar('39_Unsettling Traveler',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/80_Uploaded Intelligence.png" id="80_Uploaded Intelligence" data-flag="@N" onclick="openSidebar('80_Uploaded Intelligence',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/121_Voidbeast's Fury.png" id="121_Voidbeasts Fury" data-flag="@N" onclick="openSidebar('121_Voidbeasts Fury',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/161_Viridar Battalion.png" id="161_Viridar Battalion" data-flag="@N" onclick="openSidebar('161_Viridar Battalion',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/204_Viridar Yearling.png" id="204_Viridar Yearling" data-flag="@N" onclick="openSidebar('204_Viridar Yearling',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/81_Valiant Titanhunter.png" id="81_Valiant Titanhunter" data-flag="@N" onclick="openSidebar('81_Valiant Titanhunter',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/124_Zero Gravity Maneuver.png" id="124_Zero Gravity Maneuver" data-flag="@N" onclick="openSidebar('124_Zero Gravity Maneuver',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/162_Viridar Chaoseer.png" id="162_Viridar Chaoseer" data-flag="@N" onclick="openSidebar('162_Viridar Chaoseer',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/208_Caelira, Dawn Unbroken.png" id="208_Caelira, Dawn Unbroken" data-flag="@N" onclick="openSidebar('208_Caelira, Dawn Unbroken',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/241_Sundeath Maw.png" id="241_Sundeath Maw" data-flag="@N" onclick="openSidebar('241_Sundeath Maw',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/243_Varassi, Firstborn of Aeon.png" id="243_Varassi, Firstborn of Aeon" data-flag="@N" onclick="openSidebar('243_Varassi, Firstborn of Aeon',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/223_Kion, Chosen Chronicler.png" id="223_Kion, Chosen Chronicler" data-flag="@N" onclick="openSidebar('223_Kion, Chosen Chronicler',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/219_Freydis, the Astrobiologist.png" id="219_Freydis, the Astrobiologist" data-flag="@N" onclick="openSidebar('219_Freydis, the Astrobiologist',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/213_Chronicler's Directive.png" id="213_Chroniclers Directive" data-flag="@N" onclick="openSidebar('213_Chroniclers Directive',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/224_Lanion, Lethal Hologram.png" id="224_Lanion, Lethal Hologram" data-flag="@N" onclick="openSidebar('224_Lanion, Lethal Hologram',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/209_Captain Brandr.png" id="209_Captain Brandr" data-flag="@N" onclick="openSidebar('209_Captain Brandr',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/234_Prophecied Alignment.png" id="234_Prophecied Alignment" data-flag="@N" onclick="openSidebar('234_Prophecied Alignment',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/222_Inexorable Advance.png" id="222_Inexorable Advance" data-flag="@N" onclick="openSidebar('222_Inexorable Advance',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/214_Cryosphere Trawler.png" id="214_Cryosphere Trawler" data-flag="@N" onclick="openSidebar('214_Cryosphere Trawler',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/244_Voidsent Ghoul.png" id="244_Voidsent Ghoul" data-flag="@N" onclick="openSidebar('244_Voidsent Ghoul',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/226_Last Dusk.png" id="226_Last Dusk" data-flag="@N" onclick="openSidebar('226_Last Dusk',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/211_Chaotic Godling.png" id="211_Chaotic Godling" data-flag="@N" onclick="openSidebar('211_Chaotic Godling',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/239_Spore Spew.png" id="239_Spore Spew" data-flag="@N" onclick="openSidebar('239_Spore Spew',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/248_False God Interface.png" id="248_False God Interface" data-flag="@N" onclick="openSidebar('248_False God Interface',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/207_Augmented Assassin.png" id="207_Augmented Assassin" data-flag="@N" onclick="openSidebar('207_Augmented Assassin',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/225_Last Audience.png" id="225_Last Audience" data-flag="@N" onclick="openSidebar('225_Last Audience',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/247_Dunebreaker Wurm.png" id="247_Dunebreaker Wurm" data-flag="@N" onclick="openSidebar('247_Dunebreaker Wurm',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/252_Rip in Half.png" id="252_Rip in Half" data-flag="@N" onclick="openSidebar('252_Rip in Half',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/253_Seek the Last Light.png" id="253_Seek the Last Light" data-flag="@N" onclick="openSidebar('253_Seek the Last Light',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/255_Upgraded Marauder.png" id="255_Upgraded Marauder" data-flag="@N" onclick="openSidebar('255_Upgraded Marauder',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/228_Mirrorscreen Vampire.png" id="228_Mirrorscreen Vampire" data-flag="@N" onclick="openSidebar('228_Mirrorscreen Vampire',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/210_Captain Elai.png" id="210_Captain Elai" data-flag="@N" onclick="openSidebar('210_Captain Elai',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/220_Garden of Evolution.png" id="220_Garden of Evolution" data-flag="@N" onclick="openSidebar('220_Garden of Evolution',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/227_Leif, Hero of Kallatree.png" id="227_Leif, Hero of Kallatree" data-flag="@N" onclick="openSidebar('227_Leif, Hero of Kallatree',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/230_Nythr, Stargate Goliath.png" id="230_Nythr, Stargate Goliath" data-flag="@N" onclick="openSidebar('230_Nythr, Stargate Goliath',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/233_Prince Bronwyn, the Fair.png" id="233_Prince Bronwyn, the Fair" data-flag="@N" onclick="openSidebar('233_Prince Bronwyn, the Fair',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/235_Quasar Tyrant.png" id="235_Quasar Tyrant" data-flag="@N" onclick="openSidebar('235_Quasar Tyrant',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/242_Trozel, Pyramid's Master.png" id="242_Trozel, Pyramids Master" data-flag="@N" onclick="openSidebar('242_Trozel, Pyramids Master',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/217_Elevated by the Gods.png" id="217_Elevated by the Gods" data-flag="@N" onclick="openSidebar('217_Elevated by the Gods',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/240_Starwhale Harvest.png" id="240_Starwhale Harvest" data-flag="@N" onclick="openSidebar('240_Starwhale Harvest',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/216_The Dead of Space.png" id="216_The Dead of Space" data-flag="@N" onclick="openSidebar('216_The Dead of Space',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/236_Shiruun, Evolved One.png" id="236_Shiruun, Evolved One" data-flag="@N" onclick="openSidebar('236_Shiruun, Evolved One',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/238_So Much Goo.png" id="238_So Much Goo" data-flag="@N" onclick="openSidebar('238_So Much Goo',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/237_Signe, the First Maiden.png" id="237_Signe, the First Maiden" data-flag="@N" onclick="openSidebar('237_Signe, the First Maiden',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/215_Currents of the Hyperlanes.png" id="215_Currents of the Hyperlanes" data-flag="@N" onclick="openSidebar('215_Currents of the Hyperlanes',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/249_Kjaldiran Battlewolves.png" id="249_Kjaldiran Battlewolves" data-flag="@N" onclick="openSidebar('249_Kjaldiran Battlewolves',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/212_Chart the Starpaths.png" id="212_Chart the Starpaths" data-flag="@N" onclick="openSidebar('212_Chart the Starpaths',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/254_Shambling Terrarium.png" id="254_Shambling Terrarium" data-flag="@N" onclick="openSidebar('254_Shambling Terrarium',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/221_Helgahraun Hero.png" id="221_Helgahraun Hero" data-flag="@N" onclick="openSidebar('221_Helgahraun Hero',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/251_Migrating Cetacean.png" id="251_Migrating Cetacean" data-flag="@N" onclick="openSidebar('251_Migrating Cetacean',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/246_Blazing Starstorm.png" id="246_Blazing Starstorm" data-flag="@N" onclick="openSidebar('246_Blazing Starstorm',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/250_Machine Prophets.png" id="250_Machine Prophets" data-flag="@N" onclick="openSidebar('250_Machine Prophets',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/206_Asbjal, Startouched.png" id="206_Asbjal, Startouched" data-flag="@N" onclick="openSidebar('206_Asbjal, Startouched',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/218_The Fludemarmak.png" id="218_The Fludemarmak" data-flag="@N" onclick="openSidebar('218_The Fludemarmak',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/229_Narve, Lord of the Wastes.png" id="229_Narve, Lord of the Wastes" data-flag="@N" onclick="openSidebar('229_Narve, Lord of the Wastes',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/232_Orrhion, Survey Medusae.png" id="232_Orrhion, Survey Medusae" data-flag="@N" onclick="openSidebar('232_Orrhion, Survey Medusae',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/245_Xrogg, Star's Shadow.png" id="245_Xrogg, Stars Shadow" data-flag="@N" onclick="openSidebar('245_Xrogg, Stars Shadow',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/231_Origin's Vestige.png" id="231_Origins Vestige" data-flag="@N" onclick="openSidebar('231_Origins Vestige',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/1_Aeon.png" id="1_Aeon" data-flag="@N" onclick="openSidebar('1_Aeon',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/263_Icareum, Perfected Mind.png" id="263_Icareum, Perfected Mind" data-flag="@N" onclick="openSidebar('263_Icareum, Perfected Mind',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/265_The Infinity Bridge.png" id="265_The Infinity Bridge" data-flag="@N" onclick="openSidebar('265_The Infinity Bridge',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/267_Lightless, Star of Oblivion.png" id="267_Lightless, Star of Oblivion" data-flag="@N" onclick="openSidebar('267_Lightless, Star of Oblivion',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/273_Valkyrja, the Final Voyage.png" id="273_Valkyrja, the Final Voyage" data-flag="@N" onclick="openSidebar('273_Valkyrja, the Final Voyage',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/2_Devour All Light.png" id="2_Devour All Light" data-flag="@N" onclick="openSidebar('2_Devour All Light',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/258_Cosmic Heart.png" id="258_Cosmic Heart" data-flag="@N" onclick="openSidebar('258_Cosmic Heart',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/259_Drakkonfell, First Starkarve.png" id="259_Drakkonfell, First Starkarve" data-flag="@N" onclick="openSidebar('259_Drakkonfell, First Starkarve',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/260_Drakkonic Mekkastruct.png" id="260_Drakkonic Mekkastruct" data-flag="@N" onclick="openSidebar('260_Drakkonic Mekkastruct',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/268_Meteor Harvester.png" id="268_Meteor Harvester" data-flag="@N" onclick="openSidebar('268_Meteor Harvester',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/256_Colossal Railgun.png" id="256_Colossal Railgun" data-flag="@N" onclick="openSidebar('256_Colossal Railgun',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/261_Eternal Mekkastruct.png" id="261_Eternal Mekkastruct" data-flag="@N" onclick="openSidebar('261_Eternal Mekkastruct',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/266_Kinetic Gauntlets.png" id="266_Kinetic Gauntlets" data-flag="@N" onclick="openSidebar('266_Kinetic Gauntlets',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/269_Monument of Waning Faith.png" id="269_Monument of Waning Faith" data-flag="@N" onclick="openSidebar('269_Monument of Waning Faith',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/271_Trajectory Analyzer.png" id="271_Trajectory Analyzer" data-flag="@N" onclick="openSidebar('271_Trajectory Analyzer',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/272_Unstoppable Remnant.png" id="272_Unstoppable Remnant" data-flag="@N" onclick="openSidebar('272_Unstoppable Remnant',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/257_Core Guardian.png" id="257_Core Guardian" data-flag="@N" onclick="openSidebar('257_Core Guardian',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/262_Heavencraft Valkyrie.png" id="262_Heavencraft Valkyrie" data-flag="@N" onclick="openSidebar('262_Heavencraft Valkyrie',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/264_IGF Supplyship.png" id="264_IGF Supplyship" data-flag="@N" onclick="openSidebar('264_IGF Supplyship',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/270_Prophetic Prism.png" id="270_Prophetic Prism" data-flag="@N" onclick="openSidebar('270_Prophetic Prism',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/274_Voidsent Stalker.png" id="274_Voidsent Stalker" data-flag="@N" onclick="openSidebar('274_Voidsent Stalker',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/275_Warp-Ring Terror.png" id="275_Warp-Ring Terror" data-flag="@N" onclick="openSidebar('275_Warp-Ring Terror',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="land" class="anchor"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/280_Myrkdrasil, Cradle of Nihility.png" id="280_Myrkdrasil, Cradle of Nihility" data-flag="@N" onclick="openSidebar('280_Myrkdrasil, Cradle of Nihility',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/278_Kallatree, Whorl of Life.png" id="278_Kallatree, Whorl of Life" data-flag="@N" onclick="openSidebar('278_Kallatree, Whorl of Life',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/281_Sojourner's Gateway.png" id="281_Sojourners Gateway" data-flag="@N" onclick="openSidebar('281_Sojourners Gateway',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/276_Collapsed Ring.png" id="276_Collapsed Ring" data-flag="@N" onclick="openSidebar('276_Collapsed Ring',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/279_Luscious Planetscape.png" id="279_Luscious Planetscape" data-flag="@N" onclick="openSidebar('279_Luscious Planetscape',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/277_Edge of the Universe.png" id="277_Edge of the Universe" data-flag="@N" onclick="openSidebar('277_Edge of the Universe',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/282_Plains.png" id="282_Plains" data-flag="@N" onclick="openSidebar('282_Plains',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/284_Swamp.png" id="284_Swamp" data-flag="@N" onclick="openSidebar('284_Swamp',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/283_Island.png" id="283_Island" data-flag="@N" onclick="openSidebar('283_Island',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/286_Forest.png" id="286_Forest" data-flag="@N" onclick="openSidebar('286_Forest',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/285_Mountain.png" id="285_Mountain" data-flag="@N" onclick="openSidebar('285_Mountain',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/1t_Void Corona.png" id="1t_Void Corona" data-flag="@N" onclick="openSidebar('1t_Void Corona',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/9t_Robot.png" id="9t_Robot" data-flag="@N" onclick="openSidebar('9t_Robot',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/2t_Angel.png" id="2t_Angel" data-flag="@N" onclick="openSidebar('2t_Angel',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/3t_Demigod.png" id="3t_Demigod" data-flag="@N" onclick="openSidebar('3t_Demigod',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/4t_Leviathan.png" id="4t_Leviathan" data-flag="@N" onclick="openSidebar('4t_Leviathan',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/5t_Pilot.png" id="5t_Pilot" data-flag="@N" onclick="openSidebar('5t_Pilot',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/6t_Berserker.png" id="6t_Berserker" data-flag="@N" onclick="openSidebar('6t_Berserker',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/7t_Plant.png" id="7t_Plant" data-flag="@N" onclick="openSidebar('7t_Plant',false)"></div>
+				<div class="container"><img alt="/sets/VYI-files/img/8t_Spirit Elk.png" id="8t_Spirit Elk" data-flag="@N" onclick="openSidebar('8t_Spirit Elk',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		document.body.style.backgroundImage = 'url(' + document.getElementById("bg").src + ')';
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>

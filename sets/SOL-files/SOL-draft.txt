@@ -1,0 +1,3592 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Josiah, Bitter Survivor",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Josiah",
+			"collector_number": "59",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/SOL-files/img/59_Josiah, Bitter Survivor_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/59_Josiah, Bitter Survivor_front.png"
+			}
+		},
+		{
+			"name": "Scion of Heaven and Hell",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Angel Demon",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/108_Scion of Heaven and Hell.png"
+			}
+		},
+		{
+			"name": "Shadowborn Apostle",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/111_Shadowborn Apostle.png"
+			}
+		},
+		{
+			"name": "Persistent Contagion",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Fungus Skeleton",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/179_Persistent Contagion.png"
+			}
+		},
+		{
+			"name": "Mother of Hands",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/214_Mother of Hands.png"
+			}
+		},
+		{
+			"name": "Shadowbane Paladin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric Knight",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/110_Shadowbane Paladin.png"
+			}
+		},
+		{
+			"name": "Artisan of Undeath",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Nightmare Dragon",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/198_Artisan of Undeath.png"
+			}
+		},
+		{
+			"name": "Dust to Flesh to Dust",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/13_Dust to Flesh to Dust.png"
+			}
+		},
+		{
+			"name": "Sylvua, Wyldwood Mother",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Planeswalker — Sylvua",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/219_Sylvua, Wyldwood Mother.png"
+			}
+		},
+		{
+			"name": "At Any Cost",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/81_At Any Cost.png"
+			}
+		},
+		{
+			"name": "Scourge Taskmaster",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/150_Scourge Taskmaster.png"
+			}
+		},
+		{
+			"name": "Staunch Purifier",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "35",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/SOL-files/img/35_Staunch Purifier_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/35_Staunch Purifier_front.png"
+			}
+		},
+		{
+			"name": "Touch of God",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/75_Touch of God.png"
+			}
+		},
+		{
+			"name": "Ripples of Rebirth",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/185_Ripples of Rebirth.png"
+			}
+		},
+		{
+			"name": "Stonesprung Spirit",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Spirit",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/190_Stonesprung Spirit.png"
+			}
+		},
+		{
+			"name": "Eclipse Paladin",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Nightmare Cleric Knight",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/88_Eclipse Paladin.png"
+			}
+		},
+		{
+			"name": "Death's Undoing",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/11_Death's Undoing.png"
+			}
+		},
+		{
+			"name": "Seeker of Atonement",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric Knight",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/29_Seeker of Atonement.png"
+			}
+		},
+		{
+			"name": "Sanguis Sanctorum",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/107_Sanguis Sanctorum.png"
+			}
+		},
+		{
+			"name": "Reygias, Lord Phytolich",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Skeleton Warlock",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/184_Reygias, Lord Phytolich.png"
+			}
+		},
+		{
+			"name": "Stonework Angel",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Angel",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/246_Stonework Angel.png"
+			}
+		},
+		{
+			"name": "Whisperer of Sweetest Lies",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spider Demon",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/117_Whisperer of Sweetest Lies.png"
+			}
+		},
+		{
+			"name": "Flame-Scarred Abomination",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/138_Flame-Scarred Abomination.png"
+			}
+		},
+		{
+			"name": "Kael-dun Inquisitor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/99_Kael-dun Inquisitor.png"
+			}
+		},
+		{
+			"name": "Terithius, the Iron Mind",
+			"rarity": "rare",
+			"mana_cost": "{9}{W}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/222_Terithius, the Iron Mind.png"
+			}
+		},
+		{
+			"name": "Engine of Our Eden",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/234_Engine of Our Eden.png"
+			}
+		},
+		{
+			"name": "They Shall Know Perdition",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/114_They Shall Know Perdition.png"
+			}
+		},
+		{
+			"name": "Sphere of Isolation",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/32_Sphere of Isolation.png"
+			}
+		},
+		{
+			"name": "Ancient Transmutation",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/119_Ancient Transmutation.png"
+			}
+		},
+		{
+			"name": "Aos, Augur of Damnations",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Skeleton",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/80_Aos, Augur of Damnations.png"
+			}
+		},
+		{
+			"name": "Grit",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/16_Grit.png"
+			}
+		},
+		{
+			"name": "Eira, Selfless Paladin",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Planeswalker — Eira",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/205_Eira, Selfless Paladin.png"
+			}
+		},
+		{
+			"name": "Breaker of Reality",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/44_Breaker of Reality.png"
+			}
+		},
+		{
+			"name": "Ironclad Necromancers",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Zombie Warlock",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/171_Ironclad Necromancers.png"
+			}
+		},
+		{
+			"name": "Glittering Gargoyle",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Gargoyle",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/237_Glittering Gargoyle.png"
+			}
+		},
+		{
+			"name": "Tessa, Saint Reborn",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Zombie Avatar",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/223_Tessa, Saint Reborn.png"
+			}
+		},
+		{
+			"name": "Cradle of Nascence",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/232_Cradle of Nascence.png"
+			}
+		},
+		{
+			"name": "Ijara, the Last Teluran",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Moonfolk Artificer",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/19_Ijara, the Last Teluran.png"
+			}
+		},
+		{
+			"name": "Petalwisp Whisperer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/180_Petalwisp Whisperer.png"
+			}
+		},
+		{
+			"name": "Wyldwood Dryad",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Dryad Warlock",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/118_Wyldwood Dryad.png"
+			}
+		},
+		{
+			"name": "Emperor Thuraxes IV",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{R}",
+			"type": "Legendary Creature — Avatar Noble",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/206_Emperor Thuraxes IV.png"
+			}
+		},
+		{
+			"name": "Fascimile of Gods",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "167",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/SOL-files/img/167_Fascimile of Gods_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/167_Fascimile of Gods_front.png"
+			}
+		},
+		{
+			"name": "Blood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Blood",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/9_Blood.png"
+			}
+		},
+		{
+			"name": "Hellfire Ballista",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/238_Hellfire Ballista.png"
+			}
+		},
+		{
+			"name": "Wyldwood Ceremony",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/197_Wyldwood Ceremony.png"
+			}
+		},
+		{
+			"name": "Ironblessed Inquisitor",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/20_Ironblessed Inquisitor.png"
+			}
+		},
+		{
+			"name": "All are Slave to Time",
+			"rarity": "mythic",
+			"mana_cost": "{X}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/40_All are Slave to Time.png"
+			}
+		},
+		{
+			"name": "Josiah's Betrayal",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/98_Josiah's Betrayal.png"
+			}
+		},
+		{
+			"name": "Herald of an Age of Iron",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/170_Herald of an Age of Iron.png"
+			}
+		},
+		{
+			"name": "Execute for Blasphemy",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/90_Execute for Blasphemy.png"
+			}
+		},
+		{
+			"name": "The Memory Terminal",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/239_The Memory Terminal.png"
+			}
+		},
+		{
+			"name": "Clarion Paladin",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric Knight",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/9_Clarion Paladin.png"
+			}
+		},
+		{
+			"name": "Paladin of Fury",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/146_Paladin of Fury.png"
+			}
+		},
+		{
+			"name": "Walk Out of Hell",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/228_Walk Out of Hell.png"
+			}
+		},
+		{
+			"name": "Odeon, Goldmask Rogue",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "104",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/SOL-files/img/104_Odeon, Goldmask Rogue_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/104_Odeon, Goldmask Rogue_front.png"
+			}
+		},
+		{
+			"name": "Calamity Tyrant",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/129_Calamity Tyrant.png"
+			}
+		},
+		{
+			"name": "Reweaver of Thuraxes",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Artifact Creature — Human Artificer",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/216_Reweaver of Thuraxes.png"
+			}
+		},
+		{
+			"name": "Putrescent Branchstalker",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Horror",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/183_Putrescent Branchstalker.png"
+			}
+		},
+		{
+			"name": "Go to Hell",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/94_Go to Hell.png"
+			}
+		},
+		{
+			"name": "Flesh and Bone Yield Easily",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/211_Flesh and Bone Yield Easily.png"
+			}
+		},
+		{
+			"name": "Teluran Sarcophagus",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Artifact",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/221_Teluran Sarcophagus.png"
+			}
+		},
+		{
+			"name": "Infernal Torturer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/142_Infernal Torturer.png"
+			}
+		},
+		{
+			"name": "Carrion-Cutter Seraph",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Artifact Creature — Angel",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/201_Carrion-Cutter Seraph.png"
+			}
+		},
+		{
+			"name": "Bejeweled Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/199_Bejeweled Dragon.png"
+			}
+		},
+		{
+			"name": "Legate Sparkweaver",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/143_Legate Sparkweaver.png"
+			}
+		},
+		{
+			"name": "Glint-Edge Knight",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Knight",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/56_Glint-Edge Knight.png"
+			}
+		},
+		{
+			"name": "Coaxer of the Cycle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dryad Warlock",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/163_Coaxer of the Cycle.png"
+			}
+		},
+		{
+			"name": "Shackled Phantom",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit Rogue",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/109_Shackled Phantom.png"
+			}
+		},
+		{
+			"name": "Auctor of the Testament",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Zombie Warlock",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/120_Auctor of the Testament.png"
+			}
+		},
+		{
+			"name": "Arbiter of Purity",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric Knight",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/1_Arbiter of Purity.png"
+			}
+		},
+		{
+			"name": "Thunderous Corruscation",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/153_Thunderous Corruscation.png"
+			}
+		},
+		{
+			"name": "Ward of the Skies",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "196",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/SOL-files/img/196_Ward of the Skies_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/196_Ward of the Skies_front.png"
+			}
+		},
+		{
+			"name": "Surgeblade Duelist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Azra Knight",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/74_Surgeblade Duelist.png"
+			}
+		},
+		{
+			"name": "Exalted Persecutor",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/89_Exalted Persecutor.png"
+			}
+		},
+		{
+			"name": "Dawn's Herald",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "10",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/SOL-files/img/10_Dawn's Herald_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/10_Dawn's Herald_front.png"
+			}
+		},
+		{
+			"name": "Cleave the Soul",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/85_Cleave the Soul.png"
+			}
+		},
+		{
+			"name": "Soulbound Chassis",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/72_Soulbound Chassis.png"
+			}
+		},
+		{
+			"name": "Smoldering Tormentor",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/152_Smoldering Tormentor.png"
+			}
+		},
+		{
+			"name": "Hell's Chorus",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/140_Hell's Chorus.png"
+			}
+		},
+		{
+			"name": "Protean Scion",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/182_Protean Scion.png"
+			}
+		},
+		{
+			"name": "Cobbled Equine",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Horse Golem",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/164_Cobbled Equine.png"
+			}
+		},
+		{
+			"name": "Sol Construct",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/243_Sol Construct.png"
+			}
+		},
+		{
+			"name": "Leonin Shadowcaster",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Cat Warlock",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/101_Leonin Shadowcaster.png"
+			}
+		},
+		{
+			"name": "Blightchoke Exarch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/124_Blightchoke Exarch.png"
+			}
+		},
+		{
+			"name": "Grinning Serpent",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}",
+			"type": "Creature — Skeleton Serpent",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/57_Grinning Serpent.png"
+			}
+		},
+		{
+			"name": "Marble Arbiter",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Artifact Creature — Angel",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/61_Marble Arbiter.png"
+			}
+		},
+		{
+			"name": "Overmorrow's Architect",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Avatar Artificer",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/66_Overmorrow's Architect.png"
+			}
+		},
+		{
+			"name": "Sentient Artificer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Artifact Creature — Construct Artificer",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/218_Sentient Artificer.png"
+			}
+		},
+		{
+			"name": "Lux Potentate",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Creature — Angel",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/213_Lux Potentate.png"
+			}
+		},
+		{
+			"name": "Endless Tome",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Artifact",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/207_Endless Tome.png"
+			}
+		},
+		{
+			"name": "Twisting Steel",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/76_Twisting Steel.png"
+			}
+		},
+		{
+			"name": "Viscera Cultist",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Zombie Cleric",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/227_Viscera Cultist.png"
+			}
+		},
+		{
+			"name": "Twinferno Summoner",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/225_Twinferno Summoner.png"
+			}
+		},
+		{
+			"name": "Sylvua's Reckoning",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/220_Sylvua's Reckoning.png"
+			}
+		},
+		{
+			"name": "Wyldwood Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Satyr",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/231_Wyldwood Guardian.png"
+			}
+		},
+		{
+			"name": "Blighted Theologist",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Zombie Warlock",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/200_Blighted Theologist.png"
+			}
+		},
+		{
+			"name": "Muck Fiends",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/215_Muck Fiends.png"
+			}
+		},
+		{
+			"name": "Choir of Doubt",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/202_Choir of Doubt.png"
+			}
+		},
+		{
+			"name": "Weave Infinity",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/229_Weave Infinity.png"
+			}
+		},
+		{
+			"name": "Rusted Colossus",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/217_Rusted Colossus.png"
+			}
+		},
+		{
+			"name": "Wrathful Judgment",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/230_Wrathful Judgment.png"
+			}
+		},
+		{
+			"name": "Tiller of the Damned",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Zombie Giant",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/224_Tiller of the Damned.png"
+			}
+		},
+		{
+			"name": "Ephiridian Tunneler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Mole Horror",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/209_Ephiridian Tunneler.png"
+			}
+		},
+		{
+			"name": "Heaventouched Sentinel",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Artifact Creature — Angel",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/17_Heaventouched Sentinel.png"
+			}
+		},
+		{
+			"name": "Forlorn Knight",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Construct Knight",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/92_Forlorn Knight.png"
+			}
+		},
+		{
+			"name": "Everwatching Widow",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/166_Everwatching Widow.png"
+			}
+		},
+		{
+			"name": "Phytolich's Research",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/181_Phytolich's Research.png"
+			}
+		},
+		{
+			"name": "Drown in Fear",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/87_Drown in Fear.png"
+			}
+		},
+		{
+			"name": "Elbrine Thundercaller",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/49_Elbrine Thundercaller.png"
+			}
+		},
+		{
+			"name": "Enclave Piercer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/135_Enclave Piercer.png"
+			}
+		},
+		{
+			"name": "Feverbite Winder",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant Skeleton Horror",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/168_Feverbite Winder.png"
+			}
+		},
+		{
+			"name": "Heart of the Wyldwood",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Avatar",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/169_Heart of the Wyldwood.png"
+			}
+		},
+		{
+			"name": "Misshapen Buck",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Mutant Beast",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/176_Misshapen Buck.png"
+			}
+		},
+		{
+			"name": "Sylvua's Dryad",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/193_Sylvua's Dryad.png"
+			}
+		},
+		{
+			"name": "Ritual of Negation",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/68_Ritual of Negation.png"
+			}
+		},
+		{
+			"name": "Plated Leviathan",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Leviathan",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/67_Plated Leviathan.png"
+			}
+		},
+		{
+			"name": "Eldest Archengine",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/233_Eldest Archengine.png"
+			}
+		},
+		{
+			"name": "Ambling Ruins",
+			"rarity": "common",
+			"mana_cost": "{7}{G}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/158_Ambling Ruins.png"
+			}
+		},
+		{
+			"name": "Devour Tender Flesh",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/133_Devour Tender Flesh.png"
+			}
+		},
+		{
+			"name": "Grotesque Abomination",
+			"rarity": "common",
+			"mana_cost": "{6}{B}",
+			"type": "Artifact Creature — Horror",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/95_Grotesque Abomination.png"
+			}
+		},
+		{
+			"name": "Lightborn Apostle",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/21_Lightborn Apostle.png"
+			}
+		},
+		{
+			"name": "Prism of Portents",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/240_Prism of Portents.png"
+			}
+		},
+		{
+			"name": "Rock Scorpion",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact Creature — Scorpion",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/148_Rock Scorpion.png"
+			}
+		},
+		{
+			"name": "Sentence to the Gaol",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/30_Sentence to the Gaol.png"
+			}
+		},
+		{
+			"name": "Field Testing",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/210_Field Testing.png"
+			}
+		},
+		{
+			"name": "Blood-Cursed Diabolist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Azra Warlock",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/125_Blood-Cursed Diabolist.png"
+			}
+		},
+		{
+			"name": "Whisperer of Pale Boons",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Azra Warlock",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/157_Whisperer of Pale Boons.png"
+			}
+		},
+		{
+			"name": "Valentina, Dread Impaler",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Azra Vampire",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/226_Valentina, Dread Impaler.png"
+			}
+		},
+		{
+			"name": "Joy in Bright Chaos",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Instant",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/212_Joy in Bright Chaos.png"
+			}
+		},
+		{
+			"name": "Bismuth Guardian",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Golem Warrior",
+			"collector_number": "159",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/SOL-files/img/159_Bismuth Guardian_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/159_Bismuth Guardian_front.png"
+			}
+		},
+		{
+			"name": "Finecraft Seraph",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Angel",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/235_Finecraft Seraph.png"
+			}
+		},
+		{
+			"name": "Rotten Communion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/186_Rotten Communion.png"
+			}
+		},
+		{
+			"name": "Steelskin Pilgrim",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Scout",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/245_Steelskin Pilgrim.png"
+			}
+		},
+		{
+			"name": "Radiant Sunwright",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/241_Radiant Sunwright.png"
+			}
+		},
+		{
+			"name": "Extan Steelshifter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/52_Extan Steelshifter.png"
+			}
+		},
+		{
+			"name": "Startouched Wayfarer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Azra Cleric",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/34_Startouched Wayfarer.png"
+			}
+		},
+		{
+			"name": "Vampire Dragon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Vampire Dragon",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/7_Vampire Dragon.png"
+			}
+		},
+		{
+			"name": "Clockwork Arachnid",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Artifact Creature — Spider",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/162_Clockwork Arachnid.png"
+			}
+		},
+		{
+			"name": "Lotus Cultivator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/103_Lotus Cultivator.png"
+			}
+		},
+		{
+			"name": "Boiling Fury",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/126_Boiling Fury.png"
+			}
+		},
+		{
+			"name": "Disdainful Stroke",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/47_Disdainful Stroke.png"
+			}
+		},
+		{
+			"name": "Bismuth Skycity",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/249_Bismuth Skycity.png"
+			}
+		},
+		{
+			"name": "Knight of the Thorn",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/100_Knight of the Thorn.png"
+			}
+		},
+		{
+			"name": "Choking Grief",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/84_Choking Grief.png"
+			}
+		},
+		{
+			"name": "Extan Runeweaving",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Sorcery",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/51_Extan Runeweaving.png"
+			}
+		},
+		{
+			"name": "Pull of Heaven",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/106_Pull of Heaven.png"
+			}
+		},
+		{
+			"name": "Lifeblood Imitation",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/102_Lifeblood Imitation.png"
+			}
+		},
+		{
+			"name": "Unnatural Hunger",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/116_Unnatural Hunger.png"
+			}
+		},
+		{
+			"name": "Spindlewail",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact Creature — Demon",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/112_Spindlewail.png"
+			}
+		},
+		{
+			"name": "Belltower Haunt",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Bat Demon",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/82_Belltower Haunt.png"
+			}
+		},
+		{
+			"name": "Stitched Pontiff",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Cleric Knight",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/113_Stitched Pontiff.png"
+			}
+		},
+		{
+			"name": "See Worlds Beyond",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/187_See Worlds Beyond.png"
+			}
+		},
+		{
+			"name": "Swelling Growth",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/192_Swelling Growth.png"
+			}
+		},
+		{
+			"name": "Cloak of Miasma",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/161_Cloak of Miasma.png"
+			}
+		},
+		{
+			"name": "Life and Death",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/173_Life and Death.png"
+			}
+		},
+		{
+			"name": "Virulent Husk",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Skeleton",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/195_Virulent Husk.png"
+			}
+		},
+		{
+			"name": "Sprouting Sentinel",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Knight",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/189_Sprouting Sentinel.png"
+			}
+		},
+		{
+			"name": "Nascent Lich",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Zombie Warlock",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/177_Nascent Lich.png"
+			}
+		},
+		{
+			"name": "Stump Brute",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/191_Stump Brute.png"
+			}
+		},
+		{
+			"name": "Silver Suitor",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Knight",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/71_Silver Suitor.png"
+			}
+		},
+		{
+			"name": "Unleashed Guardian",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Horror",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/38_Unleashed Guardian.png"
+			}
+		},
+		{
+			"name": "By Heaven's Decree",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/6_By Heaven's Decree.png"
+			}
+		},
+		{
+			"name": "Devotion Rewarded",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/12_Devotion Rewarded.png"
+			}
+		},
+		{
+			"name": "Banishing Thrust",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/4_Banishing Thrust.png"
+			}
+		},
+		{
+			"name": "Herald of the Clarion",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/18_Herald of the Clarion.png"
+			}
+		},
+		{
+			"name": "Noble Steed",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Pegasus",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/23_Noble Steed.png"
+			}
+		},
+		{
+			"name": "Champion of Relos",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/8_Champion of Relos.png"
+			}
+		},
+		{
+			"name": "Paladin of Sacred Testament",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/25_Paladin of Sacred Testament.png"
+			}
+		},
+		{
+			"name": "Steelwrought Sunblade",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Knight",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/36_Steelwrought Sunblade.png"
+			}
+		},
+		{
+			"name": "Prophet of Rheydia",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/26_Prophet of Rheydia.png"
+			}
+		},
+		{
+			"name": "Blessed Feathers",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/43_Blessed Feathers.png"
+			}
+		},
+		{
+			"name": "Gaze Inward",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/54_Gaze Inward.png"
+			}
+		},
+		{
+			"name": "Weigh the Soul",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/79_Weigh the Soul.png"
+			}
+		},
+		{
+			"name": "Among the Lily Pads",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/41_Among the Lily Pads.png"
+			}
+		},
+		{
+			"name": "Call Beyond",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/45_Call Beyond.png"
+			}
+		},
+		{
+			"name": "Seraph of Storms",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Angel",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/70_Seraph of Storms.png"
+			}
+		},
+		{
+			"name": "Josiah's Bulwark",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Knight",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/60_Josiah's Bulwark.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Soldier",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/12_Soldier.png"
+			}
+		},
+		{
+			"name": "To Stone and Ash",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/154_To Stone and Ash.png"
+			}
+		},
+		{
+			"name": "Cleave the Blood of Gods",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/130_Cleave the Blood of Gods.png"
+			}
+		},
+		{
+			"name": "Cruel Heartstealer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Azra Warlock",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/131_Cruel Heartstealer.png"
+			}
+		},
+		{
+			"name": "Biting Pain",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/123_Biting Pain.png"
+			}
+		},
+		{
+			"name": "Molten Bloodhunter",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/145_Molten Bloodhunter.png"
+			}
+		},
+		{
+			"name": "Skull Summoner",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/151_Skull Summoner.png"
+			}
+		},
+		{
+			"name": "Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Knight",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/2_Knight.png"
+			}
+		},
+		{
+			"name": "Golem",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Golem",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/10_Golem.png"
+			}
+		},
+		{
+			"name": "Extan Knight-Errant",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Knight",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/137_Extan Knight-Errant.png"
+			}
+		},
+		{
+			"name": "Voidhungry Avatar",
+			"rarity": "common",
+			"mana_cost": "{6}{R}",
+			"type": "Creature — Avatar",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/156_Voidhungry Avatar.png"
+			}
+		},
+		{
+			"name": "Sol Herald",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/244_Sol Herald.png"
+			}
+		},
+		{
+			"name": "Evolving Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/252_Evolving Wilds.png"
+			}
+		},
+		{
+			"name": "Burning Eyebeam",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/128_Burning Eyebeam.png"
+			}
+		},
+		{
+			"name": "Glorious Protoseraph",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/15_Glorious Protoseraph.png"
+			}
+		},
+		{
+			"name": "March Against Fate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/175_March Against Fate.png"
+			}
+		},
+		{
+			"name": "Bismuth Archdeacon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/42_Bismuth Archdeacon.png"
+			}
+		},
+		{
+			"name": "Bismuth Cube",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/5_Bismuth Cube.png"
+			}
+		},
+		{
+			"name": "Augmented Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Artifact Creature — Dragon",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/121_Augmented Dragon.png"
+			}
+		},
+		{
+			"name": "Oracle of the Extan",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/65_Oracle of the Extan.png"
+			}
+		},
+		{
+			"name": "Forsaken Chalkmason",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Horror",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/93_Forsaken Chalkmason.png"
+			}
+		},
+		{
+			"name": "Eluriel, Final Evolution",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}{U}",
+			"type": "Legendary Artifact Creature — Angel",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/50_Eluriel, Final Evolution.png"
+			}
+		},
+		{
+			"name": "Page of Gold",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/24_Page of Gold.png"
+			}
+		},
+		{
+			"name": "Veintwinned Harp",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/248_Veintwinned Harp.png"
+			}
+		},
+		{
+			"name": "Encased in Gold",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/14_Encased in Gold.png"
+			}
+		},
+		{
+			"name": "Icon of the Blessed Horde",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/96_Icon of the Blessed Horde.png"
+			}
+		},
+		{
+			"name": "Aureate Partizan",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/3_Aureate Partizan.png"
+			}
+		},
+		{
+			"name": "Suncrowned Lion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/37_Suncrowned Lion.png"
+			}
+		},
+		{
+			"name": "Wyldwood Sanctifier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/39_Wyldwood Sanctifier.png"
+			}
+		},
+		{
+			"name": "Celestial Mandate",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/7_Celestial Mandate.png"
+			}
+		},
+		{
+			"name": "Ashen Lichlord",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Zombie Warlock",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/2_Ashen Lichlord.png"
+			}
+		},
+		{
+			"name": "Soulchained Remnant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Knight",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/31_Soulchained Remnant.png"
+			}
+		},
+		{
+			"name": "Sacred Sacrament",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/27_Sacred Sacrament.png"
+			}
+		},
+		{
+			"name": "Scion of Blossoms",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/28_Scion of Blossoms.png"
+			}
+		},
+		{
+			"name": "Living Littany",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/22_Living Littany.png"
+			}
+		},
+		{
+			"name": "Runic Lockdown",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/69_Runic Lockdown.png"
+			}
+		},
+		{
+			"name": "Dracolich's Mastery",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/48_Dracolich's Mastery.png"
+			}
+		},
+		{
+			"name": "Messengers of the Void",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Archon",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/62_Messengers of the Void.png"
+			}
+		},
+		{
+			"name": "Engines of Hell",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/136_Engines of Hell.png"
+			}
+		},
+		{
+			"name": "Birth from Blood",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/122_Birth from Blood.png"
+			}
+		},
+		{
+			"name": "Mad Tormentor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Horror Knight",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/144_Mad Tormentor.png"
+			}
+		},
+		{
+			"name": "Starsent Speaker",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/73_Starsent Speaker.png"
+			}
+		},
+		{
+			"name": "Generated Voidling",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Artifact Creature — Avatar",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/55_Generated Voidling.png"
+			}
+		},
+		{
+			"name": "Fell Demiurge",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Avatar Wizard",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/53_Fell Demiurge.png"
+			}
+		},
+		{
+			"name": "Confounding Cambion",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Artifact Creature — Demon",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/86_Confounding Cambion.png"
+			}
+		},
+		{
+			"name": "Sylvua's Wyldbeast",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/194_Sylvua's Wyldbeast.png"
+			}
+		},
+		{
+			"name": "Undeath's Domination",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/77_Undeath's Domination.png"
+			}
+		},
+		{
+			"name": "Lotus Tender",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/174_Lotus Tender.png"
+			}
+		},
+		{
+			"name": "Influence the Scales",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/58_Influence the Scales.png"
+			}
+		},
+		{
+			"name": "Thorn Dragoon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Horror Knight",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/115_Thorn Dragoon.png"
+			}
+		},
+		{
+			"name": "One Man Army",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/64_One Man Army.png"
+			}
+		},
+		{
+			"name": "Voidbound Lightstealer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Angel",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/78_Voidbound Lightstealer.png"
+			}
+		},
+		{
+			"name": "Day of Calamity",
+			"rarity": "rare",
+			"mana_cost": "{7}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/46_Day of Calamity.png"
+			}
+		},
+		{
+			"name": "Blighted Binding",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/83_Blighted Binding.png"
+			}
+		},
+		{
+			"name": "Natural Artifice",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/178_Natural Artifice.png"
+			}
+		},
+		{
+			"name": "Jailer's Ire",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/97_Jailer's Ire.png"
+			}
+		},
+		{
+			"name": "Osteogenesis",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/105_Osteogenesis.png"
+			}
+		},
+		{
+			"name": "Feed On the Crimson Sun",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/91_Feed On the Crimson Sun.png"
+			}
+		},
+		{
+			"name": "Bog Ghoul",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/160_Bog Ghoul.png"
+			}
+		},
+		{
+			"name": "Lady of the Lilies",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Azra Druid",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/172_Lady of the Lilies.png"
+			}
+		},
+		{
+			"name": "Ensouled Stones",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Artifact Creature — Spirit Golem",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/165_Ensouled Stones.png"
+			}
+		},
+		{
+			"name": "Verox, the Forgelord",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Artifact Creature — Dragon",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/155_Verox, the Forgelord.png"
+			}
+		},
+		{
+			"name": "Portents of Blood",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/147_Portents of Blood.png"
+			}
+		},
+		{
+			"name": "Gateway Protector",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/139_Gateway Protector.png"
+			}
+		},
+		{
+			"name": "Shepherding the Rot",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/188_Shepherding the Rot.png"
+			}
+		},
+		{
+			"name": "Braintree Divination",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/127_Braintree Divination.png"
+			}
+		},
+		{
+			"name": "Descent into Chaos",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/132_Descent into Chaos.png"
+			}
+		},
+		{
+			"name": "Nexus Serasphinx",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Angel Sphinx",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/63_Nexus Serasphinx.png"
+			}
+		},
+		{
+			"name": "Implement of Thuraxes",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/141_Implement of Thuraxes.png"
+			}
+		},
+		{
+			"name": "Doom Monarch",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Zombie Noble",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/134_Doom Monarch.png"
+			}
+		},
+		{
+			"name": "Scarlet Liturgy",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/149_Scarlet Liturgy.png"
+			}
+		},
+		{
+			"name": "Starsent Angel",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/33_Starsent Angel.png"
+			}
+		},
+		{
+			"name": "Clamber to the Light",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/203_Clamber to the Light.png"
+			}
+		},
+		{
+			"name": "Endure Hell",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/208_Endure Hell.png"
+			}
+		},
+		{
+			"name": "Dimension Dancer",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Angel",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/204_Dimension Dancer.png"
+			}
+		},
+		{
+			"name": "Gilded Maiden",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/236_Gilded Maiden.png"
+			}
+		},
+		{
+			"name": "Sword of Josiah",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Knight",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/247_Sword of Josiah.png"
+			}
+		},
+		{
+			"name": "Shepherd of Shadows",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/242_Shepherd of Shadows.png"
+			}
+		},
+		{
+			"name": "Teluran Gardens",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/257_Teluran Gardens.png"
+			}
+		},
+		{
+			"name": "Resurgent Ruins",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/254_Resurgent Ruins.png"
+			}
+		},
+		{
+			"name": "Charged Confluence",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/250_Charged Confluence.png"
+			}
+		},
+		{
+			"name": "Shattered Spires",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/256_Shattered Spires.png"
+			}
+		},
+		{
+			"name": "Hollow Church",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/253_Hollow Church.png"
+			}
+		},
+		{
+			"name": "Desecrated Monument",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/251_Desecrated Monument.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/262_Forest.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/259_Island.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/261_Mountain.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/258_Plains.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/260_Swamp.png"
+			}
+		},
+		{
+			"name": "Shattered Peak",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/255_Shattered Peak.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/3_Zombie.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/13_Treasure.png"
+			}
+		},
+		{
+			"name": "Black Lotus",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/8_Black Lotus.png"
+			}
+		},
+		{
+			"name": "Dragon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dragon",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/4_Dragon.png"
+			}
+		},
+		{
+			"name": "Warrior",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Warrior",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/5_Warrior.png"
+			}
+		},
+		{
+			"name": "Iron Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Land — Wastes",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/11_Iron Wastes.png"
+			}
+		},
+		{
+			"name": "Angel",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Angel",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/1_Angel.png"
+			}
+		},
+		{
+			"name": "Angel Demon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Angel Demon",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/6_Angel Demon.png"
+			}
+		},
+		{
+			"name": "Doom Monarch",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Zombie Noble",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/0_Doom Monarch.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Josiah, Bitter Survivor
+	1 Scion of Heaven and Hell
+	2 Mother of Hands
+	2 Artisan of Undeath
+	2 Dust to Flesh to Dust
+	1 Sylvua, Wyldwood Mother
+	2 At Any Cost
+	2 Scourge Taskmaster
+	2 Staunch Purifier
+	2 Ripples of Rebirth
+	2 Stonesprung Spirit
+	1 Death's Undoing
+	2 Reygias, Lord Phytolich
+	2 Whisperer of Sweetest Lies
+	2 Flame-Scarred Abomination
+	2 Terithius, the Iron Mind
+	1 Engine of Our Eden
+	2 They Shall Know Perdition
+	2 Aos, Augur of Damnations
+	2 Grit
+	1 Eira, Selfless Paladin
+	2 Breaker of Reality
+	2 Ironclad Necromancers
+	1 Tessa, Saint Reborn
+	2 Cradle of Nascence
+	2 Ijara, the Last Teluran
+	1 Emperor Thuraxes IV
+	2 Fascimile of Gods
+	2 Ironblessed Inquisitor
+	1 All are Slave to Time
+	2 Josiah's Betrayal
+	1 Herald of an Age of Iron
+	1 The Memory Terminal
+	2 Clarion Paladin
+	1 Paladin of Fury
+	1 Odeon, Goldmask Rogue
+	1 Calamity Tyrant
+	2 Reweaver of Thuraxes
+	2 Teluran Sarcophagus
+	2 Auctor of the Testament
+	2 Cleave the Soul
+	2 Soulbound Chassis
+	2 Hell's Chorus
+	2 Protean Scion
+	2 Sol Construct
+	2 Grinning Serpent
+	2 Overmorrow's Architect
+	2 Twisting Steel
+	2 Blighted Theologist
+	1 Eldest Archengine
+	2 Valentina, Dread Impaler
+	1 Bismuth Guardian
+	2 Finecraft Seraph
+	2 Radiant Sunwright
+	2 Boiling Fury
+	2 Bismuth Skycity
+	2 Stitched Pontiff
+	2 Virulent Husk
+	2 Eluriel, Final Evolution
+	2 Page of Gold
+	2 Veintwinned Harp
+	2 Aureate Partizan
+	2 Fell Demiurge
+	2 Confounding Cambion
+	2 Sylvua's Wyldbeast
+	1 Lotus Tender
+	2 Day of Calamity
+	2 Verox, the Forgelord
+	1 Nexus Serasphinx
+	2 Doom Monarch
+	2 Scarlet Liturgy
+	1 Starsent Angel
+	2 Clamber to the Light
+	2 Endure Hell
+	2 Dimension Dancer
+	2 Resurgent Ruins
+	2 Charged Confluence
+	2 Shattered Spires
+	2 Hollow Church
+	2 Desecrated Monument
+	2 Doom Monarch
+[uncommon(3)]
+	4 Persistent Contagion
+	4 Shadowbane Paladin
+	4 Touch of God
+	4 Eclipse Paladin
+	4 Sanguis Sanctorum
+	4 Kael-dun Inquisitor
+	4 Sphere of Isolation
+	4 Glittering Gargoyle
+	4 Petalwisp Whisperer
+	4 Wyldwood Ceremony
+	4 Walk Out of Hell
+	4 Putrescent Branchstalker
+	4 Go to Hell
+	4 Flesh and Bone Yield Easily
+	4 Infernal Torturer
+	4 Carrion-Cutter Seraph
+	4 Bejeweled Dragon
+	4 Coaxer of the Cycle
+	4 Arbiter of Purity
+	4 Ward of the Skies
+	4 Surgeblade Duelist
+	4 Dawn's Herald
+	4 Smoldering Tormentor
+	4 Leonin Shadowcaster
+	4 Blightchoke Exarch
+	4 Sentient Artificer
+	4 Lux Potentate
+	4 Endless Tome
+	4 Viscera Cultist
+	4 Twinferno Summoner
+	4 Sylvua's Reckoning
+	4 Wyldwood Guardian
+	4 Muck Fiends
+	4 Choir of Doubt
+	4 Weave Infinity
+	4 Rusted Colossus
+	4 Wrathful Judgment
+	4 Tiller of the Damned
+	4 Ephiridian Tunneler
+	4 Field Testing
+	4 Blood-Cursed Diabolist
+	4 Joy in Bright Chaos
+	4 Rotten Communion
+	4 Clockwork Arachnid
+	4 Lotus Cultivator
+	4 Disdainful Stroke
+	4 Burning Eyebeam
+	4 Glorious Protoseraph
+	4 March Against Fate
+	4 Bismuth Archdeacon
+	4 Bismuth Cube
+	4 Augmented Dragon
+	4 Oracle of the Extan
+	4 Forsaken Chalkmason
+	4 Encased in Gold
+	4 Icon of the Blessed Horde
+	4 Suncrowned Lion
+	4 Wyldwood Sanctifier
+	4 Celestial Mandate
+	4 Ashen Lichlord
+	4 Soulchained Remnant
+	4 Sacred Sacrament
+	4 Scion of Blossoms
+	4 Living Littany
+	4 Runic Lockdown
+	4 Dracolich's Mastery
+	4 Messengers of the Void
+	4 Engines of Hell
+	4 Birth from Blood
+	4 Mad Tormentor
+	4 Starsent Speaker
+	4 Generated Voidling
+	4 Undeath's Domination
+	4 Influence the Scales
+	4 Thorn Dragoon
+	4 One Man Army
+	4 Voidbound Lightstealer
+	4 Blighted Binding
+	4 Natural Artifice
+	4 Jailer's Ire
+	4 Osteogenesis
+	4 Feed On the Crimson Sun
+	4 Bog Ghoul
+	4 Lady of the Lilies
+	4 Ensouled Stones
+	4 Portents of Blood
+	4 Gateway Protector
+	4 Shepherding the Rot
+	4 Braintree Divination
+	4 Descent into Chaos
+	4 Implement of Thuraxes
+	4 Gilded Maiden
+	4 Sword of Josiah
+	4 Shepherd of Shadows
+	4 Teluran Gardens
+	4 Shattered Peak
+[common(7)]
+	8 Shadowborn Apostle
+	8 Seeker of Atonement
+	8 Stonework Angel
+	8 Ancient Transmutation
+	8 Wyldwood Dryad
+	8 Hellfire Ballista
+	8 Execute for Blasphemy
+	8 Legate Sparkweaver
+	8 Glint-Edge Knight
+	8 Shackled Phantom
+	8 Thunderous Corruscation
+	8 Exalted Persecutor
+	8 Cobbled Equine
+	8 Marble Arbiter
+	8 Heaventouched Sentinel
+	8 Forlorn Knight
+	8 Everwatching Widow
+	8 Phytolich's Research
+	8 Drown in Fear
+	8 Elbrine Thundercaller
+	8 Enclave Piercer
+	8 Feverbite Winder
+	8 Heart of the Wyldwood
+	8 Misshapen Buck
+	8 Sylvua's Dryad
+	8 Ritual of Negation
+	8 Plated Leviathan
+	8 Ambling Ruins
+	8 Devour Tender Flesh
+	8 Grotesque Abomination
+	8 Lightborn Apostle
+	8 Prism of Portents
+	8 Rock Scorpion
+	8 Sentence to the Gaol
+	8 Whisperer of Pale Boons
+	8 Steelskin Pilgrim
+	8 Extan Steelshifter
+	8 Startouched Wayfarer
+	8 Knight of the Thorn
+	8 Choking Grief
+	8 Extan Runeweaving
+	8 Pull of Heaven
+	8 Lifeblood Imitation
+	8 Unnatural Hunger
+	8 Spindlewail
+	8 Belltower Haunt
+	8 See Worlds Beyond
+	8 Swelling Growth
+	8 Cloak of Miasma
+	8 Life and Death
+	8 Sprouting Sentinel
+	8 Nascent Lich
+	8 Stump Brute
+	8 Silver Suitor
+	8 Unleashed Guardian
+	8 By Heaven's Decree
+	8 Devotion Rewarded
+	8 Banishing Thrust
+	8 Herald of the Clarion
+	8 Noble Steed
+	8 Champion of Relos
+	8 Paladin of Sacred Testament
+	8 Steelwrought Sunblade
+	8 Prophet of Rheydia
+	8 Blessed Feathers
+	8 Gaze Inward
+	8 Weigh the Soul
+	8 Among the Lily Pads
+	8 Call Beyond
+	8 Seraph of Storms
+	8 Josiah's Bulwark
+	8 To Stone and Ash
+	8 Cleave the Blood of Gods
+	8 Cruel Heartstealer
+	8 Biting Pain
+	8 Molten Bloodhunter
+	8 Skull Summoner
+	8 Extan Knight-Errant
+	8 Voidhungry Avatar
+	8 Sol Herald
+	8 Evolving Wilds
+[foil(1)]
+	1 Josiah, Bitter Survivor
+	1 Scion of Heaven and Hell
+	12 Shadowborn Apostle
+	6 Persistent Contagion
+	2 Mother of Hands
+	6 Shadowbane Paladin
+	2 Artisan of Undeath
+	2 Dust to Flesh to Dust
+	1 Sylvua, Wyldwood Mother
+	2 At Any Cost
+	2 Scourge Taskmaster
+	2 Staunch Purifier
+	6 Touch of God
+	2 Ripples of Rebirth
+	2 Stonesprung Spirit
+	6 Eclipse Paladin
+	1 Death's Undoing
+	12 Seeker of Atonement
+	6 Sanguis Sanctorum
+	2 Reygias, Lord Phytolich
+	12 Stonework Angel
+	2 Whisperer of Sweetest Lies
+	2 Flame-Scarred Abomination
+	6 Kael-dun Inquisitor
+	2 Terithius, the Iron Mind
+	1 Engine of Our Eden
+	2 They Shall Know Perdition
+	6 Sphere of Isolation
+	12 Ancient Transmutation
+	2 Aos, Augur of Damnations
+	2 Grit
+	1 Eira, Selfless Paladin
+	2 Breaker of Reality
+	2 Ironclad Necromancers
+	6 Glittering Gargoyle
+	1 Tessa, Saint Reborn
+	2 Cradle of Nascence
+	2 Ijara, the Last Teluran
+	6 Petalwisp Whisperer
+	12 Wyldwood Dryad
+	1 Emperor Thuraxes IV
+	2 Fascimile of Gods
+	12 Hellfire Ballista
+	6 Wyldwood Ceremony
+	2 Ironblessed Inquisitor
+	1 All are Slave to Time
+	2 Josiah's Betrayal
+	1 Herald of an Age of Iron
+	12 Execute for Blasphemy
+	1 The Memory Terminal
+	2 Clarion Paladin
+	1 Paladin of Fury
+	6 Walk Out of Hell
+	1 Odeon, Goldmask Rogue
+	1 Calamity Tyrant
+	2 Reweaver of Thuraxes
+	6 Putrescent Branchstalker
+	6 Go to Hell
+	6 Flesh and Bone Yield Easily
+	2 Teluran Sarcophagus
+	6 Infernal Torturer
+	6 Carrion-Cutter Seraph
+	6 Bejeweled Dragon
+	12 Legate Sparkweaver
+	12 Glint-Edge Knight
+	6 Coaxer of the Cycle
+	12 Shackled Phantom
+	2 Auctor of the Testament
+	6 Arbiter of Purity
+	12 Thunderous Corruscation
+	6 Ward of the Skies
+	6 Surgeblade Duelist
+	12 Exalted Persecutor
+	6 Dawn's Herald
+	2 Cleave the Soul
+	2 Soulbound Chassis
+	6 Smoldering Tormentor
+	2 Hell's Chorus
+	2 Protean Scion
+	12 Cobbled Equine
+	2 Sol Construct
+	6 Leonin Shadowcaster
+	6 Blightchoke Exarch
+	2 Grinning Serpent
+	12 Marble Arbiter
+	2 Overmorrow's Architect
+	6 Sentient Artificer
+	6 Lux Potentate
+	6 Endless Tome
+	2 Twisting Steel
+	6 Viscera Cultist
+	6 Twinferno Summoner
+	6 Sylvua's Reckoning
+	6 Wyldwood Guardian
+	2 Blighted Theologist
+	6 Muck Fiends
+	6 Choir of Doubt
+	6 Weave Infinity
+	6 Rusted Colossus
+	6 Wrathful Judgment
+	6 Tiller of the Damned
+	6 Ephiridian Tunneler
+	12 Heaventouched Sentinel
+	12 Forlorn Knight
+	12 Everwatching Widow
+	12 Phytolich's Research
+	12 Drown in Fear
+	12 Elbrine Thundercaller
+	12 Enclave Piercer
+	12 Feverbite Winder
+	12 Heart of the Wyldwood
+	12 Misshapen Buck
+	12 Sylvua's Dryad
+	12 Ritual of Negation
+	12 Plated Leviathan
+	1 Eldest Archengine
+	12 Ambling Ruins
+	12 Devour Tender Flesh
+	12 Grotesque Abomination
+	12 Lightborn Apostle
+	12 Prism of Portents
+	12 Rock Scorpion
+	12 Sentence to the Gaol
+	6 Field Testing
+	6 Blood-Cursed Diabolist
+	12 Whisperer of Pale Boons
+	2 Valentina, Dread Impaler
+	6 Joy in Bright Chaos
+	1 Bismuth Guardian
+	2 Finecraft Seraph
+	6 Rotten Communion
+	12 Steelskin Pilgrim
+	2 Radiant Sunwright
+	12 Extan Steelshifter
+	12 Startouched Wayfarer
+	6 Clockwork Arachnid
+	6 Lotus Cultivator
+	2 Boiling Fury
+	6 Disdainful Stroke
+	2 Bismuth Skycity
+	12 Knight of the Thorn
+	12 Choking Grief
+	12 Extan Runeweaving
+	12 Pull of Heaven
+	12 Lifeblood Imitation
+	12 Unnatural Hunger
+	12 Spindlewail
+	12 Belltower Haunt
+	2 Stitched Pontiff
+	12 See Worlds Beyond
+	12 Swelling Growth
+	12 Cloak of Miasma
+	12 Life and Death
+	2 Virulent Husk
+	12 Sprouting Sentinel
+	12 Nascent Lich
+	12 Stump Brute
+	12 Silver Suitor
+	12 Unleashed Guardian
+	12 By Heaven's Decree
+	12 Devotion Rewarded
+	12 Banishing Thrust
+	12 Herald of the Clarion
+	12 Noble Steed
+	12 Champion of Relos
+	12 Paladin of Sacred Testament
+	12 Steelwrought Sunblade
+	12 Prophet of Rheydia
+	12 Blessed Feathers
+	12 Gaze Inward
+	12 Weigh the Soul
+	12 Among the Lily Pads
+	12 Call Beyond
+	12 Seraph of Storms
+	12 Josiah's Bulwark
+	12 To Stone and Ash
+	12 Cleave the Blood of Gods
+	12 Cruel Heartstealer
+	12 Biting Pain
+	12 Molten Bloodhunter
+	12 Skull Summoner
+	12 Extan Knight-Errant
+	12 Voidhungry Avatar
+	12 Sol Herald
+	12 Evolving Wilds
+	6 Burning Eyebeam
+	6 Glorious Protoseraph
+	6 March Against Fate
+	6 Bismuth Archdeacon
+	6 Bismuth Cube
+	6 Augmented Dragon
+	6 Oracle of the Extan
+	6 Forsaken Chalkmason
+	2 Eluriel, Final Evolution
+	2 Page of Gold
+	2 Veintwinned Harp
+	6 Encased in Gold
+	6 Icon of the Blessed Horde
+	2 Aureate Partizan
+	6 Suncrowned Lion
+	6 Wyldwood Sanctifier
+	6 Celestial Mandate
+	6 Ashen Lichlord
+	6 Soulchained Remnant
+	6 Sacred Sacrament
+	6 Scion of Blossoms
+	6 Living Littany
+	6 Runic Lockdown
+	6 Dracolich's Mastery
+	6 Messengers of the Void
+	6 Engines of Hell
+	6 Birth from Blood
+	6 Mad Tormentor
+	6 Starsent Speaker
+	6 Generated Voidling
+	2 Fell Demiurge
+	2 Confounding Cambion
+	2 Sylvua's Wyldbeast
+	6 Undeath's Domination
+	1 Lotus Tender
+	6 Influence the Scales
+	6 Thorn Dragoon
+	6 One Man Army
+	6 Voidbound Lightstealer
+	2 Day of Calamity
+	6 Blighted Binding
+	6 Natural Artifice
+	6 Jailer's Ire
+	6 Osteogenesis
+	6 Feed On the Crimson Sun
+	6 Bog Ghoul
+	6 Lady of the Lilies
+	6 Ensouled Stones
+	2 Verox, the Forgelord
+	6 Portents of Blood
+	6 Gateway Protector
+	6 Shepherding the Rot
+	6 Braintree Divination
+	6 Descent into Chaos
+	1 Nexus Serasphinx
+	6 Implement of Thuraxes
+	2 Doom Monarch
+	2 Scarlet Liturgy
+	1 Starsent Angel
+	2 Clamber to the Light
+	2 Endure Hell
+	2 Dimension Dancer
+	6 Gilded Maiden
+	6 Sword of Josiah
+	6 Shepherd of Shadows
+	6 Teluran Gardens
+	2 Resurgent Ruins
+	2 Charged Confluence
+	2 Shattered Spires
+	2 Hollow Church
+	2 Desecrated Monument
+	6 Shattered Peak
+	2 Doom Monarch
+[wildcard(1)]
+	4 Josiah, Bitter Survivor
+	4 Scion of Heaven and Hell
+	6 Shadowborn Apostle
+	15 Persistent Contagion
+	7 Mother of Hands
+	15 Shadowbane Paladin
+	7 Artisan of Undeath
+	7 Dust to Flesh to Dust
+	4 Sylvua, Wyldwood Mother
+	7 At Any Cost
+	7 Scourge Taskmaster
+	7 Staunch Purifier
+	15 Touch of God
+	7 Ripples of Rebirth
+	7 Stonesprung Spirit
+	15 Eclipse Paladin
+	4 Death's Undoing
+	6 Seeker of Atonement
+	15 Sanguis Sanctorum
+	7 Reygias, Lord Phytolich
+	6 Stonework Angel
+	7 Whisperer of Sweetest Lies
+	7 Flame-Scarred Abomination
+	15 Kael-dun Inquisitor
+	7 Terithius, the Iron Mind
+	4 Engine of Our Eden
+	7 They Shall Know Perdition
+	15 Sphere of Isolation
+	6 Ancient Transmutation
+	7 Aos, Augur of Damnations
+	7 Grit
+	4 Eira, Selfless Paladin
+	7 Breaker of Reality
+	7 Ironclad Necromancers
+	15 Glittering Gargoyle
+	4 Tessa, Saint Reborn
+	7 Cradle of Nascence
+	7 Ijara, the Last Teluran
+	15 Petalwisp Whisperer
+	6 Wyldwood Dryad
+	4 Emperor Thuraxes IV
+	7 Fascimile of Gods
+	6 Hellfire Ballista
+	15 Wyldwood Ceremony
+	7 Ironblessed Inquisitor
+	4 All are Slave to Time
+	7 Josiah's Betrayal
+	4 Herald of an Age of Iron
+	6 Execute for Blasphemy
+	4 The Memory Terminal
+	7 Clarion Paladin
+	4 Paladin of Fury
+	15 Walk Out of Hell
+	4 Odeon, Goldmask Rogue
+	4 Calamity Tyrant
+	7 Reweaver of Thuraxes
+	15 Putrescent Branchstalker
+	15 Go to Hell
+	15 Flesh and Bone Yield Easily
+	7 Teluran Sarcophagus
+	15 Infernal Torturer
+	15 Carrion-Cutter Seraph
+	15 Bejeweled Dragon
+	6 Legate Sparkweaver
+	6 Glint-Edge Knight
+	15 Coaxer of the Cycle
+	6 Shackled Phantom
+	7 Auctor of the Testament
+	15 Arbiter of Purity
+	6 Thunderous Corruscation
+	15 Ward of the Skies
+	15 Surgeblade Duelist
+	6 Exalted Persecutor
+	15 Dawn's Herald
+	7 Cleave the Soul
+	7 Soulbound Chassis
+	15 Smoldering Tormentor
+	7 Hell's Chorus
+	7 Protean Scion
+	6 Cobbled Equine
+	7 Sol Construct
+	15 Leonin Shadowcaster
+	15 Blightchoke Exarch
+	7 Grinning Serpent
+	6 Marble Arbiter
+	7 Overmorrow's Architect
+	15 Sentient Artificer
+	15 Lux Potentate
+	15 Endless Tome
+	7 Twisting Steel
+	15 Viscera Cultist
+	15 Twinferno Summoner
+	15 Sylvua's Reckoning
+	15 Wyldwood Guardian
+	7 Blighted Theologist
+	15 Muck Fiends
+	15 Choir of Doubt
+	15 Weave Infinity
+	15 Rusted Colossus
+	15 Wrathful Judgment
+	15 Tiller of the Damned
+	15 Ephiridian Tunneler
+	6 Heaventouched Sentinel
+	6 Forlorn Knight
+	6 Everwatching Widow
+	6 Phytolich's Research
+	6 Drown in Fear
+	6 Elbrine Thundercaller
+	6 Enclave Piercer
+	6 Feverbite Winder
+	6 Heart of the Wyldwood
+	6 Misshapen Buck
+	6 Sylvua's Dryad
+	6 Ritual of Negation
+	6 Plated Leviathan
+	4 Eldest Archengine
+	6 Ambling Ruins
+	6 Devour Tender Flesh
+	6 Grotesque Abomination
+	6 Lightborn Apostle
+	6 Prism of Portents
+	6 Rock Scorpion
+	6 Sentence to the Gaol
+	15 Field Testing
+	15 Blood-Cursed Diabolist
+	6 Whisperer of Pale Boons
+	7 Valentina, Dread Impaler
+	15 Joy in Bright Chaos
+	4 Bismuth Guardian
+	7 Finecraft Seraph
+	15 Rotten Communion
+	6 Steelskin Pilgrim
+	7 Radiant Sunwright
+	6 Extan Steelshifter
+	6 Startouched Wayfarer
+	15 Clockwork Arachnid
+	15 Lotus Cultivator
+	7 Boiling Fury
+	15 Disdainful Stroke
+	7 Bismuth Skycity
+	6 Knight of the Thorn
+	6 Choking Grief
+	6 Extan Runeweaving
+	6 Pull of Heaven
+	6 Lifeblood Imitation
+	6 Unnatural Hunger
+	6 Spindlewail
+	6 Belltower Haunt
+	7 Stitched Pontiff
+	6 See Worlds Beyond
+	6 Swelling Growth
+	6 Cloak of Miasma
+	6 Life and Death
+	7 Virulent Husk
+	6 Sprouting Sentinel
+	6 Nascent Lich
+	6 Stump Brute
+	6 Silver Suitor
+	6 Unleashed Guardian
+	6 By Heaven's Decree
+	6 Devotion Rewarded
+	6 Banishing Thrust
+	6 Herald of the Clarion
+	6 Noble Steed
+	6 Champion of Relos
+	6 Paladin of Sacred Testament
+	6 Steelwrought Sunblade
+	6 Prophet of Rheydia
+	6 Blessed Feathers
+	6 Gaze Inward
+	6 Weigh the Soul
+	6 Among the Lily Pads
+	6 Call Beyond
+	6 Seraph of Storms
+	6 Josiah's Bulwark
+	6 To Stone and Ash
+	6 Cleave the Blood of Gods
+	6 Cruel Heartstealer
+	6 Biting Pain
+	6 Molten Bloodhunter
+	6 Skull Summoner
+	6 Extan Knight-Errant
+	6 Voidhungry Avatar
+	6 Sol Herald
+	6 Evolving Wilds
+	15 Burning Eyebeam
+	15 Glorious Protoseraph
+	15 March Against Fate
+	15 Bismuth Archdeacon
+	15 Bismuth Cube
+	15 Augmented Dragon
+	15 Oracle of the Extan
+	15 Forsaken Chalkmason
+	7 Eluriel, Final Evolution
+	7 Page of Gold
+	7 Veintwinned Harp
+	15 Encased in Gold
+	15 Icon of the Blessed Horde
+	7 Aureate Partizan
+	15 Suncrowned Lion
+	15 Wyldwood Sanctifier
+	15 Celestial Mandate
+	15 Ashen Lichlord
+	15 Soulchained Remnant
+	15 Sacred Sacrament
+	15 Scion of Blossoms
+	15 Living Littany
+	15 Runic Lockdown
+	15 Dracolich's Mastery
+	15 Messengers of the Void
+	15 Engines of Hell
+	15 Birth from Blood
+	15 Mad Tormentor
+	15 Starsent Speaker
+	15 Generated Voidling
+	7 Fell Demiurge
+	7 Confounding Cambion
+	7 Sylvua's Wyldbeast
+	15 Undeath's Domination
+	4 Lotus Tender
+	15 Influence the Scales
+	15 Thorn Dragoon
+	15 One Man Army
+	15 Voidbound Lightstealer
+	7 Day of Calamity
+	15 Blighted Binding
+	15 Natural Artifice
+	15 Jailer's Ire
+	15 Osteogenesis
+	15 Feed On the Crimson Sun
+	15 Bog Ghoul
+	15 Lady of the Lilies
+	15 Ensouled Stones
+	7 Verox, the Forgelord
+	15 Portents of Blood
+	15 Gateway Protector
+	15 Shepherding the Rot
+	15 Braintree Divination
+	15 Descent into Chaos
+	4 Nexus Serasphinx
+	15 Implement of Thuraxes
+	7 Doom Monarch
+	7 Scarlet Liturgy
+	4 Starsent Angel
+	7 Clamber to the Light
+	7 Endure Hell
+	7 Dimension Dancer
+	15 Gilded Maiden
+	15 Sword of Josiah
+	15 Shepherd of Shadows
+	15 Teluran Gardens
+	7 Resurgent Ruins
+	7 Charged Confluence
+	7 Shattered Spires
+	7 Hollow Church
+	7 Desecrated Monument
+	15 Shattered Peak
+	7 Doom Monarch

@@ -1,0 +1,832 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/KLA-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>KLA visual preview</title>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 10%;
+			width: fit-content;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: flex;
+			flex-direction: column;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/KLA-files/logo.png" />
+	<img class="preload-hidden" src="/sets/ATR-files/icon.png" />
+		<img class="preload-hidden" src="/sets/SHF-files/icon.png" />
+		<img class="preload-hidden" src="/sets/GSS-files/icon.png" />
+		<img class="preload-hidden" src="/sets/KND-files/icon.png" />
+		<img class="preload-hidden" src="/sets/NJB-files/icon.png" />
+		<img class="preload-hidden" src="/sets/WAS-files/icon.png" />
+		<img class="preload-hidden" src="/sets/GQC-files/icon.png" />
+		<img class="preload-hidden" src="/sets/VYI-files/icon.png" />
+		<img class="preload-hidden" src="/sets/CNF-files/icon.png" />
+		<img class="preload-hidden" src="/sets/KDT-files/icon.png" />
+		<img class="preload-hidden" src="/sets/KLA-files/icon.png" />
+		<img class="preload-hidden" src="/sets/SOL-files/icon.png" />
+		<img class="preload-hidden" src="/sets/MOX-files/icon.png" />
+		<img class="preload-hidden" src="/sets/KRK-files/icon.png" />
+		<img class="preload-hidden" src="/sets/GS2-files/icon.png" />
+		<img class="preload-hidden" src="/sets/STW-files/icon.png" />
+		<img class="preload-hidden" src="/sets/X24-files/icon.png" />
+		<img class="preload-hidden" src="/sets/ICO-files/icon.png" />
+		<img class="preload-hidden" id="bg" src="/sets/KLA-files/bg.png" />
+
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="KLA"><img src="/sets/KLA-files/icon.png">Kallatree Ascension</a>
+	
+		<a class="set-bar inactive" href="ATR"><img src="/sets/ATR-files/icon.png">The Shattered Pantheon of Atros</a>
+	
+		<a class="set-bar inactive" href="SHF"><img src="/sets/SHF-files/icon.png">The Starholme Frontier</a>
+	
+		<a class="set-bar inactive" href="GSS"><img src="/sets/GSS-files/icon.png">Golden Shores of Shiryen</a>
+	
+		<a class="set-bar inactive" href="KND"><img src="/sets/KND-files/icon.png">Kahembo: New Dawn</a>
+	
+		<a class="set-bar inactive" href="NJB"><img src="/sets/NJB-files/icon.png">Nangjiao in Bloom</a>
+	
+		<a class="set-bar inactive" href="WAS"><img src="/sets/WAS-files/icon.png">Weir Astele</a>
+	
+		<a class="set-bar inactive" href="GQC"><img src="/sets/GQC-files/icon.png">Ghariv, the Quaking City</a>
+	
+		<a class="set-bar inactive" href="VYI"><img src="/sets/VYI-files/icon.png">Kallatree: Voyage to Infinity</a>
+	
+		<a class="set-bar inactive" href="CNF"><img src="/sets/CNF-files/icon.png">Confluence</a>
+	
+		<a class="set-bar inactive" href="KDT"><img src="/sets/KDT-files/icon.png">Kitsuo: Dusk of Time</a>
+	
+		<a class="set-bar inactive" href="SOL"><img src="/sets/SOL-files/icon.png">The Solitudines</a>
+	
+		<a class="set-bar inactive" href="MOX"><img src="/sets/MOX-files/icon.png">Midnight Omens of Xogoa</a>
+	
+		<a class="set-bar inactive" href="KRK"><img src="/sets/KRK-files/icon.png">Seas of Krakonos</a>
+	
+		<a class="set-bar inactive" href="GS2"><img src="/sets/GS2-files/icon.png">Global Series 2</a>
+	
+		<a class="set-bar inactive" href="STW"><img src="/sets/STW-files/icon.png">Star Wars Microset</a>
+	
+		<a class="set-bar inactive" href="X24"><img src="/sets/X24-files/icon.png">Moxtober 2024</a>
+	
+		<a class="set-bar inactive" href="ICO"><img src="/sets/ICO-files/icon.png">Inner Coriansa</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/KLA-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img alt="/sets/KLA-files/img/17_Eye of the Oppressor.png" id="17_Eye of the Oppressor" data-flag="@X" onclick="openSidebar('17_Eye of the Oppressor',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/44_Alexei, Rime Magnarch.png" id="44_Alexei, Rime Magnarch" data-flag="@X" onclick="openSidebar('44_Alexei, Rime Magnarch',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/92_Deathless Pact.png" id="92_Deathless Pact" data-flag="@X" onclick="openSidebar('92_Deathless Pact',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/143_Fryde, Patron of Fools.png" id="143_Fryde, Patron of Fools" data-flag="@X" onclick="openSidebar('143_Fryde, Patron of Fools',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/168_Amede, the Invoker.png" id="168_Amede, the Invoker" data-flag="@X" onclick="openSidebar('168_Amede, the Invoker',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/25_Kallatree Angel.png" id="25_Kallatree Angel" data-flag="@X" onclick="openSidebar('25_Kallatree Angel',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/46_Anguished Creation.png" id="46_Anguished Creation" data-flag="@X" onclick="openSidebar('46_Anguished Creation',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/124_Wicked Elderspirit.png" id="124_Wicked Elderspirit" data-flag="@X" onclick="openSidebar('124_Wicked Elderspirit',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/159_Realmsieger.png" id="159_Realmsieger" data-flag="@X" onclick="openSidebar('159_Realmsieger',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/183_Hoarfrost Greatwolf.png" id="183_Hoarfrost Greatwolf" data-flag="@X" onclick="openSidebar('183_Hoarfrost Greatwolf',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/27_Moonshaker Cavalry.png" id="27_Moonshaker Cavalry" data-flag="@X" onclick="openSidebar('27_Moonshaker Cavalry',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/62_Galaxy Drakkon.png" id="62_Galaxy Drakkon" data-flag="@X" onclick="openSidebar('62_Galaxy Drakkon',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/89_Cosmic Reaper.png" id="89_Cosmic Reaper" data-flag="@X" onclick="openSidebar('89_Cosmic Reaper',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/167_Wrath of the Empyreans.png" id="167_Wrath of the Empyreans" data-flag="@X" onclick="openSidebar('167_Wrath of the Empyreans',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/204_Surge of the Ancestors.png" id="204_Surge of the Ancestors" data-flag="@X" onclick="openSidebar('204_Surge of the Ancestors',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/14_Displace from Reality.png" id="14_Displace from Reality" data-flag="@X" onclick="openSidebar('14_Displace from Reality',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/43_Age of Unceasing Ice.png" id="43_Age of Unceasing Ice" data-flag="@X" onclick="openSidebar('43_Age of Unceasing Ice',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/90_Dark Matter Kirin.png" id="90_Dark Matter Kirin" data-flag="@X" onclick="openSidebar('90_Dark Matter Kirin',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/131_Bold Bulwark.png" id="131_Bold Bulwark" data-flag="@X" onclick="openSidebar('131_Bold Bulwark',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/176_Deepwyn Summoning.png" id="176_Deepwyn Summoning" data-flag="@X" onclick="openSidebar('176_Deepwyn Summoning',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/18_Frode, Assembla's Arrow.png" id="18_Frode, Assemblas Arrow" data-flag="@X" onclick="openSidebar('18_Frode, Assemblas Arrow',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/50_Challenge the Heavens.png" id="50_Challenge the Heavens" data-flag="@X" onclick="openSidebar('50_Challenge the Heavens',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/93_Deep Depths Serpent.png" id="93_Deep Depths Serpent" data-flag="@X" onclick="openSidebar('93_Deep Depths Serpent',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/141_Drakkonic Scion.png" id="141_Drakkonic Scion" data-flag="@X" onclick="openSidebar('141_Drakkonic Scion',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/180_Glory of the Heavens.png" id="180_Glory of the Heavens" data-flag="@X" onclick="openSidebar('180_Glory of the Heavens',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/28_Never Apart.png" id="28_Never Apart" data-flag="@X" onclick="openSidebar('28_Never Apart',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/56_Countervailing Drakkon.png" id="56_Countervailing Drakkon" data-flag="@X" onclick="openSidebar('56_Countervailing Drakkon',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/94_Ecliptic Angel.png" id="94_Ecliptic Angel" data-flag="@X" onclick="openSidebar('94_Ecliptic Angel',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/142_Emissary of the Inferno.png" id="142_Emissary of the Inferno" data-flag="@X" onclick="openSidebar('142_Emissary of the Inferno',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/184_Hogback Chieftain.png" id="184_Hogback Chieftain" data-flag="@X" onclick="openSidebar('184_Hogback Chieftain',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/29_Njora's Titan.png" id="29_Njoras Titan" data-flag="@X" onclick="openSidebar('29_Njoras Titan',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/66_Living Aurora.png" id="66_Living Aurora" data-flag="@X" onclick="openSidebar('66_Living Aurora',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/104_Kallaroots Lich.png" id="104_Kallaroots Lich" data-flag="@X" onclick="openSidebar('104_Kallaroots Lich',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/149_Kjaldiran Cavalry.png" id="149_Kjaldiran Cavalry" data-flag="@X" onclick="openSidebar('149_Kjaldiran Cavalry',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/189_Mesmer Enchantress.png" id="189_Mesmer Enchantress" data-flag="@X" onclick="openSidebar('189_Mesmer Enchantress',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/32_Realm Evacuation.png" id="32_Realm Evacuation" data-flag="@X" onclick="openSidebar('32_Realm Evacuation',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/70_Mercurial Drakkon.png" id="70_Mercurial Drakkon" data-flag="@X" onclick="openSidebar('70_Mercurial Drakkon',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/115_Self-Destruct.png" id="115_Self-Destruct" data-flag="@X" onclick="openSidebar('115_Self-Destruct',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/150_Knutr, Blighted Embrace.png" id="150_Knutr, Blighted Embrace" data-flag="@X" onclick="openSidebar('150_Knutr, Blighted Embrace',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/192_Moonguard Empyrean.png" id="192_Moonguard Empyrean" data-flag="@X" onclick="openSidebar('192_Moonguard Empyrean',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/38_Soul-Axe Veteran.png" id="38_Soul-Axe Veteran" data-flag="@X" onclick="openSidebar('38_Soul-Axe Veteran',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/80_Starforger Empyrean.png" id="80_Starforger Empyrean" data-flag="@X" onclick="openSidebar('80_Starforger Empyrean',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/123_Whims of the Welkin.png" id="123_Whims of the Welkin" data-flag="@X" onclick="openSidebar('123_Whims of the Welkin',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/152_Lich's Masterpiece.png" id="152_Lichs Masterpiece" data-flag="@X" onclick="openSidebar('152_Lichs Masterpiece',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/200_Sigri, Kallatree Avatar.png" id="200_Sigri, Kallatree Avatar" data-flag="@X" onclick="openSidebar('200_Sigri, Kallatree Avatar',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/39_Starchaser.png" id="39_Starchaser" data-flag="@X" onclick="openSidebar('39_Starchaser',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/82_Tiraan, the Uranographer.png" id="82_Tiraan, the Uranographer" data-flag="@X" onclick="openSidebar('82_Tiraan, the Uranographer',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/125_Xyvera, Who Remains.png" id="125_Xyvera, Who Remains" data-flag="@X" onclick="openSidebar('125_Xyvera, Who Remains',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/155_Myriad Forms.png" id="155_Myriad Forms" data-flag="@X" onclick="openSidebar('155_Myriad Forms',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/205_Tender of the Land.png" id="205_Tender of the Land" data-flag="@X" onclick="openSidebar('205_Tender of the Land',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/40_Teluran Portal.png" id="40_Teluran Portal" data-flag="@X" onclick="openSidebar('40_Teluran Portal',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/84_Winter's Dictate.png" id="84_Winters Dictate" data-flag="@X" onclick="openSidebar('84_Winters Dictate',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/88_Claws of the Deepwyn.png" id="88_Claws of the Deepwyn" data-flag="@X" onclick="openSidebar('88_Claws of the Deepwyn',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/156_Offering to Chaos.png" id="156_Offering to Chaos" data-flag="@X" onclick="openSidebar('156_Offering to Chaos',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/206_Touch the Kallatree Heart.png" id="206_Touch the Kallatree Heart" data-flag="@X" onclick="openSidebar('206_Touch the Kallatree Heart',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/3_Assembla's Guardian.png" id="3_Assemblas Guardian" data-flag="@X" onclick="openSidebar('3_Assemblas Guardian',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/48_Auspicious Avatar.png" id="48_Auspicious Avatar" data-flag="@X" onclick="openSidebar('48_Auspicious Avatar',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/91_Dark Star.png" id="91_Dark Star" data-flag="@X" onclick="openSidebar('91_Dark Star',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/129_Bearer of the Rage.png" id="129_Bearer of the Rage" data-flag="@X" onclick="openSidebar('129_Bearer of the Rage',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/169_Arboreal Artisanry.png" id="169_Arboreal Artisanry" data-flag="@X" onclick="openSidebar('169_Arboreal Artisanry',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/6_Aurora Chorus.png" id="6_Aurora Chorus" data-flag="@X" onclick="openSidebar('6_Aurora Chorus',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/51_Chilling Cross.png" id="51_Chilling Cross" data-flag="@X" onclick="openSidebar('51_Chilling Cross',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/95_Empyrean Inquisition.png" id="95_Empyrean Inquisition" data-flag="@X" onclick="openSidebar('95_Empyrean Inquisition',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/130_Bitter End.png" id="130_Bitter End" data-flag="@X" onclick="openSidebar('130_Bitter End',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/170_Assembla Pathfinder.png" id="170_Assembla Pathfinder" data-flag="@X" onclick="openSidebar('170_Assembla Pathfinder',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/7_Blessed Dragonslayer.png" id="7_Blessed Dragonslayer" data-flag="@X" onclick="openSidebar('7_Blessed Dragonslayer',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/55_Constellamancer.png" id="55_Constellamancer" data-flag="@X" onclick="openSidebar('55_Constellamancer',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/96_Empyrean Mare.png" id="96_Empyrean Mare" data-flag="@X" onclick="openSidebar('96_Empyrean Mare',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/133_Charged Berserker.png" id="133_Charged Berserker" data-flag="@X" onclick="openSidebar('133_Charged Berserker',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/172_Bovi's Realmcutter.png" id="172_Bovis Realmcutter" data-flag="@X" onclick="openSidebar('172_Bovis Realmcutter',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/11_Comet Fox.png" id="11_Comet Fox" data-flag="@X" onclick="openSidebar('11_Comet Fox',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/57_Cryodrakkon.png" id="57_Cryodrakkon" data-flag="@X" onclick="openSidebar('57_Cryodrakkon',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/99_Fungal Cadaver.png" id="99_Fungal Cadaver" data-flag="@X" onclick="openSidebar('99_Fungal Cadaver',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/136_Crimson Deathmaw.png" id="136_Crimson Deathmaw" data-flag="@X" onclick="openSidebar('136_Crimson Deathmaw',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/173_Climbing the Tree.png" id="173_Climbing the Tree" data-flag="@X" onclick="openSidebar('173_Climbing the Tree',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/12_Cosmic Ascension.png" id="12_Cosmic Ascension" data-flag="@X" onclick="openSidebar('12_Cosmic Ascension',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/61_Frostdrakkon's Shadow.png" id="61_Frostdrakkons Shadow" data-flag="@X" onclick="openSidebar('61_Frostdrakkons Shadow',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/101_Host of Night.png" id="101_Host of Night" data-flag="@X" onclick="openSidebar('101_Host of Night',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/138_Demonic Rites.png" id="138_Demonic Rites" data-flag="@X" onclick="openSidebar('138_Demonic Rites',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/174_Convergence Pack.png" id="174_Convergence Pack" data-flag="@X" onclick="openSidebar('174_Convergence Pack',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/13_Dawn on the Weary.png" id="13_Dawn on the Weary" data-flag="@X" onclick="openSidebar('13_Dawn on the Weary',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/63_Guide the Way.png" id="63_Guide the Way" data-flag="@X" onclick="openSidebar('63_Guide the Way',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/103_Ifryn Unseals the Gate.png" id="103_Ifryn Unseals the Gate" data-flag="@X" onclick="openSidebar('103_Ifryn Unseals the Gate',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/139_Drakkon Boltcaster.png" id="139_Drakkon Boltcaster" data-flag="@X" onclick="openSidebar('139_Drakkon Boltcaster',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/177_Deepwyn Witness.png" id="177_Deepwyn Witness" data-flag="@X" onclick="openSidebar('177_Deepwyn Witness',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/16_Eager Sledrunners.png" id="16_Eager Sledrunners" data-flag="@X" onclick="openSidebar('16_Eager Sledrunners',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/64_Illusionist's Talent.png" id="64_Illusionists Talent" data-flag="@X" onclick="openSidebar('64_Illusionists Talent',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/109_Perdition.png" id="109_Perdition" data-flag="@X" onclick="openSidebar('109_Perdition',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/146_Greedy Barbarian.png" id="146_Greedy Barbarian" data-flag="@X" onclick="openSidebar('146_Greedy Barbarian',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/178_Elvish Vitalist.png" id="178_Elvish Vitalist" data-flag="@X" onclick="openSidebar('178_Elvish Vitalist',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/23_Kallaheart Commander.png" id="23_Kallaheart Commander" data-flag="@X" onclick="openSidebar('23_Kallaheart Commander',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/65_Lignification.png" id="65_Lignification" data-flag="@X" onclick="openSidebar('65_Lignification',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/111_Pray to the Forbidden.png" id="111_Pray to the Forbidden" data-flag="@X" onclick="openSidebar('111_Pray to the Forbidden',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/148_Kallaheart Fireblade.png" id="148_Kallaheart Fireblade" data-flag="@X" onclick="openSidebar('148_Kallaheart Fireblade',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/188_Kjaldiran Elk.png" id="188_Kjaldiran Elk" data-flag="@X" onclick="openSidebar('188_Kjaldiran Elk',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/26_Minor Empyrean.png" id="26_Minor Empyrean" data-flag="@X" onclick="openSidebar('26_Minor Empyrean',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/67_Locus Manipulator.png" id="67_Locus Manipulator" data-flag="@X" onclick="openSidebar('67_Locus Manipulator',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/114_Runewarper.png" id="114_Runewarper" data-flag="@X" onclick="openSidebar('114_Runewarper',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/153_Madness in Annihilation.png" id="153_Madness in Annihilation" data-flag="@X" onclick="openSidebar('153_Madness in Annihilation',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/193_Mystic Repeal.png" id="193_Mystic Repeal" data-flag="@X" onclick="openSidebar('193_Mystic Repeal',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/31_Piercing Star.png" id="31_Piercing Star" data-flag="@X" onclick="openSidebar('31_Piercing Star',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/68_Longboat Hunter.png" id="68_Longboat Hunter" data-flag="@X" onclick="openSidebar('68_Longboat Hunter',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/120_Unleashed Malevolence.png" id="120_Unleashed Malevolence" data-flag="@X" onclick="openSidebar('120_Unleashed Malevolence',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/161_Stormguide Hammer.png" id="161_Stormguide Hammer" data-flag="@X" onclick="openSidebar('161_Stormguide Hammer',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/194_Nebula Kraken.png" id="194_Nebula Kraken" data-flag="@X" onclick="openSidebar('194_Nebula Kraken',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/34_Resolute Starweaver.png" id="34_Resolute Starweaver" data-flag="@X" onclick="openSidebar('34_Resolute Starweaver',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/75_Saboteur's Display.png" id="75_Saboteurs Display" data-flag="@X" onclick="openSidebar('75_Saboteurs Display',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/121_Unseal the Cairn.png" id="121_Unseal the Cairn" data-flag="@X" onclick="openSidebar('121_Unseal the Cairn',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/164_Transgress Heaven.png" id="164_Transgress Heaven" data-flag="@X" onclick="openSidebar('164_Transgress Heaven',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/197_Reweaving the Roots.png" id="197_Reweaving the Roots" data-flag="@X" onclick="openSidebar('197_Reweaving the Roots',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/41_Vaunted Starmaker.png" id="41_Vaunted Starmaker" data-flag="@X" onclick="openSidebar('41_Vaunted Starmaker',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/77_Skolhan Crowcaster.png" id="77_Skolhan Crowcaster" data-flag="@X" onclick="openSidebar('77_Skolhan Crowcaster',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/85_Ascend to Legend.png" id="85_Ascend to Legend" data-flag="@X" onclick="openSidebar('85_Ascend to Legend',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/166_Wildspark Mage.png" id="166_Wildspark Mage" data-flag="@X" onclick="openSidebar('166_Wildspark Mage',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/198_Rimestaff Mentor.png" id="198_Rimestaff Mentor" data-flag="@X" onclick="openSidebar('198_Rimestaff Mentor',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/1_Anjarjan Adjudicator.png" id="1_Anjarjan Adjudicator" data-flag="@X" onclick="openSidebar('1_Anjarjan Adjudicator',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/45_Alexei's Response.png" id="45_Alexeis Response" data-flag="@X" onclick="openSidebar('45_Alexeis Response',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/86_Branchspine Serpent.png" id="86_Branchspine Serpent" data-flag="@X" onclick="openSidebar('86_Branchspine Serpent',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/126_Ancestral Anger.png" id="126_Ancestral Anger" data-flag="@X" onclick="openSidebar('126_Ancestral Anger',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/171_Blightlight Shaman.png" id="171_Blightlight Shaman" data-flag="@X" onclick="openSidebar('171_Blightlight Shaman',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/2_Arrested by Moonlight.png" id="2_Arrested by Moonlight" data-flag="@X" onclick="openSidebar('2_Arrested by Moonlight',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/47_Ascendant Binding.png" id="47_Ascendant Binding" data-flag="@X" onclick="openSidebar('47_Ascendant Binding',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/87_Chilling Presence.png" id="87_Chilling Presence" data-flag="@X" onclick="openSidebar('87_Chilling Presence',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/127_Armillary Drakkon.png" id="127_Armillary Drakkon" data-flag="@X" onclick="openSidebar('127_Armillary Drakkon',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/175_Deepwyn Desecrator.png" id="175_Deepwyn Desecrator" data-flag="@X" onclick="openSidebar('175_Deepwyn Desecrator',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/4_Aura of Redemption.png" id="4_Aura of Redemption" data-flag="@X" onclick="openSidebar('4_Aura of Redemption',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/49_Bronzewing Sagittar.png" id="49_Bronzewing Sagittar" data-flag="@X" onclick="openSidebar('49_Bronzewing Sagittar',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/97_Faithless Karaki.png" id="97_Faithless Karaki" data-flag="@X" onclick="openSidebar('97_Faithless Karaki',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/128_Arrow of the Heavens.png" id="128_Arrow of the Heavens" data-flag="@X" onclick="openSidebar('128_Arrow of the Heavens',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/179_Empyrean of Change.png" id="179_Empyrean of Change" data-flag="@X" onclick="openSidebar('179_Empyrean of Change',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/5_Aurora Charger.png" id="5_Aurora Charger" data-flag="@X" onclick="openSidebar('5_Aurora Charger',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/52_Clear the Mind.png" id="52_Clear the Mind" data-flag="@X" onclick="openSidebar('52_Clear the Mind',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/98_Flowing Runes.png" id="98_Flowing Runes" data-flag="@X" onclick="openSidebar('98_Flowing Runes',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/132_Bring Ruin to the Realms.png" id="132_Bring Ruin to the Realms" data-flag="@X" onclick="openSidebar('132_Bring Ruin to the Realms',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/181_Granted Strength.png" id="181_Granted Strength" data-flag="@X" onclick="openSidebar('181_Granted Strength',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/8_Brilliance of the Heavens.png" id="8_Brilliance of the Heavens" data-flag="@X" onclick="openSidebar('8_Brilliance of the Heavens',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/53_Cloak of the Equinox.png" id="53_Cloak of the Equinox" data-flag="@X" onclick="openSidebar('53_Cloak of the Equinox',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/100_Grip of the Rime.png" id="100_Grip of the Rime" data-flag="@X" onclick="openSidebar('100_Grip of the Rime',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/134_Compelling Demons.png" id="134_Compelling Demons" data-flag="@X" onclick="openSidebar('134_Compelling Demons',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/182_Heaven's Sprouting.png" id="182_Heavens Sprouting" data-flag="@X" onclick="openSidebar('182_Heavens Sprouting',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/9_Cairn Phantom.png" id="9_Cairn Phantom" data-flag="@X" onclick="openSidebar('9_Cairn Phantom',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/54_Conjure the Snowstorm.png" id="54_Conjure the Snowstorm" data-flag="@X" onclick="openSidebar('54_Conjure the Snowstorm',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/102_Hulking Monstrosity.png" id="102_Hulking Monstrosity" data-flag="@X" onclick="openSidebar('102_Hulking Monstrosity',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/135_Corrupted Empyrean.png" id="135_Corrupted Empyrean" data-flag="@X" onclick="openSidebar('135_Corrupted Empyrean',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/185_Hunter's Stalking.png" id="185_Hunters Stalking" data-flag="@X" onclick="openSidebar('185_Hunters Stalking',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/10_Celestial Unicorn.png" id="10_Celestial Unicorn" data-flag="@X" onclick="openSidebar('10_Celestial Unicorn',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/58_Cryomancer's Assembly.png" id="58_Cryomancers Assembly" data-flag="@X" onclick="openSidebar('58_Cryomancers Assembly',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/105_Lanion's Sacrifice.png" id="105_Lanions Sacrifice" data-flag="@X" onclick="openSidebar('105_Lanions Sacrifice',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/137_Decisive Cry.png" id="137_Decisive Cry" data-flag="@X" onclick="openSidebar('137_Decisive Cry',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/186_In Glory.png" id="186_In Glory" data-flag="@X" onclick="openSidebar('186_In Glory',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/15_Divine Inundation.png" id="15_Divine Inundation" data-flag="@X" onclick="openSidebar('15_Divine Inundation',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/59_Farsight Welkinborn.png" id="59_Farsight Welkinborn" data-flag="@X" onclick="openSidebar('59_Farsight Welkinborn',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/106_Last Packmate.png" id="106_Last Packmate" data-flag="@X" onclick="openSidebar('106_Last Packmate',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/140_Drakkon Egg.png" id="140_Drakkon Egg" data-flag="@X" onclick="openSidebar('140_Drakkon Egg',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/187_Kallaroot Soulspinner.png" id="187_Kallaroot Soulspinner" data-flag="@X" onclick="openSidebar('187_Kallaroot Soulspinner',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/19_Frode's Messenger.png" id="19_Frodes Messenger" data-flag="@X" onclick="openSidebar('19_Frodes Messenger',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/60_Frost Giants of Skolha.png" id="60_Frost Giants of Skolha" data-flag="@X" onclick="openSidebar('60_Frost Giants of Skolha',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/107_Lich's Vile Throne.png" id="107_Lichs Vile Throne" data-flag="@X" onclick="openSidebar('107_Lichs Vile Throne',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/144_Fryde's Lurker.png" id="144_Frydes Lurker" data-flag="@X" onclick="openSidebar('144_Frydes Lurker',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/190_Might of Kjaldir.png" id="190_Might of Kjaldir" data-flag="@X" onclick="openSidebar('190_Might of Kjaldir',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/20_Haughty Empyrean.png" id="20_Haughty Empyrean" data-flag="@X" onclick="openSidebar('20_Haughty Empyrean',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/69_Mage-Warrior Prefect.png" id="69_Mage-Warrior Prefect" data-flag="@X" onclick="openSidebar('69_Mage-Warrior Prefect',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/108_Manifested Eclipse.png" id="108_Manifested Eclipse" data-flag="@X" onclick="openSidebar('108_Manifested Eclipse',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/145_Fugue Dirge.png" id="145_Fugue Dirge" data-flag="@X" onclick="openSidebar('145_Fugue Dirge',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/191_Mooncrown Stag.png" id="191_Mooncrown Stag" data-flag="@X" onclick="openSidebar('191_Mooncrown Stag',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/21_Heavenly Empyrean.png" id="21_Heavenly Empyrean" data-flag="@X" onclick="openSidebar('21_Heavenly Empyrean',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/71_Moonbind Empyrean.png" id="71_Moonbind Empyrean" data-flag="@X" onclick="openSidebar('71_Moonbind Empyrean',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/110_Portent of the End.png" id="110_Portent of the End" data-flag="@X" onclick="openSidebar('110_Portent of the End',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/147_Haunted Journeyman.png" id="147_Haunted Journeyman" data-flag="@X" onclick="openSidebar('147_Haunted Journeyman',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/195_Realmtillers.png" id="195_Realmtillers" data-flag="@X" onclick="openSidebar('195_Realmtillers',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/22_Hero of the Final Dawn.png" id="22_Hero of the Final Dawn" data-flag="@X" onclick="openSidebar('22_Hero of the Final Dawn',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/72_Pale Life-Shadow.png" id="72_Pale Life-Shadow" data-flag="@X" onclick="openSidebar('72_Pale Life-Shadow',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/112_Pyrrhic Strike.png" id="112_Pyrrhic Strike" data-flag="@X" onclick="openSidebar('112_Pyrrhic Strike',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/151_Lamplighter.png" id="151_Lamplighter" data-flag="@X" onclick="openSidebar('151_Lamplighter',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/196_Reshape the Heavens.png" id="196_Reshape the Heavens" data-flag="@X" onclick="openSidebar('196_Reshape the Heavens',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/24_Kallaheart Redeemer.png" id="24_Kallaheart Redeemer" data-flag="@X" onclick="openSidebar('24_Kallaheart Redeemer',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/73_Purifying Perfumer.png" id="73_Purifying Perfumer" data-flag="@X" onclick="openSidebar('73_Purifying Perfumer',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/113_Restless Skeleton.png" id="113_Restless Skeleton" data-flag="@X" onclick="openSidebar('113_Restless Skeleton',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/154_Martyr's Funeral.png" id="154_Martyrs Funeral" data-flag="@X" onclick="openSidebar('154_Martyrs Funeral',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/199_Serpent of World's Edge.png" id="199_Serpent of Worlds Edge" data-flag="@X" onclick="openSidebar('199_Serpent of Worlds Edge',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/30_Nova Angel.png" id="30_Nova Angel" data-flag="@X" onclick="openSidebar('30_Nova Angel',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/74_Ravenous Tracker.png" id="74_Ravenous Tracker" data-flag="@X" onclick="openSidebar('74_Ravenous Tracker',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/116_Skeletal Abomination.png" id="116_Skeletal Abomination" data-flag="@X" onclick="openSidebar('116_Skeletal Abomination',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/157_Prancing Flame.png" id="157_Prancing Flame" data-flag="@X" onclick="openSidebar('157_Prancing Flame',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/201_Slumbering Branchspeaker.png" id="201_Slumbering Branchspeaker" data-flag="@X" onclick="openSidebar('201_Slumbering Branchspeaker',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/33_Realmbound Rider.png" id="33_Realmbound Rider" data-flag="@X" onclick="openSidebar('33_Realmbound Rider',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/76_Sigiled Prayer Sphere.png" id="76_Sigiled Prayer Sphere" data-flag="@X" onclick="openSidebar('76_Sigiled Prayer Sphere',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/117_Starfang Serpent.png" id="117_Starfang Serpent" data-flag="@X" onclick="openSidebar('117_Starfang Serpent',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/158_Raging Giant.png" id="158_Raging Giant" data-flag="@X" onclick="openSidebar('158_Raging Giant',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/202_Snow on Empires Past.png" id="202_Snow on Empires Past" data-flag="@X" onclick="openSidebar('202_Snow on Empires Past',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/35_Scryer's Safeguard.png" id="35_Scryers Safeguard" data-flag="@X" onclick="openSidebar('35_Scryers Safeguard',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/78_Sleetfeather Owl.png" id="78_Sleetfeather Owl" data-flag="@X" onclick="openSidebar('78_Sleetfeather Owl',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/118_Trudge Skeleton.png" id="118_Trudge Skeleton" data-flag="@X" onclick="openSidebar('118_Trudge Skeleton',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/160_Ritualist of Old Blood.png" id="160_Ritualist of Old Blood" data-flag="@X" onclick="openSidebar('160_Ritualist of Old Blood',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/203_Star-Speckled Ursine.png" id="203_Star-Speckled Ursine" data-flag="@X" onclick="openSidebar('203_Star-Speckled Ursine',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/36_Seal Away.png" id="36_Seal Away" data-flag="@X" onclick="openSidebar('36_Seal Away',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/79_Smug Denial.png" id="79_Smug Denial" data-flag="@X" onclick="openSidebar('79_Smug Denial',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/119_Unbound Undead.png" id="119_Unbound Undead" data-flag="@X" onclick="openSidebar('119_Unbound Undead',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/162_Suncatcher Elk.png" id="162_Suncatcher Elk" data-flag="@X" onclick="openSidebar('162_Suncatcher Elk',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/207_Tusked Snowlion.png" id="207_Tusked Snowlion" data-flag="@X" onclick="openSidebar('207_Tusked Snowlion',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/37_Solar Convert.png" id="37_Solar Convert" data-flag="@X" onclick="openSidebar('37_Solar Convert',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/81_Storm Drakkon.png" id="81_Storm Drakkon" data-flag="@X" onclick="openSidebar('81_Storm Drakkon',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/122_Warlock's Ire.png" id="122_Warlocks Ire" data-flag="@X" onclick="openSidebar('122_Warlocks Ire',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/163_Sungold Blade.png" id="163_Sungold Blade" data-flag="@X" onclick="openSidebar('163_Sungold Blade',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/208_Welkin Communers.png" id="208_Welkin Communers" data-flag="@X" onclick="openSidebar('208_Welkin Communers',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/42_Wing-Granted Paladin.png" id="42_Wing-Granted Paladin" data-flag="@X" onclick="openSidebar('42_Wing-Granted Paladin',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/83_Umbral Trespasser.png" id="83_Umbral Trespasser" data-flag="@X" onclick="openSidebar('83_Umbral Trespasser',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/165_Undying Wrath.png" id="165_Undying Wrath" data-flag="@X" onclick="openSidebar('165_Undying Wrath',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/209_Worthy Prey.png" id="209_Worthy Prey" data-flag="@X" onclick="openSidebar('209_Worthy Prey',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/239_Razer of Planets.png" id="239_Razer of Planets" data-flag="@X" onclick="openSidebar('239_Razer of Planets',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/233_Lanion, Beyond Realms.png" id="233_Lanion, Beyond Realms" data-flag="@X" onclick="openSidebar('233_Lanion, Beyond Realms',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/216_Brynhilda, the Avaricious.png" id="216_Brynhilda, the Avaricious" data-flag="@X" onclick="openSidebar('216_Brynhilda, the Avaricious',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/214_Binding of the Beast.png" id="214_Binding of the Beast" data-flag="@X" onclick="openSidebar('214_Binding of the Beast',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/219_Cosmic Oppression.png" id="219_Cosmic Oppression" data-flag="@X" onclick="openSidebar('219_Cosmic Oppression',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/242_Reconstitute.png" id="242_Reconstitute" data-flag="@X" onclick="openSidebar('242_Reconstitute',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/238_Preserved Leviathan.png" id="238_Preserved Leviathan" data-flag="@X" onclick="openSidebar('238_Preserved Leviathan',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/230_Infested Kallaheart.png" id="230_Infested Kallaheart" data-flag="@X" onclick="openSidebar('230_Infested Kallaheart',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/221_Deepwyn Lurker.png" id="221_Deepwyn Lurker" data-flag="@X" onclick="openSidebar('221_Deepwyn Lurker',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/247_Tarja, Favored Keen-Eye.png" id="247_Tarja, Favored Keen-Eye" data-flag="@X" onclick="openSidebar('247_Tarja, Favored Keen-Eye',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/211_Anjarjan Archangel.png" id="211_Anjarjan Archangel" data-flag="@X" onclick="openSidebar('211_Anjarjan Archangel',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/243_Returned Frostblade.png" id="243_Returned Frostblade" data-flag="@X" onclick="openSidebar('243_Returned Frostblade',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/226_Elvish Branchwalker.png" id="226_Elvish Branchwalker" data-flag="@X" onclick="openSidebar('226_Elvish Branchwalker',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/246_Talkia, Astral Current.png" id="246_Talkia, Astral Current" data-flag="@X" onclick="openSidebar('246_Talkia, Astral Current',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/224_Elai Ascendant.png" id="224_Elai Ascendant" data-flag="@X" onclick="openSidebar('224_Elai Ascendant',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/231_Ingjald, Vile Calamity.png" id="231_Ingjald, Vile Calamity" data-flag="@X" onclick="openSidebar('231_Ingjald, Vile Calamity',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/244_Skodir, Reborn.png" id="244_Skodir, Reborn" data-flag="@X" onclick="openSidebar('244_Skodir, Reborn',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/236_Ourobori, Reincarnated.png" id="236_Ourobori, Reincarnated" data-flag="@X" onclick="openSidebar('236_Ourobori, Reincarnated',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/220_Deathless Conscription.png" id="220_Deathless Conscription" data-flag="@X" onclick="openSidebar('220_Deathless Conscription',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/223_Eirsdottir, the Insurgent.png" id="223_Eirsdottir, the Insurgent" data-flag="@X" onclick="openSidebar('223_Eirsdottir, the Insurgent',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/215_Bog Beetle.png" id="215_Bog Beetle" data-flag="@X" onclick="openSidebar('215_Bog Beetle',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/210_Angel of Dusk and Dawn.png" id="210_Angel of Dusk and Dawn" data-flag="@X" onclick="openSidebar('210_Angel of Dusk and Dawn',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/235_Otherwordly Crafter.png" id="235_Otherwordly Crafter" data-flag="@X" onclick="openSidebar('235_Otherwordly Crafter',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/222_Drakkon Tender.png" id="222_Drakkon Tender" data-flag="@X" onclick="openSidebar('222_Drakkon Tender',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/250_Vilemoon Apparition.png" id="250_Vilemoon Apparition" data-flag="@X" onclick="openSidebar('250_Vilemoon Apparition',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/241_Rebel Rising.png" id="241_Rebel Rising" data-flag="@X" onclick="openSidebar('241_Rebel Rising',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/213_Aurora Harbinger.png" id="213_Aurora Harbinger" data-flag="@X" onclick="openSidebar('213_Aurora Harbinger',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/249_Verglas Stagrider.png" id="249_Verglas Stagrider" data-flag="@X" onclick="openSidebar('249_Verglas Stagrider',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/218_Cobbled Protector.png" id="218_Cobbled Protector" data-flag="@X" onclick="openSidebar('218_Cobbled Protector',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/229_Ifryn, Last Assembla.png" id="229_Ifryn, Last Assembla" data-flag="@X" onclick="openSidebar('229_Ifryn, Last Assembla',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/234_Njora, First Assembla.png" id="234_Njora, First Assembla" data-flag="@X" onclick="openSidebar('234_Njora, First Assembla',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/232_Katjar Peacebane.png" id="232_Katjar Peacebane" data-flag="@X" onclick="openSidebar('232_Katjar Peacebane',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/228_Heidra, the Deepheart.png" id="228_Heidra, the Deepheart" data-flag="@X" onclick="openSidebar('228_Heidra, the Deepheart',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/245_Surai, Anjarjan Tyrant.png" id="245_Surai, Anjarjan Tyrant" data-flag="@X" onclick="openSidebar('245_Surai, Anjarjan Tyrant',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/237_Predator's Wake.png" id="237_Predators Wake" data-flag="@X" onclick="openSidebar('237_Predators Wake',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/212_Ardent Starcrafting.png" id="212_Ardent Starcrafting" data-flag="@X" onclick="openSidebar('212_Ardent Starcrafting',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/225_Elderwurm's Lair.png" id="225_Elderwurms Lair" data-flag="@X" onclick="openSidebar('225_Elderwurms Lair',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/248_Uncharted Expanse.png" id="248_Uncharted Expanse" data-flag="@X" onclick="openSidebar('248_Uncharted Expanse',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/227_Glacial Expedition.png" id="227_Glacial Expedition" data-flag="@X" onclick="openSidebar('227_Glacial Expedition',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/240_Realmsundering.png" id="240_Realmsundering" data-flag="@X" onclick="openSidebar('240_Realmsundering',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/217_Chromatic Apex.png" id="217_Chromatic Apex" data-flag="@X" onclick="openSidebar('217_Chromatic Apex',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/253_Convergent Cairn.png" id="253_Convergent Cairn" data-flag="@X" onclick="openSidebar('253_Convergent Cairn',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/267_Zyxtron, the Realmslayer.png" id="267_Zyxtron, the Realmslayer" data-flag="@X" onclick="openSidebar('267_Zyxtron, the Realmslayer',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/251_Brutal Flail.png" id="251_Brutal Flail" data-flag="@X" onclick="openSidebar('251_Brutal Flail',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/256_Grave Seal.png" id="256_Grave Seal" data-flag="@X" onclick="openSidebar('256_Grave Seal',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/262_Surai's Armillary.png" id="262_Surais Armillary" data-flag="@X" onclick="openSidebar('262_Surais Armillary',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/264_Symbol of the Storm.png" id="264_Symbol of the Storm" data-flag="@X" onclick="openSidebar('264_Symbol of the Storm',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/252_Celestial Vault.png" id="252_Celestial Vault" data-flag="@X" onclick="openSidebar('252_Celestial Vault',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/258_Kin Waymarker.png" id="258_Kin Waymarker" data-flag="@X" onclick="openSidebar('258_Kin Waymarker',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/259_Pulsating Spire.png" id="259_Pulsating Spire" data-flag="@X" onclick="openSidebar('259_Pulsating Spire',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/260_Runed Axe.png" id="260_Runed Axe" data-flag="@X" onclick="openSidebar('260_Runed Axe',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/261_Storied Cairn.png" id="261_Storied Cairn" data-flag="@X" onclick="openSidebar('261_Storied Cairn',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/254_Entombed Blade.png" id="254_Entombed Blade" data-flag="@X" onclick="openSidebar('254_Entombed Blade',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/255_Furnace Golem.png" id="255_Furnace Golem" data-flag="@X" onclick="openSidebar('255_Furnace Golem',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/257_Icehide Golem.png" id="257_Icehide Golem" data-flag="@X" onclick="openSidebar('257_Icehide Golem',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/263_Swift Karve.png" id="263_Swift Karve" data-flag="@X" onclick="openSidebar('263_Swift Karve',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/265_True Ice Shard.png" id="265_True Ice Shard" data-flag="@X" onclick="openSidebar('265_True Ice Shard',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/266_Wandering Glacier.png" id="266_Wandering Glacier" data-flag="@X" onclick="openSidebar('266_Wandering Glacier',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/272_Chilling Cavern.png" id="272_Chilling Cavern" data-flag="@X" onclick="openSidebar('272_Chilling Cavern',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/283_Thawing Shipyward.png" id="283_Thawing Shipyward" data-flag="@X" onclick="openSidebar('283_Thawing Shipyward',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/275_Frigid Fane.png" id="275_Frigid Fane" data-flag="@X" onclick="openSidebar('275_Frigid Fane',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/280_Rime Copse.png" id="280_Rime Copse" data-flag="@X" onclick="openSidebar('280_Rime Copse',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/281_Snowy Pastures.png" id="281_Snowy Pastures" data-flag="@X" onclick="openSidebar('281_Snowy Pastures',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/277_Icy Stronghold.png" id="277_Icy Stronghold" data-flag="@X" onclick="openSidebar('277_Icy Stronghold',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/282_Sunlit Whitecaps.png" id="282_Sunlit Whitecaps" data-flag="@X" onclick="openSidebar('282_Sunlit Whitecaps',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/269_Behemoth Gateway.png" id="269_Behemoth Gateway" data-flag="@X" onclick="openSidebar('269_Behemoth Gateway',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/285_Training Spires.png" id="285_Training Spires" data-flag="@X" onclick="openSidebar('285_Training Spires',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/268_Aurora Tarn.png" id="268_Aurora Tarn" data-flag="@X" onclick="openSidebar('268_Aurora Tarn',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/278_Kallatree Reborn.png" id="278_Kallatree Reborn" data-flag="@X" onclick="openSidebar('278_Kallatree Reborn',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/270_Berserker's Cairn.png" id="270_Berserkers Cairn" data-flag="@X" onclick="openSidebar('270_Berserkers Cairn',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/284_Throne of the Celestial Realm.png" id="284_Throne of the Celestial Realm" data-flag="@X" onclick="openSidebar('284_Throne of the Celestial Realm',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/271_Boreal Bastion.png" id="271_Boreal Bastion" data-flag="@X" onclick="openSidebar('271_Boreal Bastion',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/273_Cliffs of the Solemn Seekers.png" id="273_Cliffs of the Solemn Seekers" data-flag="@X" onclick="openSidebar('273_Cliffs of the Solemn Seekers',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/276_Heidra's Heartglade.png" id="276_Heidras Heartglade" data-flag="@X" onclick="openSidebar('276_Heidras Heartglade',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/279_Realmbranch Husk.png" id="279_Realmbranch Husk" data-flag="@X" onclick="openSidebar('279_Realmbranch Husk',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/274_Deepfrost Citadel.png" id="274_Deepfrost Citadel" data-flag="@X" onclick="openSidebar('274_Deepfrost Citadel',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/286_Vestige of Spring.png" id="286_Vestige of Spring" data-flag="@X" onclick="openSidebar('286_Vestige of Spring',false)"></div>
+				<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/290_Mountain.png" id="290_Mountain" data-flag="@X" onclick="openSidebar('290_Mountain',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/291_Forest.png" id="291_Forest" data-flag="@X" onclick="openSidebar('291_Forest',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/288_Island.png" id="288_Island" data-flag="@X" onclick="openSidebar('288_Island',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/287_Plains.png" id="287_Plains" data-flag="@X" onclick="openSidebar('287_Plains',false)"></div>
+				<div class="container"><img alt="/sets/KLA-files/img/289_Swamp.png" id="289_Swamp" data-flag="@X" onclick="openSidebar('289_Swamp',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		document.body.style.backgroundImage = 'url(' + document.getElementById("bg").src + ')';
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
