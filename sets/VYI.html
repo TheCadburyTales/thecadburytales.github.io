@@ -1,6 +1,6 @@
 ﻿<html>
 <head>
-  <title>Kallatree: Voyage to Infinity</title>
+  <title>Valdrisil: Voyage to Infinity</title>
   <link rel="icon" type="image/x-icon" href="/sets/VYI-files/icon.png">
   <link rel="stylesheet" href="/resources/mana.css">
   <link rel="stylesheet" href="/resources/header.css">
@@ -310,7 +310,7 @@
 		<div class="banner-container">
 			<div class="set-banner" id="set-banner">
 				<img class="set-logo" src="/sets/VYI-files/icon.png">
-				<div class="set-title">Kallatree: Voyage to Infinity</div>		</div>
+				<div class="set-title">Valdrisil: Voyage to Infinity</div>		</div>
 
 			<div class="select-text">Cards displayed as<select name="display" id="display"><option value="cards-only">Cards Only</option><option value="cards-text">Cards + Text</option></select>sorted by<select name="sort-by" id="sort-by"><option value="set-code">Set Number</option><option value="name">Name</option><option value="mv">Mana Value</option><option value="color">Color</option><option value="rarity">Rarity</option></select> : <select name="sort-order" id="sort-order"><option value="ascending">Asc</option><option value="descending">Desc</option></select></div>
 		</div>
@@ -321,7 +321,58 @@
 	</div>
 
 	<div class="splash-container" id="splash">
-	
+	<h1>Valdrasil: Voyage to Infinity</h1>
+<p><br>
+<br>
+<br>
+<img alt="alt text" src="/sets/VYI-files/icon.png" title="hover-over text" />
+<br>
+<br>
+<br>
+<em>It's been three thousand years. Valdrasil's gods have fled, and a sentient supermassive black hole is bearing down on the defenseless world. A planeswalker out of time must journey from his home into the stars to save everyone.</em>
+<br>
+<br></p>
+<hr />
+<h2>Aeon</h2>
+<p><br>
+<img alt="alt text" src="/sets/VYI-files/img/1_Aeon.png" title="hover-over text" />
+<br>
+<br>
+<br>
+Aeon, an ancient planeswalker from the dawn of time, has only one, singular goal: To devour life and store its memory within him. He carries an unknowable amount of civilizations within his mass, and seeks only to consume more, to preserve them in a frozen death for eternity.
+<br>
+<br></p>
+<hr />
+<h2>Elai</h2>
+<p><br>
+<img alt="alt text" src="/sets/VYI-files/img/212_Captain Elai.png" title="hover-over text" />
+<br>
+<br>
+<br>
+Elai is a planeswalker from the past of Valdrasil who was sealed away within the tree itself during a conflict against the spawn of Aeon, though he did not yet know who his foe was. Now, he has awoken from three thousand years of slumber, and needs to save his people from the impending doom that is Aeon.
+<br>
+<br></p>
+<hr />
+<h2>Amede</h2>
+<p><br>
+<img alt="alt text" src="/sets/VYI-files/img/168_Amede, Vessel of Alune.png" title="hover-over text" />
+<br>
+<br>
+<br>
+Amede was a planeswalker from Valdrasil's past as well. However, after Elai was sealed away, a new protector of Valdrasil was required, and Amede stepped up to the challenge, becoming the host of Alune, the world's most ancient god and mother to Aeon. Now, Alune and Amede act in immortal tandem, working to slow Aeon's advance and find a solution to Valdrasil's encroaching demise. 
+<br>
+<br></p>
+<hr />
+<h2>Zaender</h2>
+<p><br>
+<img alt="alt text" src="/sets/VYI-files/img/124_Zaender, Anomaly Analyst.png" title="hover-over text" />
+<br>
+<br>
+<br>
+Zaender is a planeswalker from a world that has long since perished, and seeks a world where he can drown his sorrows in alcohol while doing the rare good deed for others to assuage his guilt. He discovered his abilities to kill black holes by starving them of matter while accelerating his decay, so he saves worlds from death by singularity wherever he may find them across the Infinity. However, Aeon poses far too vast a threat for Zaender to overcome... at least alone.
+<br>
+<br></p>
+<hr />
 	</div>
 
 	<div class="grid-container" id="grid">
@@ -380,8 +431,8 @@
 					set_list_arrayified.push(card_list_arrayified[i]);
 				}
 			}
-			
-		setCardView();
+					buttons.style.display = 'grid';
+				switchView('splash');
 		});
 
 		document.getElementById("sort-by").onchange = displayChangeListener;

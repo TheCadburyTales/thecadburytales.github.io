@@ -43,7 +43,7 @@
     },
     {
         "card_name": "Oblivion Cradle",
-        "number": 105,
+        "number": 104,
         "shape": "normal",
         "set": "CNF"
     },
@@ -73,7 +73,7 @@
     },
     {
         "card_name": "Tarre, Hands That Feed",
-        "number": 119,
+        "number": 118,
         "shape": "normal",
         "set": "CNF"
     },
@@ -85,7 +85,7 @@
     },
     {
         "card_name": "New Genesis",
-        "number": 187,
+        "number": 186,
         "shape": "normal",
         "set": "CNF"
     },
@@ -144,7 +144,7 @@
         "set": "CNF"
     },
     {
-        "card_name": "Amede, Kallatree Speaker",
+        "card_name": "Amede, Valdrasil's Speaker",
         "number": 167,
         "shape": "normal",
         "set": "CNF"
@@ -223,7 +223,7 @@
     },
     {
         "card_name": "Kinetic Cadaver",
-        "number": 100,
+        "number": 99,
         "shape": "normal",
         "set": "CNF"
     },
@@ -253,7 +253,7 @@
     },
     {
         "card_name": "Malevolent Eradicator",
-        "number": 103,
+        "number": 102,
         "shape": "normal",
         "set": "CNF"
     },
@@ -265,7 +265,7 @@
     },
     {
         "card_name": "Tanavir, Simulacra Ascetic",
-        "number": 200,
+        "number": 199,
         "shape": "normal",
         "set": "CNF"
     },
@@ -283,7 +283,7 @@
     },
     {
         "card_name": "Obsession, Lingering Shade",
-        "number": 106,
+        "number": 105,
         "shape": "normal",
         "set": "CNF"
     },
@@ -295,7 +295,7 @@
     },
     {
         "card_name": "Terralight Stag",
-        "number": 201,
+        "number": 200,
         "shape": "normal",
         "set": "CNF"
     },
@@ -313,7 +313,7 @@
     },
     {
         "card_name": "Obsession's Devourer",
-        "number": 107,
+        "number": 106,
         "shape": "normal",
         "set": "CNF"
     },
@@ -325,7 +325,7 @@
     },
     {
         "card_name": "Tidebreaker Leviathan",
-        "number": 202,
+        "number": 201,
         "shape": "normal",
         "set": "CNF"
     },
@@ -493,7 +493,7 @@
     },
     {
         "card_name": "Kimja Reckoner",
-        "number": 99,
+        "number": 98,
         "shape": "normal",
         "set": "CNF"
     },
@@ -523,7 +523,7 @@
     },
     {
         "card_name": "Lies Revealed",
-        "number": 101,
+        "number": 100,
         "shape": "normal",
         "set": "CNF"
     },
@@ -553,7 +553,7 @@
     },
     {
         "card_name": "Machinist of Souls",
-        "number": 102,
+        "number": 101,
         "shape": "normal",
         "set": "CNF"
     },
@@ -564,9 +564,9 @@
         "set": "CNF"
     },
     {
-        "card_name": "Kallawarden Ancient",
+        "card_name": "Mercenary Enchanter",
         "number": 184,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "CNF"
     },
     {
@@ -583,7 +583,7 @@
     },
     {
         "card_name": "Oni-Power Production",
-        "number": 108,
+        "number": 107,
         "shape": "normal",
         "set": "CNF"
     },
@@ -594,8 +594,8 @@
         "set": "CNF"
     },
     {
-        "card_name": "Mercenary Enchanter",
-        "number": 185,
+        "card_name": "Patchwork Summons",
+        "number": 189,
         "shape": "normal",
         "set": "CNF"
     },
@@ -613,7 +613,7 @@
     },
     {
         "card_name": "Ravencorps Reavers",
-        "number": 110,
+        "number": 109,
         "shape": "normal",
         "set": "CNF"
     },
@@ -624,8 +624,8 @@
         "set": "CNF"
     },
     {
-        "card_name": "Patchwork Summons",
-        "number": 190,
+        "card_name": "Reality Rifts",
+        "number": 193,
         "shape": "normal",
         "set": "CNF"
     },
@@ -643,7 +643,7 @@
     },
     {
         "card_name": "Raze the Village",
-        "number": 111,
+        "number": 110,
         "shape": "normal",
         "set": "CNF"
     },
@@ -654,8 +654,8 @@
         "set": "CNF"
     },
     {
-        "card_name": "Reality Rifts",
-        "number": 194,
+        "card_name": "Shake the Earth",
+        "number": 195,
         "shape": "normal",
         "set": "CNF"
     },
@@ -673,7 +673,7 @@
     },
     {
         "card_name": "Recovering the Pieces",
-        "number": 112,
+        "number": 111,
         "shape": "normal",
         "set": "CNF"
     },
@@ -684,9 +684,9 @@
         "set": "CNF"
     },
     {
-        "card_name": "Shake the Earth",
+        "card_name": "Sheltering the Light",
         "number": 196,
-        "shape": "normal",
+        "shape": "saga",
         "set": "CNF"
     },
     {
@@ -703,7 +703,7 @@
     },
     {
         "card_name": "Shrine to the Divine",
-        "number": 114,
+        "number": 113,
         "shape": "adventure",
         "set": "CNF"
     },
@@ -714,9 +714,9 @@
         "set": "CNF"
     },
     {
-        "card_name": "Sheltering the Light",
+        "card_name": "Shrine to the Great Tree",
         "number": 197,
-        "shape": "saga",
+        "shape": "adventure",
         "set": "CNF"
     },
     {
@@ -733,7 +733,7 @@
     },
     {
         "card_name": "Slaughter's Shadow",
-        "number": 116,
+        "number": 115,
         "shape": "adventure",
         "set": "CNF"
     },
@@ -744,9 +744,9 @@
         "set": "CNF"
     },
     {
-        "card_name": "Shrine to the Great Tree",
-        "number": 198,
-        "shape": "adventure",
+        "card_name": "Union of Root and Steel",
+        "number": 203,
+        "shape": "normal",
         "set": "CNF"
     },
     {
@@ -774,9 +774,9 @@
         "set": "CNF"
     },
     {
-        "card_name": "Union of Root and Steel",
+        "card_name": "Vallawarden Ancient",
         "number": 204,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "CNF"
     },
     {
@@ -918,7 +918,7 @@
         "set": "CNF"
     },
     {
-        "card_name": "Integrated Kallaknight",
+        "card_name": "Integrated Vallaknight",
         "number": 143,
         "shape": "normal",
         "set": "CNF"
@@ -942,8 +942,8 @@
         "set": "CNF"
     },
     {
-        "card_name": "Kallaheart Reckoner",
-        "number": 98,
+        "card_name": "Mark for Conquest",
+        "number": 103,
         "shape": "normal",
         "set": "CNF"
     },
@@ -955,7 +955,7 @@
     },
     {
         "card_name": "Nature's Animosity",
-        "number": 186,
+        "number": 185,
         "shape": "normal",
         "set": "CNF"
     },
@@ -972,9 +972,9 @@
         "set": "CNF"
     },
     {
-        "card_name": "Mark for Conquest",
-        "number": 104,
-        "shape": "normal",
+        "card_name": "Opportunistic Monarch",
+        "number": 108,
+        "shape": "adventure",
         "set": "CNF"
     },
     {
@@ -985,7 +985,7 @@
     },
     {
         "card_name": "New Realms",
-        "number": 188,
+        "number": 187,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1002,9 +1002,9 @@
         "set": "CNF"
     },
     {
-        "card_name": "Opportunistic Monarch",
-        "number": 109,
-        "shape": "adventure",
+        "card_name": "Scuttling Terror",
+        "number": 112,
+        "shape": "normal",
         "set": "CNF"
     },
     {
@@ -1015,7 +1015,7 @@
     },
     {
         "card_name": "Occult Diviner",
-        "number": 189,
+        "number": 188,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1032,8 +1032,8 @@
         "set": "CNF"
     },
     {
-        "card_name": "Scuttling Terror",
-        "number": 113,
+        "card_name": "Singularity's Pull",
+        "number": 114,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1045,7 +1045,7 @@
     },
     {
         "card_name": "Portent Reader",
-        "number": 191,
+        "number": 190,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1062,8 +1062,8 @@
         "set": "CNF"
     },
     {
-        "card_name": "Singularity's Pull",
-        "number": 115,
+        "card_name": "Steal the Source",
+        "number": 116,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1075,7 +1075,7 @@
     },
     {
         "card_name": "Radiant Shaman",
-        "number": 192,
+        "number": 191,
         "shape": "adventure",
         "set": "CNF"
     },
@@ -1092,7 +1092,7 @@
         "set": "CNF"
     },
     {
-        "card_name": "Steal the Source",
+        "card_name": "Stormcrown Archlich",
         "number": 117,
         "shape": "normal",
         "set": "CNF"
@@ -1105,7 +1105,7 @@
     },
     {
         "card_name": "Rampaging Kavu",
-        "number": 193,
+        "number": 192,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1122,8 +1122,8 @@
         "set": "CNF"
     },
     {
-        "card_name": "Stormcrown Archlich",
-        "number": 118,
+        "card_name": "Tear Through the Light",
+        "number": 119,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1135,7 +1135,7 @@
     },
     {
         "card_name": "Refugee Guardian",
-        "number": 195,
+        "number": 194,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1152,7 +1152,7 @@
         "set": "CNF"
     },
     {
-        "card_name": "Tear Through the Light",
+        "card_name": "Throatseeker Valkyrie",
         "number": 120,
         "shape": "normal",
         "set": "CNF"
@@ -1165,7 +1165,7 @@
     },
     {
         "card_name": "Sylvua's Titan",
-        "number": 199,
+        "number": 198,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1182,7 +1182,7 @@
         "set": "CNF"
     },
     {
-        "card_name": "Throatseeker Valkyrie",
+        "card_name": "Umbral Devouring",
         "number": 121,
         "shape": "normal",
         "set": "CNF"
@@ -1195,7 +1195,7 @@
     },
     {
         "card_name": "Time's Triumph",
-        "number": 203,
+        "number": 202,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1212,7 +1212,7 @@
         "set": "CNF"
     },
     {
-        "card_name": "Umbral Devouring",
+        "card_name": "Vallaheart Reckoner",
         "number": 122,
         "shape": "normal",
         "set": "CNF"
@@ -1244,13 +1244,13 @@
     "a->gold",
     {
         "card_name": "Prince Irakan, Heir to Dust",
-        "number": 245,
+        "number": 243,
         "shape": "planeswalker",
         "set": "CNF"
     },
     {
         "card_name": "Singularity Courser",
-        "number": 252,
+        "number": 250,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1267,8 +1267,8 @@
         "set": "CNF"
     },
     {
-        "card_name": "Kallatree's Offshoot",
-        "number": 235,
+        "card_name": "Risa, Ender of Empires",
+        "number": 246,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1280,7 +1280,7 @@
     },
     {
         "card_name": "Lanion, Scion of the Umbra",
-        "number": 236,
+        "number": 234,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1292,13 +1292,13 @@
     },
     {
         "card_name": "Missira, Heir to War",
-        "number": 239,
+        "number": 237,
         "shape": "normal",
         "set": "CNF"
     },
     {
-        "card_name": "Risa, Ender of Empires",
-        "number": 248,
+        "card_name": "Valdrasil's Offshoot",
+        "number": 259,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1310,7 +1310,7 @@
     },
     {
         "card_name": "Trapped in the Umbra",
-        "number": 257,
+        "number": 255,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1352,13 +1352,13 @@
     },
     {
         "card_name": "Titan of Skolhan Pass",
-        "number": 256,
+        "number": 254,
         "shape": "normal",
         "set": "CNF"
     },
     {
         "card_name": "Naveian Protector",
-        "number": 242,
+        "number": 240,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1370,7 +1370,7 @@
     },
     {
         "card_name": "Terralight Smithy",
-        "number": 255,
+        "number": 253,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1436,7 +1436,7 @@
     },
     {
         "card_name": "Umbral Parturition",
-        "number": 260,
+        "number": 258,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1460,7 +1460,7 @@
     },
     {
         "card_name": "Sylvua, Ancient Potentate",
-        "number": 254,
+        "number": 252,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1496,19 +1496,19 @@
     },
     {
         "card_name": "Seishin-Boon Titan",
-        "number": 250,
+        "number": 248,
         "shape": "normal",
         "set": "CNF"
     },
     {
         "card_name": "Tsubasa, Blessed Blade",
-        "number": 258,
+        "number": 256,
         "shape": "normal",
         "set": "CNF"
     },
     {
         "card_name": "Lure to Doom",
-        "number": 238,
+        "number": 236,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1519,8 +1519,8 @@
         "set": "CNF"
     },
     {
-        "card_name": "Kallaroot Lurkfiend",
-        "number": 234,
+        "card_name": "Vallaroot Lurkfiend",
+        "number": 260,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1532,7 +1532,7 @@
     },
     {
         "card_name": "Moonbright Wyrm",
-        "number": 240,
+        "number": 238,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1550,13 +1550,13 @@
     },
     {
         "card_name": "Lioncrest Hero",
-        "number": 237,
+        "number": 235,
         "shape": "normal",
         "set": "CNF"
     },
     {
         "card_name": "Seeds of a Dream",
-        "number": 249,
+        "number": 247,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1595,7 +1595,7 @@
     },
     {
         "card_name": "Pharai, Twin Fangs",
-        "number": 244,
+        "number": 242,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1640,31 +1640,31 @@
     },
     {
         "card_name": "Nataltha, the Dark Star",
-        "number": 241,
+        "number": 239,
         "shape": "normal",
         "set": "CNF"
     },
     {
         "card_name": "Shiori, Frostfire Kitsune",
-        "number": 251,
+        "number": 249,
         "shape": "normal",
         "set": "CNF"
     },
     {
         "card_name": "Reydia, Umbral Augur",
-        "number": 247,
+        "number": 245,
         "shape": "normal",
         "set": "CNF"
     },
     {
         "card_name": "Skodir, Uniter of Realms",
-        "number": 253,
+        "number": 251,
         "shape": "normal",
         "set": "CNF"
     },
     {
         "card_name": "Ourobori, Seishin-Fused",
-        "number": 243,
+        "number": 241,
         "shape": "normal",
         "set": "CNF"
     },
@@ -1685,13 +1685,13 @@
     },
     {
         "card_name": "The Radiance Zone",
-        "number": 246,
+        "number": 244,
         "shape": "normal",
         "set": "CNF"
     },
     {
         "card_name": "Tzuhan, the Peacock",
-        "number": 259,
+        "number": 257,
         "shape": "normal",
         "set": "CNF"
     },

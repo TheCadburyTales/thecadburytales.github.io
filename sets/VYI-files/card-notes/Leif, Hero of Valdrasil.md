@@ -1,0 +1,1 @@
+Leader of the Vallaknights and the first berserker to leave Valdrasil’s atmosphere, Leif is a pioneer in more ways than one. She is accompanying Elai on his quest to find the missing gods across the Infinity, and has attuned with the god Vjala on more than one occasion.

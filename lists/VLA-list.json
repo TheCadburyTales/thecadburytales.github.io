@@ -1,0 +1,1951 @@
+﻿[
+    {
+        "card_name": "Eye of the Oppressor",
+        "number": 17,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Alexei, Rime Magnarch",
+        "number": 44,
+        "shape": "planeswalker",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Deathless Pact",
+        "number": 92,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Fryde, Patron of Fools",
+        "number": 142,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Amede, the Invoker",
+        "number": 168,
+        "shape": "planeswalker",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Moonshaker Cavalry",
+        "number": 24,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Anguished Creation",
+        "number": 46,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Wicked Elderspirit",
+        "number": 124,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Realmsieger",
+        "number": 157,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Hoarfrost Greatwolf",
+        "number": 183,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Valdrasil Angel",
+        "number": 38,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Galaxy Drakkon",
+        "number": 62,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Cosmic Reaper",
+        "number": 89,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Wrath of the Empyreans",
+        "number": 167,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Surge of the Ancestors",
+        "number": 203,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Displace from Reality",
+        "number": 14,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Age of Unceasing Ice",
+        "number": 43,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Dark Matter Kirin",
+        "number": 90,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Drakkonic Scion",
+        "number": 140,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Deepwyn Summoning",
+        "number": 176,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Frode, Assembla's Arrow",
+        "number": 18,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Challenge the Heavens",
+        "number": 50,
+        "shape": "saga",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Deep Depths Serpent",
+        "number": 93,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Emissary of the Inferno",
+        "number": 141,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Glory of the Heavens",
+        "number": 180,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Never Apart",
+        "number": 25,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Countervailing Drakkon",
+        "number": 56,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Ecliptic Angel",
+        "number": 94,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Kjaldiran Cavalry",
+        "number": 147,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Hogback Chieftain",
+        "number": 184,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Njora's Titan",
+        "number": 26,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Living Aurora",
+        "number": 66,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Self-Destruct",
+        "number": 114,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Knutr, Blighted Embrace",
+        "number": 148,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Mesmer Enchantress",
+        "number": 188,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Realm Evacuation",
+        "number": 29,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Mercurial Drakkon",
+        "number": 70,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Vallaroots Lich",
+        "number": 121,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Lich's Masterpiece",
+        "number": 150,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Moonguard Empyrean",
+        "number": 191,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Soul-Axe Veteran",
+        "number": 35,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Starforger Empyrean",
+        "number": 80,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Whims of the Welkin",
+        "number": 123,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Myriad Forms",
+        "number": 153,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Sigri, Valdrasil Avatar",
+        "number": 199,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Starchaser",
+        "number": 36,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Tiraan, the Uranographer",
+        "number": 82,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Xyvera, Who Remains",
+        "number": 125,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Offering to Chaos",
+        "number": 154,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Tender of the Land",
+        "number": 204,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Teluran Portal",
+        "number": 37,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Winter's Dictate",
+        "number": 84,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Claws of the Deepwyn",
+        "number": 88,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Wolf of Anjarja",
+        "number": 166,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Touch Valdrasil's Heart",
+        "number": 205,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Assembla's Guardian",
+        "number": 3,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Auspicious Avatar",
+        "number": 48,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Dark Star",
+        "number": 91,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Bearer of the Rage",
+        "number": 129,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Arboreal Artisanry",
+        "number": 169,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Aurora Chorus",
+        "number": 6,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Chilling Cross",
+        "number": 51,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Empyrean Inquisition",
+        "number": 95,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Bitter End",
+        "number": 130,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Assembla Pathfinder",
+        "number": 170,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Blessed Dragonslayer",
+        "number": 7,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Constellamancer",
+        "number": 55,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Empyrean Mare",
+        "number": 96,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Charged Berserker",
+        "number": 132,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Bovi's Realmcutter",
+        "number": 172,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Comet Fox",
+        "number": 11,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Cryodrakkon",
+        "number": 57,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Fungal Cadaver",
+        "number": 99,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Crimson Deathmaw",
+        "number": 135,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Climbing the Tree",
+        "number": 173,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Cosmic Ascension",
+        "number": 12,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Frostdrakkon's Shadow",
+        "number": 61,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Host of Night",
+        "number": 101,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Demonic Rites",
+        "number": 137,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Convergence Pack",
+        "number": 174,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Dawn on the Weary",
+        "number": 13,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Guide the Way",
+        "number": 63,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Ifryn Unseals the Gate",
+        "number": 103,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Drakkon Boltcaster",
+        "number": 138,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Deepwyn Witness",
+        "number": 177,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Eager Sledrunners",
+        "number": 16,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Illusionist's Talent",
+        "number": 64,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Perdition",
+        "number": 108,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Greedy Barbarian",
+        "number": 145,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Elvish Vitalist",
+        "number": 178,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Minor Empyrean",
+        "number": 23,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Lignification",
+        "number": 65,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Pray to the Forbidden",
+        "number": 110,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Madness in Annihilation",
+        "number": 151,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Kjaldiran Elk",
+        "number": 187,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Piercing Star",
+        "number": 28,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Locus Manipulator",
+        "number": 67,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Runewarper",
+        "number": 113,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Stormguide Hammer",
+        "number": 159,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Mystic Repeal",
+        "number": 192,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Resolute Starweaver",
+        "number": 31,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Longboat Hunter",
+        "number": 68,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Unleashed Malevolence",
+        "number": 119,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Transgress Heaven",
+        "number": 162,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Nebula Kraken",
+        "number": 193,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Vallaheart Commander",
+        "number": 39,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Saboteur's Display",
+        "number": 75,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Unseal the Cairn",
+        "number": 120,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Vallaheart Hunter",
+        "number": 164,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Reweaving the Roots",
+        "number": 196,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Vaunted Starmaker",
+        "number": 41,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Skolhan Crowcaster",
+        "number": 77,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Ascend to Legend",
+        "number": 85,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Wildspark Mage",
+        "number": 165,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Rimestaff Mentor",
+        "number": 197,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Anjarjan Adjudicator",
+        "number": 1,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Alexei's Response",
+        "number": 45,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Branchspine Serpent",
+        "number": 86,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Ancestral Anger",
+        "number": 126,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Blightlight Shaman",
+        "number": 171,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Arrested by Moonlight",
+        "number": 2,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Ascendant Binding",
+        "number": 47,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Chilling Presence",
+        "number": 87,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Armillary Drakkon",
+        "number": 127,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Deepwyn Desecrator",
+        "number": 175,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Aura of Redemption",
+        "number": 4,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Bronzewing Sagittar",
+        "number": 49,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Faithless Karaki",
+        "number": 97,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Arrow of the Heavens",
+        "number": 128,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Empyrean of Change",
+        "number": 179,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Aurora Charger",
+        "number": 5,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Clear the Mind",
+        "number": 52,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Flowing Runes",
+        "number": 98,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Bring Ruin to the Realms",
+        "number": 131,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Granted Strength",
+        "number": 181,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Brilliance of the Heavens",
+        "number": 8,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Cloak of the Equinox",
+        "number": 53,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Grip of the Rime",
+        "number": 100,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Compelling Demons",
+        "number": 133,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Heaven's Sprouting",
+        "number": 182,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Cairn Phantom",
+        "number": 9,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Conjure the Snowstorm",
+        "number": 54,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Hulking Monstrosity",
+        "number": 102,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Corrupted Empyrean",
+        "number": 134,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Hunter's Stalking",
+        "number": 185,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Celestial Unicorn",
+        "number": 10,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Cryomancer's Assembly",
+        "number": 58,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Lanion's Sacrifice",
+        "number": 104,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Decisive Cry",
+        "number": 136,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "In Glory",
+        "number": 186,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Divine Inundation",
+        "number": 15,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Farsight Welkinborn",
+        "number": 59,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Last Packmate",
+        "number": 105,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Drakkon Egg",
+        "number": 139,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Might of Kjaldir",
+        "number": 189,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Frode's Messenger",
+        "number": 19,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Frost Giants of Skolha",
+        "number": 60,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Lich's Vile Throne",
+        "number": 106,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Fryde's Lurker",
+        "number": 143,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Mooncrown Stag",
+        "number": 190,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Haughty Empyrean",
+        "number": 20,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Mage-Warrior Prefect",
+        "number": 69,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Manifested Eclipse",
+        "number": 107,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Fugue Dirge",
+        "number": 144,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Realmtillers",
+        "number": 194,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Heavenly Empyrean",
+        "number": 21,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Moonbind Empyrean",
+        "number": 71,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Portent of the End",
+        "number": 109,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Haunted Journeyman",
+        "number": 146,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Reshape the Heavens",
+        "number": 195,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Hero of the Final Dawn",
+        "number": 22,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Pale Life-Shadow",
+        "number": 72,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Pyrrhic Strike",
+        "number": 111,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Lamplighter",
+        "number": 149,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Serpent of World's Edge",
+        "number": 198,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Nova Angel",
+        "number": 27,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Purifying Perfumer",
+        "number": 73,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Restless Skeleton",
+        "number": 112,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Martyr's Funeral",
+        "number": 152,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Slumbering Branchspeaker",
+        "number": 200,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Realmbound Rider",
+        "number": 30,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Ravenous Tracker",
+        "number": 74,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Skeletal Abomination",
+        "number": 115,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Prancing Flame",
+        "number": 155,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Snow on Empires Past",
+        "number": 201,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Scryer's Safeguard",
+        "number": 32,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Sigiled Prayer Sphere",
+        "number": 76,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Starfang Serpent",
+        "number": 116,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Raging Giant",
+        "number": 156,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Star-Speckled Ursine",
+        "number": 202,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Seal Away",
+        "number": 33,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Sleetfeather Owl",
+        "number": 78,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Trudge Skeleton",
+        "number": 117,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Ritualist of Old Blood",
+        "number": 158,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Tusked Snowlion",
+        "number": 206,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Solar Convert",
+        "number": 34,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Smug Denial",
+        "number": 79,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Unbound Undead",
+        "number": 118,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Suncatcher Elk",
+        "number": 160,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Vallaroot Soulspinner",
+        "number": 207,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Vallaheart Redeemer",
+        "number": 40,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Storm Drakkon",
+        "number": 81,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Warlock's Ire",
+        "number": 122,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Sungold Blade",
+        "number": 161,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Welkin Communers",
+        "number": 208,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Wing-Granted Paladin",
+        "number": 42,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Umbral Trespasser",
+        "number": 83,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Undying Wrath",
+        "number": 163,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Worthy Prey",
+        "number": 209,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Razer of Planets",
+        "number": 239,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Lanion, Beyond Realms",
+        "number": 233,
+        "shape": "planeswalker",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Brynhilda, the Avaricious",
+        "number": 216,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Binding of the Beast",
+        "number": 214,
+        "shape": "saga",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Cosmic Oppression",
+        "number": 219,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Reconstitute",
+        "number": 242,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Preserved Leviathan",
+        "number": 238,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Infested Vallaheart",
+        "number": 230,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Deepwyn Lurker",
+        "number": 221,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Tarja, Favored Keen-Eye",
+        "number": 247,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Anjarjan Archangel",
+        "number": 211,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Returned Frostblade",
+        "number": 243,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Elvish Branchwalker",
+        "number": 226,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Talkia, Astral Current",
+        "number": 246,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Elai Ascendant",
+        "number": 224,
+        "shape": "planeswalker",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Ingjald, Vile Calamity",
+        "number": 231,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Skodir, Reborn",
+        "number": 244,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Ourobori, Reincarnated",
+        "number": 236,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Deathless Conscription",
+        "number": 220,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Eirsdottir, the Insurgent",
+        "number": 223,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Bog Beetle",
+        "number": 215,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Angel of Dusk and Dawn",
+        "number": 210,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Otherwordly Crafter",
+        "number": 235,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Drakkon Tender",
+        "number": 222,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Vilemoon Apparition",
+        "number": 250,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Rebel Rising",
+        "number": 241,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Aurora Harbinger",
+        "number": 213,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Verglas Stagrider",
+        "number": 249,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Cobbled Protector",
+        "number": 218,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Ifryn, Last Assembla",
+        "number": 229,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Njora, First Assembla",
+        "number": 234,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Katjar Peacebane",
+        "number": 232,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Heidra, the Deepheart",
+        "number": 228,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Surai, Anjarjan Tyrant",
+        "number": 245,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Predator's Wake",
+        "number": 237,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Ardent Starcrafting",
+        "number": 212,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Elderwurm's Lair",
+        "number": 225,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Uncharted Expanse",
+        "number": 248,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Glacial Expedition",
+        "number": 227,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Realmsundering",
+        "number": 240,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Chromatic Apex",
+        "number": 217,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Convergent Cairn",
+        "number": 253,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Zyxtron, the Realmslayer",
+        "number": 267,
+        "shape": "adventure",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Brutal Flail",
+        "number": 251,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Grave Seal",
+        "number": 256,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Surai's Armillary",
+        "number": 262,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Symbol of the Storm",
+        "number": 264,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Celestial Vault",
+        "number": 252,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Kin Waymarker",
+        "number": 258,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Pulsating Spire",
+        "number": 259,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Runed Axe",
+        "number": 260,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Storied Cairn",
+        "number": 261,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Entombed Blade",
+        "number": 254,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Furnace Golem",
+        "number": 255,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Icehide Golem",
+        "number": 257,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Swift Karve",
+        "number": 263,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "True Ice Shard",
+        "number": 265,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Wandering Glacier",
+        "number": 266,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Chilling Cavern",
+        "number": 272,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Thawing Shipyward",
+        "number": 282,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Frigid Fane",
+        "number": 275,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Rime Copse",
+        "number": 279,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Snowy Pastures",
+        "number": 280,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Icy Stronghold",
+        "number": 277,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Sunlit Whitecaps",
+        "number": 281,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Behemoth Gateway",
+        "number": 269,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Training Spires",
+        "number": 284,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Aurora Tarn",
+        "number": 268,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Valdrasil Reborn",
+        "number": 285,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Berserker's Cairn",
+        "number": 270,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Throne of the Celestial Realm",
+        "number": 283,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Boreal Bastion",
+        "number": 271,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Cliffs of the Solemn Seekers",
+        "number": 273,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Heidra's Heartglade",
+        "number": 276,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Realmbranch Husk",
+        "number": 278,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Deepfrost Citadel",
+        "number": 274,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Vestige of Spring",
+        "number": 286,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 290,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Forest",
+        "number": 291,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Island",
+        "number": 288,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Plains",
+        "number": 287,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 289,
+        "shape": "normal",
+        "set": "VLA"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

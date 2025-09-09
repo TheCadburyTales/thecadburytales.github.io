@@ -18,6 +18,36 @@
         "set": "KDT"
     },
     {
+        "card_name": "Gereishin, the Stormlord",
+        "number": 105,
+        "shape": "normal",
+        "set": "KDT"
+    },
+    {
+        "card_name": "Ageless Seishin",
+        "number": 127,
+        "shape": "normal",
+        "set": "KDT"
+    },
+    {
+        "card_name": "The Dutiful Wanderer",
+        "number": 7,
+        "shape": "planeswalker",
+        "set": "KDT"
+    },
+    {
+        "card_name": "Sakura Dance",
+        "number": 56,
+        "shape": "normal",
+        "set": "KDT"
+    },
+    {
+        "card_name": "Kage, Cursed Conqueror",
+        "number": 73,
+        "shape": "normal",
+        "set": "KDT"
+    },
+    {
         "card_name": "Hakodate Regent",
         "number": 106,
         "shape": "normal",
@@ -36,36 +66,6 @@
         "set": "KDT"
     },
     {
-        "card_name": "Sakura Dance",
-        "number": 56,
-        "shape": "normal",
-        "set": "KDT"
-    },
-    {
-        "card_name": "Kage, Cursed Conqueror",
-        "number": 304,
-        "shape": "normal",
-        "set": "KDT"
-    },
-    {
-        "card_name": "Spiteful Banditry",
-        "number": 124,
-        "shape": "normal",
-        "set": "KDT"
-    },
-    {
-        "card_name": "Ageless Seishin",
-        "number": 307,
-        "shape": "normal",
-        "set": "KDT"
-    },
-    {
-        "card_name": "The Dutiful Wanderer",
-        "number": 301,
-        "shape": "planeswalker",
-        "set": "KDT"
-    },
-    {
         "card_name": "Avatar's Whim",
         "number": 34,
         "shape": "normal",
@@ -78,8 +78,8 @@
         "set": "KDT"
     },
     {
-        "card_name": "Gereishin, the Stormlord",
-        "number": 305,
+        "card_name": "Spiteful Banditry",
+        "number": 124,
         "shape": "normal",
         "set": "KDT"
     },
@@ -210,9 +210,9 @@
         "set": "KDT"
     },
     {
-        "card_name": "Revolt at the Palace",
-        "number": 22,
-        "shape": "saga",
+        "card_name": "Perils of Eternity",
+        "number": 21,
+        "shape": "normal",
         "set": "KDT"
     },
     {
@@ -240,9 +240,9 @@
         "set": "KDT"
     },
     {
-        "card_name": "Sculptor's Replica",
-        "number": 23,
-        "shape": "normal",
+        "card_name": "Revolt at the Palace",
+        "number": 22,
+        "shape": "saga",
         "set": "KDT"
     },
     {
@@ -270,14 +270,14 @@
         "set": "KDT"
     },
     {
-        "card_name": "Welkin Eviction",
-        "number": 30,
+        "card_name": "Sculptor's Replica",
+        "number": 23,
         "shape": "normal",
         "set": "KDT"
     },
     {
         "card_name": "Threadweaver Shinobi",
-        "number": 303,
+        "number": 59,
         "shape": "normal",
         "set": "KDT"
     },
@@ -288,8 +288,8 @@
         "set": "KDT"
     },
     {
-        "card_name": "Wisping Kirin",
-        "number": 126,
+        "card_name": "Spirit Realm Phoenix",
+        "number": 123,
         "shape": "normal",
         "set": "KDT"
     },
@@ -300,8 +300,8 @@
         "set": "KDT"
     },
     {
-        "card_name": "Perils of Eternity",
-        "number": 302,
+        "card_name": "Welkin Eviction",
+        "number": 30,
         "shape": "normal",
         "set": "KDT"
     },
@@ -318,8 +318,8 @@
         "set": "KDT"
     },
     {
-        "card_name": "Spirit Realm Phoenix",
-        "number": 306,
+        "card_name": "Wisping Kirin",
+        "number": 126,
         "shape": "normal",
         "set": "KDT"
     },
@@ -973,14 +973,14 @@
         "card_name": "e"
     },
     {
-        "card_name": "Godslaughter Titan",
-        "number": 195,
-        "shape": "normal",
+        "card_name": "Giyama, Scion of Kage",
+        "number": 194,
+        "shape": "planeswalker",
         "set": "KDT"
     },
     {
         "card_name": "Noble Shrineguard",
-        "number": 215,
+        "number": 216,
         "shape": "normal",
         "set": "KDT"
     },
@@ -989,7 +989,7 @@
     },
     {
         "card_name": "Nimomae, Who Flows",
-        "number": 214,
+        "number": 215,
         "shape": "normal",
         "set": "KDT"
     },
@@ -997,14 +997,14 @@
         "card_name": "e"
     },
     {
-        "card_name": "Giyama, Scion of Kage",
-        "number": 311,
-        "shape": "planeswalker",
+        "card_name": "Godslaughter Titan",
+        "number": 195,
+        "shape": "normal",
         "set": "KDT"
     },
     {
         "card_name": "Shiori, the Trickster",
-        "number": 313,
+        "number": 228,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1037,7 +1037,7 @@
     },
     {
         "card_name": "Path's End",
-        "number": 218,
+        "number": 219,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1045,8 +1045,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Prideful Reaper",
-        "number": 221,
+        "card_name": "Koraja, the Broken Blade",
+        "number": 205,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1069,8 +1069,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Ruinous Portents",
-        "number": 223,
+        "card_name": "Prideful Reaper",
+        "number": 222,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1085,7 +1085,7 @@
     },
     {
         "card_name": "Stratostorm",
-        "number": 314,
+        "number": 231,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1093,8 +1093,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Koraja, the Broken Blade",
-        "number": 312,
+        "card_name": "Ruinous Portents",
+        "number": 224,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1109,7 +1109,7 @@
     },
     {
         "card_name": "Equanimity",
-        "number": 317,
+        "number": 240,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1118,13 +1118,13 @@
     },
     {
         "card_name": "Butchery",
-        "number": 316,
+        "number": 238,
         "shape": "normal",
         "set": "KDT"
     },
     {
         "card_name": "Majesty",
-        "number": 318,
+        "number": 247,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1205,7 +1205,7 @@
     },
     {
         "card_name": "Monastery Teacher",
-        "number": 211,
+        "number": 212,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1238,13 +1238,13 @@
     },
     {
         "card_name": "Koraja's Centipede",
-        "number": 205,
+        "number": 206,
         "shape": "normal",
         "set": "KDT"
     },
     {
         "card_name": "Menreiki, the Resplendent",
-        "number": 209,
+        "number": 210,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1316,7 +1316,7 @@
     },
     {
         "card_name": "Portal Guardian",
-        "number": 219,
+        "number": 220,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1325,7 +1325,7 @@
     },
     {
         "card_name": "Meditation",
-        "number": 208,
+        "number": 209,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1435,6 +1435,27 @@
         "card_name": "er"
     },
     {
+        "card_name": "The Ancestral Legion",
+        "number": 166,
+        "shape": "normal",
+        "set": "KDT"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Kinscale Reckoner",
+        "number": 204,
+        "shape": "normal",
+        "set": "KDT"
+    },
+    {
         "card_name": "Commander Tachibana",
         "number": 177,
         "shape": "normal",
@@ -1450,29 +1471,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Precognitive Combatant",
-        "number": 220,
-        "shape": "normal",
-        "set": "KDT"
-    },
-    {
-        "card_name": "The Ancestral Legion",
-        "number": 308,
-        "shape": "normal",
-        "set": "KDT"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Tsubasa Shigane",
-        "number": 315,
+        "number": 234,
         "shape": "planeswalker",
         "set": "KDT"
     },
@@ -1492,8 +1492,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Assaulted by Shadows",
-        "number": 169,
+        "card_name": "Aonuma, Princely Traveler",
+        "number": 168,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1513,14 +1513,14 @@
         "card_name": "e"
     },
     {
-        "card_name": "Shigane Clan Head",
-        "number": 225,
+        "card_name": "Assaulted by Shadows",
+        "number": 169,
         "shape": "normal",
         "set": "KDT"
     },
     {
         "card_name": "Master of the Twin Blades",
-        "number": 207,
+        "number": 208,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1534,14 +1534,14 @@
         "card_name": "e"
     },
     {
-        "card_name": "Shigane Potionmaster",
-        "number": 226,
+        "card_name": "Precognitive Combatant",
+        "number": 221,
         "shape": "normal",
         "set": "KDT"
     },
     {
         "card_name": "Nao, the Impenetrable",
-        "number": 212,
+        "number": 213,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1555,14 +1555,14 @@
         "card_name": "e"
     },
     {
-        "card_name": "Aonuma, Princely Traveler",
-        "number": 309,
+        "card_name": "Shigane Clan Head",
+        "number": 226,
         "shape": "normal",
         "set": "KDT"
     },
     {
         "card_name": "Mastery",
-        "number": 319,
+        "number": 250,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1577,7 +1577,7 @@
     },
     {
         "card_name": "Secrecy",
-        "number": 320,
+        "number": 255,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1646,7 +1646,7 @@
     },
     {
         "card_name": "Painted Officer",
-        "number": 217,
+        "number": 218,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1661,13 +1661,13 @@
     },
     {
         "card_name": "Nimble Mentor",
-        "number": 213,
+        "number": 214,
         "shape": "normal",
         "set": "KDT"
     },
     {
         "card_name": "Ruiner's Procession",
-        "number": 222,
+        "number": 223,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1724,7 +1724,7 @@
     },
     {
         "card_name": "Mist-Draped Delver",
-        "number": 210,
+        "number": 211,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1745,7 +1745,7 @@
     },
     {
         "card_name": "Nocturnal Glintblade",
-        "number": 216,
+        "number": 217,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1766,7 +1766,7 @@
     },
     {
         "card_name": "Sabotage the Supply Lines",
-        "number": 224,
+        "number": 225,
         "shape": "normal",
         "set": "KDT"
     },
@@ -1850,7 +1850,7 @@
     },
     {
         "card_name": "Ayeshi, Time's Jailer",
-        "number": 310,
+        "number": 172,
         "shape": "planeswalker",
         "set": "KDT"
     },
@@ -1892,7 +1892,7 @@
     },
     {
         "card_name": "Lantern Festival",
-        "number": 206,
+        "number": 207,
         "shape": "normal",
         "set": "KDT"
     },
@@ -2313,6 +2313,12 @@
         "set": "KDT"
     },
     {
+        "card_name": "Kraken",
+        "number": 7,
+        "shape": "token",
+        "set": "KDT"
+    },
+    {
         "card_name": "Ninja",
         "number": 8,
         "shape": "token",
@@ -2353,9 +2359,6 @@
         "number": 15,
         "shape": "token",
         "set": "KDT"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"

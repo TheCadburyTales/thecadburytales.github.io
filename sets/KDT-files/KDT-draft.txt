@@ -75,9 +75,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{G}{U}{U}",
 			"type": "Creature — Human Ninja",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/213_Nimble Mentor.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/214_Nimble Mentor.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Human Ninja",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/216_Nocturnal Glintblade.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/217_Nocturnal Glintblade.png"
 			}
 		},
 		{
@@ -525,9 +525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "206",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/206_Lantern Festival.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/207_Lantern Festival.png"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}{U}",
 			"type": "Sorcery",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/218_Path's End.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/219_Path's End.png"
 			}
 		},
 		{
@@ -715,9 +715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{W}{U}{U}",
 			"type": "Creature — Human Monk",
-			"collector_number": "211",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/211_Monastery Teacher.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/212_Monastery Teacher.png"
 			}
 		},
 		{
@@ -1005,9 +1005,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Demon Warrior",
-			"collector_number": "204",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/204_Koraja, the Broken Blade.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/205_Koraja, the Broken Blade.png"
 			}
 		},
 		{
@@ -1042,12 +1042,12 @@
 		},
 		{
 			"name": "Precognitive Combatant",
-			"rarity": "mythic",
+			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Human Ninja",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/220_Precognitive Combatant.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/221_Precognitive Combatant.png"
 			}
 		},
 		{
@@ -1155,9 +1155,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/223_Ruinous Portents.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/224_Ruinous Portents.png"
 			}
 		},
 		{
@@ -1315,9 +1315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Instant",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/222_Ruiner's Procession.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/223_Ruiner's Procession.png"
 			}
 		},
 		{
@@ -1395,9 +1395,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Demon Warrior",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/221_Prideful Reaper.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/222_Prideful Reaper.png"
 			}
 		},
 		{
@@ -1735,9 +1735,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Avatar Samurai",
-			"collector_number": "207",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/207_Master of the Twin Blades.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/208_Master of the Twin Blades.png"
 			}
 		},
 		{
@@ -1935,9 +1935,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Human Samurai",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/217_Painted Officer.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/218_Painted Officer.png"
 			}
 		},
 		{
@@ -2015,9 +2015,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Instant",
-			"collector_number": "208",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/208_Meditation.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/209_Meditation.png"
 			}
 		},
 		{
@@ -2035,9 +2035,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Horror Ninja",
-			"collector_number": "210",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/210_Mist-Draped Delver.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/211_Mist-Draped Delver.png"
 			}
 		},
 		{
@@ -2085,9 +2085,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Kirin Spirit",
-			"collector_number": "209",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/209_Menreiki, the Resplendent.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/210_Menreiki, the Resplendent.png"
 			}
 		},
 		{
@@ -2175,9 +2175,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}{U}",
 			"type": "Instant",
-			"collector_number": "224",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/224_Sabotage the Supply Lines.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/225_Sabotage the Supply Lines.png"
 			}
 		},
 		{
@@ -2285,9 +2285,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Spirit",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/219_Portal Guardian.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/220_Portal Guardian.png"
 			}
 		},
 		{
@@ -2543,11 +2543,11 @@
 		{
 			"name": "Noble Shrineguard",
 			"rarity": "mythic",
-			"mana_cost": "{8}{R}{G}",
+			"mana_cost": "{3}{R}{G}",
 			"type": "Creature — Spirit",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/215_Noble Shrineguard.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/216_Noble Shrineguard.png"
 			}
 		},
 		{
@@ -2555,9 +2555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Human Ninja",
-			"collector_number": "225",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/225_Shigane Clan Head.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/226_Shigane Clan Head.png"
 			}
 		},
 		{
@@ -2635,15 +2635,15 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
 			"type": "Legendary Creature — Mutant Samurai",
-			"collector_number": "212",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/212_Nao, the Impenetrable.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/213_Nao, the Impenetrable.png"
 			}
 		},
 		{
 			"name": "Gereishin's Entrance",
 			"rarity": "rare",
-			"mana_cost": "{4}{R}{G}",
+			"mana_cost": "{5}{R}{G}",
 			"type": "Sorcery",
 			"collector_number": "193",
 			"image_uris": {
@@ -2655,9 +2655,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Creature — Human Monk",
-			"collector_number": "214",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/214_Nimomae, Who Flows.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/215_Nimomae, Who Flows.png"
 			}
 		},
 		{
@@ -2681,13 +2681,13 @@
 			}
 		},
 		{
-			"name": "Shigane Potionmaster",
-			"rarity": "rare",
-			"mana_cost": "{2}{G}{U}",
-			"type": "Creature — Human Ninja",
-			"collector_number": "226",
+			"name": "Kinscale Reckoner",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Dragon Ninja",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/226_Shigane Potionmaster.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/204_Kinscale Reckoner.png"
 			}
 		},
 		{
@@ -3001,56 +3001,6 @@
 			}
 		},
 		{
-			"name": "Threadweaver Shinobi",
-			"rarity": "rare",
-			"mana_cost": "{3}{U}",
-			"type": "Creature — Human Ninja",
-			"collector_number": "303",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/303_Threadweaver Shinobi.png"
-			}
-		},
-		{
-			"name": "Spirit Realm Phoenix",
-			"rarity": "rare",
-			"mana_cost": "{1}{R}{R}",
-			"type": "Creature — Spirit Phoenix",
-			"collector_number": "306",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/306_Spirit Realm Phoenix.png"
-			}
-		},
-		{
-			"name": "Kage, Cursed Conqueror",
-			"rarity": "mythic",
-			"mana_cost": "{4}{B}{B}{B}",
-			"type": "Legendary Creature — Demon Warrior",
-			"collector_number": "304",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/304_Kage, Cursed Conqueror.png"
-			}
-		},
-		{
-			"name": "Ageless Seishin",
-			"rarity": "mythic",
-			"mana_cost": "{2}{G}{G}{G}",
-			"type": "Creature — Spirit Dragon",
-			"collector_number": "307",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/307_Ageless Seishin.png"
-			}
-		},
-		{
-			"name": "The Ancestral Legion",
-			"rarity": "mythic",
-			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Enchantment",
-			"collector_number": "308",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/308_The Ancestral Legion.png"
-			}
-		},
-		{
 			"name": "Moonlit Gateway",
 			"rarity": "common",
 			"mana_cost": "{1}",
@@ -3085,9 +3035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Demon Insect",
-			"collector_number": "205",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/205_Koraja's Centipede.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/206_Koraja's Centipede.png"
 			}
 		},
 		{
@@ -3141,16 +3091,6 @@
 			}
 		},
 		{
-			"name": "Stratostorm",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}{U}",
-			"type": "Creature — Elemental",
-			"collector_number": "314",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/314_Stratostorm.png"
-			}
-		},
-		{
 			"name": "Gereishin, the Stormlord",
 			"rarity": "mythic",
 			"mana_cost": "{5}{R}{R}",
@@ -3158,36 +3098,6 @@
 			"collector_number": "105",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/KDT-files/img/105_Gereishin, the Stormlord.png"
-			}
-		},
-		{
-			"name": "Gereishin, the Stormlord",
-			"rarity": "mythic",
-			"mana_cost": "{5}{R}{R}",
-			"type": "Legendary Creature — Dragon",
-			"collector_number": "305",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/305_Gereishin, the Stormlord.png"
-			}
-		},
-		{
-			"name": "Butchery",
-			"rarity": "rare",
-			"mana_cost": "{B}{B/R}{R}",
-			"type": "Enchantment",
-			"collector_number": "316",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/316_Butchery.png"
-			}
-		},
-		{
-			"name": "Mastery",
-			"rarity": "rare",
-			"mana_cost": "{W}{W/B}{B}",
-			"type": "Enchantment",
-			"collector_number": "319",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/319_Mastery.png"
 			}
 		},
 		{
@@ -3208,16 +3118,6 @@
 			"collector_number": "0",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/KDT-files/img/0_Saga.png"
-			}
-		},
-		{
-			"name": "Shiori, the Trickster",
-			"rarity": "mythic",
-			"mana_cost": "{R}{G}",
-			"type": "Legendary Creature — Fox Shapeshifter",
-			"collector_number": "313",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/313_Shiori, the Trickster.png"
 			}
 		},
 		{
@@ -3281,106 +3181,6 @@
 			}
 		},
 		{
-			"name": "Majesty",
-			"rarity": "rare",
-			"mana_cost": "{R}{R/G}{G}",
-			"type": "Enchantment",
-			"collector_number": "318",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/318_Majesty.png"
-			}
-		},
-		{
-			"name": "Tsubasa Shigane",
-			"rarity": "mythic",
-			"mana_cost": "{1}{G}{U}",
-			"type": "Legendary Planeswalker — Tsubasa",
-			"collector_number": "315",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/315_Tsubasa Shigane.png"
-			}
-		},
-		{
-			"name": "Ayeshi, Time's Jailer",
-			"rarity": "mythic",
-			"mana_cost": "{2}{G}{W}{U}",
-			"type": "Legendary Planeswalker — Ayeshi",
-			"collector_number": "310",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/310_Ayeshi, Time's Jailer.png"
-			}
-		},
-		{
-			"name": "The Dutiful Wanderer",
-			"rarity": "mythic",
-			"mana_cost": "{3}{W}{W}",
-			"type": "Legendary Planeswalker",
-			"collector_number": "301",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/301_The Dutiful Wanderer.png"
-			}
-		},
-		{
-			"name": "Giyama, Scion of Kage",
-			"rarity": "mythic",
-			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Planeswalker — Giyama",
-			"collector_number": "311",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/311_Giyama, Scion of Kage.png"
-			}
-		},
-		{
-			"name": "Secrecy",
-			"rarity": "rare",
-			"mana_cost": "{G}{G/U}{U}",
-			"type": "Enchantment",
-			"collector_number": "320",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/320_Secrecy.png"
-			}
-		},
-		{
-			"name": "Equanimity",
-			"rarity": "rare",
-			"mana_cost": "{W}{W/U}{U}",
-			"type": "Enchantment",
-			"collector_number": "317",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/317_Equanimity.png"
-			}
-		},
-		{
-			"name": "Perils of Eternity",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}",
-			"type": "Enchantment",
-			"collector_number": "302",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/302_Perils of Eternity.png"
-			}
-		},
-		{
-			"name": "Aonuma, Princely Traveler",
-			"rarity": "rare",
-			"mana_cost": "{G}{U}",
-			"type": "Legendary Creature — Human Ninja",
-			"collector_number": "309",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/309_Aonuma, Princely Traveler.png"
-			}
-		},
-		{
-			"name": "Koraja, the Broken Blade",
-			"rarity": "rare",
-			"mana_cost": "{B}{R}",
-			"type": "Legendary Creature — Demon Warrior",
-			"collector_number": "312",
-			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/312_Koraja, the Broken Blade.png"
-			}
-		},
-		{
 			"name": "Faces of the Faceless",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
@@ -3403,955 +3203,301 @@
 	]
 
 [rare(1)]
-	2 Uncoiling Realmspawn
-	2 Kimja Deadeye
-	1 The Dutiful Wanderer
-	1 Tsubasa Shigane
-	2 Arushi, Shigane Heirloom
-	2 Hyomon, Cloud Conductor
-	2 Infernal Kitsune
-	1 Aether Dancer
-	2 Wisping Kirin
-	2 Spirit Realm Phoenix
-	1 Giyama, Scion of Kage
-	2 Sculptor's Replica
-	2 Attuned Acolyte
-	2 Demon of Dire Storms
-	2 Path's End
-	2 Sodden Path
-	2 Distant Path
-	2 Meandering Path
-	2 Erosive Path
-	2 Desolate Path
-	1 Iwai and Oda
-	2 Orochi Soulfang
-	1 Ageless Seishin
-	2 Brutal Throatcrusher
-	2 Elder Tattooist
-	1 The Ancient Master
-	1 Teshima, Living Balance
-	2 Shigane Manor Burns
-	1 Emperor Tzuhan
-	2 The God-Tree Chimes
-	1 Kage, Cursed Conqueror
-	1 Akai and Toyotomi
-	2 Koraja, the Broken Blade
-	1 Precognitive Combatant
-	2 Impulsive Underling
-	2 Protean Golem
-	2 Sanctuary of Fragile Unity
-	2 Imperial Honor Guard
-	2 Perils of Eternity
-	1 Spiteful Banditry
-	2 Kage's Mercenary
-	2 Ruinous Portents
-	2 Volatile Prosthetic
-	1 Tzuhan's Lotus
-	2 Moonlight Adversary
-	1 Ayeshi, Time's Jailer
-	2 Threadweaver Shinobi
-	2 Vengeful Artificer
-	2 Iri Sentinel
-	1 The Ancestral Legion
-	1 Luraana, Loop's End
-	2 Prideful Reaper
-	2 Heartfire Lantern
-	2 Devouring Seishin
-	2 Deepborn Calamity
-	2 Revolt at the Palace
-	2 Equanimity
-	2 Butchery
-	2 Mastery
-	2 Majesty
-	2 Secrecy
-	2 The Inferno Gate Opens
-	2 Grasp of the Elements
-	2 Portal to the Spirit Realm
-	2 Confronting Time's Jailer
-	2 Damn to Hell
-	2 Welkin Eviction
-	2 Avatar's Whim
-	2 Born From Fire
-	2 Aonuma, Princely Traveler
-	2 Assaulted by Shadows
-	1 Commander Tachibana
-	2 Natori Skyblade
-	2 Master of the Twin Blades
-	2 Fablewoven Kitsune
-	2 Amagaseto, Mother Spirit
-	1 Akuryo, the Sweet Fang
-	1 Godslaughter Titan
-	2 Simian Pupil
-	2 Aonuma's Students
-	1 Takashi, City on the Wind
-	2 Protean Boughs
-	2 Breath of the Spirit Realm
-	2 Koi Float
-	2 Omen Skulker
-	1 Noble Shrineguard
-	2 Shigane Clan Head
-	2 Nao, the Impenetrable
-	2 Gereishin's Entrance
-	1 Nimomae, Who Flows
-	1 Shiori, the Trickster
-	2 Staff of Balance
-	2 Shigane Potionmaster
-	2 Banisher Rifle
-	1 Realm Violator
-	2 Scouring the Riverbed
-	1 Conqueror's Glee
-	1 Sakura Dance
-	2 Primordial Gateway
-	1 Gate to Fujinobe
-	1 Danuja, Emperor's Pet
-	1 Revolutionary's Monument
-	1 Hakodate Regent
-	2 Forlorn Path
-	2 Murky Path
-	2 Rousing Path
-	2 Thicketed Path
-	2 Torrid Path
-	2 Threadweaver Shinobi
-	2 Spirit Realm Phoenix
-	1 Kage, Cursed Conqueror
-	1 Ageless Seishin
-	1 The Ancestral Legion
-	2 Sludge Drudge
-	2 Maiden of the Waters
-	2 Stratostorm
-	2 Auspicious Return
-	2 Stonework Titan
-	2 Stratostorm
-	1 Gereishin, the Stormlord
-	1 Gereishin, the Stormlord
-	2 Butchery
-	2 Mastery
-	2 Ayeshi Breaks the Loop
-	1 Shiori, the Trickster
-	2 Majesty
-	1 Tsubasa Shigane
-	1 Ayeshi, Time's Jailer
-	1 The Dutiful Wanderer
-	1 Giyama, Scion of Kage
-	2 Secrecy
-	2 Equanimity
-	2 Perils of Eternity
-	2 Aonuma, Princely Traveler
-	2 Koraja, the Broken Blade
+	5 Uncoiling Realmspawn
+	5 Kimja Deadeye
+	5 The Dutiful Wanderer
+	5 Tsubasa Shigane
+	5 Arushi, Shigane Heirloom
+	5 Hyomon, Cloud Conductor
+	5 Infernal Kitsune
+	5 Aether Dancer
+	5 Wisping Kirin
+	5 Spirit Realm Phoenix
+	5 Giyama, Scion of Kage
+	5 Sculptor's Replica
+	5 Attuned Acolyte
+	5 Demon of Dire Storms
+	5 Path's End
+	5 Sodden Path
+	5 Distant Path
+	5 Meandering Path
+	5 Erosive Path
+	5 Desolate Path
+	5 Iwai and Oda
+	5 Orochi Soulfang
+	5 Ageless Seishin
+	5 Brutal Throatcrusher
+	5 Elder Tattooist
+	5 The Ancient Master
+	5 Teshima, Living Balance
+	5 Shigane Manor Burns
+	5 Emperor Tzuhan
+	5 The God-Tree Chimes
+	5 Kage, Cursed Conqueror
+	5 Akai and Toyotomi
+	5 Koraja, the Broken Blade
+	5 Precognitive Combatant
+	5 Impulsive Underling
+	5 Protean Golem
+	5 Sanctuary of Fragile Unity
+	5 Imperial Honor Guard
+	5 Perils of Eternity
+	5 Spiteful Banditry
+	5 Kage's Mercenary
+	5 Ruinous Portents
+	5 Volatile Prosthetic
+	5 Tzuhan's Lotus
+	5 Moonlight Adversary
+	5 Ayeshi, Time's Jailer
+	5 Threadweaver Shinobi
+	5 Vengeful Artificer
+	5 Iri Sentinel
+	5 The Ancestral Legion
+	5 Luraana, Loop's End
+	5 Prideful Reaper
+	5 Heartfire Lantern
+	5 Devouring Seishin
+	5 Deepborn Calamity
+	5 Revolt at the Palace
+	5 Equanimity
+	5 Butchery
+	5 Mastery
+	5 Majesty
+	5 Secrecy
+	5 The Inferno Gate Opens
+	5 Grasp of the Elements
+	5 Portal to the Spirit Realm
+	5 Confronting Time's Jailer
+	5 Damn to Hell
+	5 Welkin Eviction
+	5 Avatar's Whim
+	5 Born From Fire
+	5 Aonuma, Princely Traveler
+	5 Assaulted by Shadows
+	5 Commander Tachibana
+	5 Natori Skyblade
+	5 Master of the Twin Blades
+	5 Fablewoven Kitsune
+	5 Amagaseto, Mother Spirit
+	5 Akuryo, the Sweet Fang
+	5 Godslaughter Titan
+	5 Simian Pupil
+	5 Aonuma's Students
+	5 Takashi, City on the Wind
+	5 Protean Boughs
+	5 Breath of the Spirit Realm
+	5 Koi Float
+	5 Omen Skulker
+	5 Noble Shrineguard
+	5 Shigane Clan Head
+	5 Nao, the Impenetrable
+	5 Gereishin's Entrance
+	5 Nimomae, Who Flows
+	5 Shiori, the Trickster
+	5 Staff of Balance
+	5 Kinscale Reckoner
+	5 Banisher Rifle
+	5 Realm Violator
+	5 Scouring the Riverbed
+	5 Conqueror's Glee
+	5 Sakura Dance
+	5 Primordial Gateway
+	5 Gate to Fujinobe
+	5 Danuja, Emperor's Pet
+	5 Revolutionary's Monument
+	5 Hakodate Regent
+	5 Forlorn Path
+	5 Murky Path
+	5 Rousing Path
+	5 Thicketed Path
+	5 Torrid Path
+	5 Sludge Drudge
+	5 Maiden of the Waters
+	5 Stratostorm
+	5 Auspicious Return
+	5 Stonework Titan
+	5 Gereishin, the Stormlord
+	5 Ayeshi Breaks the Loop
 [uncommon(3)]
-	4 Akihiko, Wayfinder
-	4 Ribbon Dancer
-	4 Nimble Mentor
-	4 Imperial Tour
-	4 Ikurimoko's Presence
-	4 Yingjun's Presence
-	4 Aoushun's Presence
-	4 Gereishin's Presence
-	4 Keuya's Presence
-	4 Kei, Exiled Survivor
-	4 Ukina, Aethersong Basker
-	4 Chomei, the Hostmother
-	4 Adorned Kitsune
-	4 Illusory Savior
-	4 Ofuda Mistress
-	4 Disguised Hermit
-	4 Ethereal Blossom
-	4 Kirin of Boons
-	4 Deflecting Kitsune
-	4 Realmweft Kitsune
-	4 Enchanted Pauldron
-	4 Lantern Festival
-	4 Absolution Flock
-	4 Swift Reproach
-	4 Foreign Encounter
-	4 Monastery Teacher
-	4 Distinguished Weaverkin
-	4 Eager Eelpup
-	4 Yokinzan General
-	4 Suppressing-Fist Pupil
-	4 Pass Judgment
-	4 Ascended Salamander
-	4 Cartographer's Skill
-	4 Spirit Realm Medallion
-	4 Fallen Heartseeker
-	4 Koi-Tail Mer
-	4 Frolicking Tatsuko
-	4 Bleeding Out
-	4 Deathdealer Oni
-	4 Shigane Troupe Leader
-	4 Haughty Bulwark
-	4 Dynasty's Benediction
-	4 Ancestor's Guidance
-	4 Saboteur's Immolation
-	4 Ruiner's Procession
-	4 Chomei's Brawler
-	4 Kage's Slayer
-	4 Banish into Nothingness
-	4 Wicked Manifestation
-	4 Merciless Ruiner
-	4 Ruiner's Hijacking
-	4 Imperial Production
-	4 Inklight Dancer
-	4 Master of the Peaks
-	4 Blighted Mistress
-	4 Hellfire Crafting
-	4 Creation's Combustion
-	4 General of the Damned
-	4 Painted Officer
-	4 Blur Strike
-	4 Ensorcell
-	4 Menreiki, the Resplendent
-	4 Frilled Seishin
-	4 Imperial Dragon
-	4 Ruiner's Execution
-	4 Stained Strokes
-	4 Ruiner Battlesuit
-	4 Ayeshi's Agent
-	4 Yokinzan Pathfinder
-	4 Shigane Elder
-	4 Opulent Vantage
-	4 Dragon of Recollection
-	4 Overflow
-	4 Ominous Seas
-	4 Settler's Caravan
-	4 River Guardian
-	4 Dragon's Court
-	4 Twilight Agent
-	4 Koraja's Centipede
-	4 King of Shallow Shores
-	4 Faces of the Faceless
-[common(7)]
-	8 Mirageform Shinobi
-	8 Bladecross Student
-	8 Nocturnal Glintblade
-	8 Lesser Dragon
-	8 Verdant Winder
-	8 Butterfly Dragonling
-	8 Realm-Delver Whelp
-	8 Friendly Dragonling
-	8 Chittering Ascetic
-	8 Vicious Backstab
-	8 Demonic Reposession
-	8 Willing Acolyte
-	8 Basking Kitsune
-	8 Crane Dancer
-	8 Uiki Initiate
-	8 Dragon's Repose
-	8 Blood-Cursed Ape
-	8 Gifts of the Kitsune
-	8 Balance of the Realms
-	8 Face of Animosity
-	8 Wandering Thrumhorn
-	8 Midnight Duo
-	8 Whirlwind Kick
-	8 Resolute Natori
-	8 Uiki Cloudchaser
-	8 Daring Shinobi
-	8 Momentous Strike
-	8 Sacrificial Mentor
-	8 Veiled Branchstalker
-	8 Blazing Kitsune
-	8 Hwacha
-	8 Royal Balcony
-	8 Dynasty Pendant
-	8 Blossoming Ocelot
-	8 Deft Deflection
-	8 Duress
-	8 High Seas Samurai
-	8 Knight of Kage
-	8 Wretched Bargain
-	8 Spiteful Liberation
-	8 Sealing Strike
-	8 Abandon the Code
-	8 Mapper's Wanderings
-	8 Leyline Attuner
-	8 Prophetic Prism
-	8 Kitsune Duelist
-	8 Ravenous Slaughterlord
-	8 Oni of Tongues
-	8 Hell's Boon
-	8 Deadly Combatant
-	8 Sunset Warrior
-	8 Scions of War
-	8 Thousand Depths Cutthroat
-	8 Conqueror's Favored
-	8 Slayer of Numachi
-	8 Newborn Oni
-	8 Make an Escape
-	8 Mask Thief
-	8 Instantaneous End
-	8 Kimja Steelshaper
-	8 Banished Dragon
-	8 Inner Fortitude
-	8 Fall Upon Your Blade
-	8 Meditation
-	8 Sky's Flourishing
-	8 Mist-Draped Delver
-	8 Torpid Colossus
-	8 Iron-Calm Acolyte
-	8 Titanic Behemoth
-	8 Seishin of Sun's Radiance
-	8 Sundering the Fleet
-	8 Yokinzan Hermit
-	8 Drag into the Dark
-	8 Master of Stances
-	8 Shigane Cyclone
-	8 Realmweft Implosion
-	8 Moonblade Ninja
-	8 Sabotage the Supply Lines
-	8 Living Wave
-	8 Expert Bladework
-	8 Nerve-Strike Disciple
-	8 Elope
-	8 Kitsune Matriarch
-	8 Uplifting Melody
-	8 Stormfist Monk
-	8 Storm Jelly
-	8 Gongwielder Abbot
-	8 Kimja Jailer
-	8 Portal Guardian
-	8 Fatal Flourish
-	8 Judgment of the Seishin
-	8 Spiralhorn Kirin
-	8 Scorching Gecko
-	8 Jubilant Docks
-	8 Soaring Kites
-	8 Mortal Blade
-	8 Giant Hewn Toad
-	8 Noble Kitsune
-	8 Moonlit Gateway
-	8 Saga
-[foil(1)]
-	2 Uncoiling Realmspawn
-	2 Kimja Deadeye
-	1 The Dutiful Wanderer
-	6 Akihiko, Wayfinder
-	1 Tsubasa Shigane
-	6 Ribbon Dancer
-	12 Mirageform Shinobi
-	6 Nimble Mentor
-	2 Arushi, Shigane Heirloom
-	6 Imperial Tour
-	2 Hyomon, Cloud Conductor
-	6 Ikurimoko's Presence
-	6 Yingjun's Presence
-	12 Bladecross Student
-	2 Infernal Kitsune
-	12 Nocturnal Glintblade
-	6 Aoushun's Presence
-	6 Gereishin's Presence
-	6 Keuya's Presence
-	6 Kei, Exiled Survivor
-	12 Lesser Dragon
-	12 Verdant Winder
-	12 Butterfly Dragonling
-	12 Realm-Delver Whelp
-	12 Friendly Dragonling
-	6 Ukina, Aethersong Basker
-	12 Chittering Ascetic
-	12 Vicious Backstab
-	12 Demonic Reposession
-	12 Willing Acolyte
-	12 Basking Kitsune
-	6 Chomei, the Hostmother
-	6 Adorned Kitsune
-	6 Illusory Savior
-	12 Crane Dancer
-	1 Aether Dancer
-	12 Uiki Initiate
-	6 Ofuda Mistress
-	6 Disguised Hermit
-	2 Wisping Kirin
-	6 Ethereal Blossom
-	12 Dragon's Repose
-	12 Blood-Cursed Ape
-	6 Kirin of Boons
-	2 Spirit Realm Phoenix
-	6 Deflecting Kitsune
-	12 Gifts of the Kitsune
-	1 Giyama, Scion of Kage
-	6 Realmweft Kitsune
-	12 Balance of the Realms
-	12 Face of Animosity
-	6 Enchanted Pauldron
-	6 Lantern Festival
-	12 Wandering Thrumhorn
-	2 Sculptor's Replica
-	12 Midnight Duo
-	12 Whirlwind Kick
-	2 Attuned Acolyte
-	2 Demon of Dire Storms
-	6 Absolution Flock
-	2 Path's End
-	6 Swift Reproach
-	6 Foreign Encounter
-	2 Sodden Path
-	2 Distant Path
-	2 Meandering Path
-	2 Erosive Path
-	2 Desolate Path
-	1 Iwai and Oda
-	2 Orochi Soulfang
-	12 Resolute Natori
-	6 Monastery Teacher
-	1 Ageless Seishin
-	6 Distinguished Weaverkin
-	6 Eager Eelpup
-	12 Uiki Cloudchaser
-	6 Yokinzan General
-	2 Brutal Throatcrusher
-	2 Elder Tattooist
-	6 Suppressing-Fist Pupil
-	1 The Ancient Master
-	1 Teshima, Living Balance
-	6 Pass Judgment
-	6 Ascended Salamander
-	6 Cartographer's Skill
-	6 Spirit Realm Medallion
-	12 Daring Shinobi
-	12 Momentous Strike
-	12 Sacrificial Mentor
-	2 Shigane Manor Burns
-	1 Emperor Tzuhan
-	2 The God-Tree Chimes
-	12 Veiled Branchstalker
-	1 Kage, Cursed Conqueror
-	6 Fallen Heartseeker
-	6 Koi-Tail Mer
-	1 Akai and Toyotomi
-	12 Blazing Kitsune
-	12 Hwacha
-	12 Royal Balcony
-	2 Koraja, the Broken Blade
-	12 Dynasty Pendant
-	12 Blossoming Ocelot
-	6 Frolicking Tatsuko
-	1 Precognitive Combatant
-	2 Impulsive Underling
-	2 Protean Golem
-	6 Bleeding Out
-	12 Deft Deflection
-	2 Sanctuary of Fragile Unity
-	2 Imperial Honor Guard
-	6 Deathdealer Oni
-	2 Perils of Eternity
-	1 Spiteful Banditry
-	2 Kage's Mercenary
-	2 Ruinous Portents
-	12 Duress
-	6 Shigane Troupe Leader
-	6 Haughty Bulwark
-	2 Volatile Prosthetic
-	6 Dynasty's Benediction
-	1 Tzuhan's Lotus
-	6 Ancestor's Guidance
-	12 High Seas Samurai
-	2 Moonlight Adversary
-	12 Knight of Kage
-	12 Wretched Bargain
-	6 Saboteur's Immolation
-	12 Spiteful Liberation
-	12 Sealing Strike
-	1 Ayeshi, Time's Jailer
-	6 Ruiner's Procession
-	6 Chomei's Brawler
-	6 Kage's Slayer
-	2 Threadweaver Shinobi
-	2 Vengeful Artificer
-	2 Iri Sentinel
-	1 The Ancestral Legion
-	1 Luraana, Loop's End
-	2 Prideful Reaper
-	2 Heartfire Lantern
-	2 Devouring Seishin
-	2 Deepborn Calamity
-	2 Revolt at the Palace
-	2 Equanimity
-	2 Butchery
-	2 Mastery
-	2 Majesty
-	2 Secrecy
-	2 The Inferno Gate Opens
-	2 Grasp of the Elements
-	2 Portal to the Spirit Realm
-	2 Confronting Time's Jailer
-	6 Banish into Nothingness
-	2 Damn to Hell
-	6 Wicked Manifestation
-	6 Merciless Ruiner
-	2 Welkin Eviction
-	12 Abandon the Code
-	6 Ruiner's Hijacking
-	6 Imperial Production
-	12 Mapper's Wanderings
-	12 Leyline Attuner
-	12 Prophetic Prism
-	2 Avatar's Whim
-	2 Born From Fire
-	2 Aonuma, Princely Traveler
-	2 Assaulted by Shadows
-	6 Inklight Dancer
-	6 Master of the Peaks
-	1 Commander Tachibana
-	2 Natori Skyblade
-	12 Kitsune Duelist
-	2 Master of the Twin Blades
-	2 Fablewoven Kitsune
-	2 Amagaseto, Mother Spirit
-	12 Ravenous Slaughterlord
-	12 Oni of Tongues
-	6 Blighted Mistress
-	6 Hellfire Crafting
-	12 Hell's Boon
-	12 Deadly Combatant
-	6 Creation's Combustion
-	6 General of the Damned
-	12 Sunset Warrior
-	12 Scions of War
-	12 Thousand Depths Cutthroat
-	12 Conqueror's Favored
-	1 Akuryo, the Sweet Fang
-	12 Slayer of Numachi
-	12 Newborn Oni
-	12 Make an Escape
-	12 Mask Thief
-	6 Painted Officer
-	12 Instantaneous End
-	12 Kimja Steelshaper
-	12 Banished Dragon
-	6 Blur Strike
-	12 Inner Fortitude
-	1 Godslaughter Titan
-	12 Fall Upon Your Blade
-	12 Meditation
-	12 Sky's Flourishing
-	12 Mist-Draped Delver
-	6 Ensorcell
-	12 Torpid Colossus
-	12 Iron-Calm Acolyte
-	12 Titanic Behemoth
-	6 Menreiki, the Resplendent
-	12 Seishin of Sun's Radiance
-	12 Sundering the Fleet
-	12 Yokinzan Hermit
-	12 Drag into the Dark
-	12 Master of Stances
-	12 Shigane Cyclone
-	12 Realmweft Implosion
-	12 Moonblade Ninja
-	12 Sabotage the Supply Lines
-	12 Living Wave
-	12 Expert Bladework
-	12 Nerve-Strike Disciple
-	12 Elope
-	12 Kitsune Matriarch
-	12 Uplifting Melody
-	12 Stormfist Monk
-	12 Storm Jelly
-	12 Gongwielder Abbot
-	12 Kimja Jailer
-	12 Portal Guardian
-	12 Fatal Flourish
-	12 Judgment of the Seishin
-	12 Spiralhorn Kirin
-	12 Scorching Gecko
-	12 Jubilant Docks
-	12 Soaring Kites
-	12 Mortal Blade
-	12 Giant Hewn Toad
-	2 Simian Pupil
-	2 Aonuma's Students
-	1 Takashi, City on the Wind
-	2 Protean Boughs
-	2 Breath of the Spirit Realm
-	6 Frilled Seishin
-	6 Imperial Dragon
-	6 Ruiner's Execution
-	6 Stained Strokes
-	6 Ruiner Battlesuit
-	6 Ayeshi's Agent
-	2 Koi Float
-	6 Yokinzan Pathfinder
-	6 Shigane Elder
-	6 Opulent Vantage
-	6 Dragon of Recollection
-	2 Omen Skulker
-	1 Noble Shrineguard
-	2 Shigane Clan Head
-	6 Overflow
-	6 Ominous Seas
-	6 Settler's Caravan
-	6 River Guardian
-	6 Dragon's Court
-	6 Twilight Agent
-	12 Noble Kitsune
-	2 Nao, the Impenetrable
-	2 Gereishin's Entrance
-	1 Nimomae, Who Flows
-	1 Shiori, the Trickster
-	2 Staff of Balance
-	2 Shigane Potionmaster
-	2 Banisher Rifle
-	1 Realm Violator
-	2 Scouring the Riverbed
-	1 Conqueror's Glee
-	1 Sakura Dance
-	2 Primordial Gateway
-	1 Gate to Fujinobe
-	1 Danuja, Emperor's Pet
-	1 Revolutionary's Monument
-	1 Hakodate Regent
-	2 Forlorn Path
-	2 Murky Path
-	2 Rousing Path
-	2 Thicketed Path
-	2 Torrid Path
-	2 Threadweaver Shinobi
-	2 Spirit Realm Phoenix
-	1 Kage, Cursed Conqueror
-	1 Ageless Seishin
-	1 The Ancestral Legion
-	12 Moonlit Gateway
-	2 Sludge Drudge
-	2 Maiden of the Waters
-	6 Koraja's Centipede
-	2 Stratostorm
-	2 Auspicious Return
-	2 Stonework Titan
-	2 Stratostorm
-	1 Gereishin, the Stormlord
-	1 Gereishin, the Stormlord
-	2 Butchery
-	2 Mastery
-	2 Ayeshi Breaks the Loop
-	12 Saga
-	1 Shiori, the Trickster
-	6 King of Shallow Shores
-	2 Majesty
-	1 Tsubasa Shigane
-	1 Ayeshi, Time's Jailer
-	1 The Dutiful Wanderer
-	1 Giyama, Scion of Kage
-	2 Secrecy
-	2 Equanimity
-	2 Perils of Eternity
-	2 Aonuma, Princely Traveler
-	2 Koraja, the Broken Blade
-	6 Faces of the Faceless
-[wildcard(1)]
-	7 Uncoiling Realmspawn
-	7 Kimja Deadeye
-	4 The Dutiful Wanderer
-	15 Akihiko, Wayfinder
-	4 Tsubasa Shigane
-	15 Ribbon Dancer
-	6 Mirageform Shinobi
-	15 Nimble Mentor
-	7 Arushi, Shigane Heirloom
-	15 Imperial Tour
-	7 Hyomon, Cloud Conductor
-	15 Ikurimoko's Presence
-	15 Yingjun's Presence
-	6 Bladecross Student
-	7 Infernal Kitsune
-	6 Nocturnal Glintblade
-	15 Aoushun's Presence
-	15 Gereishin's Presence
-	15 Keuya's Presence
-	15 Kei, Exiled Survivor
-	6 Lesser Dragon
-	6 Verdant Winder
-	6 Butterfly Dragonling
-	6 Realm-Delver Whelp
-	6 Friendly Dragonling
-	15 Ukina, Aethersong Basker
-	6 Chittering Ascetic
-	6 Vicious Backstab
-	6 Demonic Reposession
-	6 Willing Acolyte
-	6 Basking Kitsune
-	15 Chomei, the Hostmother
-	15 Adorned Kitsune
-	15 Illusory Savior
-	6 Crane Dancer
-	4 Aether Dancer
-	6 Uiki Initiate
-	15 Ofuda Mistress
-	15 Disguised Hermit
-	7 Wisping Kirin
-	15 Ethereal Blossom
-	6 Dragon's Repose
-	6 Blood-Cursed Ape
-	15 Kirin of Boons
-	7 Spirit Realm Phoenix
-	15 Deflecting Kitsune
-	6 Gifts of the Kitsune
-	4 Giyama, Scion of Kage
-	15 Realmweft Kitsune
-	6 Balance of the Realms
-	6 Face of Animosity
-	15 Enchanted Pauldron
-	15 Lantern Festival
-	6 Wandering Thrumhorn
-	7 Sculptor's Replica
-	6 Midnight Duo
-	6 Whirlwind Kick
-	7 Attuned Acolyte
-	7 Demon of Dire Storms
-	15 Absolution Flock
-	7 Path's End
-	15 Swift Reproach
-	15 Foreign Encounter
-	7 Sodden Path
-	7 Distant Path
-	7 Meandering Path
-	7 Erosive Path
-	7 Desolate Path
-	4 Iwai and Oda
-	7 Orochi Soulfang
-	6 Resolute Natori
-	15 Monastery Teacher
-	4 Ageless Seishin
-	15 Distinguished Weaverkin
-	15 Eager Eelpup
-	6 Uiki Cloudchaser
-	15 Yokinzan General
-	7 Brutal Throatcrusher
-	7 Elder Tattooist
-	15 Suppressing-Fist Pupil
-	4 The Ancient Master
-	4 Teshima, Living Balance
-	15 Pass Judgment
-	15 Ascended Salamander
-	15 Cartographer's Skill
-	15 Spirit Realm Medallion
-	6 Daring Shinobi
-	6 Momentous Strike
-	6 Sacrificial Mentor
-	7 Shigane Manor Burns
-	4 Emperor Tzuhan
-	7 The God-Tree Chimes
-	6 Veiled Branchstalker
-	4 Kage, Cursed Conqueror
-	15 Fallen Heartseeker
-	15 Koi-Tail Mer
-	4 Akai and Toyotomi
-	6 Blazing Kitsune
-	6 Hwacha
-	6 Royal Balcony
-	7 Koraja, the Broken Blade
-	6 Dynasty Pendant
-	6 Blossoming Ocelot
-	15 Frolicking Tatsuko
-	4 Precognitive Combatant
-	7 Impulsive Underling
-	7 Protean Golem
-	15 Bleeding Out
-	6 Deft Deflection
-	7 Sanctuary of Fragile Unity
-	7 Imperial Honor Guard
-	15 Deathdealer Oni
-	7 Perils of Eternity
-	4 Spiteful Banditry
-	7 Kage's Mercenary
-	7 Ruinous Portents
-	6 Duress
-	15 Shigane Troupe Leader
-	15 Haughty Bulwark
-	7 Volatile Prosthetic
-	15 Dynasty's Benediction
-	4 Tzuhan's Lotus
-	15 Ancestor's Guidance
-	6 High Seas Samurai
-	7 Moonlight Adversary
-	6 Knight of Kage
-	6 Wretched Bargain
-	15 Saboteur's Immolation
-	6 Spiteful Liberation
-	6 Sealing Strike
-	4 Ayeshi, Time's Jailer
-	15 Ruiner's Procession
-	15 Chomei's Brawler
-	15 Kage's Slayer
-	7 Threadweaver Shinobi
-	7 Vengeful Artificer
-	7 Iri Sentinel
-	4 The Ancestral Legion
-	4 Luraana, Loop's End
-	7 Prideful Reaper
-	7 Heartfire Lantern
-	7 Devouring Seishin
-	7 Deepborn Calamity
-	7 Revolt at the Palace
-	7 Equanimity
-	7 Butchery
-	7 Mastery
-	7 Majesty
-	7 Secrecy
-	7 The Inferno Gate Opens
-	7 Grasp of the Elements
-	7 Portal to the Spirit Realm
-	7 Confronting Time's Jailer
-	15 Banish into Nothingness
-	7 Damn to Hell
-	15 Wicked Manifestation
-	15 Merciless Ruiner
-	7 Welkin Eviction
-	6 Abandon the Code
-	15 Ruiner's Hijacking
-	15 Imperial Production
-	6 Mapper's Wanderings
-	6 Leyline Attuner
-	6 Prophetic Prism
-	7 Avatar's Whim
-	7 Born From Fire
-	7 Aonuma, Princely Traveler
-	7 Assaulted by Shadows
-	15 Inklight Dancer
-	15 Master of the Peaks
-	4 Commander Tachibana
-	7 Natori Skyblade
-	6 Kitsune Duelist
-	7 Master of the Twin Blades
-	7 Fablewoven Kitsune
-	7 Amagaseto, Mother Spirit
-	6 Ravenous Slaughterlord
-	6 Oni of Tongues
-	15 Blighted Mistress
-	15 Hellfire Crafting
-	6 Hell's Boon
-	6 Deadly Combatant
-	15 Creation's Combustion
-	15 General of the Damned
-	6 Sunset Warrior
-	6 Scions of War
-	6 Thousand Depths Cutthroat
-	6 Conqueror's Favored
-	4 Akuryo, the Sweet Fang
-	6 Slayer of Numachi
-	6 Newborn Oni
-	6 Make an Escape
-	6 Mask Thief
-	15 Painted Officer
-	6 Instantaneous End
-	6 Kimja Steelshaper
-	6 Banished Dragon
-	15 Blur Strike
-	6 Inner Fortitude
-	4 Godslaughter Titan
-	6 Fall Upon Your Blade
-	6 Meditation
-	6 Sky's Flourishing
-	6 Mist-Draped Delver
-	15 Ensorcell
-	6 Torpid Colossus
-	6 Iron-Calm Acolyte
-	6 Titanic Behemoth
-	15 Menreiki, the Resplendent
-	6 Seishin of Sun's Radiance
-	6 Sundering the Fleet
-	6 Yokinzan Hermit
-	6 Drag into the Dark
-	6 Master of Stances
-	6 Shigane Cyclone
-	6 Realmweft Implosion
-	6 Moonblade Ninja
-	6 Sabotage the Supply Lines
-	6 Living Wave
-	6 Expert Bladework
-	6 Nerve-Strike Disciple
-	6 Elope
-	6 Kitsune Matriarch
-	6 Uplifting Melody
-	6 Stormfist Monk
-	6 Storm Jelly
-	6 Gongwielder Abbot
-	6 Kimja Jailer
-	6 Portal Guardian
-	6 Fatal Flourish
-	6 Judgment of the Seishin
-	6 Spiralhorn Kirin
-	6 Scorching Gecko
-	6 Jubilant Docks
-	6 Soaring Kites
-	6 Mortal Blade
-	6 Giant Hewn Toad
-	7 Simian Pupil
-	7 Aonuma's Students
-	4 Takashi, City on the Wind
-	7 Protean Boughs
-	7 Breath of the Spirit Realm
-	15 Frilled Seishin
-	15 Imperial Dragon
-	15 Ruiner's Execution
-	15 Stained Strokes
-	15 Ruiner Battlesuit
-	15 Ayeshi's Agent
-	7 Koi Float
-	15 Yokinzan Pathfinder
-	15 Shigane Elder
-	15 Opulent Vantage
-	15 Dragon of Recollection
-	7 Omen Skulker
-	4 Noble Shrineguard
-	7 Shigane Clan Head
-	15 Overflow
-	15 Ominous Seas
-	15 Settler's Caravan
-	15 River Guardian
-	15 Dragon's Court
-	15 Twilight Agent
-	6 Noble Kitsune
-	7 Nao, the Impenetrable
-	7 Gereishin's Entrance
-	4 Nimomae, Who Flows
-	4 Shiori, the Trickster
-	7 Staff of Balance
-	7 Shigane Potionmaster
-	7 Banisher Rifle
-	4 Realm Violator
-	7 Scouring the Riverbed
-	4 Conqueror's Glee
-	4 Sakura Dance
-	7 Primordial Gateway
-	4 Gate to Fujinobe
-	4 Danuja, Emperor's Pet
-	4 Revolutionary's Monument
-	4 Hakodate Regent
-	7 Forlorn Path
-	7 Murky Path
-	7 Rousing Path
-	7 Thicketed Path
-	7 Torrid Path
-	7 Threadweaver Shinobi
-	7 Spirit Realm Phoenix
-	4 Kage, Cursed Conqueror
-	4 Ageless Seishin
-	4 The Ancestral Legion
-	6 Moonlit Gateway
-	7 Sludge Drudge
-	7 Maiden of the Waters
-	15 Koraja's Centipede
-	7 Stratostorm
-	7 Auspicious Return
-	7 Stonework Titan
-	7 Stratostorm
-	4 Gereishin, the Stormlord
-	4 Gereishin, the Stormlord
-	7 Butchery
-	7 Mastery
-	7 Ayeshi Breaks the Loop
-	6 Saga
-	4 Shiori, the Trickster
-	15 King of Shallow Shores
-	7 Majesty
-	4 Tsubasa Shigane
-	4 Ayeshi, Time's Jailer
-	4 The Dutiful Wanderer
-	4 Giyama, Scion of Kage
-	7 Secrecy
-	7 Equanimity
-	7 Perils of Eternity
-	7 Aonuma, Princely Traveler
-	7 Koraja, the Broken Blade
-	15 Faces of the Faceless
+	5 Akihiko, Wayfinder
+	5 Ribbon Dancer
+	5 Nimble Mentor
+	5 Imperial Tour
+	5 Ikurimoko's Presence
+	5 Yingjun's Presence
+	5 Aoushun's Presence
+	5 Gereishin's Presence
+	5 Keuya's Presence
+	5 Kei, Exiled Survivor
+	5 Ukina, Aethersong Basker
+	5 Chomei, the Hostmother
+	5 Adorned Kitsune
+	5 Illusory Savior
+	5 Ofuda Mistress
+	5 Disguised Hermit
+	5 Ethereal Blossom
+	5 Kirin of Boons
+	5 Deflecting Kitsune
+	5 Realmweft Kitsune
+	5 Enchanted Pauldron
+	5 Lantern Festival
+	5 Absolution Flock
+	5 Swift Reproach
+	5 Foreign Encounter
+	5 Monastery Teacher
+	5 Distinguished Weaverkin
+	5 Eager Eelpup
+	5 Yokinzan General
+	5 Suppressing-Fist Pupil
+	5 Pass Judgment
+	5 Ascended Salamander
+	5 Cartographer's Skill
+	5 Spirit Realm Medallion
+	5 Fallen Heartseeker
+	5 Koi-Tail Mer
+	5 Frolicking Tatsuko
+	5 Bleeding Out
+	5 Deathdealer Oni
+	5 Shigane Troupe Leader
+	5 Haughty Bulwark
+	5 Dynasty's Benediction
+	5 Ancestor's Guidance
+	5 Saboteur's Immolation
+	5 Ruiner's Procession
+	5 Chomei's Brawler
+	5 Kage's Slayer
+	5 Banish into Nothingness
+	5 Wicked Manifestation
+	5 Merciless Ruiner
+	5 Ruiner's Hijacking
+	5 Imperial Production
+	5 Inklight Dancer
+	5 Master of the Peaks
+	5 Blighted Mistress
+	5 Hellfire Crafting
+	5 Creation's Combustion
+	5 General of the Damned
+	5 Painted Officer
+	5 Blur Strike
+	5 Ensorcell
+	5 Menreiki, the Resplendent
+	5 Frilled Seishin
+	5 Imperial Dragon
+	5 Ruiner's Execution
+	5 Stained Strokes
+	5 Ruiner Battlesuit
+	5 Ayeshi's Agent
+	5 Yokinzan Pathfinder
+	5 Shigane Elder
+	5 Opulent Vantage
+	5 Dragon of Recollection
+	5 Overflow
+	5 Ominous Seas
+	5 Settler's Caravan
+	5 River Guardian
+	5 Dragon's Court
+	5 Twilight Agent
+	5 Koraja's Centipede
+	5 King of Shallow Shores
+	5 Faces of the Faceless
+[common(10)]
+	5 Mirageform Shinobi
+	5 Bladecross Student
+	5 Nocturnal Glintblade
+	5 Lesser Dragon
+	5 Verdant Winder
+	5 Butterfly Dragonling
+	5 Realm-Delver Whelp
+	5 Friendly Dragonling
+	5 Chittering Ascetic
+	5 Vicious Backstab
+	5 Demonic Reposession
+	5 Willing Acolyte
+	5 Basking Kitsune
+	5 Crane Dancer
+	5 Uiki Initiate
+	5 Dragon's Repose
+	5 Blood-Cursed Ape
+	5 Gifts of the Kitsune
+	5 Balance of the Realms
+	5 Face of Animosity
+	5 Wandering Thrumhorn
+	5 Midnight Duo
+	5 Whirlwind Kick
+	5 Resolute Natori
+	5 Uiki Cloudchaser
+	5 Daring Shinobi
+	5 Momentous Strike
+	5 Sacrificial Mentor
+	5 Veiled Branchstalker
+	5 Blazing Kitsune
+	5 Hwacha
+	5 Royal Balcony
+	5 Dynasty Pendant
+	5 Blossoming Ocelot
+	5 Deft Deflection
+	5 Duress
+	5 High Seas Samurai
+	5 Knight of Kage
+	5 Wretched Bargain
+	5 Spiteful Liberation
+	5 Sealing Strike
+	5 Abandon the Code
+	5 Mapper's Wanderings
+	5 Leyline Attuner
+	5 Prophetic Prism
+	5 Kitsune Duelist
+	5 Ravenous Slaughterlord
+	5 Oni of Tongues
+	5 Hell's Boon
+	5 Deadly Combatant
+	5 Sunset Warrior
+	5 Scions of War
+	5 Thousand Depths Cutthroat
+	5 Conqueror's Favored
+	5 Slayer of Numachi
+	5 Newborn Oni
+	5 Make an Escape
+	5 Mask Thief
+	5 Instantaneous End
+	5 Kimja Steelshaper
+	5 Banished Dragon
+	5 Inner Fortitude
+	5 Fall Upon Your Blade
+	5 Meditation
+	5 Sky's Flourishing
+	5 Mist-Draped Delver
+	5 Torpid Colossus
+	5 Iron-Calm Acolyte
+	5 Titanic Behemoth
+	5 Seishin of Sun's Radiance
+	5 Sundering the Fleet
+	5 Yokinzan Hermit
+	5 Drag into the Dark
+	5 Master of Stances
+	5 Shigane Cyclone
+	5 Realmweft Implosion
+	5 Moonblade Ninja
+	5 Sabotage the Supply Lines
+	5 Living Wave
+	5 Expert Bladework
+	5 Nerve-Strike Disciple
+	5 Elope
+	5 Kitsune Matriarch
+	5 Uplifting Melody
+	5 Stormfist Monk
+	5 Storm Jelly
+	5 Gongwielder Abbot
+	5 Kimja Jailer
+	5 Portal Guardian
+	5 Fatal Flourish
+	5 Judgment of the Seishin
+	5 Spiralhorn Kirin
+	5 Scorching Gecko
+	5 Jubilant Docks
+	5 Soaring Kites
+	5 Mortal Blade
+	5 Giant Hewn Toad
+	5 Noble Kitsune
+	5 Moonlit Gateway
+	5 Saga

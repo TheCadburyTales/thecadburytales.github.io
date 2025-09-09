@@ -3,17 +3,18 @@
     "formats": "",
     "trimmed": "y",
     "image_type": "png",
-    "draft_structure": "play booster",
+    "draft_structure": "draft booster",
+    "unpreviewed": "empty",
     "cards": [
         {
             "card_name": "Prince Irakan, Heir to Dust",
             "color": "WU",
             "rarity": "mythic",
             "type": "Legendary Planeswalker \u2014 Irakan",
-            "number": 245,
+            "number": 243,
             "color_identity": "WU",
             "cost": "{4}{W}{U}",
-            "rules_text": "",
+            "rules_text": "Whenever you cast a noncreature spell, create a 1/1 colorless Soldier artifact creature token.\n[+1]: Create a 0/0 colorless Construct artifact creature token with \u201cThis creature gets +1/+1 for each artifact you control.\u201d\n[-2]: Draw two cards, then you may tap three untapped artifacts you control. If you do, you gain 1 life for each card in your hand.\n[-3]: Exchange control of target artifact you control and target creature or planeswalker an opponent controls.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Whenever you cast a noncreature spell, create a 1/1 colorless Soldier artifact creature token.\n[+1]: Create a 0/0 colorless Construct artifact creature token with \u201cThis creature gets +1/+1 for each artifact you control.\u201d\n[-2]: Draw two cards, then you may tap three untapped artifacts you control. If you do, you gain 1 life for each card in your hand.\n[-3]: Exchange control of target artifact you control and target creature or planeswalker an opponent controls.",
@@ -21,6 +22,7 @@
             "set": "CNF",
             "loyalty": "5",
             "artist": "Onmyoji",
+            "alias": "",
             "notes": "!tag twink"
         },
         {
@@ -39,6 +41,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Tate S",
+            "alias": "",
             "notes": ""
         },
         {
@@ -46,7 +49,7 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Ninja",
-            "number": 258,
+            "number": 256,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "Ninjutsu {G}{U} [i]({G}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]\nDeathtouch\nWhenever a creature you control deals combat damage to a player, you may tap or untap target permanent.",
@@ -57,6 +60,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Betina",
+            "alias": "",
             "notes": "!tag twink"
         },
         {
@@ -75,6 +79,7 @@
             "set": "CNF",
             "loyalty": "5",
             "artist": "Ivan Vilmant",
+            "alias": "",
             "notes": ""
         },
         {
@@ -93,6 +98,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Lightwing Academy",
+            "alias": "",
             "notes": "!tag gay\n!tag twink"
         },
         {
@@ -111,6 +117,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Sam Kanios",
+            "alias": "",
             "notes": ""
         },
         {
@@ -121,7 +128,7 @@
             "number": 148,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
-            "rules_text": "Move Heaven and Earth deals 3 damage to each creature.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI \u2014 Each player sacrifices three nonbasic lands. Move Heaven and Earth deals 3 damage to each creature.\nII, III \u2014 For each opponent, if they control more lands than you, create a Treasure token. Otherwise, create a 4/4 red Elemental creature token.\n\u200b",
             "flavor_text": "[i]\u201cIn my grief, I sought to make right of Lanion's death. But in the end, all I did was tarnish his sacrifice.\u201d\n\u2014Elai[/i]",
             "pt": "",
             "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI \u2014 Each player sacrifices three nonbasic lands. Move Heaven and Earth deals 3 damage to each creature.\nII, III \u2014 For each opponent, if they control more lands than you, create a Treasure token. Otherwise, create a 4/4 red Elemental creature token.\n\u200b",
@@ -129,24 +136,26 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Akira Egawa",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
-            "card_name": "Kallatree's Offshoot",
+            "card_name": "Valdrasil's Offshoot",
             "color": "WG",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 235,
+            "number": 259,
             "color_identity": "WG",
             "cost": "{3}{G}{W}",
             "rules_text": "Your opponents can't cast spells from anywhere other than their hands.\nWhenever you create one or more tokens, you may draw a card.",
-            "flavor_text": "[i]Amede planted seeds of the Kallatree across the Multiverse, repelling Telura's forces from encroaching further.[/i]",
+            "flavor_text": "[i]Amede planted seeds of Valdrasil across the Multiverse, repelling Telura's forces from encroaching further.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "CNF",
             "loyalty": "",
             "artist": "Farid Sandoval",
+            "alias": "",
             "notes": ""
         },
         {
@@ -154,7 +163,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Shade Samurai",
-            "number": 116,
+            "number": 115,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "This creature can't block.\nYou may cast this card from your graveyard as an Adventure if a non-Shade creature died this turn.",
@@ -165,6 +174,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Geoffrey Amesse",
+            "alias": "",
             "card_name2": "Reaper Form",
             "color2": "B",
             "type2": "Instant \u2014 Adventure",
@@ -175,6 +185,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "The Fabled Masquerade"
         },
         {
@@ -193,6 +204,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Jack Wang",
+            "alias": "",
             "notes": "!tag nonbinary"
         },
         {
@@ -211,6 +223,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "James Combridge",
+            "alias": "",
             "notes": ""
         },
         {
@@ -229,6 +242,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Lloyd Drake-Brockman",
+            "alias": "",
             "notes": ""
         },
         {
@@ -247,6 +261,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "aerobicsalmon",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -265,6 +280,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Yuyun Jessie Jiang",
+            "alias": "",
             "notes": ""
         },
         {
@@ -283,6 +299,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Daniela Ivanova",
+            "alias": "",
             "notes": ""
         },
         {
@@ -293,7 +310,7 @@
             "number": 130,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Whenever a source you control deals noncombat damage to an opponent, you may exile that many cards from the top of your library.\nOnce during each of your turns, you may play a card exiled with this enchantment this turn.",
+            "rules_text": "Whenever a source you control deals noncombat damage to a player, you may add that much {R}. Do this only once each turn.",
             "flavor_text": "[i]\u201cThe Multiverse has been cruel to you. Don't you think it all needs a fresh start?\u201d\n\u2014Prince Irakan, to Elai[/i]",
             "pt": "",
             "special_text": "",
@@ -301,6 +318,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "sqloveraven",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -311,7 +329,7 @@
             "number": 222,
             "color_identity": "UBR",
             "cost": "{1}{U}{B}{R}",
-            "rules_text": "",
+            "rules_text": "[+1]: Exile the top three cards of your library. Until the end of your next turn, you may play those cards. Cast cards exiled this way by sacrificing an artifact or token in addition to paying their other costs.\n[+1]: Create a 1/1 colorless Thopter artifact creature token with flying.\n[-3]: Elai and Lanion deals 4 damage to target creature. Excess damage is dealt to each other creature and each opponent instead.\n[-7]: You get an emblem with \u201cYou may cast copies of the spell most recently cast this turn.\u201d [i](You still pay its costs. Timing rules still apply.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Exile the top three cards of your library. Until the end of your next turn, you may play those cards. Cast cards exiled this way by sacrificing an artifact or token in addition to paying their other costs.\n[+1]: Create a 1/1 colorless Thopter artifact creature token with flying.\n[-3]: Elai and Lanion deals 4 damage to target creature. Excess damage is dealt to each other creature and each opponent instead.\n[-7]: You get an emblem with \u201cYou may cast copies of the spell most recently cast this turn.\u201d [i](You still pay its costs. Timing rules still apply.)[/i]",
@@ -319,6 +337,7 @@
             "set": "CNF",
             "loyalty": "4",
             "artist": "Akira Egawa",
+            "alias": "",
             "notes": "!tag yaoi\n!tag gay\n!tag twink"
         },
         {
@@ -326,7 +345,7 @@
             "color": "WUBRG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Noble",
-            "number": 259,
+            "number": 257,
             "color_identity": "WUBRG",
             "cost": "{W}{U}{B}{R}{G}",
             "rules_text": "Double strike\nThe first spell you cast each turn costs {1} less to cast for each multicolored card in your graveyard.\nWhenever you cast your second spell each turn, draw a card for each of its colors, then discard a card.",
@@ -337,6 +356,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Rey Jinn",
+            "alias": "",
             "notes": ""
         },
         {
@@ -355,6 +375,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Kent Davis",
+            "alias": "",
             "notes": ""
         },
         {
@@ -373,6 +394,7 @@
             "set": "CNF",
             "loyalty": "3",
             "artist": "sailin",
+            "alias": "",
             "notes": "!tag gay\n!tag twink"
         },
         {
@@ -380,7 +402,7 @@
             "color": "UB",
             "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Human",
-            "number": 236,
+            "number": 234,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
             "rules_text": "Other artifacts you control have \u201c{T}, Pay 1 life: Add one mana of any color.\u201d\nWhenever Lanion deals combat damage to a player, create two 1/1 colorless Thopter artifact creature tokens with flying.\n{4}: Until end of turn, Lanion gains lifelink and can't be blocked. He phases out at the beginning of the next end step.",
@@ -391,6 +413,7 @@
             "set": "CNF",
             "loyalty": "3",
             "artist": "Egawa Akira",
+            "alias": "",
             "notes": "!tag twink\n!tag gay"
         },
         {
@@ -409,6 +432,7 @@
             "set": "CNF",
             "loyalty": "4",
             "artist": "BHoan",
+            "alias": "",
             "notes": "!tag gay\n!tag twink"
         },
         {
@@ -427,6 +451,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Kent Davis",
+            "alias": "",
             "notes": ""
         },
         {
@@ -445,6 +470,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Thibault Girard",
+            "alias": "",
             "notes": ""
         },
         {
@@ -452,7 +478,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Dryad Warlock",
-            "number": 254,
+            "number": 252,
             "color_identity": "BG",
             "cost": "{B}{G}",
             "rules_text": "Lands you control have indestructible.\nWhenever Sylvua attacks, return up to one target land card from your graveyard to the battlefield tapped with a stun counter on it. It's a 3/3 Elemental creature in addition to its other types. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]",
@@ -463,6 +489,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "freedom xi",
+            "alias": "",
             "notes": "Despark"
         },
         {
@@ -481,6 +508,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Takayama Toshiaki",
+            "alias": "",
             "notes": ""
         },
         {
@@ -499,6 +527,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "CREADFECTUS",
+            "alias": "",
             "notes": ""
         },
         {
@@ -517,6 +546,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "pindurski",
+            "alias": "",
             "notes": ""
         },
         {
@@ -524,7 +554,7 @@
             "color": "WR",
             "rarity": "rare",
             "type": "Artifact \u2014 Vehicle",
-            "number": 250,
+            "number": 248,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
             "rules_text": "When this Vehicle enters, it deals 3 damage to any target and you gain 3 life.\nWhenever this Vehicle attacks, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.\nCrew 3",
@@ -535,6 +565,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "JunFeng",
+            "alias": "",
             "notes": ""
         },
         {
@@ -542,7 +573,7 @@
             "color": "WB",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 238,
+            "number": 236,
             "color_identity": "WB",
             "cost": "{W}{B}",
             "rules_text": "Target opponent reveals their hand. You choose a nonland card from it or a card from their graveyard. Exile that card. That player can't cast spells this turn.",
@@ -553,6 +584,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "ThoruPanda",
+            "alias": "",
             "notes": ""
         },
         {
@@ -560,7 +592,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Leviathan",
-            "number": 202,
+            "number": 201,
             "color_identity": "G",
             "cost": "{5}{G}{G}{G}",
             "rules_text": "Trample, ward {3}\nWhenever this creature or another creature you control with trample enters, you may have that creature fight target creature an opponent controls. Excess damage dealt this way to the creature you don't control is dealt to its controller instead.",
@@ -571,6 +603,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Maja Rogocka",
+            "alias": "",
             "notes": ""
         },
         {
@@ -589,6 +622,7 @@
             "set": "CNF",
             "loyalty": "5",
             "artist": "onmyoji",
+            "alias": "",
             "notes": "Despark"
         },
         {
@@ -607,6 +641,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Onmyoji",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -625,6 +660,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "David Frasheski",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -632,7 +668,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Elf Shaman",
-            "number": 200,
+            "number": 199,
             "color_identity": "WUBRG",
             "cost": "{1}{G}",
             "rules_text": "Whenever you cast a spell that's white, blue, black, or red, put a +1/+1 counter on Tanavir.\n{2W}{2U}{2B}{2R}: Double the number of +1/+1 counters on each creature you control.",
@@ -643,6 +679,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Rafael Assis",
+            "alias": "",
             "notes": "!tag twink\n!tag trans"
         },
         {
@@ -661,6 +698,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Denis D.Z.Robo Rychkovskiy",
+            "alias": "",
             "notes": ""
         },
         {
@@ -679,6 +717,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Reza Afshar",
+            "alias": "",
             "notes": ""
         },
         {
@@ -697,6 +736,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Sayako",
+            "alias": "",
             "notes": "Main set"
         },
         {
@@ -704,7 +744,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 194,
+            "number": 193,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "You may cast a card you own from outside the game if it's multicolored or if you spend five or more colors of mana to cast it.\nBasic landcycling {G} [i]({G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]",
@@ -715,6 +755,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "ying yi",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -733,6 +774,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Kan Liu",
+            "alias": "",
             "notes": "!tag twink"
         },
         {
@@ -751,6 +793,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Sofiia Bondareva",
+            "alias": "",
             "notes": ""
         },
         {
@@ -758,7 +801,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 203,
+            "number": 202,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Choose one\u2014\n\u2022 Destroy target artifact or enchantment.\n\u2022 Look at the top three cards of your library. You may reveal a creature or land card from among them put it into your hand. Put the rest on the bottom of your library in a random order.",
@@ -769,6 +812,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Kerem Beyit",
+            "alias": "",
             "notes": ""
         },
         {
@@ -776,7 +820,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Samurai",
-            "number": 99,
+            "number": 98,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Menace\nWhenever this creature attacks alone, you may pay {1}{B}. If you do, return target creature card from your graveyard to your hand.",
@@ -787,6 +831,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Yicun Zeng",
+            "alias": "",
             "notes": ""
         },
         {
@@ -794,7 +839,7 @@
             "color": "UBG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Spirit Serpent",
-            "number": 243,
+            "number": 241,
             "color_identity": "UBG",
             "cost": "{2}{B}{G}{U}",
             "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, put a +1/+1 counter on Ourobori.\nAt the beginning of your end step, return all land cards that were put into your graveyard from anywhere this turn to the battlefield tapped.",
@@ -805,6 +850,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "onmyoji",
+            "alias": "",
             "notes": ""
         },
         {
@@ -823,6 +869,7 @@
             "set": "CNF",
             "loyalty": "4",
             "artist": "quelmdn",
+            "alias": "",
             "notes": "!tag twink"
         },
         {
@@ -841,10 +888,11 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Crimson-Chains",
+            "alias": "",
             "notes": "!tag twink"
         },
         {
-            "card_name": "Amede, Kallatree Speaker",
+            "card_name": "Amede, Valdrasil's Speaker",
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Shaman",
@@ -859,6 +907,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Daniel Allison",
+            "alias": "",
             "notes": "Despark"
         },
         {
@@ -877,6 +926,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Brian Valeza",
+            "alias": "",
             "notes": "The Fabled Masquerade"
         },
         {
@@ -895,6 +945,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Alsares",
+            "alias": "",
             "notes": ""
         },
         {
@@ -905,7 +956,7 @@
             "number": 71,
             "color_identity": "U",
             "cost": "{4}{U}{U}{U}",
-            "rules_text": "",
+            "rules_text": "\nI \u2014 Exchange your library for each card you own from outside the game, then shuffle.\nII, III \u2014 Exile target creature you control, then reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI \u2014 Exchange your library for each card you own from outside the game, then shuffle.\nII, III \u2014 Exile target creature you control, then reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.\n\u200b",
@@ -913,6 +964,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "ko ryou",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -931,6 +983,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Sung Choi",
+            "alias": "",
             "notes": ""
         },
         {
@@ -949,6 +1002,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Linda Lithen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -967,6 +1021,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Abiogenesis",
+            "alias": "",
             "notes": ""
         },
         {
@@ -985,6 +1040,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Ji Hun Lee",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1003,6 +1059,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "TduCrest",
+            "alias": "",
             "notes": "REWORK"
         },
         {
@@ -1010,7 +1067,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Shade",
-            "number": 106,
+            "number": 105,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Whenever another nontoken creature you control dies, you may exile that card from your graveyard. If you do, create a token that's a copy of it, except it's 1/1.\n{B}: Obsession gets +1/+1 until end of turn for each creature you control with base power and toughness 1/1. Activate only once each turn.",
@@ -1021,6 +1078,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "AkiMao",
+            "alias": "",
             "notes": "!tag twink"
         },
         {
@@ -1039,6 +1097,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Jason Nguyen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1057,6 +1116,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Kenko",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1075,6 +1135,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Jason Nguyen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1093,6 +1154,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Likiu",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1111,6 +1173,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Yicun Zeng",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1129,6 +1192,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Monte Cook Games",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1147,6 +1211,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Matt Hansen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1158,13 +1223,14 @@
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "{T}: Add one mana of any color.\n{1}{G}, Sacrifice this creature: Destroy target artifact or enchantment. Activate only as a sorcery.",
-            "flavor_text": "[i]\u201cThe Kallatree rejected me and my love. Telura has blessed me, and equipped me to fight for her.\u201d[/i]",
+            "flavor_text": "[i]\u201cValdrasil rejected me and my love for it. Telura has blessed me, and equipped me to fight for her.\u201d[/i]",
             "pt": "1/3",
             "special_text": "",
             "shape": "normal",
             "set": "CNF",
             "loyalty": "",
             "artist": "Isabeau Backhaus",
+            "alias": "",
             "notes": "!tag twink"
         },
         {
@@ -1183,14 +1249,15 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Isabeau Backhaus",
+            "alias": "",
             "notes": ""
         },
         {
-            "card_name": "Kallaheart Reckoner",
+            "card_name": "Vallaheart Reckoner",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Elf Warrior",
-            "number": 98,
+            "number": 122,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "When this creature enters, you may pay 2 life. If you do, this creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]",
@@ -1201,6 +1268,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Isabeau Backhaus",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1219,6 +1287,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "tim23",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1237,6 +1306,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "tim23",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -1244,7 +1314,7 @@
             "color": "UB",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Artificer",
-            "number": 255,
+            "number": 253,
             "color_identity": "UB",
             "cost": "{U}{B}",
             "rules_text": "{T}: Draw a card, then discard a card unless you control three or more artifacts.\n{2}, Sacrifice this creature: Create a 0/0 colorless Construct artifact creature token with \u201cThis creature gets +1/+1 for each artifact you control.\u201d Activate only as a sorcery.",
@@ -1255,6 +1325,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Manuel Casta\u00f1\u00f3n",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1262,7 +1333,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Legendary Enchantment \u2014 Shrine",
-            "number": 198,
+            "number": 197,
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "At the beginning of combat on your turn, creatures you control get +X/+X until end of turn, where X is the number of Shrines you control.",
@@ -1273,7 +1344,8 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Max Frorer",
-            "card_name2": "Kallatree Boon",
+            "alias": "",
+            "card_name2": "Valdrasil Boon",
             "color2": "G",
             "type2": "Sorcery \u2014 Adventure",
             "cost2": "{1}{G}",
@@ -1283,6 +1355,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -1301,6 +1374,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Zoriy",
+            "alias": "",
             "card_name2": "Naveia Boon",
             "color2": "W",
             "type2": "Sorcery \u2014 Adventure",
@@ -1311,6 +1385,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -1329,6 +1404,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Peter Kreitner",
+            "alias": "",
             "card_name2": "Idyll Boon",
             "color2": "R",
             "type2": "Instant \u2014 Adventure",
@@ -1339,6 +1415,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -1357,6 +1434,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "raeldelier",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1375,6 +1453,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "raeldelier",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1382,7 +1461,7 @@
             "color": "G",
             "rarity": "mythic",
             "type": "Enchantment",
-            "number": 187,
+            "number": 186,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
             "rules_text": "At the beginning of your end step, exile up to four target lands you control, then return them to the battlefield under your control.",
@@ -1393,6 +1472,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Julie Dillon",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -1411,6 +1491,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Romain Kurdi",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1429,6 +1510,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Megan Graham",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1447,6 +1529,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Irina Nordsol Kuzmina",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1454,7 +1537,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Elemental",
-            "number": 190,
+            "number": 189,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Reach\n[i]Converge[/i] \u2014 This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.\nWhen this creature enters, it fights up to one target artifact creature an opponent controls.",
@@ -1465,6 +1548,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "toshi3go",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1483,6 +1567,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Herbie Wang",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1490,7 +1575,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Human Warlock",
-            "number": 118,
+            "number": 117,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Lifelink\n{2}, {T}, Sacrifice a non-Relic artifact or another creature: Look at the top two cards of your library. Put one into your hand and the other into your graveyard. Create a tapped Relic token. [i](It's an artifact with \u201c{T}: Add {C}. You can't spend this mana to cast your first spell each turn.\u201d)[/i]",
@@ -1501,6 +1586,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Ramza Ardyputra",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1519,6 +1605,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Ethan Patrick Harris",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1537,6 +1624,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Liiga Smilshkalne",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1555,6 +1643,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Flora Silve",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1573,6 +1662,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "inga shel",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1591,6 +1681,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "ToBey",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1609,6 +1700,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Travis Anderson",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1616,7 +1708,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Artifact",
-            "number": 105,
+            "number": 104,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
             "rules_text": "You can't cast black spells.\nWhenever you cast a spell, you draw a card and lose 1 life.\nWhenever a creature dies, exile it from its controller's graveyard and create a tapped Treasure token.",
@@ -1627,6 +1719,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Harshanand Singh",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1634,7 +1727,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2014 Zombie",
-            "number": 100,
+            "number": 99,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "This creature can't block.\nYou may cast this creature from your graveyard by sacrificing an artifact in addition to its other costs.\n{1}{B}, Discard a card: Ionize this creature. [i](If it isn't an artifact, this creature becomes a 0/0 artifact creature and gains \u201cThis creature gets +1/+1 for each artifact you control.\u201d)[/i]",
@@ -1645,6 +1738,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Wero Gallo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1663,6 +1757,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Carson Daniel Lowmiller",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1670,7 +1765,7 @@
             "color": "URG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Fox Spirit",
-            "number": 251,
+            "number": 249,
             "color_identity": "URG",
             "cost": "{G}{U}{R}",
             "rules_text": "Shiori enters with two +1/+1 counters on it.\n{2}: Shiori becomes a copy of target creature until end of turn, except its name is Shiori, Frostfire Kitsune and it's still legendary.",
@@ -1681,6 +1776,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Brian Valeza",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1688,7 +1784,7 @@
             "color": "WR",
             "rarity": "uncommon",
             "type": "Creature \u2014 Elf Knight",
-            "number": 237,
+            "number": 235,
             "color_identity": "WR",
             "cost": "{R}{W}",
             "rules_text": "At the beginning of your upkeep, exile the top card of your library. It gains \u201cYou may play this card from exile as long as you've cast another spell this turn.\u201d\nAt the beginning of your end step, put each card exiled with this creature into its owner's graveyard.",
@@ -1699,6 +1795,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Joseph Weston",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1706,7 +1803,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Kavu",
-            "number": 193,
+            "number": 192,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Vigilance\n[i]Converge[/i] \u2014 This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.",
@@ -1717,6 +1814,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Paul Mafayon",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1735,6 +1833,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Andrew West",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1753,6 +1852,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Jefrey Yonathan",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1771,6 +1871,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Camellia Van Den Heuvel",
+            "alias": "",
             "notes": "!tag twink"
         },
         {
@@ -1789,6 +1890,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Alexis Susani",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1807,6 +1909,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Xiao Guang Sun",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1825,6 +1928,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Davood Moghaddami",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1843,6 +1947,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Michal Kvac",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1861,6 +1966,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1879,6 +1985,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Katernya Vitkovska",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1897,6 +2004,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Flora Silve",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1915,6 +2023,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Anthony Avon",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1933,6 +2042,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Anthony Avon",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1951,6 +2061,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Anthony Avon",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1969,6 +2080,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Nicolas Gardeazabal",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1987,6 +2099,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Mohammad Qureshi",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1994,7 +2107,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Horror Knight",
-            "number": 110,
+            "number": 109,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "When this creature enters, it connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]\nAt the beginning of your end step, if you discarded a card this turn, each opponent discards a card.",
@@ -2005,6 +2118,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Mohammad Qureshi",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2023,6 +2137,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Katernya Vitkovska",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2041,6 +2156,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Dustin Panzino",
+            "alias": "",
             "notes": "!tag reprint"
         },
         {
@@ -2059,6 +2175,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Anh Tung",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2077,6 +2194,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Yare Yue",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2095,6 +2213,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Borys Kernytskyi",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -2113,6 +2232,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "katorius",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -2131,6 +2251,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "NUARE",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2149,6 +2270,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Daniela Ivanova",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2167,6 +2289,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Avetetsuya Studios",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2177,7 +2300,7 @@
             "number": 3,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "",
+            "rules_text": "\nI \u2014 Return target creature card with mana value 3 or less from your graveyard to the battlefield.\nYou gain 1 life for each artifact you control.\nII, III \u2014 You may ionize target nonartifact creature you control. [i](That creature becomes a 0/0 artifact creature and gains \u201cThis creature gets +1/+1 for each artifact you control.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI \u2014 Return target creature card with mana value 3 or less from your graveyard to the battlefield.\nYou gain 1 life for each artifact you control.\nII, III \u2014 You may ionize target nonartifact creature you control. [i](That creature becomes a 0/0 artifact creature and gains \u201cThis creature gets +1/+1 for each artifact you control.\u201d)[/i]",
@@ -2185,6 +2308,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "piper",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2192,7 +2316,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 108,
+            "number": 107,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Whenever you cast an artifact spell, create a tapped Treasure token.\nAt the beginning of each end step, if you've sacrificed three or more permanents this turn, create a 4/4 black Demon Warrior artifact creature token.",
@@ -2203,6 +2327,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Andrew Bosley",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2221,6 +2346,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "andhika rizky",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2239,6 +2365,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Jayson Zhu",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2257,6 +2384,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Vasilnya Holod",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2275,6 +2403,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Simon Dominic Brewer",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2293,6 +2422,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Kevin Glint",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2311,6 +2441,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2329,6 +2460,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Artur Mosca",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2347,6 +2479,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "0BO",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2365,6 +2498,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Grafit Studio",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2372,7 +2506,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Human Shaman",
-            "number": 191,
+            "number": 190,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "When this creature dies, create a Treasure token.",
@@ -2383,6 +2517,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Lorenzo Mastroianni",
+            "alias": "",
             "notes": "Re Art"
         },
         {
@@ -2401,6 +2536,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Victor Lafaye",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2419,6 +2555,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Felcat",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2437,6 +2574,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Jonah Lobe",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2455,6 +2593,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Anastasia Bulgakova",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2473,6 +2612,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Anastasia Bulgakova",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2491,6 +2631,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Polar Engine",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2498,7 +2639,7 @@
             "color": "WUR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Warrior",
-            "number": 253,
+            "number": 251,
             "color_identity": "WUR",
             "cost": "{1}{U}{R}{W}",
             "rules_text": "Trample, ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]\nWhenever you cast a noncreature spell, Skodir deals 1 damage to each opponent.\nWhenever Skodir attacks, until end of turn, you may cast permanent cards as their Adventures from your graveyard.",
@@ -2509,6 +2650,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Nathaniel Himawan",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2527,6 +2669,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Athena Productions",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2534,7 +2677,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 188,
+            "number": 187,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Create a tapped colorless land token named Everywhere that is every basic land type.",
@@ -2545,6 +2688,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Bram Sels",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2563,6 +2707,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Guilherme Batista",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2581,6 +2726,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Magali Villenueve",
+            "alias": "",
             "card_name2": "Star's Potential",
             "color2": "R",
             "type2": "Instant \u2014 Adventure",
@@ -2591,6 +2737,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "!tag twink"
         },
         {
@@ -2598,7 +2745,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Soldier",
-            "number": 248,
+            "number": 246,
             "color_identity": "WG",
             "cost": "{4}{G}{W}",
             "rules_text": "This spell can't be countered.\nFlying, hexproof from spells [i](This creature can't be the target of spells your opponents control.)[/i]\nWhenever Risa enters or attacks, destroy up to one target nonbasic, noncreature permanent an opponent controls. That player may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.",
@@ -2609,6 +2756,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Thomas Wievegg",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2627,6 +2775,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "L Haupt",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2645,6 +2794,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Christian Quinot",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2663,6 +2813,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "MDK-S",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2670,7 +2821,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Noble",
-            "number": 239,
+            "number": 237,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
             "rules_text": "Whenever you attack with exactly two creatures, put a +1/+1 counter on target attacking creature you control.\n{2}, Discard a land card: You may cast target nonland permanent card from your graveyard this turn. If you cast a creature or Vehicle spell this way, it gains haste until end of turn.",
@@ -2681,6 +2832,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Nuare",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2699,6 +2851,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Micah Epstein",
+            "alias": "",
             "notes": "!tag twink"
         },
         {
@@ -2717,6 +2870,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Harshanand Singh",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2727,7 +2881,7 @@
             "number": 25,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "",
+            "rules_text": "\nI \u2014 Create a 3/3 colorless Vehicle artifact token with crew 1.\nII \u2014 Create a 1/1 colorless Soldier artifact creature token.\nIII \u2014 For each artifact token you control, create a token that's a copy of it.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI \u2014 Create a 3/3 colorless Vehicle artifact token with crew 1.\nII \u2014 Create a 1/1 colorless Soldier artifact creature token.\nIII \u2014 For each artifact token you control, create a token that's a copy of it.",
@@ -2735,6 +2889,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Jason Nguyen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2753,6 +2908,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Ze-Yan Jhuang",
+            "alias": "",
             "card_name2": "Aurumsong",
             "color2": "W",
             "type2": "Instant \u2014 Adventure",
@@ -2763,6 +2919,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -2781,6 +2938,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Hugo Talon",
+            "alias": "",
             "card_name2": "Banisher Touch",
             "color2": "U",
             "type2": "Instant \u2014 Adventure",
@@ -2791,6 +2949,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -2809,14 +2968,15 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
             "notes": ""
         },
         {
-            "card_name": "Kallawarden Ancient",
+            "card_name": "Vallawarden Ancient",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Elemental",
-            "number": 184,
+            "number": 204,
             "color_identity": "G",
             "cost": "{6}{G}{G}",
             "rules_text": "Vigilance, reach\nThis creature gets +1/+1 for each land you control.",
@@ -2827,6 +2987,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Sandro Rybak",
+            "alias": "",
             "card_name2": "Gift of Life",
             "color2": "G",
             "type2": "Sorcery \u2014 Adventure",
@@ -2837,6 +2998,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -2855,6 +3017,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Alpharde",
+            "alias": "",
             "card_name2": "Fiery Ritual",
             "color2": "R",
             "type2": "Instant \u2014 Adventure",
@@ -2865,6 +3028,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -2883,6 +3047,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "SunnyJu",
+            "alias": "",
             "card_name2": "Kitsuo Boon",
             "color2": "U",
             "type2": "Instant \u2014 Adventure",
@@ -2893,6 +3058,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -2900,7 +3066,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Legendary Enchantment \u2014 Shrine",
-            "number": 114,
+            "number": 113,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Whenever a creature you control dies, each opponent loses X life and you gain X life, where X is the number of Shrines you control.",
@@ -2911,6 +3077,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Fabien Salvalaggio",
+            "alias": "",
             "card_name2": "Solitudines Boon",
             "color2": "B",
             "type2": "Sorcery \u2014 Adventure",
@@ -2921,6 +3088,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -2939,6 +3107,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Barret Frymire",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2957,6 +3126,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "metalratrox",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2975,6 +3145,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Peter Mohrbacher",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2993,6 +3164,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Ilya Vatutin",
+            "alias": "",
             "card_name2": "Bar the Passage",
             "color2": "U",
             "type2": "Instant \u2014 Adventure",
@@ -3003,6 +3175,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -3021,6 +3194,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Du Hugh. Y",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3039,6 +3213,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "CptLande",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3057,6 +3232,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Audy Ravindra",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3075,6 +3251,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "madspartan013",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3093,6 +3270,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Tianxung Xu",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3111,6 +3289,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Zezhou",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3129,6 +3308,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Chitrak Srivastava",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3147,6 +3327,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Justin Usher",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3165,6 +3346,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Heonhwa Choe",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3183,6 +3365,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Kamikaye",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -3201,6 +3384,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Alex Rommel",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3219,6 +3403,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Michal Kvac",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3237,6 +3422,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Michal Kvac",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3255,6 +3441,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Frej Agelii",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3273,6 +3460,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Andreas Rocha",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3291,6 +3479,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Kilart Choe Heonhwa",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3309,6 +3498,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Ricardo Mango",
+            "alias": "",
             "card_name2": "Caustic Saliva",
             "color2": "R",
             "type2": "Sorcery \u2014 Adventure",
@@ -3319,6 +3509,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -3337,6 +3528,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Richard Lay",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3355,6 +3547,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Marcos Martins",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3373,6 +3566,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Annie Doyon",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3380,7 +3574,7 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 249,
+            "number": 247,
             "color_identity": "WUBRG",
             "cost": "{G}{U}",
             "rules_text": "When this enchantment enters, draw a card. You may put a land card from your hand onto the battlefield.\n{2}{W}{U}{B}{R}{G}, Sacrifice this enchantment: Draw three cards. You may put a permanent card from your hand onto the battlefield.",
@@ -3391,6 +3585,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Katya Cyan",
+            "alias": "",
             "notes": "!tag guest"
         },
         {
@@ -3409,6 +3604,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Clement Dumonceaux",
+            "alias": "",
             "card_name2": "Machine Order",
             "color2": "U",
             "type2": "Sorcery \u2014 Adventure",
@@ -3419,6 +3615,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -3437,6 +3634,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Tuncer Eren",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3444,7 +3642,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Human Warrior",
-            "number": 195,
+            "number": 194,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Empowered creatures you control have trample. [i](A creature is empowered if its power is greater than its base power.)[/i]",
@@ -3455,6 +3653,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Pierre Raveneau",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3473,6 +3672,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Ethan Patrick Harris",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3491,6 +3691,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "CREADFECTUS",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3509,6 +3710,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Makenna Karp",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3516,7 +3718,7 @@
             "color": "UB",
             "rarity": "mythic",
             "type": "Creature \u2014 Avatar Knight",
-            "number": 252,
+            "number": 250,
             "color_identity": "UB",
             "cost": "{3}{U}{B}",
             "rules_text": "Whenever an artifact you control is put into a graveyard from the battlefield, each opponent sacrifices a creature.",
@@ -3527,6 +3729,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Dante Liu",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3545,6 +3748,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Francesco Musiani",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3563,6 +3767,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "NicoFari",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3581,6 +3786,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Caio Monteiro",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3599,6 +3805,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Caio Monteiro",
+            "alias": "",
             "card_name2": "Rain Down Fire",
             "color2": "R",
             "type2": "Sorcery \u2014 Adventure",
@@ -3609,6 +3816,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -3627,6 +3835,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "dongbiao lu",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3634,7 +3843,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 196,
+            "number": 195,
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "[i]Converge[/i] \u2014 Create two X/X green Elemental Avatar creature tokens with trample, where X is the number of colors spent to cast this spell.",
@@ -3645,6 +3854,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Vadim Simanin",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3663,6 +3873,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Pierre Yves",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3681,6 +3892,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Pierre Yves",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3688,7 +3900,7 @@
             "color": "WBR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Angel Demon",
-            "number": 241,
+            "number": 239,
             "color_identity": "WBR",
             "cost": "{R}{W}{B}",
             "rules_text": "Flying\nWhenever Nataltha enters or attacks, create a tapped Relic token. [i](It's an artifact with \u201c{T}: Add {C}. You can't spend this mana to cast your first spell each turn.\u201d)[/i]\nWhenever you cast a spell other than your first two spells each turn, create a 4/4 black Demon Warrior artifact creature token.",
@@ -3699,6 +3911,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Jun Seong Park",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3717,6 +3930,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Nino Setiawan",
+            "alias": "",
             "notes": "!tag twink"
         },
         {
@@ -3735,6 +3949,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Aluisio Cervelle Santos",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3753,6 +3968,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Manuel Casta\u00f1\u00f3n",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3760,7 +3976,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Human Shaman",
-            "number": 192,
+            "number": 191,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Whenever this creature attacks, if you control another empowered creature, put a +1/+1 counter on this creature. [i](A creature is empowered if its power is greater than its base power.)[/i]",
@@ -3771,6 +3987,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Liiga Smilshkalne",
+            "alias": "",
             "card_name2": "Vitality Wave",
             "color2": "G",
             "type2": "Instant \u2014 Adventure",
@@ -3781,6 +3998,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -3788,7 +4006,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Construct",
-            "number": 103,
+            "number": 102,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
             "rules_text": "When this creature enters, nonartifact creatures get -2/-2 until end of turn.\nWhenever a creature an opponent controls dies, create a tapped Relic token. [i](It's an artifact with \u201c{T}: Add {C}. You can't spend this mana to cast your first spell each turn.\u201d)[/i]",
@@ -3799,6 +4017,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Liiga Smilshkalne",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3806,7 +4025,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 104,
+            "number": 103,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Each opponent exiles a card from their hand. Create a 1/1 colorless Soldier artifact creature token.",
@@ -3817,6 +4036,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Joe Grabensetter",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3835,6 +4055,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Andre Simoes",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3842,7 +4063,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 204,
+            "number": 203,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Empowered creatures you control have vigilance. [i](A creature is empowered if its power is greater than its base power.)[/i]\nAt the beginning of your end step, if you control an empowered creature, draw a card.",
@@ -3853,6 +4074,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Brian Valeza",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3871,6 +4093,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Dzikawa",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3889,6 +4112,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Andrew Clark",
+            "alias": "",
             "card_name2": "Wyrmfall",
             "color2": "R",
             "type2": "Sorcery \u2014 Adventure",
@@ -3899,6 +4123,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -3917,6 +4142,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Ernanda Souza",
+            "alias": "",
             "notes": "!tag reprint"
         },
         {
@@ -3935,6 +4161,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Alexandre Honore",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3953,6 +4180,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Gunship Revolution",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3971,6 +4199,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Justice Wong",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3978,7 +4207,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 112,
+            "number": 111,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "As an additional cost to cast this spell, sacrifice an artifact.\nSearch your library for a card, put it into your hand, then shuffle.",
@@ -3989,6 +4218,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Marius Villard",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -4007,6 +4237,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Tristan Dang",
+            "alias": "",
             "card_name2": "To Victory",
             "color2": "W",
             "type2": "Instant \u2014 Adventure",
@@ -4017,6 +4248,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -4024,7 +4256,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Wizard",
-            "number": 102,
+            "number": 101,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Flying\nWhen this creature enters, create a token that's a copy of target artifact or creature card with mana value 2 or less in your graveyard. The token is a 1/1 Construct artifact creature in addition to its other types.",
@@ -4035,6 +4267,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Tristan Dang",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4053,6 +4286,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Matias Gonzalez",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4060,7 +4294,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Human Noble",
-            "number": 109,
+            "number": 108,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "When this creature enters, you may ionize it. [i](If it isn't an artifact, this creature becomes a 0/0 artifact creature and gains \u201cThis creature gets +1/+1 for each artifact you control.\u201d)[/i]",
@@ -4071,6 +4305,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "XT-ART",
+            "alias": "",
             "card_name2": "To Be Of Service",
             "color2": "B",
             "type2": "Sorcery \u2014 Adventure",
@@ -4081,6 +4316,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -4099,6 +4335,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Daren Horley",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4117,6 +4354,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "ChunLo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4135,6 +4373,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Helder ALMEIDA",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4153,6 +4392,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Von Milano",
+            "alias": "",
             "card_name2": "Sunrise Surge",
             "color2": "WR",
             "type2": "Instant \u2014 Adventure",
@@ -4163,6 +4403,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -4181,6 +4422,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Manuel Castanon",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4199,6 +4441,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "CREADFECTUS",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4217,6 +4460,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "raikoart",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4235,6 +4479,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Arthis",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4253,6 +4498,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Ludovico Tellatin",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4271,6 +4517,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Ridell Apellanes",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4289,6 +4536,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Maximiliano Moretto",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4296,7 +4544,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Nightmare",
-            "number": 113,
+            "number": 112,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
             "rules_text": "As long as you've discarded a card this turn, this creature has deathtouch and lifelink.\nSwampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]",
@@ -4307,6 +4555,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Jon Wing",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4325,6 +4574,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Duong Thanh Lam",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4332,7 +4582,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Elemental",
-            "number": 199,
+            "number": 198,
             "color_identity": "G",
             "cost": "{5}{G}",
             "rules_text": "When this creature enters, create two 1/1 white Warrior creature tokens.\nThis creature can't be blocked by more than one creature.",
@@ -4343,6 +4593,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Geoffrey Amesse",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4350,7 +4601,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Human Warlock",
-            "number": 189,
+            "number": 188,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Deathtouch\nWhen this creature enters, put a +1/+1 counter on target creature you control. That creature gains deathtouch until end of turn.",
@@ -4361,6 +4612,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Henrik Rosenborg",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4368,17 +4620,18 @@
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 186,
+            "number": 185,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Put a +1/+1 counter on each of up to two target creatures you control. They each deal damage equal to their power to up to one target creature an opponent controls.",
-            "flavor_text": "[i]Amede and the elemental worked in tandem to expel the invaders from the Kallaroots.[/i]",
+            "flavor_text": "[i]Amede and the elemental worked in tandem to expel the invaders from the Vallaroots.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "CNF",
             "loyalty": "",
             "artist": "Sam Yang",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4397,6 +4650,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Pat Gabrielli",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4404,7 +4658,7 @@
             "color": "WRG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Knight",
-            "number": 244,
+            "number": 242,
             "color_identity": "WRG",
             "cost": "{R}{G}{W}",
             "rules_text": "At the beginning of combat on your turn, create a 1/1 colorless Soldier artifact creature token. That token gains haste until end of turn and attacks this turn if able.\n{7}: Untap all tokens you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate only as a sorcery.",
@@ -4415,6 +4669,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Fahmi Fauzi",
+            "alias": "",
             "notes": "!tag gay"
         },
         {
@@ -4433,6 +4688,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "pogogu",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4451,6 +4707,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Heon Hwa Choe",
+            "alias": "",
             "notes": "!tag gay"
         },
         {
@@ -4469,6 +4726,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Jack Wang",
+            "alias": "",
             "notes": "!tag twink"
         },
         {
@@ -4487,6 +4745,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "SanskaransART",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4505,6 +4764,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Xsit",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4523,6 +4783,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "James Ryman",
+            "alias": "",
             "notes": "!tag guest"
         },
         {
@@ -4541,6 +4802,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Lucas Durham",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4548,7 +4810,7 @@
             "color": "WR",
             "rarity": "mythic",
             "type": "Enchantment",
-            "number": 260,
+            "number": 258,
             "color_identity": "WR",
             "cost": "{3}{R}{W}",
             "rules_text": "At the beginning of combat on your turn, exile up to one creature card with mana value 1 in your graveyard, then do the same for creature cards with mana value 2 and 3. Create a token that's a copy of each creature card exiled this way. The tokens gain haste. Sacrifice them at the beginning of the next end step.",
@@ -4559,6 +4821,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Akira Egawa",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -4566,7 +4829,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Elk",
-            "number": 201,
+            "number": 200,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Reach\nWhenever tap a Plains, Island, Swamp, or Mountain for mana, if it's a basic land, add an additional {G}.",
@@ -4577,6 +4840,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Stephen Scott",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4595,6 +4859,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Kent Davis",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4613,6 +4878,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Alessandro Paviolo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4631,6 +4897,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Avant Choi",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4638,7 +4905,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 117,
+            "number": 116,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "As an additional cost to cast this spell, sacrifice an artifact or creature.\nDraw two cards. If the sacrificed permanent was a Relic, draw three cards instead.",
@@ -4649,6 +4916,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "DaY\nDraw two cards and create a tapped Relic token. (It's an artifact with \u201cT: Add C. You can't spend this mana to cast your first spell each turn.\u201d)",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4656,7 +4924,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2014 Nightmare",
-            "number": 107,
+            "number": 106,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Whenever one or more creatures you control deal combat damage to a player, look at the top card of their library, then exile it face down. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.\nWhenever you cast a spell you don't own, its owner loses 3 life.",
@@ -4667,6 +4935,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Morphogenesis",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4685,6 +4954,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Mingchen Shen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4703,6 +4973,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Darkki1",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4721,6 +4992,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Aros Elekes",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4739,6 +5011,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Aros Elekes",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4757,6 +5030,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Felipe Castro",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4767,7 +5041,7 @@
             "number": 226,
             "color_identity": "WU",
             "cost": "{W}{U}",
-            "rules_text": "",
+            "rules_text": "\nI \u2014 Draw two cards, then discard two cards.\nII, III \u2014 You may cast an artifact spell with mana value 2 or less from your hand or graveyard without paying its mana cost.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI \u2014 Draw two cards, then discard two cards.\nII, III \u2014 You may cast an artifact spell with mana value 2 or less from your hand or graveyard without paying its mana cost.\n\u200b",
@@ -4775,6 +5049,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "sailin",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -4782,7 +5057,7 @@
             "color": "UB",
             "rarity": "rare",
             "type": "Instant",
-            "number": 257,
+            "number": 255,
             "color_identity": "UB",
             "cost": "{U}{B}{B}",
             "rules_text": "Destroy target creature or planeswalker. If it was dealt damage this turn, you may gain control of it instead.",
@@ -4793,6 +5068,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "lsuiany",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -4800,7 +5076,7 @@
             "color": "WUBRG",
             "rarity": "mythic",
             "type": "Legendary Enchantment",
-            "number": 246,
+            "number": 244,
             "color_identity": "WUBRG",
             "cost": "{3}{W}{U}{B}{R}{G}",
             "rules_text": "Whenever you cast a spell, copy it for each color of mana spent to cast it. You may choose new targets for the copies. [i](A copy of a permanent spell becomes a token.)[/i]",
@@ -4811,6 +5087,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Envak Enkaqti",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4829,6 +5106,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "mchi",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -4836,7 +5114,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 101,
+            "number": 100,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "When this enchantment enters, create a tapped Relic token. [i](It's an artifact with \u201c{T}: Add {C}. You can't spend this mana to cast your first spell each turn.\u201d)[/i]\nWhenever you create one or more tokens, each opponent loses that much life.",
@@ -4847,6 +5125,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "dongbiao lu",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -4865,6 +5144,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Saad Irfan",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -4883,6 +5163,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Elliot Bocxtaele",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -4893,7 +5174,7 @@
             "number": 178,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "",
+            "rules_text": "\nI, II \u2014 Search your library for a land card, put it onto the battlefield tapped, then shuffle.\nIII \u2014 Create an X/X green Elemental Avatar creature token with trample, where X is the number of differently named lands you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI, II \u2014 Search your library for a land card, put it onto the battlefield tapped, then shuffle.\nIII \u2014 Create an X/X green Elemental Avatar creature token with trample, where X is the number of differently named lands you control.",
@@ -4901,6 +5182,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Gwen Bassett",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -4919,6 +5201,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Goose Pane",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4937,6 +5220,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Cameron Suter",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4955,6 +5239,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "crow-god",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4962,7 +5247,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 120,
+            "number": 119,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "This spell costs {2} less to cast if you've discarded a card this turn.\nDestroy target creature or planeswalker. Surveil 2.",
@@ -4973,6 +5258,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Federico Musetti",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4980,7 +5266,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 122,
+            "number": 121,
             "color_identity": "B",
             "cost": "{4}{B}",
             "rules_text": "Umbral Devouring deals 6 damage to target creature an opponent controls. You gain life equal to the excess damage dealt this way.",
@@ -4991,6 +5277,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Geoffrey Amesse",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4998,7 +5285,7 @@
             "color": "RG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Giant Warrior",
-            "number": 256,
+            "number": 254,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
             "rules_text": "This creature enters with a +1/+1 counter on it.\nAt the beginning of combat on your turn, double this creature's power X times until end of turn, where X is the number of empowered creatures you control. [i](A creature is empowered if its power is greater than its base power.)[/i]",
@@ -5009,6 +5296,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Andrea Piparo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5027,6 +5315,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Onmyoji",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -5034,7 +5323,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 115,
+            "number": 114,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Target opponent discards two cards. Create a tapped Relic token. [i](It's an artifact with \u201c{T}: Add {C}. You can't spend this mana to cast your first spell each turn.\u201d)[/i]",
@@ -5045,6 +5334,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "hanya",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5063,6 +5353,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5070,7 +5361,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Angel Warrior",
-            "number": 121,
+            "number": 120,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Flash\nFlying\nWhen this creature enters, destroy up to one target creature or planeswalker that was dealt damage this turn.",
@@ -5081,6 +5372,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "theDURRRRIAN",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5099,6 +5391,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Altered TCG",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5117,6 +5410,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Orson CaptainSass",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5135,6 +5429,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Pavel Chuvin",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5153,6 +5448,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Geoffrey Amesse",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5171,6 +5467,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Jeffrey Jeanson",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5189,10 +5486,11 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "NUARE",
+            "alias": "",
             "notes": ""
         },
         {
-            "card_name": "Integrated Kallaknight",
+            "card_name": "Integrated Vallaknight",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Human Knight",
@@ -5207,6 +5505,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Sebastion Szmyd",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5218,13 +5517,14 @@
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "{2}, Sacrifice an artifact, land, or token: This creature connives. Activate only as a sorcery. [i](To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]",
-            "flavor_text": "[i]\u201cAs Kallatree plunges into chaos, certain opportunities arise.\u201d[/i]",
+            "flavor_text": "[i]\u201cAs Valdrasil plunges into chaos, certain opportunities arise.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "CNF",
             "loyalty": "",
             "artist": "XT-ART",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5232,7 +5532,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Vampire Nightmare",
-            "number": 119,
+            "number": 118,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
             "rules_text": "Whenever you cast a noncreature spell, Tarre deals 1 damage to any target.\nWhenever Tarre attacks, he deals 2 damage to each opponent or permanent an opponent controls that has been dealt damage this turn.\nWhenever a creature or planeswalker dies, if it was dealt damage two or more times by sources you controlled this turn, draw a card.",
@@ -5243,6 +5543,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Morphogenesis",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5261,6 +5562,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Pacelic",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5279,6 +5581,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Yare Yue",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5297,6 +5600,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Vladis Fender",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5315,6 +5619,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Michal Kvac",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5333,6 +5638,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "NUARE",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5351,6 +5657,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Carson Daniel",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5358,10 +5665,10 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Saga",
-            "number": 197,
+            "number": 196,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Mill four cards. You gain 1 life for each permanent milled this way.\nIII \u2014 Return all land cards from your graveyard to the battlefield. Until end of turn, lands you control gain \u201c{T}: Add one mana of any color.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Mill four cards. You gain 1 life for each permanent milled this way.\nIII \u2014 Return all land cards from your graveyard to the battlefield. Until end of turn, lands you control gain \u201c{T}: Add one mana of any color.\u201d",
@@ -5369,6 +5676,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Zhong Yang",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5379,7 +5687,7 @@
             "number": 66,
             "color_identity": "U",
             "cost": "{5}{U}",
-            "rules_text": "",
+            "rules_text": "\nI \u2014 Search your library for an instant card and/or a sorcery card, reveal them, put them into your hand, then shuffle.\nII, III \u2014 When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI \u2014 Search your library for an instant card and/or a sorcery card, reveal them, put them into your hand, then shuffle.\nII, III \u2014 When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",
@@ -5387,6 +5695,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Reza Afshar",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5394,7 +5703,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 111,
+            "number": 110,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
             "rules_text": "This spell deals 3 damage to any target and you gain 3 life.\nCycling {B} [i]({B}, Discard this card: Draw a card.)[/i]",
@@ -5405,6 +5714,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Tomasz Jedruszek",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5423,6 +5733,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "madspartan013",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5441,6 +5752,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Halcaeon",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5459,6 +5771,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Yasushi Matsuoka",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5477,6 +5790,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Josh Ketchen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5484,7 +5798,7 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Faerie Dragon",
-            "number": 240,
+            "number": 238,
             "color_identity": "UG",
             "cost": "{4}{G}{U}",
             "rules_text": "Flying\n[i]Converge[/i] \u2014 When this creature enters, if it was cast, search your library for a nonland card with mana value less than or equal to the number of colors of mana spent to cast this spell, exile that card, then shuffle. You may cast that card without paying its mana cost.",
@@ -5495,6 +5809,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Veronica O'Neill",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5513,6 +5828,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Ana Neves",
+            "alias": "",
             "card_name2": "Rally the Living",
             "color2": "W",
             "type2": "Sorcery \u2014 Adventure",
@@ -5523,6 +5839,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -5541,6 +5858,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Virafiel",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5559,6 +5877,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Francesca Resta",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5577,6 +5896,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "peng lu",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5595,6 +5915,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Cai Zhichao",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5613,6 +5934,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "chirun",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5631,6 +5953,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Ramza Ardyputra",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5649,6 +5972,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Simone Torcasio",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5667,6 +5991,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Cai Zhichao",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5685,6 +6010,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Noe Despreaux",
+            "alias": "",
             "notes": "!tag reprint"
         },
         {
@@ -5703,6 +6029,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "microcosm11",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5721,6 +6048,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Sandara",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5739,6 +6067,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Darkki1",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5746,7 +6075,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Lizard Rogue",
-            "number": 185,
+            "number": 184,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
             "rules_text": "At the beginning of combat on your turn, choose target creature you control with power less than 4. It gets +X/+0 until end of turn, where X is the difference.",
@@ -5757,6 +6086,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Ryan Wardlow",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5775,6 +6105,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Regin Wellander",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5793,6 +6124,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Allcorrect",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5800,7 +6132,7 @@
             "color": "WBG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Warlock",
-            "number": 247,
+            "number": 245,
             "color_identity": "WBG",
             "cost": "{1}{W}{B}{G}",
             "rules_text": "Artifacts and lands you control enter untapped.\n{1}, {T}, Sacrifice an artifact or land: Search your library for a land card, put it onto the battlefield tapped, then shuffle.",
@@ -5811,6 +6143,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Johnathan Chong",
+            "alias": "",
             "notes": "REWORK"
         },
         {
@@ -5818,7 +6151,7 @@
             "color": "WG",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Vehicle",
-            "number": 242,
+            "number": 240,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
             "rules_text": "Whenever this Vehicle deals combat damage to a player, draw a card.\nTap two untapped creatures and/or tokens you control: This Vehicle becomes an artifact creature until end of turn.",
@@ -5829,24 +6162,26 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Daniel Terrado",
+            "alias": "",
             "notes": ""
         },
         {
-            "card_name": "Kallaroot Lurkfiend",
+            "card_name": "Vallaroot Lurkfiend",
             "color": "BG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Demon",
-            "number": 234,
+            "number": 260,
             "color_identity": "BG",
             "cost": "{B}{G}",
             "rules_text": "When this creature enters, mill cards until you mill a land card.\nWhen this creature dies, return target land card from your graveyard to the battlefield tapped.",
-            "flavor_text": "[i]At its command, the deadroots of the Kallatree itself shiver.[/i]",
+            "flavor_text": "[i]At its command, the deadroots of the Vallatree itself shiver.[/i]",
             "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "CNF",
             "loyalty": "",
             "artist": "Woari",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5865,6 +6200,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Marjorie Davis",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5883,6 +6219,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Alex Cristi",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5901,6 +6238,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Ana Grigorieve",
+            "alias": "",
             "notes": ""
         },
         {
@@ -5919,6 +6257,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "reinikee",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -5937,6 +6276,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Bastien Grivet",
+            "alias": "",
             "notes": "!tag spotlight\n!tag yaoi"
         },
         {
@@ -5955,6 +6295,7 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Maximilian Jasionowski",
+            "alias": "",
             "notes": "!tag spotlight"
         },
         {
@@ -5973,8 +6314,9 @@
             "set": "CNF",
             "loyalty": "",
             "artist": "Beask",
+            "alias": "",
             "notes": ""
         }
     ],
-    "version": 2
+    "version": 4
 }

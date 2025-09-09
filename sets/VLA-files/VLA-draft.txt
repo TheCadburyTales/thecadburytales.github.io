@@ -1,0 +1,3203 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Star-Speckled Ursine",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Enchantment Creature — Bear Luminary",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/202_Star-Speckled Ursine.png"
+			}
+		},
+		{
+			"name": "Surai, Anjarjan Tyrant",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/245_Surai, Anjarjan Tyrant.png"
+			}
+		},
+		{
+			"name": "Nebula Kraken",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment Creature — Kraken Luminary",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/193_Nebula Kraken.png"
+			}
+		},
+		{
+			"name": "Piercing Star",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/28_Piercing Star.png"
+			}
+		},
+		{
+			"name": "Alexei, Rime Magnarch",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Snow Planeswalker — Alexei",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/44_Alexei, Rime Magnarch.png"
+			}
+		},
+		{
+			"name": "Lignification",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/65_Lignification.png"
+			}
+		},
+		{
+			"name": "Elai Ascendant",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Planeswalker — Elai",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/224_Elai Ascendant.png"
+			}
+		},
+		{
+			"name": "Alexei's Response",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Snow Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/45_Alexei's Response.png"
+			}
+		},
+		{
+			"name": "Anjarjan Adjudicator",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/1_Anjarjan Adjudicator.png"
+			}
+		},
+		{
+			"name": "Suncatcher Elk",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elk Spirit",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/160_Suncatcher Elk.png"
+			}
+		},
+		{
+			"name": "Assembla Pathfinder",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment Creature — Wolf Luminary",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/170_Assembla Pathfinder.png"
+			}
+		},
+		{
+			"name": "Mooncrown Stag",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Elk Luminary",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/190_Mooncrown Stag.png"
+			}
+		},
+		{
+			"name": "Vallaroot Soulspinner",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Skeleton",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/207_Vallaroot Soulspinner.png"
+			}
+		},
+		{
+			"name": "Smug Denial",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/79_Smug Denial.png"
+			}
+		},
+		{
+			"name": "Fungal Cadaver",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Fungus Zombie",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/99_Fungal Cadaver.png"
+			}
+		},
+		{
+			"name": "Rimestaff Mentor",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Snow Creature — Human Shaman",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/197_Rimestaff Mentor.png"
+			}
+		},
+		{
+			"name": "Might of Kjaldir",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Snow Instant",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/189_Might of Kjaldir.png"
+			}
+		},
+		{
+			"name": "Heavenly Empyrean",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment Creature — Luminary",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/21_Heavenly Empyrean.png"
+			}
+		},
+		{
+			"name": "Mesmer Enchantress",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment Creature — Cat Spirit",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/188_Mesmer Enchantress.png"
+			}
+		},
+		{
+			"name": "Aurora Charger",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Unicorn Luminary",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/5_Aurora Charger.png"
+			}
+		},
+		{
+			"name": "Icehide Golem",
+			"rarity": "common",
+			"mana_cost": "{S}",
+			"type": "Snow Artifact Creature — Golem",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/257_Icehide Golem.png"
+			}
+		},
+		{
+			"name": "Madness in Annihilation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/151_Madness in Annihilation.png"
+			}
+		},
+		{
+			"name": "Fryde, Patron of Fools",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — God",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/142_Fryde, Patron of Fools.png"
+			}
+		},
+		{
+			"name": "Soul-Axe Veteran",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/35_Soul-Axe Veteran.png"
+			}
+		},
+		{
+			"name": "Solar Convert",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/34_Solar Convert.png"
+			}
+		},
+		{
+			"name": "Charged Berserker",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/132_Charged Berserker.png"
+			}
+		},
+		{
+			"name": "Berserker's Cairn",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/270_Berserker's Cairn.png"
+			}
+		},
+		{
+			"name": "Unbound Undead",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Snow Creature — Zombie Warrior",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/118_Unbound Undead.png"
+			}
+		},
+		{
+			"name": "Ritualist of Old Blood",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Demon Shaman",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/158_Ritualist of Old Blood.png"
+			}
+		},
+		{
+			"name": "Aurora Harbinger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Enchantment Creature — Bird Luminary",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/213_Aurora Harbinger.png"
+			}
+		},
+		{
+			"name": "Valdrasil Reborn",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/285_Valdrasil Reborn.png"
+			}
+		},
+		{
+			"name": "Host of Night",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Avatar",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/101_Host of Night.png"
+			}
+		},
+		{
+			"name": "Ascendant Binding",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/47_Ascendant Binding.png"
+			}
+		},
+		{
+			"name": "Hogback Chieftain",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Snow Creature — Human Warrior",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/184_Hogback Chieftain.png"
+			}
+		},
+		{
+			"name": "Cobbled Protector",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/218_Cobbled Protector.png"
+			}
+		},
+		{
+			"name": "Deepwyn Desecrator",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Snow Creature — Elf Shaman",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/175_Deepwyn Desecrator.png"
+			}
+		},
+		{
+			"name": "Purifying Perfumer",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/73_Purifying Perfumer.png"
+			}
+		},
+		{
+			"name": "Reweaving the Roots",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/196_Reweaving the Roots.png"
+			}
+		},
+		{
+			"name": "Drakkon Boltcaster",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/138_Drakkon Boltcaster.png"
+			}
+		},
+		{
+			"name": "Minor Empyrean",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/23_Minor Empyrean.png"
+			}
+		},
+		{
+			"name": "Ardent Starcrafting",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/212_Ardent Starcrafting.png"
+			}
+		},
+		{
+			"name": "Deepfrost Citadel",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/274_Deepfrost Citadel.png"
+			}
+		},
+		{
+			"name": "Arboreal Artisanry",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/169_Arboreal Artisanry.png"
+			}
+		},
+		{
+			"name": "Whims of the Welkin",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/123_Whims of the Welkin.png"
+			}
+		},
+		{
+			"name": "Faithless Karaki",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Snow Creature — Human Assassin",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/97_Faithless Karaki.png"
+			}
+		},
+		{
+			"name": "Living Aurora",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment Creature — Dragon Luminary",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/66_Living Aurora.png"
+			}
+		},
+		{
+			"name": "Ourobori, Reincarnated",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Enchantment Creature — Serpent",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/236_Ourobori, Reincarnated.png"
+			}
+		},
+		{
+			"name": "Elvish Vitalist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/178_Elvish Vitalist.png"
+			}
+		},
+		{
+			"name": "Climbing the Tree",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/173_Climbing the Tree.png"
+			}
+		},
+		{
+			"name": "Valdrasil Angel",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/38_Valdrasil Angel.png"
+			}
+		},
+		{
+			"name": "Tender of the Land",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/204_Tender of the Land.png"
+			}
+		},
+		{
+			"name": "Arrested by Moonlight",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/2_Arrested by Moonlight.png"
+			}
+		},
+		{
+			"name": "Surai's Armillary",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/262_Surai's Armillary.png"
+			}
+		},
+		{
+			"name": "Grip of the Rime",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Snow Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/100_Grip of the Rime.png"
+			}
+		},
+		{
+			"name": "Cliffs of the Solemn Seekers",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/273_Cliffs of the Solemn Seekers.png"
+			}
+		},
+		{
+			"name": "Chilling Cross",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Snow Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/51_Chilling Cross.png"
+			}
+		},
+		{
+			"name": "Winter's Dictate",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Snow Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/84_Winter's Dictate.png"
+			}
+		},
+		{
+			"name": "Otherwordly Crafter",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/235_Otherwordly Crafter.png"
+			}
+		},
+		{
+			"name": "Realm Evacuation",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/29_Realm Evacuation.png"
+			}
+		},
+		{
+			"name": "Sigri, Valdrasil Avatar",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Elf Avatar",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/199_Sigri, Valdrasil Avatar.png"
+			}
+		},
+		{
+			"name": "Heidra's Heartglade",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/276_Heidra's Heartglade.png"
+			}
+		},
+		{
+			"name": "Lamplighter",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Spirit",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/149_Lamplighter.png"
+			}
+		},
+		{
+			"name": "Illusionist's Talent",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/64_Illusionist's Talent.png"
+			}
+		},
+		{
+			"name": "Skodir, Reborn",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/244_Skodir, Reborn.png"
+			}
+		},
+		{
+			"name": "Prancing Flame",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/155_Prancing Flame.png"
+			}
+		},
+		{
+			"name": "Teluran Portal",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/37_Teluran Portal.png"
+			}
+		},
+		{
+			"name": "Njora, First Assembla",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/234_Njora, First Assembla.png"
+			}
+		},
+		{
+			"name": "Dark Matter Kirin",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment Creature — Kirin Luminary",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/90_Dark Matter Kirin.png"
+			}
+		},
+		{
+			"name": "Ifryn, Last Assembla",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}{B}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/229_Ifryn, Last Assembla.png"
+			}
+		},
+		{
+			"name": "Ifryn Unseals the Gate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/103_Ifryn Unseals the Gate.png"
+			}
+		},
+		{
+			"name": "Zyxtron, the Realmslayer",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/267_Zyxtron, the Realmslayer.png"
+			}
+		},
+		{
+			"name": "Displace from Reality",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/14_Displace from Reality.png"
+			}
+		},
+		{
+			"name": "Chromatic Apex",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Enchantment Creature — Dragon Luminary",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/217_Chromatic Apex.png"
+			}
+		},
+		{
+			"name": "Amede, the Invoker",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Planeswalker — Amede",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/168_Amede, the Invoker.png"
+			}
+		},
+		{
+			"name": "Deepwyn Summoning",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/176_Deepwyn Summoning.png"
+			}
+		},
+		{
+			"name": "Pray to the Forbidden",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/110_Pray to the Forbidden.png"
+			}
+		},
+		{
+			"name": "Deep Depths Serpent",
+			"rarity": "rare",
+			"mana_cost": "{7}{B}",
+			"type": "Creature — Serpent",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/93_Deep Depths Serpent.png"
+			}
+		},
+		{
+			"name": "Cosmic Reaper",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment Creature — Luminary",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/89_Cosmic Reaper.png"
+			}
+		},
+		{
+			"name": "Emissary of the Inferno",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/141_Emissary of the Inferno.png"
+			}
+		},
+		{
+			"name": "Vallaroots Lich",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Snow Creature — Zombie Wizard",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/121_Vallaroots Lich.png"
+			}
+		},
+		{
+			"name": "Cosmic Ascension",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{2}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/12_Cosmic Ascension.png"
+			}
+		},
+		{
+			"name": "Pulsating Spire",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/259_Pulsating Spire.png"
+			}
+		},
+		{
+			"name": "Wolf of Anjarja",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/166_Wolf of Anjarja.png"
+			}
+		},
+		{
+			"name": "Dawn on the Weary",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/13_Dawn on the Weary.png"
+			}
+		},
+		{
+			"name": "True Ice Shard",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Snow Artifact",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/265_True Ice Shard.png"
+			}
+		},
+		{
+			"name": "Kjaldiran Elk",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Snow Creature — Elk",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/187_Kjaldiran Elk.png"
+			}
+		},
+		{
+			"name": "Pale Life-Shadow",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Snow Creature — Zombie Warrior",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/72_Pale Life-Shadow.png"
+			}
+		},
+		{
+			"name": "Chilling Presence",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Snow Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/87_Chilling Presence.png"
+			}
+		},
+		{
+			"name": "Returned Frostblade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Snow Creature — Human Warrior",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/243_Returned Frostblade.png"
+			}
+		},
+		{
+			"name": "Bearer of the Rage",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/129_Bearer of the Rage.png"
+			}
+		},
+		{
+			"name": "Infested Vallaheart",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Horror Warrior",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/230_Infested Vallaheart.png"
+			}
+		},
+		{
+			"name": "Verglas Stagrider",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Snow Creature — Human Shaman",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/249_Verglas Stagrider.png"
+			}
+		},
+		{
+			"name": "Deathless Conscription",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/220_Deathless Conscription.png"
+			}
+		},
+		{
+			"name": "Elvish Branchwalker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Elf Ranger",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/226_Elvish Branchwalker.png"
+			}
+		},
+		{
+			"name": "Anjarjan Archangel",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Angel",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/211_Anjarjan Archangel.png"
+			}
+		},
+		{
+			"name": "Deepwyn Lurker",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{G}",
+			"type": "Creature — Demon Shaman",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/221_Deepwyn Lurker.png"
+			}
+		},
+		{
+			"name": "Snow on Empires Past",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Snow Sorcery",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/201_Snow on Empires Past.png"
+			}
+		},
+		{
+			"name": "Lanion, Beyond Realms",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Artifact Planeswalker — Lanion",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/233_Lanion, Beyond Realms.png"
+			}
+		},
+		{
+			"name": "Pyrrhic Strike",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/111_Pyrrhic Strike.png"
+			}
+		},
+		{
+			"name": "Lanion's Sacrifice",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/104_Lanion's Sacrifice.png"
+			}
+		},
+		{
+			"name": "Ingjald, Vile Calamity",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{G}",
+			"type": "Legendary Creature — Zombie Hydra",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/231_Ingjald, Vile Calamity.png"
+			}
+		},
+		{
+			"name": "Tiraan, the Uranographer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/82_Tiraan, the Uranographer.png"
+			}
+		},
+		{
+			"name": "Fugue Dirge",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/144_Fugue Dirge.png"
+			}
+		},
+		{
+			"name": "Drakkonic Scion",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/140_Drakkonic Scion.png"
+			}
+		},
+		{
+			"name": "Predator's Wake",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/237_Predator's Wake.png"
+			}
+		},
+		{
+			"name": "Galaxy Drakkon",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment Creature — Dragon",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/62_Galaxy Drakkon.png"
+			}
+		},
+		{
+			"name": "Auspicious Avatar",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment Creature — Bird Luminary",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/48_Auspicious Avatar.png"
+			}
+		},
+		{
+			"name": "Starfang Serpent",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Serpent Luminary",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/116_Starfang Serpent.png"
+			}
+		},
+		{
+			"name": "Countervailing Drakkon",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/56_Countervailing Drakkon.png"
+			}
+		},
+		{
+			"name": "Armillary Drakkon",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/127_Armillary Drakkon.png"
+			}
+		},
+		{
+			"name": "Crimson Deathmaw",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/135_Crimson Deathmaw.png"
+			}
+		},
+		{
+			"name": "Wrath of the Empyreans",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/167_Wrath of the Empyreans.png"
+			}
+		},
+		{
+			"name": "Myriad Forms",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/153_Myriad Forms.png"
+			}
+		},
+		{
+			"name": "Constellamancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Luminary",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/55_Constellamancer.png"
+			}
+		},
+		{
+			"name": "Storm Drakkon",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/81_Storm Drakkon.png"
+			}
+		},
+		{
+			"name": "Rebel Rising",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/241_Rebel Rising.png"
+			}
+		},
+		{
+			"name": "Boreal Bastion",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/271_Boreal Bastion.png"
+			}
+		},
+		{
+			"name": "Bog Beetle",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/215_Bog Beetle.png"
+			}
+		},
+		{
+			"name": "Bronzewing Sagittar",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/49_Bronzewing Sagittar.png"
+			}
+		},
+		{
+			"name": "Glory of the Heavens",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}{G}",
+			"type": "Enchantment Creature — Fish Hydra",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/180_Glory of the Heavens.png"
+			}
+		},
+		{
+			"name": "Locus Manipulator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/67_Locus Manipulator.png"
+			}
+		},
+		{
+			"name": "Moonshaker Cavalry",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}{W}",
+			"type": "Creature — Spirit Knight",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/24_Moonshaker Cavalry.png"
+			}
+		},
+		{
+			"name": "Warlock's Ire",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/122_Warlock's Ire.png"
+			}
+		},
+		{
+			"name": "Serpent of World's Edge",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Serpent",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/198_Serpent of World's Edge.png"
+			}
+		},
+		{
+			"name": "Empyrean Inquisition",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/95_Empyrean Inquisition.png"
+			}
+		},
+		{
+			"name": "Saboteur's Display",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/75_Saboteur's Display.png"
+			}
+		},
+		{
+			"name": "Arrow of the Heavens",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/128_Arrow of the Heavens.png"
+			}
+		},
+		{
+			"name": "Starchaser",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/36_Starchaser.png"
+			}
+		},
+		{
+			"name": "Xyvera, Who Remains",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Horror",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/125_Xyvera, Who Remains.png"
+			}
+		},
+		{
+			"name": "Knutr, Blighted Embrace",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Demon Shaman",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/148_Knutr, Blighted Embrace.png"
+			}
+		},
+		{
+			"name": "Longboat Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Kraken",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/68_Longboat Hunter.png"
+			}
+		},
+		{
+			"name": "Katjar Peacebane",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Legendary Creature — God",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/232_Katjar Peacebane.png"
+			}
+		},
+		{
+			"name": "Celestial Vault",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/252_Celestial Vault.png"
+			}
+		},
+		{
+			"name": "Scryer's Safeguard",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/32_Scryer's Safeguard.png"
+			}
+		},
+		{
+			"name": "Frostdrakkon's Shadow",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Snow Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/61_Frostdrakkon's Shadow.png"
+			}
+		},
+		{
+			"name": "Runewarper",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/113_Runewarper.png"
+			}
+		},
+		{
+			"name": "Unleashed Malevolence",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit Horror",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/119_Unleashed Malevolence.png"
+			}
+		},
+		{
+			"name": "Challenge the Heavens",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/50_Challenge the Heavens.png"
+			}
+		},
+		{
+			"name": "Convergent Cairn",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/253_Convergent Cairn.png"
+			}
+		},
+		{
+			"name": "Kjaldiran Cavalry",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/147_Kjaldiran Cavalry.png"
+			}
+		},
+		{
+			"name": "Drakkon Tender",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/222_Drakkon Tender.png"
+			}
+		},
+		{
+			"name": "Convergence Pack",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment Creature — Wolf",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/174_Convergence Pack.png"
+			}
+		},
+		{
+			"name": "Wicked Elderspirit",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}{B}{B}",
+			"type": "Creature — Spirit Horror",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/124_Wicked Elderspirit.png"
+			}
+		},
+		{
+			"name": "Realmtillers",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Ox",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/194_Realmtillers.png"
+			}
+		},
+		{
+			"name": "Ecliptic Angel",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Angel",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/94_Ecliptic Angel.png"
+			}
+		},
+		{
+			"name": "Symbol of the Storm",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Snow Artifact",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/264_Symbol of the Storm.png"
+			}
+		},
+		{
+			"name": "Empyrean Mare",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment Creature — Horse Spirit",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/96_Empyrean Mare.png"
+			}
+		},
+		{
+			"name": "Manifested Eclipse",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/107_Manifested Eclipse.png"
+			}
+		},
+		{
+			"name": "Transgress Heaven",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/162_Transgress Heaven.png"
+			}
+		},
+		{
+			"name": "Vallaheart Commander",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/39_Vallaheart Commander.png"
+			}
+		},
+		{
+			"name": "Blessed Dragonslayer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/7_Blessed Dragonslayer.png"
+			}
+		},
+		{
+			"name": "Realmsieger",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Demon Warrior",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/157_Realmsieger.png"
+			}
+		},
+		{
+			"name": "Self-Destruct",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/114_Self-Destruct.png"
+			}
+		},
+		{
+			"name": "Vallaheart Redeemer",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/40_Vallaheart Redeemer.png"
+			}
+		},
+		{
+			"name": "Corrupted Empyrean",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Horror Warrior",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/134_Corrupted Empyrean.png"
+			}
+		},
+		{
+			"name": "Hero of the Final Dawn",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/22_Hero of the Final Dawn.png"
+			}
+		},
+		{
+			"name": "Mage-Warrior Prefect",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard Warrior",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/69_Mage-Warrior Prefect.png"
+			}
+		},
+		{
+			"name": "Reconstitute",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Instant",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/242_Reconstitute.png"
+			}
+		},
+		{
+			"name": "Resolute Starweaver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/31_Resolute Starweaver.png"
+			}
+		},
+		{
+			"name": "Seal Away",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/33_Seal Away.png"
+			}
+		},
+		{
+			"name": "Eirsdottir, the Insurgent",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/223_Eirsdottir, the Insurgent.png"
+			}
+		},
+		{
+			"name": "Wandering Glacier",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Snow Artifact Creature — Golem",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/266_Wandering Glacier.png"
+			}
+		},
+		{
+			"name": "Uncharted Expanse",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/248_Uncharted Expanse.png"
+			}
+		},
+		{
+			"name": "Guide the Way",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/63_Guide the Way.png"
+			}
+		},
+		{
+			"name": "Talkia, Astral Current",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/246_Talkia, Astral Current.png"
+			}
+		},
+		{
+			"name": "Hoarfrost Greatwolf",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Snow Creature — Wolf",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/183_Hoarfrost Greatwolf.png"
+			}
+		},
+		{
+			"name": "Moonguard Empyrean",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment Creature — Luminary",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/191_Moonguard Empyrean.png"
+			}
+		},
+		{
+			"name": "Frode, Assembla's Arrow",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/18_Frode, Assembla's Arrow.png"
+			}
+		},
+		{
+			"name": "Glacial Expedition",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/227_Glacial Expedition.png"
+			}
+		},
+		{
+			"name": "Elderwurm's Lair",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/225_Elderwurm's Lair.png"
+			}
+		},
+		{
+			"name": "Frode's Messenger",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/19_Frode's Messenger.png"
+			}
+		},
+		{
+			"name": "Brilliance of the Heavens",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/8_Brilliance of the Heavens.png"
+			}
+		},
+		{
+			"name": "Celestial Unicorn",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Unicorn",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/10_Celestial Unicorn.png"
+			}
+		},
+		{
+			"name": "Vestige of Spring",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/286_Vestige of Spring.png"
+			}
+		},
+		{
+			"name": "Aurora Chorus",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/6_Aurora Chorus.png"
+			}
+		},
+		{
+			"name": "Haughty Empyrean",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Luminary",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/20_Haughty Empyrean.png"
+			}
+		},
+		{
+			"name": "Umbral Trespasser",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment Creature — Insect Luminary",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/83_Umbral Trespasser.png"
+			}
+		},
+		{
+			"name": "Lich's Masterpiece",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Zombie",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/150_Lich's Masterpiece.png"
+			}
+		},
+		{
+			"name": "Preserved Leviathan",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Snow Creature — Leviathan",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/238_Preserved Leviathan.png"
+			}
+		},
+		{
+			"name": "Surge of the Ancestors",
+			"rarity": "mythic",
+			"mana_cost": "{9}{G}{G}",
+			"type": "Instant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/203_Surge of the Ancestors.png"
+			}
+		},
+		{
+			"name": "Mercurial Drakkon",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Shapeshifter Dragon",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/70_Mercurial Drakkon.png"
+			}
+		},
+		{
+			"name": "Skeletal Abomination",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Snow Creature — Skeleton",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/115_Skeletal Abomination.png"
+			}
+		},
+		{
+			"name": "Portent of the End",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton Bird",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/109_Portent of the End.png"
+			}
+		},
+		{
+			"name": "Hulking Monstrosity",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/102_Hulking Monstrosity.png"
+			}
+		},
+		{
+			"name": "Slumbering Branchspeaker",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Snow Creature — Elf Shaman",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/200_Slumbering Branchspeaker.png"
+			}
+		},
+		{
+			"name": "Fryde's Lurker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/143_Fryde's Lurker.png"
+			}
+		},
+		{
+			"name": "Claws of the Deepwyn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Snow Creature — Demon",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/88_Claws of the Deepwyn.png"
+			}
+		},
+		{
+			"name": "Branchspine Serpent",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Serpent",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/86_Branchspine Serpent.png"
+			}
+		},
+		{
+			"name": "Haunted Journeyman",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/146_Haunted Journeyman.png"
+			}
+		},
+		{
+			"name": "Hunter's Stalking",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/185_Hunter's Stalking.png"
+			}
+		},
+		{
+			"name": "Demonic Rites",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/137_Demonic Rites.png"
+			}
+		},
+		{
+			"name": "Deathless Pact",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/92_Deathless Pact.png"
+			}
+		},
+		{
+			"name": "Touch Valdrasil's Heart",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/205_Touch Valdrasil's Heart.png"
+			}
+		},
+		{
+			"name": "Offering to Chaos",
+			"rarity": "rare",
+			"mana_cost": "{8}{R}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/154_Offering to Chaos.png"
+			}
+		},
+		{
+			"name": "Starforger Empyrean",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Enchantment Creature — Luminary",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/80_Starforger Empyrean.png"
+			}
+		},
+		{
+			"name": "Njora's Titan",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}",
+			"type": "Enchantment Creature — Giant Luminary",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/26_Njora's Titan.png"
+			}
+		},
+		{
+			"name": "Eye of the Oppressor",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment Artifact Creature — Eye",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/17_Eye of the Oppressor.png"
+			}
+		},
+		{
+			"name": "Vallaheart Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/164_Vallaheart Hunter.png"
+			}
+		},
+		{
+			"name": "Martyr's Funeral",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/152_Martyr's Funeral.png"
+			}
+		},
+		{
+			"name": "Bitter End",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/130_Bitter End.png"
+			}
+		},
+		{
+			"name": "Deepwyn Witness",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/177_Deepwyn Witness.png"
+			}
+		},
+		{
+			"name": "Bovi's Realmcutter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Snow Creature — Human Warrior",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/172_Bovi's Realmcutter.png"
+			}
+		},
+		{
+			"name": "Mystic Repeal",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/192_Mystic Repeal.png"
+			}
+		},
+		{
+			"name": "Realmbranch Husk",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/278_Realmbranch Husk.png"
+			}
+		},
+		{
+			"name": "Worthy Prey",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/209_Worthy Prey.png"
+			}
+		},
+		{
+			"name": "Age of Unceasing Ice",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Snow Enchantment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/43_Age of Unceasing Ice.png"
+			}
+		},
+		{
+			"name": "Perdition",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/108_Perdition.png"
+			}
+		},
+		{
+			"name": "Cryodrakkon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Snow Creature — Dragon",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/57_Cryodrakkon.png"
+			}
+		},
+		{
+			"name": "Drakkon Egg",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dragon Egg",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/139_Drakkon Egg.png"
+			}
+		},
+		{
+			"name": "Binding of the Beast",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/214_Binding of the Beast.png"
+			}
+		},
+		{
+			"name": "Brutal Flail",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/251_Brutal Flail.png"
+			}
+		},
+		{
+			"name": "Entombed Blade",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/254_Entombed Blade.png"
+			}
+		},
+		{
+			"name": "Realmbound Rider",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/30_Realmbound Rider.png"
+			}
+		},
+		{
+			"name": "Cairn Phantom",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/9_Cairn Phantom.png"
+			}
+		},
+		{
+			"name": "Wing-Granted Paladin",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/42_Wing-Granted Paladin.png"
+			}
+		},
+		{
+			"name": "Aura of Redemption",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/4_Aura of Redemption.png"
+			}
+		},
+		{
+			"name": "Divine Inundation",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/15_Divine Inundation.png"
+			}
+		},
+		{
+			"name": "Nova Angel",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/27_Nova Angel.png"
+			}
+		},
+		{
+			"name": "Compelling Demons",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Demon Shaman",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/133_Compelling Demons.png"
+			}
+		},
+		{
+			"name": "Raging Giant",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/156_Raging Giant.png"
+			}
+		},
+		{
+			"name": "Bring Ruin to the Realms",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/131_Bring Ruin to the Realms.png"
+			}
+		},
+		{
+			"name": "Greedy Barbarian",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/145_Greedy Barbarian.png"
+			}
+		},
+		{
+			"name": "Ancestral Anger",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/126_Ancestral Anger.png"
+			}
+		},
+		{
+			"name": "Cloak of the Equinox",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/53_Cloak of the Equinox.png"
+			}
+		},
+		{
+			"name": "Stormguide Hammer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/159_Stormguide Hammer.png"
+			}
+		},
+		{
+			"name": "Undying Wrath",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/163_Undying Wrath.png"
+			}
+		},
+		{
+			"name": "Trudge Skeleton",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Snow Creature — Skeleton Warrior",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/117_Trudge Skeleton.png"
+			}
+		},
+		{
+			"name": "Tusked Snowlion",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Snow Creature — Cat",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/206_Tusked Snowlion.png"
+			}
+		},
+		{
+			"name": "Blightlight Shaman",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dryad Shaman",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/171_Blightlight Shaman.png"
+			}
+		},
+		{
+			"name": "Welkin Communers",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/208_Welkin Communers.png"
+			}
+		},
+		{
+			"name": "In Glory",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/186_In Glory.png"
+			}
+		},
+		{
+			"name": "Empyrean of Change",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment Creature — Luminary",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/179_Empyrean of Change.png"
+			}
+		},
+		{
+			"name": "Granted Strength",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/181_Granted Strength.png"
+			}
+		},
+		{
+			"name": "Angel of Dusk and Dawn",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/210_Angel of Dusk and Dawn.png"
+			}
+		},
+		{
+			"name": "Realmsundering",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/240_Realmsundering.png"
+			}
+		},
+		{
+			"name": "Kin Waymarker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/258_Kin Waymarker.png"
+			}
+		},
+		{
+			"name": "Heidra, the Deepheart",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/228_Heidra, the Deepheart.png"
+			}
+		},
+		{
+			"name": "Storied Cairn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/261_Storied Cairn.png"
+			}
+		},
+		{
+			"name": "Comet Fox",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Fox Luminary",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/11_Comet Fox.png"
+			}
+		},
+		{
+			"name": "Runed Axe",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact — Equipment",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/260_Runed Axe.png"
+			}
+		},
+		{
+			"name": "Vaunted Starmaker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment Creature — Luminary",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/41_Vaunted Starmaker.png"
+			}
+		},
+		{
+			"name": "Razer of Planets",
+			"rarity": "mythic",
+			"mana_cost": "{W}{W}{U}{U}",
+			"type": "Enchantment Creature — Luminary",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/239_Razer of Planets.png"
+			}
+		},
+		{
+			"name": "Assembla's Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/3_Assembla's Guardian.png"
+			}
+		},
+		{
+			"name": "Eager Sledrunners",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Wolf",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/16_Eager Sledrunners.png"
+			}
+		},
+		{
+			"name": "Brynhilda, the Avaricious",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/216_Brynhilda, the Avaricious.png"
+			}
+		},
+		{
+			"name": "Farsight Welkinborn",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Luminary",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/59_Farsight Welkinborn.png"
+			}
+		},
+		{
+			"name": "Moonbind Empyrean",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Elk Luminary",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/71_Moonbind Empyrean.png"
+			}
+		},
+		{
+			"name": "Tarja, Favored Keen-Eye",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Ranger",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/247_Tarja, Favored Keen-Eye.png"
+			}
+		},
+		{
+			"name": "Swift Karve",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/263_Swift Karve.png"
+			}
+		},
+		{
+			"name": "Ravenous Tracker",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Giant Ranger",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/74_Ravenous Tracker.png"
+			}
+		},
+		{
+			"name": "Heaven's Sprouting",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/182_Heaven's Sprouting.png"
+			}
+		},
+		{
+			"name": "Anguished Creation",
+			"rarity": "mythic",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/46_Anguished Creation.png"
+			}
+		},
+		{
+			"name": "Decisive Cry",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/136_Decisive Cry.png"
+			}
+		},
+		{
+			"name": "Sungold Blade",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/161_Sungold Blade.png"
+			}
+		},
+		{
+			"name": "Reshape the Heavens",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/195_Reshape the Heavens.png"
+			}
+		},
+		{
+			"name": "Lich's Vile Throne",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/106_Lich's Vile Throne.png"
+			}
+		},
+		{
+			"name": "Unseal the Cairn",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/120_Unseal the Cairn.png"
+			}
+		},
+		{
+			"name": "Dark Star",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Phoenix Luminary",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/91_Dark Star.png"
+			}
+		},
+		{
+			"name": "Restless Skeleton",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Skeleton Warrior",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/112_Restless Skeleton.png"
+			}
+		},
+		{
+			"name": "Flowing Runes",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/98_Flowing Runes.png"
+			}
+		},
+		{
+			"name": "Last Packmate",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Wolf",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/105_Last Packmate.png"
+			}
+		},
+		{
+			"name": "Ascend to Legend",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/85_Ascend to Legend.png"
+			}
+		},
+		{
+			"name": "Sigiled Prayer Sphere",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Eye",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/76_Sigiled Prayer Sphere.png"
+			}
+		},
+		{
+			"name": "Conjure the Snowstorm",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Snow Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/54_Conjure the Snowstorm.png"
+			}
+		},
+		{
+			"name": "Sleetfeather Owl",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Snow Creature — Bird",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/78_Sleetfeather Owl.png"
+			}
+		},
+		{
+			"name": "Frost Giants of Skolha",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Snow Creature — Giant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/60_Frost Giants of Skolha.png"
+			}
+		},
+		{
+			"name": "Cryomancer's Assembly",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Snow Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/58_Cryomancer's Assembly.png"
+			}
+		},
+		{
+			"name": "Skolhan Crowcaster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard Ramger",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/77_Skolhan Crowcaster.png"
+			}
+		},
+		{
+			"name": "Wildspark Mage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/165_Wildspark Mage.png"
+			}
+		},
+		{
+			"name": "Vilemoon Apparition",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Nightmare",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/250_Vilemoon Apparition.png"
+			}
+		},
+		{
+			"name": "Furnace Golem",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Snow Artifact Creature — Dragon Golem",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/255_Furnace Golem.png"
+			}
+		},
+		{
+			"name": "Clear the Mind",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/52_Clear the Mind.png"
+			}
+		},
+		{
+			"name": "Cosmic Oppression",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/219_Cosmic Oppression.png"
+			}
+		},
+		{
+			"name": "Grave Seal",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/256_Grave Seal.png"
+			}
+		},
+		{
+			"name": "Throne of the Celestial Realm",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/283_Throne of the Celestial Realm.png"
+			}
+		},
+		{
+			"name": "Aurora Tarn",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/268_Aurora Tarn.png"
+			}
+		},
+		{
+			"name": "Behemoth Gateway",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/269_Behemoth Gateway.png"
+			}
+		},
+		{
+			"name": "Chilling Cavern",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/272_Chilling Cavern.png"
+			}
+		},
+		{
+			"name": "Frigid Fane",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/275_Frigid Fane.png"
+			}
+		},
+		{
+			"name": "Icy Stronghold",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/277_Icy Stronghold.png"
+			}
+		},
+		{
+			"name": "Rime Copse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/279_Rime Copse.png"
+			}
+		},
+		{
+			"name": "Snowy Pastures",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/280_Snowy Pastures.png"
+			}
+		},
+		{
+			"name": "Sunlit Whitecaps",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/281_Sunlit Whitecaps.png"
+			}
+		},
+		{
+			"name": "Thawing Shipyward",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/282_Thawing Shipyward.png"
+			}
+		},
+		{
+			"name": "Training Spires",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/284_Training Spires.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/290_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/291_Forest.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/288_Island.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/287_Plains.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/289_Swamp.png"
+			}
+		},
+		{
+			"name": "Never Apart",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/25_Never Apart.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Surai, Anjarjan Tyrant
+	5 Alexei, Rime Magnarch
+	5 Elai Ascendant
+	5 Mesmer Enchantress
+	5 Fryde, Patron of Fools
+	5 Soul-Axe Veteran
+	5 Berserker's Cairn
+	5 Valdrasil Reborn
+	5 Hogback Chieftain
+	5 Ardent Starcrafting
+	5 Whims of the Welkin
+	5 Living Aurora
+	5 Ourobori, Reincarnated
+	5 Valdrasil Angel
+	5 Tender of the Land
+	5 Surai's Armillary
+	5 Winter's Dictate
+	5 Otherwordly Crafter
+	5 Realm Evacuation
+	5 Sigri, Valdrasil Avatar
+	5 Skodir, Reborn
+	5 Teluran Portal
+	5 Njora, First Assembla
+	5 Dark Matter Kirin
+	5 Ifryn, Last Assembla
+	5 Zyxtron, the Realmslayer
+	5 Displace from Reality
+	5 Chromatic Apex
+	5 Amede, the Invoker
+	5 Deepwyn Summoning
+	5 Deep Depths Serpent
+	5 Cosmic Reaper
+	5 Emissary of the Inferno
+	5 Vallaroots Lich
+	5 Wolf of Anjarja
+	5 Lanion, Beyond Realms
+	5 Ingjald, Vile Calamity
+	5 Tiraan, the Uranographer
+	5 Drakkonic Scion
+	5 Predator's Wake
+	5 Galaxy Drakkon
+	5 Countervailing Drakkon
+	5 Wrath of the Empyreans
+	5 Myriad Forms
+	5 Rebel Rising
+	5 Bog Beetle
+	5 Glory of the Heavens
+	5 Moonshaker Cavalry
+	5 Starchaser
+	5 Xyvera, Who Remains
+	5 Knutr, Blighted Embrace
+	5 Katjar Peacebane
+	5 Challenge the Heavens
+	5 Convergent Cairn
+	5 Kjaldiran Cavalry
+	5 Wicked Elderspirit
+	5 Ecliptic Angel
+	5 Symbol of the Storm
+	5 Realmsieger
+	5 Self-Destruct
+	5 Reconstitute
+	5 Eirsdottir, the Insurgent
+	5 Uncharted Expanse
+	5 Talkia, Astral Current
+	5 Hoarfrost Greatwolf
+	5 Moonguard Empyrean
+	5 Frode, Assembla's Arrow
+	5 Glacial Expedition
+	5 Elderwurm's Lair
+	5 Lich's Masterpiece
+	5 Preserved Leviathan
+	5 Surge of the Ancestors
+	5 Mercurial Drakkon
+	5 Deathless Pact
+	5 Touch Valdrasil's Heart
+	5 Offering to Chaos
+	5 Starforger Empyrean
+	5 Njora's Titan
+	5 Eye of the Oppressor
+	5 Age of Unceasing Ice
+	5 Binding of the Beast
+	5 Brutal Flail
+	5 Angel of Dusk and Dawn
+	5 Realmsundering
+	5 Heidra, the Deepheart
+	5 Razer of Planets
+	5 Brynhilda, the Avaricious
+	5 Tarja, Favored Keen-Eye
+	5 Anguished Creation
+	5 Vilemoon Apparition
+	5 Cosmic Oppression
+	5 Grave Seal
+	5 Throne of the Celestial Realm
+	5 Never Apart
+[uncommon(3)]
+	5 Nebula Kraken
+	5 Piercing Star
+	5 Lignification
+	5 Assembla Pathfinder
+	5 Fungal Cadaver
+	5 Rimestaff Mentor
+	5 Madness in Annihilation
+	5 Charged Berserker
+	5 Aurora Harbinger
+	5 Host of Night
+	5 Cobbled Protector
+	5 Reweaving the Roots
+	5 Drakkon Boltcaster
+	5 Minor Empyrean
+	5 Arboreal Artisanry
+	5 Elvish Vitalist
+	5 Climbing the Tree
+	5 Cliffs of the Solemn Seekers
+	5 Chilling Cross
+	5 Heidra's Heartglade
+	5 Illusionist's Talent
+	5 Ifryn Unseals the Gate
+	5 Pray to the Forbidden
+	5 Cosmic Ascension
+	5 Pulsating Spire
+	5 Dawn on the Weary
+	5 Kjaldiran Elk
+	5 Returned Frostblade
+	5 Bearer of the Rage
+	5 Infested Vallaheart
+	5 Verglas Stagrider
+	5 Deathless Conscription
+	5 Elvish Branchwalker
+	5 Anjarjan Archangel
+	5 Deepwyn Lurker
+	5 Auspicious Avatar
+	5 Crimson Deathmaw
+	5 Constellamancer
+	5 Boreal Bastion
+	5 Locus Manipulator
+	5 Empyrean Inquisition
+	5 Saboteur's Display
+	5 Longboat Hunter
+	5 Celestial Vault
+	5 Frostdrakkon's Shadow
+	5 Runewarper
+	5 Unleashed Malevolence
+	5 Drakkon Tender
+	5 Convergence Pack
+	5 Empyrean Mare
+	5 Transgress Heaven
+	5 Vallaheart Commander
+	5 Blessed Dragonslayer
+	5 Resolute Starweaver
+	5 Guide the Way
+	5 Aurora Chorus
+	5 Claws of the Deepwyn
+	5 Demonic Rites
+	5 Vallaheart Hunter
+	5 Bitter End
+	5 Deepwyn Witness
+	5 Bovi's Realmcutter
+	5 Mystic Repeal
+	5 Realmbranch Husk
+	5 Perdition
+	5 Cryodrakkon
+	5 Greedy Barbarian
+	5 Stormguide Hammer
+	5 Kin Waymarker
+	5 Storied Cairn
+	5 Comet Fox
+	5 Runed Axe
+	5 Vaunted Starmaker
+	5 Assembla's Guardian
+	5 Eager Sledrunners
+	5 Unseal the Cairn
+	5 Dark Star
+	5 Skolhan Crowcaster
+	5 Wildspark Mage
+[common(10)]
+	5 Star-Speckled Ursine
+	5 Alexei's Response
+	5 Anjarjan Adjudicator
+	5 Suncatcher Elk
+	5 Mooncrown Stag
+	5 Vallaroot Soulspinner
+	5 Smug Denial
+	5 Might of Kjaldir
+	5 Heavenly Empyrean
+	5 Aurora Charger
+	5 Icehide Golem
+	5 Solar Convert
+	5 Unbound Undead
+	5 Ritualist of Old Blood
+	5 Ascendant Binding
+	5 Deepwyn Desecrator
+	5 Purifying Perfumer
+	5 Deepfrost Citadel
+	5 Faithless Karaki
+	5 Arrested by Moonlight
+	5 Grip of the Rime
+	5 Lamplighter
+	5 Prancing Flame
+	5 True Ice Shard
+	5 Pale Life-Shadow
+	5 Chilling Presence
+	5 Snow on Empires Past
+	5 Pyrrhic Strike
+	5 Lanion's Sacrifice
+	5 Fugue Dirge
+	5 Starfang Serpent
+	5 Armillary Drakkon
+	5 Storm Drakkon
+	5 Bronzewing Sagittar
+	5 Warlock's Ire
+	5 Serpent of World's Edge
+	5 Arrow of the Heavens
+	5 Scryer's Safeguard
+	5 Realmtillers
+	5 Manifested Eclipse
+	5 Vallaheart Redeemer
+	5 Corrupted Empyrean
+	5 Hero of the Final Dawn
+	5 Mage-Warrior Prefect
+	5 Seal Away
+	5 Wandering Glacier
+	5 Frode's Messenger
+	5 Brilliance of the Heavens
+	5 Celestial Unicorn
+	5 Vestige of Spring
+	5 Haughty Empyrean
+	5 Umbral Trespasser
+	5 Skeletal Abomination
+	5 Portent of the End
+	5 Hulking Monstrosity
+	5 Slumbering Branchspeaker
+	5 Fryde's Lurker
+	5 Branchspine Serpent
+	5 Haunted Journeyman
+	5 Hunter's Stalking
+	5 Martyr's Funeral
+	5 Worthy Prey
+	5 Drakkon Egg
+	5 Entombed Blade
+	5 Realmbound Rider
+	5 Cairn Phantom
+	5 Wing-Granted Paladin
+	5 Aura of Redemption
+	5 Divine Inundation
+	5 Nova Angel
+	5 Compelling Demons
+	5 Raging Giant
+	5 Bring Ruin to the Realms
+	5 Ancestral Anger
+	5 Cloak of the Equinox
+	5 Undying Wrath
+	5 Trudge Skeleton
+	5 Tusked Snowlion
+	5 Blightlight Shaman
+	5 Welkin Communers
+	5 In Glory
+	5 Empyrean of Change
+	5 Granted Strength
+	5 Farsight Welkinborn
+	5 Moonbind Empyrean
+	5 Swift Karve
+	5 Ravenous Tracker
+	5 Heaven's Sprouting
+	5 Decisive Cry
+	5 Sungold Blade
+	5 Reshape the Heavens
+	5 Lich's Vile Throne
+	5 Restless Skeleton
+	5 Flowing Runes
+	5 Last Packmate
+	5 Ascend to Legend
+	5 Sigiled Prayer Sphere
+	5 Conjure the Snowstorm
+	5 Sleetfeather Owl
+	5 Frost Giants of Skolha
+	5 Cryomancer's Assembly
+	5 Furnace Golem
+	5 Clear the Mind
+	5 Aurora Tarn
+	5 Behemoth Gateway
+	5 Chilling Cavern
+	5 Frigid Fane
+	5 Icy Stronghold
+	5 Rime Copse
+	5 Snowy Pastures
+	5 Sunlit Whitecaps
+	5 Thawing Shipyward
+	5 Training Spires
