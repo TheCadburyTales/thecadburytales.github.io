@@ -323,13 +323,7 @@
 	</div>
 
 	<div class="splash-container" id="splash">
-	<p><img alt="The Shattered Pantheon of Atros" src="/sets/ATR-files/logo.png" title="ATR logo" /></p>
-<h1>Test Header</h1>
-<h2>Test Subheader</h2>
-<p>Here's some text. It goes under the Subheader.</p>
-<h3>Image</h3>
-<p><img alt="Ashen Retribution" src="/sets/ATR-files/img/2_Ashen Retribution.png" title="Ashen Retribution" /> <img alt="Hand of the Ashen Oath" src="/sets/ATR-files/img/213_Hand of the Ashen Oath.png" title="Hand of the Ashen Oath" /></p>
-<p>Thanks for reading!</p>
+	
 	</div>
 
 	<div class="grid-container" id="grid">
@@ -388,8 +382,8 @@
 					set_list_arrayified.push(card_list_arrayified[i]);
 				}
 			}
-					buttons.style.display = 'grid';
-				switchView('splash');
+			
+		setCardView();
 		});
 
 		document.getElementById("sort-by").onchange = displayChangeListener;

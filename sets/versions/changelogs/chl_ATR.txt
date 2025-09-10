@@ -1,4 +1,731 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Icon of the Rotten Soul added.
+Nihil Virtuoso added.
+Hypnotic Gale added.
+Portent of Catastrophe added.
+Nihilo Foil added.
+
+That Which Rots removed.
+Abyssal Virtuoso removed.
+Hypnotic Crosswinds removed.
+Portent of Calamity removed.
+Apocalypse Foil removed.
+
+Heping, at War's End
+rules_text:  => [+1]: Until your next turn, your opponents can't cast more than one spell or draw more than one card.
+[0]: Another target nonland permanent phases out until your next turn. If that permanent didn't phase in this turn, Heping phases out.
+[-7]: Each opponent gets an emblem with “For the rest of the game, you can only attack once.”
+
+Panya, Swift and Sure
+
+Litany of Despair
+rules_text: When Litany of Despair enters, draw three cards and create three 1/1 colorless Spirit creature tokens with flying.
+Whenever you cast a spell, you lose 3 life unless you sacrifice a nonland permanent or discard a card. => When Litany of Despair enters, draw three cards and create three 1/1 colorless Spirit creature tokens with flying.
+Whenever you cast a spell, you lose 3 life unless you sacrifice a creature or discard a card.
+
+Progeny of Bloodflame
+cost: {1}{R}{R} => {3}{R}{R}
+rules_text: Legion [i](When this creature attacks, you may pair it with another unpaired attacker until end of turn. Paired creatures gain the following abilities.)[/i]
+Whenever you cast a spell during combat, double this creature's power until end of turn. => Legion [i](When this creature attacks, you may pair it with another unpaired attacker until end of turn. Paired creatures gain the following abilities.)[/i]
+Whenever you cast an instant or sorcery spell, create a token that's a copy of this creature. If this creature is attacking, the token enters tapped and attacking. Exile that token at the beginning of the next end step.
+pt: 1/5 => 3/4
+
+Behold the Aeons
+
+The Divine Vaelias
+rules_text: Effigy {2}{WU} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+Whenever Vaelias enters or you attack with two or more creatures, exile up to one other target nonland permanent. Return it to the battlefield under its owner's control at the beginning of the next end step.
+When Vaelias dies, if it's a creature, exile it. You may cast it from exile for its effigy cost. => Effigy {2}{WU} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+Whenever Vaelias enters or you attack with two or more creatures, exile up to one other target nonland permanent. Return it to the battlefield under its owner's control at the beginning of the next end step.
+When Vaelias dies, if it's a creature, exile it. You may cast it for its effigy cost for as long as it remains exiled.
+
+The Divine Sythor
+rules_text: Effigy {2}{UB} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+Whenever Sythor enters or you attack with two or more creatures, exile the top three cards of target opponent's library, then choose a card exiled with Sythor. You may play that card from exile as long as you control a God.
+When Sythor dies, if it's a creature, exile it. You may cast it from exile for its effigy cost. => Effigy {2}{UB} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+Whenever Sythor enters or you attack with two or more creatures, exile the top three cards of target opponent's library, then choose a card exiled with Sythor. You may play that card from exile as long as you control a legendary enchantment or a God.
+When Sythor dies, if it's a creature, exile it. You may cast it for its effigy cost for as long as it remains exiled.
+
+The Divine Velera
+rules_text: Effigy {1}{BR} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+Whenever Velera enters or you attack with two or more creatures, the owner of target permanent sacrifices it unless they have Velera deal 2 damage to them.
+When Velera dies, if it's a creature, exile it. You may cast it from exile for its effigy cost. => Effigy {1}{BR} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+Whenever Velera enters or you attack with two or more creatures, the owner of target permanent an opponent controls sacrifices it unless they have Velera deal 2 damage to them.
+When Velera dies, if it's a creature, exile it. You may cast it for its effigy cost for as long as it remains exiled.
+
+The Divine Ozhka
+rules_text: Effigy {3}{RG} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+Whenever Ozhka enters or you attack with two or more creatures, add {R}{R}{G}{G}. Until end of turn, you don't lose this mana as steps and phases end. You can only cast one more spell this turn.
+When Ozhka dies, if it's a creature, exile it. You may cast it from exile for its effigy cost. => Effigy {3}{RG} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+Whenever Ozhka enters or you attack with two or more creatures, add {R}{R}{G}{G}. Until end of turn, you don't lose this mana as steps and phases end. You can only cast one more spell this turn.
+When Ozhka dies, if it's a creature, exile it. You may cast it for its effigy cost for as long as it remains exiled.
+
+The Divine Marisyn
+rules_text: Effigy {3}{GW} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+Whenever Marisyn enters or you attack with two or more creatures, create a 2/1 colorless Knight creature token. When you do, put a +1/+1 counter on target creature you control.
+When Marisyn dies, if it's a creature, exile it. You may cast it from exile for its effigy cost. => Effigy {3}{GW} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+Whenever Marisyn enters or you attack with two or more creatures, create a 2/1 colorless Knight creature token. When you do, put a +1/+1 counter on target creature you control.
+When Marisyn dies, if it's a creature, exile it. You may cast it for its effigy cost for as long as it remains exiled.
+
+Jorah, Godslayer
+rules_text:  => [+2]: Create a 3/3 white and black Angel creature token with flying.
+[+1]: Exile target legendary permanent.
+[-3]: Exile all other nonland permanents.
+[-8]: You gain 13 life. Each opponent loses 13 life.
+
+The Divine Caele
+rules_text: Effigy {2}{BG} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+Whenever Caele enters or you attack with two or more creatures, you may sacrifice another creature. When you do, return target creature card with mana value equal to 1 plus the sacrificed creature's mana value from your graveyard to the battlefield.
+When Caele dies, if it's a creature, exile it. You may cast it from exile for its effigy cost. => Effigy {2}{BG} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+Whenever Caele enters or you attack with two or more creatures, you may sacrifice another creature. When you do, return target creature card with mana value equal to 1 plus the sacrificed creature's mana value from your graveyard to the battlefield.
+When Caele dies, if it's a creature, exile it. You may cast it for its effigy cost for as long as it remains exiled.
+
+The Divine Elyth
+rules_text: Effigy {2}{GU} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+Whenever Elyth enters or you attack with two or more creatures, untap all nonland permanents you control. If five or more permanents were untapped this way, draw a card.
+When Elyth dies, if it's a creature, exile it. You may cast it from exile for its effigy cost. => Effigy {2}{GU} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+Whenever Elyth enters or you attack with two or more creatures, untap all nonland permanents you control. If five or more permanents were untapped this way, draw a card.
+When Elyth dies, if it's a creature, exile it. You may cast it for its effigy cost for as long as it remains exiled.
+
+The Divine Xalren
+rules_text: Effigy {3}{UR} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+Whenever Xalren enters or you attack with two or more creatures, exile your hand, then draw two cards and create a Treasure token. You may cast up to one instant or sorcery card exiled this way this turn.
+When Xalren dies, if it's a creature, exile it. You may cast it from exile for its effigy cost. => Effigy {3}{UR} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+Whenever Xalren enters or you attack with two or more creatures, exile your hand, then draw two cards and create a Treasure token. You may cast up to one instant or sorcery card exiled this way this turn.
+When Xalren dies, if it's a creature, exile it. You may cast it for its effigy cost for as long as it remains exiled.
+
+The Divine Sorella
+rules_text: Effigy {1}{RW} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+Whenever Sorella enters or you attack with two or more creatures, you may have target creature an opponent controls block this turn if able. If you don't, that creature can't block this turn.
+When Sorella dies, if it's a creature, exile it. You may cast it from exile for its effigy cost. => Effigy {1}{RW} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+Whenever Sorella enters or you attack with two or more creatures, you may have target creature an opponent controls block this turn if able. If you don't, that creature can't block this turn.
+When Sorella dies, if it's a creature, exile it. You may cast it for its effigy cost for as long as it remains exiled.
+
+Ashen Paragon
+rules_text: When Ashen Paragon enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Whenever Ashen Paragon attacks, create two 1/1 black Wraith creature tokens with “This creature can't block” that are tapped and attacking. Then tokens you control gain deathtouch and lifelink until end of turn. => When Ashen Paragon enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Whenever Ashen Paragon attacks, create two 1/1 black Wraith creature tokens with “This creature can't block” that are tapped and attacking. Then tokens you control gain deathtouch and lifelink until end of turn.
+
+Ozhkan Blademaster
+
+Form of the Blue Moon
+
+The Fire and the Flood
+rules_text:  => [+1]: Create a 2/1 colorless Knight creature token, then you may exile an instant or sorcery card with mana value 2 or less from your graveyard. If you do, that token gains “Whenever this creature attacks, you may cast a copy of the exiled card without paying its mana cost.”
+[-3]: Exile target nonland permanent. Its controller creates a 2/1 colorless Knight creature token.
+[-7]: Until end of turn, each creature you control becomes a 4/4 Dragon with flying. Tap up to four target nonland permanents.
+
+Ivory Tactician
+rules_text: When Ivory Tactician enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Whenever one or more creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn. => When Ivory Tactician enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Whenever one or more creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.
+
+Empyrean Challenger
+
+Sanctuary
+
+Pledgeseeker
+rules_text: {2}{W}: Put a +1/+1 counter on Pledgeseeker. Portend Armageddon. Activate only as a sorcery and only once. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i] => {2}{W}: Put a +1/+1 counter on Pledgeseeker. Armageddon looms. Activate only as a sorcery and only once. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+
+Fogborne Brigade
+
+Annihilation
+
+Knightfall
+
+Prescient Phantom
+
+Astral Seamstress
+rules_text: Effigy {1}{U}{U} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+When Astral Seamstress enters, gain control of target creature an opponent controls for as long as you control this enchantment. It can't attack or block unless this enchantment is attacking or blocking. => Effigy {1}{U}{U} [i](If you cast this for its effigy cost, it isn't a creature until you pay its mana cost as a sorcery.)[/i]
+When Astral Seamstress enters, gain control of target creature an opponent controls for as long as you control Astral Seamstress. As long as you control Astral Seamstress, that creature can't attack or block unless Astral Seamstress is attacking or blocking.
+
+Prismatic Nightjar
+
+Coincidence
+
+Selenic Augur
+
+See the Stars Align
+
+Savior's Quandary
+
+Deathwind Whisperer
+cost: {1}{B} => {2}{B}
+rules_text: Menace
+When Deathwind Whisperer enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Whenever you defeat a Fated War, search your library for a card, put it into your hand, then shuffle. => Menace
+At the beginning of your upkeep, draw a card and you lose 1 life. Then you may discard a card. If you do, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+pt: 2/1 => 3/2
+
+Bloodrift Overlord
+
+Enkindled Blackblade
+rules_text: Deathtouch
+When Enkindled Blackblade enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Whenever an ability of a Fated War you control triggers, the player defending it loses 2 life and you gain 2 life. => Deathtouch
+When Enkindled Blackblade enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Whenever an ability of a Fated War you control triggers, the player protecting it loses 2 life and you gain 2 life.
+
+Nachtengel
+
+Dismay
+
+Abyssal Promenade
+
+In the Shadow of Azumoth
+
+Sorellan Lamplighter
+
+Liege of the Pyre
+
+Emberblaze Warkite
+rules_text: Flying, haste
+When Emberblaze Warkite enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i] => Flying, haste
+When Emberblaze Warkite enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+
+Verve
+
+The Liberated Onslaught
+rules_text: Whenever you attack, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Whenever an ability of a Fated War you control triggers, destroy target permanent an opponent controls unless that player has The Liberated Onslaught deal 3 damage to them. => Whenever you attack, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Whenever an ability of a Fated War you control triggers, exile the top card of your library or an instant or sorcery card from your graveyard. You may play that card until the end of your next turn.
+
+Let the Fray Burn
+
+Hoard
+
+Sundrop Cultivator
+
+Realmsplicer
+rules_text: Trample
+When Realmsplicer enters, choose up to one target artifact or enchantment. Its owner puts that permanent on the bottom of their library, then draws a card. => When Realmsplicer enters, choose up to one target artifact or enchantment. Its owner puts that permanent on the bottom of their library, then draws a card.
+
+Hinterland Overseer
+
+Existence
+
+Wilderwarper
+
+Sky's Eye Recruit
+
+Arboreal Embrace
+
+Caress of Moonlight
+
+Righteous Archangel
+
+Twist Perceptions
+
+Syzygy Visionary
+
+Ozhka's Ceaseless Assault
+
+Crypt Cleaver
+rules_text: Menace
+When Crypt Cleaver enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Whenever Crypt Cleaver attacks, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield tapped and attacking. Exile it at end of combat. => Menace
+When Crypt Cleaver enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Whenever Crypt Cleaver attacks, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield tapped and attacking. Exile it at end of combat.
+
+Ozhkan Huntmaster
+
+Calamity
+rules_text: Calamity deals 5 damage to each creature, and each planeswalker. Destroy all artifacts and enchantments with mana value 5 or less. Destroy all nonbasic lands. => Calamity deals 5 damage to each creature and each planeswalker. Destroy all artifacts and enchantments with mana value 5 or less. Destroy all nonbasic lands.
+
+Remarkable Discovery
+
+Marisyni Adherent
+rules_text: Vigilance
+Whenever Marisyni Adherent attacks, target attacking token has base power and toughness 4/5 until end of turn. => Vigilance, trample
+Whenever Marisyni Adherent attacks, target attacking token has base power and toughness 4/5 until end of turn.
+
+Epochal Descent
+
+Cendris, Ashen Champion
+
+Pestilent Lieutenant
+
+Oakblight Sage
+
+Loamlight Shepherd
+
+Oracle of Azumoth
+
+Seer of Sword and Sun
+
+Kinetic Reaver
+
+Dragonheart Technique
+
+Blinding Herald
+
+The Apocalypse Pendulum
+
+Memorial to the Slain
+
+Hero's Forum
+
+Worldbraider
+
+Tower of Measure
+
+Keeper of Ghostlight
+
+Eidolic Procession
+
+Koryn Thael Guide
+type: Creature — Human Scout => Creature — Wraith Scout
+
+Pallid Emissary
+rules_text: Whenever Pallid Emissary attacks, if it's paired with an attacking creature, tap target creature defending player controls. => Whenever Pallid Emissary becomes paired with a creature while attacking, tap target creature defending player controls.
+
+Marisyni Phalanx
+
+Oathsworn Captain
+rules_text: When Oathsworn Captain enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Oathsworn Captain gets +1/+1 for each other creature you control. => When Oathsworn Captain enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Oathsworn Captain gets +1/+1 for each other creature you control.
+
+Gilded Guardian
+
+Waxen Lyrist
+
+Paradigm of Frailty
+
+Majestic Seraph
+
+Become Faceless
+
+One Swift Strike
+
+Feather of Flight
+
+Way of the Ashen
+rules_text: When Way of the Ashen enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Whenever an ability of a Fated War you control triggers, create a 2/1 colorless Knight creature token. => When Way of the Ashen enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Whenever an ability of a Fated War you control triggers, create a 2/1 colorless Knight creature token.
+
+Fanciful Brinedancer
+
+Scion of the Aurora
+
+Mist Whisperer
+
+Star-Crossed Bride
+
+Curio Hoarder
+
+Runic Occultist
+
+Nightbreak Raptor
+
+Ceremonial Flock
+
+Celestial Sentry
+
+Upset Balance
+
+Song to the Siren
+
+Taste the Waters
+
+Better Thy Ken
+
+Elythi Altar
+
+Veleran Sellsword
+
+Lithe Silhouette
+rules_text: When Lithe Silhouette enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+{1}{B}, Pay 2 life: Put a +1/+1 counter and a shadow counter on Lithe Silhouette. Activate only once. [i](It can block or be blocked by only creatures with shadow.)[/i] => When Lithe Silhouette enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+{1}{B}, Pay 2 life: Put a +1/+1 counter and a shadow counter on Lithe Silhouette. Activate only once. [i](It can block or be blocked by only creatures with shadow.)[/i]
+
+Ruin Raven
+
+Auric Migrant
+
+Plague Oracle
+rules_text: Deathtouch
+Flashback costs you cost {2} less and an additional 2 life. => Deathtouch
+Flashback costs you pay cost {2} less and an additional 2 life.
+
+Gloaming Spearman
+rules_text: When Gloaming Spearman enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+At the beginning of your end step, if a nontoken creature died this turn, you may pay {B}. If you do, create a 2/1 colorless Knight creature token. => When Gloaming Spearman enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+At the beginning of your end step, if a nontoken creature died this turn, you may pay {B}. If you do, create a 2/1 colorless Knight creature token.
+
+Massacre Behemoth
+
+Skeletal Colossus
+
+Withering Torment
+
+Sights of the Blind
+
+Eternity Awaits
+rules_text: Creatures target player controls get -1/-1 until end of turn. Portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i] => Creatures target player controls get -1/-1 until end of turn. Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+
+Don the Wintercrown
+
+Perceive the Void
+
+Sunhunter
+
+Conflagrant Legionnaire
+
+Bearer of the Blood Chalice
+
+Needle Knight
+
+Kindled Bladehand
+rules_text: Whenever Kindled Bladehand attacks, if it's paired with an attacking creature, create a 2/1 colorless Knight creature token that's tapped and attacking. => Whenever Kindled Bladehand becomes paired with a creature while attacking, create a 2/1 colorless Knight creature token that's tapped and attacking.
+
+Magmatic Entity
+
+Smoke Sovereign
+
+Ozhkan Cutthroat
+rules_text: Haste
+When Ozhkan Cutthroat enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i] => Haste
+When Ozhkan Cutthroat enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+
+Infernal Disseverer
+
+Dravak Tyrant
+
+Rend in Twain
+
+Flame Sweep
+
+Hollow Yew Halo
+
+Sever Mortal Tethers
+rules_text: Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.
+Portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i] => Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.
+Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+
+Pack Acolyte
+
+Slavering Greymaw
+
+Moonflower Culturist
+
+Everbough Dryad
+
+Greenwood Trooper
+
+Verdure Shaper
+
+Sylvan Sprites
+
+Starbather
+
+Hinterland Huntsman
+
+Marrowholt Elder
+
+Defile Pious Halls
+
+Fall on the Sword
+
+Overprotect
+
+Branchbrand
+
+Squire of Vaelias
+
+Requiem Soloist
+
+Usher of Undoing
+
+Storm Forth, Moonchild
+
+Dakarros Goliath
+
+Bloodshade Cavalier
+rules_text: When Bloodshade Cavalier enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Whenever an ability of a Fated War you control triggers, Bloodshade Cavalier deals 1 damage to any target. => When Bloodshade Cavalier enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Whenever an ability of a Fated War you control triggers, Bloodshade Cavalier deals 1 damage to any target.
+
+Ruthless Varkirn
+
+Ozhka's Deliverance
+
+Wreathed Sentinel
+
+Sky's Eye Combatant
+rules_text: When Sky's Eye Combatant enters, create a 2/1 colorless Knight creature token.
+Whenever you attack, create a token that's a copy of target attacking token you control. => When Sky's Eye Combatant enters, create a 2/1 colorless Knight creature token.
+Whenever Sky's Eye Combatant attacks, create a token that's a copy of target attacking token you control.
+
+Hand of the Ashen Oath
+rules_text: When Hand of the Ashen Oath enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Other Knight creatures you control get +1/+1. => When Hand of the Ashen Oath enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Other Knight creatures you control get +1/+1.
+
+Crosswind Partisan
+
+Iris Crypt Reaper
+
+Wickerwretch
+
+Auspex of Fortitudes
+
+Gnarled Lifeletter
+
+Caldera Spawn
+
+Saint of Sword and Sun
+
+Brightblade Duelist
+
+Fellowship Veteran
+
+Flattening Ram
+rules_text: When Flattening Ram enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Flattening Ram attacks each combat if able. => When Flattening Ram enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Flattening Ram attacks each combat if able.
+
+It That Tolls for Thee
+
+Timeworn Tome
+rules_text: {T}, Tap four colorless permanents you control: Draw a card. [i](Lands are colorless.)[/i] => {T}, Tap four other untapped colorless permanents you control: Draw a card. [i](Lands are colorless.)[/i]
+
+Imperious Pennant
+
+War-Scarred Remnants
+rules_text: {T}: Add {C}.
+{3}, {T}: Portend Armageddon. Activate only as a sorcery and only once. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i] => {T}: Add {C}.
+{3}, {T}: Armageddon looms. Activate only as a sorcery and only once. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+
+Paper Birch Path
+
+Lunar Beck Path
+
+Gloom Stone Path
+
+Painted Cliff Path
+
+Mystic Arbor Path
+
+Mantle of Gallantry
+rules_text: Enchant creature
+When Mantle of Gallantry enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Enchanted creature gets +2/+2. => Enchant creature
+When Mantle of Gallantry enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+Enchanted creature gets +2/+2.
+
+Twilight Militant
+rules_text: Agile [i](This creature deals combat damage first as long as it's attacking.)[/i]
+When Twilight Militant enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i] => Agile [i](This creature deals combat damage first as long as it's attacking.)[/i]
+When Twilight Militant enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+
+Spirelight Shepherd
+
+Cosmic Stitcher
+
+Noble Ashsworn
+rules_text: Whenever Noble Ashsworn attacks while paired, put a +1/+1 counter on it. => Whenever Noble Ashsworn becomes paired while attacking, put a +1/+1 counter on it.
+
+Marble Godhand
+
+Glintpath Attendant
+
+Exemplar of Valor
+rules_text: Flying
+When Exemplar of Valor enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i] => Flying
+When Exemplar of Valor enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+
+Steward of the Eclipse
+
+Striding Banneret
+
+Umbral Possessor
+
+Emblem of Myrenhal
+
+Ashen Retribution
+
+Mantra of Order
+
+Make Your Move
+
+Wanderwight
+
+Skycloak Drake
+
+Illusory Vanguard
+
+Rift Wyvern
+
+Tracelight Wayfarer
+
+Wayward Moonblade
+
+Sythori Squadron
+
+Worldwind Serpent
+
+Breaths of Eless
+
+Ing'Wei's Artistry
+
+Defy Gravity
+
+Mantra of Brilliance
+
+Touch of Oros
+
+Watchers on High
+
+Shadow Lancer
+
+Notion Scraper
+
+Duskbringer
+
+Ashen Persecutor
+rules_text: When Ashen Persecutor enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+{2}: This creature gets +1/+1 until end of turn. => When Ashen Persecutor enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+{2}: This creature gets +1/+1 until end of turn.
+
+Lunar Specter
+
+Brittle Butcher
+
+Taciturn Council
+rules_text: Menace
+When Taciturn Council enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i] => Menace
+When Taciturn Council enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+
+Slaughterbrute
+
+Extinguish Legacies
+rules_text: Destroy target creature with mana value 3 or less. Portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i] => Destroy target creature with mana value 3 or less. Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+
+Visions of Prostration
+
+Beseech the Bones
+rules_text: Draw two cards. You lose 2 life.
+Portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i] => Draw two cards. You lose 2 life.
+Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+
+Hero's Downfall
+
+Velera's Seduction
+
+Mantra of Necrosis
+
+Doomed Outrider
+
+Servant of Velera
+
+Perfervid Oracle
+rules_text: When Perfervid Oracle enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+{1}, {T}: This creature deals 1 damage to target opponent, planeswalker, or battle. => When Perfervid Oracle enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+{1}, {T}: This creature deals 1 damage to target opponent, planeswalker, or battle.
+
+Howling Flesher
+
+Incandescent Paladin
+
+Ozhkan Flayer
+rules_text: When Ozhkan Flayer enters, portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+{2}{R}, Sacrifice an artifact or land: Draw a card. => When Ozhkan Flayer enters, Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+{2}{R}, Sacrifice an artifact or land: Draw a card.
+
+Searing Piker
+
+Carmine Hellkite
+
+Smoldered Monarch
+
+Lightning Strike
+
+Draconic Resolve
+
+Sorellan Farewell
+
+Mantra of Dominance
+
+Grasp at Lost Light
+rules_text: Grasp at Lost Light deals 4 damage to target creature or planeswalker. Portend Armageddon. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i] => Grasp at Lost Light deals 4 damage to target creature or planeswalker. Armageddon looms. [i](Create a Fated War token defended by an opponent if you don't control one. Otherwise, deal 2 damage to it.)[/i]
+
+Flames of Progress
+rules_text: Flames of Progress deals 6 damage to target creature.
+If you control an artifact and an enchantment, exile the top card of your library. You may play it until the end of your next turn. => Flames of Progress deals 6 damage to target creature. If that creature would die this turn, exile it instead.
+If you control an artifact and an enchantment, exile the top card of your library. You may play it until the end of your next turn.
+
+Elyth's Faithful
+
+Escort of the Helmless
+
+Gloamtender
+rules_text: When Gloamtender enters, mill three cards, then you may return a land card from your graveyard to your hand. => When Gloamtender enters, draw a card.
+pt: 1/3 => 1/1
+
+Gleaming Soothsayer
+
+Warden of the Weald
+rules_text: Reach
+When Warden of the Weald enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Reach
+When Warden of the Weald enters, mill three cards, then you may return a land card from your graveyard to your hand.
+pt: 3/3 => 2/4
+
+Solemn Packleader
+
+Mantra of Ferocity
+
+Verdant Cavalry
+
+Lockwood Giant
+
+Grotweaver
+
+Wraithbane's Focus
+
+Contest of the Just
+rules_text: Target creature you control deals damage equal to its whichever is greater between its power and toughness to target creature you don't control. => Target creature you control deals damage equal to whichever is greater between its power and toughness to target creature you don't control.
+
+Wreath of Wisterias
+
+Roots of the Hollow Yew
+
+Commune with Marisyn
+
+Shackleghast
+
+Elythi Custodian
+
+Fractured Orrery
+
+Sacred Statuary
+
+Winsome Expanse
+
+Fated War
+
+Angel
+
+Dragon
+
+Wraith
+
+Beast
+
+Spirit
+
+Knight
+
+Omen
+
+Treasure
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Marisyni Phalanx added.
