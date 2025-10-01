@@ -3,109 +3,127 @@
         "card_name": "Saskia's Cealish Clans",
         "number": 2,
         "shape": "token",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Saskia, Battlesworn Survivor",
         "number": 27,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Hillback Ollipheist",
         "number": 20,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Rallying Strike",
         "number": 17,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Thunderhoof Cavalry",
         "number": 24,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Torrential Kelpie",
         "number": 28,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Cragheart Marauder",
         "number": 13,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Firebrand's Frenzy",
         "number": 15,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Saskia's Firebrand",
         "number": 18,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Benevolent Leprechaun",
         "number": 19,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Sylvan Ranger",
         "number": 23,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Rugged Highlands",
         "number": 30,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Mountain",
         "number": 34,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Forest",
         "number": 35,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Prince of Barrowblades",
         "number": 21,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Reclamation Sage",
         "number": 22,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Defiant Spearthrower",
         "number": 14,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Fobhar's Fury",
         "number": 16,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -132,115 +150,134 @@
         "card_name": "Licia's Aquilan Legions",
         "number": 1,
         "shape": "token",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Licia, Merciless Reaper",
         "number": 25,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Memento Mori",
         "number": 8,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Licia's Lieutenant",
         "number": 7,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Scheming Confidants",
         "number": 10,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Sanguine Senator",
         "number": 26,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Aquilian Ballista",
         "number": 29,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Brazier Officiant",
         "number": 1,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Raise the Alarm",
         "number": 3,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Arena Gladiator",
         "number": 4,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Blood Begets Blood",
         "number": 5,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Bloodguard Legionnaire",
         "number": 6,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Scoured Barrens",
         "number": 31,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Plains",
         "number": 32,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Swamp",
         "number": 33,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Spoils of the Arena",
         "number": 11,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Tormenting Tribune",
         "number": 12,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Purifying Zealot",
         "number": 2,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Relentless March",
         "number": 9,
         "shape": "normal",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -262,31 +299,36 @@
         "card_name": "Treasure",
         "number": 7,
         "shape": "token",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Soldier",
         "number": 3,
         "shape": "token",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Rat",
         "number": 4,
         "shape": "token",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Warrior",
         "number": 5,
         "shape": "token",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "Wurm",
         "number": 6,
         "shape": "token",
-        "set": "GS2"
+        "set": "GS2",
+        "position": ""
     },
     {
         "card_name": "er"

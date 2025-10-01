@@ -3,541 +3,631 @@
         "card_name": "Disciple of the Tiranos",
         "number": 5,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Current Distortionist",
         "number": 21,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Aternox Imparts Humility",
         "number": 38,
         "shape": "saga",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Disciple of the Adishii",
         "number": 60,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Brackish Hydra",
         "number": 74,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Etheria Spreads Faith",
         "number": 7,
         "shape": "saga",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Disciple of the Aequitius",
         "number": 22,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Disciple of the Il-Ergal",
         "number": 41,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Mortar Emissary",
         "number": 65,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Disciple of the Oridian",
         "number": 76,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Luminous Monarch",
         "number": 12,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Snapfly Stalking",
         "number": 32,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Imperious Egoist",
         "number": 45,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Resolute Geomancer",
         "number": 67,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Everwilder Mentor",
         "number": 77,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Radiant Savior",
         "number": 14,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Veritanos Teaches Curiosity",
         "number": 35,
         "shape": "saga",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Quag Prowler",
         "number": 50,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Shrieking Magmaw",
         "number": 68,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Omnifang",
         "number": 80,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Zephyr Legionnaire",
         "number": 18,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Wise Prognosticator",
         "number": 36,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Shaithana",
         "number": 51,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Yadil Exhibits Tenacity",
         "number": 72,
         "shape": "saga",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Vidir Manifests Unity",
         "number": 88,
         "shape": "saga",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Acolyte of Enlightenment",
         "number": 1,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Acolyte of Genius",
         "number": 19,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Acolyte of Agony",
         "number": 37,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Acolyte of Scales",
         "number": 55,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Acolyte of Progress",
         "number": 73,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Angel of Guiding Light",
         "number": 2,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Comprehend",
         "number": 20,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Bloodmarque",
         "number": 39,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Act of Contempt",
         "number": 56,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Cavern Gnasher",
         "number": 75,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Burden of Sacrilege",
         "number": 3,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Drifting Mindwrench",
         "number": 23,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Claim Death's Due",
         "number": 40,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Agate Assault",
         "number": 57,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Expansion's Embrace",
         "number": 78,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Censer Attendee",
         "number": 4,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Eternal Slumber",
         "number": 24,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Ebon Tomb Rattler",
         "number": 42,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Bleakmaul Brawler",
         "number": 58,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Jadescale Yearling",
         "number": 79,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Empyrean Smite",
         "number": 6,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Eye of the Obelisk",
         "number": 25,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Essence Lasher",
         "number": 43,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Covetous Dragon",
         "number": 59,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Scout the Pit",
         "number": 81,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Guardian of Eteris",
         "number": 8,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Fatesower Sphinx",
         "number": 26,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Harvest the Host",
         "number": 44,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Draconic Inferno",
         "number": 61,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Snakeskin Veil",
         "number": 82,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Halcyon Skydancer",
         "number": 9,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Grasp of Praecognos",
         "number": 27,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Indulgent Bloodqueen",
         "number": 46,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Flame Warden's Rites",
         "number": 62,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Streaking Silver",
         "number": 83,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Heartsteel Fledgling",
         "number": 10,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Insidious Haze",
         "number": 28,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Infernum Scraper",
         "number": 47,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Hissing Sunkite",
         "number": 63,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Territorial Hydra",
         "number": 84,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Ivory Forum Duelist",
         "number": 11,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Orian Pass Patrol",
         "number": 29,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Kaelax Herald",
         "number": 48,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Madcap Foray",
         "number": 64,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Thrashing Fangs",
         "number": 85,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Moment of Triumph",
         "number": 13,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Preening Genius",
         "number": 30,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Mindrender Demon",
         "number": 49,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Pyre Adherent",
         "number": 66,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Understory Ruffian",
         "number": 86,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Reverent Sentinel",
         "number": 15,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "See Fault",
         "number": 31,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Sightless Swordsman",
         "number": 52,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Silthion Reaver",
         "number": 69,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Uthrun Devotee",
         "number": 87,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Sunspear Angel",
         "number": 16,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Turn Forward Time",
         "number": 33,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Violate the Pact",
         "number": 53,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Skystep Whelp",
         "number": 70,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Virulent Sniper",
         "number": 89,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Take to the Heavens",
         "number": 17,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Unmaking Whispers",
         "number": 34,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Writhing Shadows",
         "number": 54,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Vehement Seether",
         "number": 71,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Vythos Liege",
         "number": 90,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "er"
@@ -556,61 +646,71 @@
         "card_name": "Cycolith Harmonist",
         "number": 95,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Ebon Tomb Occultist",
         "number": 96,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Edgeland Barbarian",
         "number": 97,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Silversilt Reshaper",
         "number": 108,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Blessed Andi",
         "number": 92,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Fogstalker",
         "number": 98,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Umbral Thaumaturge",
         "number": 109,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Gibbering Flenser",
         "number": 99,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Untethered Brute",
         "number": 110,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Mesa Elemental",
         "number": 102,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "er"
@@ -631,61 +731,71 @@
         "card_name": "Notion Trafficker",
         "number": 104,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Giltweave Mesmer",
         "number": 100,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Patron of the Many-Faced",
         "number": 105,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Intrepid Outrider",
         "number": 101,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Breaching Baleen",
         "number": 94,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Blight-Bone Summoner",
         "number": 93,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Silkwarp Weird",
         "number": 107,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Myrell Naturalist",
         "number": 103,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Scarhorn Cleaver",
         "number": 106,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Azure Augur",
         "number": 91,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "er"
@@ -704,31 +814,36 @@
         "card_name": "Ichor Basin",
         "number": 111,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Masqued Nomad",
         "number": 112,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Overgrown Totem",
         "number": 113,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Shelter Sentry",
         "number": 114,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Steadfash Colossus",
         "number": 115,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "er"
@@ -747,31 +862,36 @@
         "card_name": "Radiant Glade",
         "number": 119,
         "shape": "adventure",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Illustrious Falls",
         "number": 117,
         "shape": "adventure",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Liturgic Grotto",
         "number": 118,
         "shape": "adventure",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Eclipsed Highland",
         "number": 116,
         "shape": "adventure",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "Untrodden Tangle",
         "number": 121,
         "shape": "adventure",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "er"
@@ -792,7 +912,8 @@
         "card_name": "Rambling Path",
         "number": 120,
         "shape": "normal",
-        "set": "ICO"
+        "set": "ICO",
+        "position": ""
     },
     {
         "card_name": "e"

@@ -1,4 +1,716 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Lijing, the Great Partisan
+
+Heping, Grand Pacifist
+rules_text:  => [+1]: Each player may draw a card. For each opponent who does, you gain 4 life.
+[-3]: Exile target nonland permanent. That card's owner may pay {2} as a sorcery to put it into their hand as long as it remains exiled.
+[-8]: Target opponent gets an emblem with “Creatures you control lose all abilities and have base power and toughness 1/1.”
+
+Ing'Wei, Azure Empress
+rules_text:  => Golden age [i](If you cast an instant or sorcery spell, activated a nonmana ability, and attacked this turn, enter a renaissance for this game.)[/i]
+[+1]: Scry 1. If you're in a renaissance, draw a card.
+[-2]: Return target nonland permanent to its owner's hand if its mana value is 3 or less or if you're in a renaissance.
+[-6]: Create two 8/8 blue Kraken creature tokens. If you're in a renaissance, take an extra turn after this one.
+
+Panya, Who Dares to Dream
+
+Lizhao, Last Breath of the Yenzu
+
+Forbidden Shiangshi Arts
+
+Hao'Tai, the Reverent
+
+Entropic Inferno
+
+Qiyan, Great Progenitor
+
+Foster the Future
+rules_text: When Foster the Future enters the battlefield, create a 3/3 red Panda creature token.
+Panda creatures and Mao planeswalkers you control have “[+2]: Target creature you control gains vigilance until end of turn” and “[-4]: Creatures you control get +1/+1 and gain trample until end of turn.” => When Foster the Future enters the battlefield, create a 3/3 red Panda creature token.
+Panda creatures and Mao planeswalkers you control have “[+2] loyalty: Target creature you control gains vigilance until end of turn” and “[-4] loyalty: Creatures you control get +1/+1 and gain trample until end of turn.”
+
+Hang Up Your Lanterns
+
+Wang Xi, Wishes on the Wind
+
+Swiftblade Ren
+
+Gui, the Brinebearer
+
+Zou Meili, Cruel Justice
+rules_text:  => [+1]: Each opponent discards a card. If a land card is discarded this way, create a 1/1 colorless Spirit creature token with flying.
+[-2]: Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.
+[-6]: Each opponent chooses up to one permanent they control of each permanent type, then sacrifices the rest.
+
+Wei Ji, Life's Rhythm
+rules_text:  => [0]: Create a 2/2 green Panda Bear Monk creature token with “When this creature dies, put a loyalty counter on a Ji planeswalker you control.”
+[-2]: Each player sacrifices a nonland permanent. You may return a nonland permanent card from your graveyard to your hand.
+[-6]: You get an emblem with “Whenever a permanent you control dies, you may search you library for a card that shares a type with that permanent and put it onto the battlefield, then shuffle.”
+
+Kiyoko of the Silver Mist
+rules_text:  => [+1]: Create a 1/1 white Warrior creature token. Put a menace counter on it.
+[-2]: Draw a card for each tapped creature you control.
+[-5]: You get an emblem with “Creature cards in your hand have ‘{1}{U}{B}, Return an unblocked attacker you control to its owner's hand: Put this card onto the battlefield tapped and attacking.'”
+
+Seto San, Divine Heroine
+rules_text:  => [+1]: Create three 1/1 white Warrior creature tokens. They gain haste.
+[0]: Until end of turn, each creature and planeswalker you control becomes a 3/3 Warrior creature and gains indestructible.
+[-2]: Choose tapped or untapped. Seto San deals 3 damage to each creature with the chosen attribute.
+
+Autumn Symphony
+
+Ma'Long, the Skystorm
+
+Kiri, Corporeal Conduit
+
+Gao'Wu, Humble Sibyl
+
+Yujei, Zephyr Melodist
+
+Cai Lan, the Puppeteer
+
+Li's Moonblades
+
+Diao of the Opal Infantry
+
+The Great War Ends
+
+Chronicles of the Kitsune
+rules_text:  => [i](Choose only one work as a sorcery to add its ability.)[/i]
+When Chronicles of the Kitsune enters the battlefield, create a 2/1 red and white Fox creature token.
+{2}{W}: [i]Act I: Ascent[/i]
+Creature tokens you control get +1/+1 and have flying.
+{3}{W}{W}: [i]Act II: Descent[/i]
+At the beginning of your end step, if you control no creatures, create Hu Li, a legendary 4/4 white Fox Spirit creature token with flying and lifelink.
+
+Painting Dolls
+
+Yenzu Blood Pact
+
+Ya'Ling, the Rune-Drake
+
+Wun Su, War's Muse
+
+Oshin, Reef Warden
+
+Elder Soothsayer Chian
+
+Ushi Yun, the Curator
+
+Sun Yun, Master of Man
+
+Kan'Gi, High Tactician
+
+Shuilong Technique
+
+Papier-Mâché Marvel
+
+Juyu Offering Pool
+rules_text:  => [i](Choose only one work as a sorcery to add its ability.)[/i]
+When Juyu Offering Pool enters the battlefield, reveal the top five cards of your library. You may put a noncreature card from among them into your hand. Put the rest on the bottom of your library in any order.
+{1}{U}: [i]Scales of Shara[/i]
+Whenever you cast a noncreature spell, put a +1/+1 counter on target creature you control.
+{6}{U}{U}: [i]Eye of Shojiro[/i]
+Whenever you cast a noncreature spell, create an 8/8 blue Kraken creature token.
+
+Lin, the Opportunist
+
+Dance of Dragons
+
+Fang Luo, the Astral Tide
+
+Oshu of the Bosk
+
+Tzelin, Cabal Liturgist
+
+Ha'Eng, Profane Scribe
+
+Kai'Jun, the Eradicator
+
+Kai'Long, the Call of the Dark
+
+Kai'Zhou, the Purifier
+
+Birth of the Yaozu
+
+The Blood Sun Sets
+
+Xie'e Amphitheatre
+rules_text:  => [i](Choose only one work as a sorcery to add its ability.)[/i]
+When Xie'e Amphitheatre enters the battlefield, search your library for a card and exile it face down, then shuffle. You may cast that card on any turn you sacrificed a permanent.
+{B}: [i]Intro: Together[/i]
+At the beginning of your upkeep, you lose 1 life and create a 0/1 black Cultist creature token with “{1}{B}{B}, Sacrifice three Cultists: Create a 5/5 black Demon creature token.”
+{2}{B}: [i]Finale: Alone[/i]
+Whenever a Demon enters the battlefield under your control, each opponent loses life equal to its power and you gain that much life.
+
+Xihuo, the Onyx Flame
+
+Ruchong Awakening
+
+Kai'Oro, Grave Betrayer
+
+The Mythical Zhiwu
+
+Jiu, Daughter of the Sun
+
+Elder General Hatsuo
+
+Mieng of the Pyre Waltz
+
+Tseng, the Shooting Star
+
+Nichang Yuyi
+
+Judgment of Hao'Tai
+
+Dragon Emperor's Chariot
+
+The Art of War
+rules_text:  => [i](Choose only one work as a sorcery to add its ability.)[/i]
+When The Art of War enters the battlefield, if a source you control would deal damage this turn, it deals double that damage instead.
+{2}{R}{R}: [i]Laying Plans[/i]
+The first time you attack each turn, untap each creature you control. After this phase, there is an additional combat phase.
+{2}{R}{R}: [i]Waging War[/i]
+Whenever a creature you control attacks, create a token copy of it that's tapped and attacking, except the token isn't legendary. Exile those tokens at end of combat.
+
+Old Lord Xiusheng
+
+Qulai, Orchard Shepherd
+
+Cheng, Wild Tyrant
+
+Cou Ling of the Lunar Den
+
+Da'Lang, Timberheart
+
+Chiu, Hand of the Pack
+
+Heyu, Depthlurker
+
+Jindao, the World Eye
+
+Xiejuan and Hao Lu
+
+Savage Convergence
+
+Till the Queen's Gardens
+
+Wildlife Sketches
+rules_text:  => [i](Choose only one work as a sorcery to add its ability.)[/i]
+When Wildlife Sketches enters the battlefield, reveal the top five cards of your library. Put a creature card from among them into your hand and the rest on the bottom in any order.
+{1}{G}: [i]Carnation Petals[/i]
+You may cast creature spells as though they had flash.
+{3}{G}: [i]Pecking Order[/i]
+At the beginning of your upkeep, you may sacrifice a creature. If you do, search your library for a creature card with mana value 1 greater than the sacrificed creature's and put it onto the battlefield, then shuffle.
+
+Bai of the Royal Gardens
+
+Shigurei, Vassal of the Depths
+
+Zihao, Song of the Glade
+
+Emperor Dan Te Mogui
+
+Duan's Aeriform Ribbons
+
+The Orange Orchard
+
+Xueyang San
+
+Shrine of Elder Lords
+
+Outcast of the Folded Fan
+
+Fox of a Radiant Meadow
+
+Glorious Wingwright
+
+Fox of a Glistening Glen
+
+Chiseled Familiar
+
+Adept Lieutenant
+
+Red-Crowned Admiral
+
+Heping's Acolyte
+
+Leave the Den
+
+The People's Anthem
+
+Seal the Gateway
+
+Chamber of Penance
+
+Sage of the Jade Baton
+
+Reflecting Pool Drifter
+
+Pon's Apprentice
+
+Nonpareil of the Abyss
+
+Cerulean Sovereign
+
+Hydrolyze
+
+Trawl the Annals
+
+Budding Couturier
+
+Bian Lian Opera
+
+Stand in Opposition
+
+Aftermath of the Surge
+
+Lunar Shachuan
+
+Eaveshoppers
+
+Shifu of Xiangyin Temple
+
+Sable Evangelist
+
+Soul Engulfer
+
+Mercenary of the Folded Fan
+
+Grotesque Defiler
+
+Demon of Hubris
+
+Consign to Old Diyu
+
+Skirmish Scars
+
+Whispers of the Dead
+
+Bandit's Dagger
+
+Yenzu Melodrama
+
+Pup of a Marigold Burrow
+
+Draconic Cinderlance
+
+Fervid Dragonheart
+
+Scholar of the Staff
+
+Keen Redtail
+
+Frisky Denmates
+
+Rapacious Regent
+
+Bonk
+
+Filigree Fan Dance
+
+Stroke of Fortune
+
+Baptism by Fire
+
+For the Court of the Queen
+
+Vassal of the Wild
+
+Spirited Florist
+
+Chaparral Hunter
+
+Verdant Druid
+
+Forerunner of the Briar
+
+Rampaging Xiangshe
+
+Thriving Viper
+
+Spawn of Qiyan
+
+Lu'She Temple Customs
+
+Timberland Hymn
+
+Pack Savagery
+
+Viridian Townships
+
+Gemscale Drake
+
+Those Lost to the Waves
+rules_text:  => [i](Choose only one work as a sorcery to add its ability.)[/i]
+When Those Lost to the Waves enters the battlefield, search your library for an artifact card with mana value 3 or less, reveal it, put it into your hand, then shuffle.
+{1}{W}: [i]Fight the Current[/i]
+Equipped creatures you control get +1/+1.
+{3}{U}: [i]Soul of the Sea[/i]
+At the beginning of combat on your turn, you may have target noncreature artifact become a 3/3 artifact creature until end of turn.
+
+Yenzu Nightblade
+
+Path of the Outsider
+rules_text:  => [i](Choose only one work as a sorcery to add its ability.)[/i]
+When Path of the Outsider enters the battlefield, return target creature to its owner's hand, then each opponent sacrifices a creature.
+{2}{U}: [i]Evanescence[/i]
+{0}: Target creature phases out. Activate only during your turn and only once each turn.
+{2}{B}: [i]Anguish[/i]
+Whenever a creature attacks you, it gets -1/-1 until end of turn.
+
+Blackblood Feaster
+
+Altar of Twisted Piety
+rules_text:  => [i](Choose only one work as a sorcery to add its ability.)[/i]
+When Altar of Twisted Piety enters the battlefield, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+{2}{B}: [i]Shadows Bind Us[/i]
+{B}, Sacrifice three creatures: Create a 5/5 black Demon creature token. Put your choice of a flying counter or a lifelink counter on it. It can't block this turn.
+{2}{R}: [i]Hellfire Fills Us[/i]
+{R}, Sacrifice a creature: Altar of Twisted Piety deals 2 damage to any target.
+
+Wilderkin Zealot
+
+Celebrations of Ferocity
+rules_text:  => [i](Choose only one work as a sorcery to add its ability.)[/i]
+When Celebrations of Ferocity enters the battlefield, add {R}{G}. Spend this mana only to cast creature spells.
+{4}{R}{R}: [i]Hao'Tai's Wake[/i]
+At the beginning of combat on your turn, target creature you control becomes a 4/4 red Dragon with flying until end of turn.
+{1}{G}: [i]Portrait of Qiyan[/i]
+Creatures you control enter the battlefield with an additional +1/+1 counter on them.
+
+Ascetic of the Folded Fan
+
+Kanghyae Forum
+rules_text:  => [i](Choose only one work as a sorcery to add its ability.)[/i]
+When Kanghyae Forum enters the battlefield, you may return another permanent you control to its owner's hand. If you don't, draw a card.
+{2}{G}: [i]A Common Good[/i]
+If an effect would create one or more tokens under your control, it creates that many of those tokens plus one instead.
+{2}{W}: [i]Rebuilding Trust[/i]
+If an effect would put one or more counters on a permanent you control, it puts that many of those counters plus one on that permanent instead.
+
+Imperious Aristocrat
+
+Memorial Plaza
+rules_text:  => [i](Choose only one work as a sorcery to add its ability.)[/i]
+When Memorial Plaza enters the battlefield, create two 1/1 colorless Spirit creature tokens with flying.
+{2}{W}: [i]The Warrior[/i]
+At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.
+{1}{B}: [i]Rhapsody in Black[/i]
+At the beginning of your end step, you may sacrifice a creature. If you do, draw a card.
+
+Song of Wind and Fire
+
+The Royal Vignettes
+rules_text:  => [i](Choose only one work as a sorcery to add its ability.)[/i]
+When The Royal Vignettes enters the battlefield, exile target instant or sorcery card from your graveyard. Until your next turn, you may cast that card.
+{1}{U}: [i]Ju, the Artisan[/i]
+Whenever you cast an instant spell, draw a card, then discard a card.
+{1}{R}: [i]Lan, the Poet[/i]
+Whenever you cast a sorcery spell, create a 1/1 red Bard creature token.
+
+Mire Sculptor
+
+Fables of the Ill-Fated
+rules_text:  => [i](Choose only one work as a sorcery to add its ability.)[/i]
+When Fables of the Ill-Fated enters the battlefield, destroy target nonland permanent.
+{B}: [i]The Witch's Temple[/i]
+Whenever a nonland permanent you control dies, each opponent loses 1 life.
+{3}{G}: [i]Enter the Nest[/i]
+{3}{G}, Sacrifice two lands: Create a 0/0 green Wurm creature token with “This creature gets +1/+1 for each permanent card in your graveyard.” Activate only as a sorcery.
+
+Fox of a Brisk Autumn
+
+Seto's Private Collection
+rules_text:  => [i](Choose only one work as a sorcery to add its ability.)[/i]
+When Seto's Private Collection enters the battlefield, creatures you control get +2/+1 until end of turn. 
+{1}{R}: [i]Bloodline[/i]
+Attacking creatures you control have first strike.
+{2}{W}: [i]Hope's Savior[/i]
+Attacking creatures you control have lifelink.
+
+Lady of the Nymphaeas
+
+Peacetime Murals
+rules_text:  => [i](Choose only one work as a sorcery to add its ability.)[/i]
+When Peacetime Murals enters the battlefield, draw three cards and you gain 3 life.
+{2}{G}: [i]Grow as Two[/i]
+Whenever you activate an ability of a creature you control, create a token that's a copy of that creature except it isn't legendary. This ability triggers only once each turn.
+{2}{U}: [i]A Better Mankind[/i]
+Whenever a creature enters the battlefield under your control, you may activate one of its abilities without paying its costs. This ability triggers only once each turn.
+
+Effigy of Ivory Fire
+
+Dignitary's Rickshaw
+
+Festival Centrum
+
+Pious Flutist
+
+Roadside Performer
+
+Fox of a New Era
+
+Sponsor of the Folded Fan
+
+Ornate Legionnaire
+
+Guzheng Instructor
+
+Apogee Cranes
+
+Fox of an Amber Dawn
+
+Apostle of the Elders
+
+Russet Denmother
+
+Lunar Flock
+
+Festival Celebrants
+
+Aerie Aria
+
+Armament Exhibition
+
+Sword Dance
+
+Tale of Tranquility
+
+Walk the Ancestral Path
+
+Sheersilk Robes
+
+Pacifism
+
+Lamplight Tender
+
+Erratic Visionary
+
+Parasol Twirler
+
+Scribe of the Sky Scrolls
+
+Festival Decorator
+
+Horizon Glider
+
+Kaleidoscale Drake
+
+Dewdrop Oracle
+
+Wealth of the Flood
+
+Prince Crab
+
+Air of Vernal Tidings
+
+Harmony of Blossoms
+
+Ing'Wei's Admonition
+
+Dare to Dream
+
+Abandon the Past
+
+Ballad of the Forgotten
+
+Read the Tides
+
+Yenzu Puppeteering
+
+Rest and Relaxation
+
+Tree of Tragedies
+
+Lizhao's Soulblade
+
+Yenzu Disciple
+
+Serum Peddler
+
+Gilded Sell-Sword
+
+Arrogant Orator
+
+Scar Tattooist
+
+Theatre of Cruelty
+
+Restless Oppressor
+
+Trophy Collector
+
+Bearer of Vile Incense
+
+Spear Flourish
+
+Grim Bounty
+
+Traveler's Trial
+
+Dirge of the Damned
+
+Nightblade Umbra
+
+Visit from Aunti
+
+Sanguine Muralist
+
+Scatter Memories as Ashes
+
+Herald of the Dragon Army
+
+Char Brewer
+
+Dazzling Duelist
+
+Fox of the River Run
+
+Jeering Kit
+
+Flame Juggler
+
+Fox of the Juniper Vale
+
+Scourge of the Sun
+
+Warlord of Wun Su
+
+One Last Dance
+
+Kuoshu Martial Arts
+
+Scorching Dragonfire
+
+Ode to the Red Wind
+
+Vulpine Verse
+
+Burning of Xiangyin Temple
+
+Slapdash Matrimony
+
+Expedite
+
+Violent Devotion
+
+Ceremonial Jian
+
+Edgeland Savant
+
+Crooning Eulogist
+
+Harmonic Recruit
+
+Mischievous Maolu
+
+Gashing Panther
+
+Cohorts of the Grove
+
+Vinehorn Stag
+
+Descendant of Shimaru
+
+Bastion Ranger
+
+Suitor of the Glade
+
+Mighty Xioshu
+
+Exquisite Slash
+
+Chords of Conflict
+
+Herbal Remedy
+
+Called Shot
+
+Journeying Packmaster
+
+Adventurous Impulse
+
+Jadeplate Armor
+
+Hero's Journey
+
+Yenzu Ritual Vessel
+
+Processional Junk
+
+Ornamental Longbow
+
+Prophetic Prismite
+
+Warped Landscape
+
+Tranquil Cove
+
+Dismal Backwater
+
+Bloodfell Caves
+
+Rugged Highlands
+
+Blossoming Sands
+
+Scoured Barrens
+
+Jungle Hollow
+
+Thornwood Falls
+
+Swiftwater Cliffs
+
+Wind-Scarred Crag
+
+Warrior
+
+Bird
+
+Hu Li
+
+Drake
+
+Kraken
+
+Cultist
+
+Demon
+
+Bard
+
+Panda
+
+Dragon
+
+Hydra
+
+Wurm
+
+Plant
+
+Panda Bear Monk
+
+Beast
+
+Shimaru, the Unfading
+
+Fox
+
+Spirit
+
+Treasure
+
+Idol
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
