@@ -56,6 +56,11 @@
             "formats": ""
         },
         {
+            "set_code": "MRV",
+            "set_name": "Marvel Comics: The Cosmic Cube",
+            "formats": ""
+        },
+        {
             "set_code": "NJB",
             "set_name": "Nangjiao in Bloom",
             "formats": "standard"

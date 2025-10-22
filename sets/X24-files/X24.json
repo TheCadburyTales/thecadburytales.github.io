@@ -4,6 +4,7 @@
     "trimmed": "y",
     "image_type": "png",
     "draft_structure": "none",
+    "unpreviewed": "card back",
     "cards": [
         {
             "card_name": "Humble Harvester",
@@ -21,6 +22,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Darko Stojanovic",
+            "alias": "",
             "notes": "!moxtober\n\nhttps://www.artstation.com/artwork/gJ28Xm\n\n!group moxtober\n!sort 18"
         },
         {
@@ -39,6 +41,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Carl Whitfield",
+            "alias": "",
             "notes": "https://www.baronfineart.co.uk/paintings/field-mouse-conkers/\n\n!moxtober\n\n!group moxtober\n!sort 12"
         },
         {
@@ -57,6 +60,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Jakub Jagoda",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/elzkzP\n\n!moxtober\n\n!group moxtober\n!sort 08"
         },
         {
@@ -67,7 +71,7 @@
             "number": 10,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "",
+            "rules_text": "[+2]: Up to one target creature gets +2/+0 and gains deathtouch until end of turn.\n[-1]: Create a 1/1 black Zombie Cat creature token with \u201cWhen this creature dies, target opponent discards a card at random.\u201d\n[-6]: You get an emblem with \u201cAt the beginning of your end step, sacrifice a non-Demon creature. If you do, create a 4/4 black Demon creature token with menace.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+2]: Up to one target creature gets +2/+0 and gains deathtouch until end of turn.\n[-1]: Create a 1/1 black Zombie Cat creature token with \u201cWhen this creature dies, target opponent discards a card at random.\u201d\n[-6]: You get an emblem with \u201cAt the beginning of your end step, sacrifice a non-Demon creature. If you do, create a 4/4 black Demon creature token with menace.\u201d",
@@ -75,6 +79,7 @@
             "set": "X24",
             "loyalty": "2",
             "artist": "Maxime Minard (edited)",
+            "alias": "",
             "notes": "https://www.deviantart.com/istrandar/art/Immortal-888816542\n\n!moxtober\n\n!group moxtober\n!sort 11"
         },
         {
@@ -93,6 +98,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Anato Finnstark",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/wJGlBY\n\nmoxtober\n\n!group moxtober\n!sort 10"
         },
         {
@@ -111,6 +117,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Maciej Laszkiewicz",
+            "alias": "",
             "notes": "!moxtober\n\n!group moxtober\n!sort 06"
         },
         {
@@ -129,6 +136,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Gun Gunawan",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/LN2AA\n\n!moxtober\n\n!group moxtober\n!sort 17"
         },
         {
@@ -147,6 +155,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Lea Faske (LeafArt)",
+            "alias": "",
             "notes": "!moxtober\n\n!group moxtober\n!sort 03"
         },
         {
@@ -165,6 +174,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Alexander Mokhov",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/XBk5lR\n\n!moxtober\n\n!group moxtober\n!sort 15"
         },
         {
@@ -177,12 +187,13 @@
             "cost": "{1}{R}",
             "rules_text": "Whenever this creature attacks, discard a card, then draw a card. If you discarded an instant or sorcery card this way, create a 1/1 red Elemental creature token that's tapped and attacking.",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "2/3",
             "special_text": "",
             "shape": "normal",
             "set": "X24",
             "loyalty": "",
             "artist": "Marco Wulfr",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/9N5wdq?collection_id=1401974\n\n!moxtober\n\n!group moxtober\n!sort 19"
         },
         {
@@ -201,6 +212,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Artem Chebokha",
+            "alias": "",
             "notes": "!moxtober\n\n!group moxtober\n!sort 09"
         },
         {
@@ -219,6 +231,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Samdara Tang",
+            "alias": "",
             "notes": "!moxtober Alpha\n\nhttps://www.deviantart.com/sandara/art/Alectorfencer-s-Plant-Spirit-456713372\n\n!group moxtober\n!sort 01"
         },
         {
@@ -237,6 +250,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Ryan Barger",
+            "alias": "",
             "notes": "!moxtober Alpha\n\n!group moxtober\n!sort 02"
         },
         {
@@ -254,7 +268,8 @@
             "shape": "normal",
             "set": "X24",
             "loyalty": "",
-            "artist": "Daniel Kamarudin",
+            "artist": "Jennifer Wuestling",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Qak6B\n\n!moxtober\n\n!group moxtober\n!sort 16"
         },
         {
@@ -273,6 +288,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Heonhwa Choe",
+            "alias": "",
             "notes": "!moxtober\n\n!group moxtober\n!sort 13"
         },
         {
@@ -291,6 +307,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Anna Christenson",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/dOPEN3\n\n!moxtober\n\n!group moxtober\n!sort 05"
         },
         {
@@ -309,6 +326,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Chz Illustrations",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/4b93An\n\n!moxtober\n\n!group moxtober\n!sort 20"
         },
         {
@@ -327,6 +345,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Ona Kristensen",
+            "alias": "",
             "notes": "https://www.deviantart.com/angevere/art/Mirror-697941639\n\n!moxtober\n\n!group moxtober\n!sort 04"
         },
         {
@@ -345,6 +364,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Sandara Tang",
+            "alias": "",
             "notes": "!moxtober\n\n!group moxtober\n!sort 14"
         },
         {
@@ -363,6 +383,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Sylar113, DeviantArt",
+            "alias": "",
             "notes": "https://www.deviantart.com/sylar113/art/Speedpaint-52-517384500\n\n!moxtober\n\n!group moxtober\n!sort 07"
         },
         {
@@ -381,6 +402,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Guymick Cormic",
+            "alias": "",
             "notes": "https://www.pinterest.com/pin/30610472460696501/\n\n!moxtober"
         },
         {
@@ -399,6 +421,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Cloud Quinot",
+            "alias": "",
             "notes": "https://www.deviantart.com/darkcloud013/art/Black-Cat-301677680\n\n!moxtober"
         },
         {
@@ -417,6 +440,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Geoffrey Amesse",
+            "alias": "",
             "notes": "!related Timeworn Woodsman\n\nhttps://www.artstation.com/artwork/r9ky5m\n\n!moxtober"
         },
         {
@@ -435,6 +459,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Pauline Voss",
+            "alias": "",
             "notes": "https://www.art.com/products/p59513591665-sa-i12774101/lantern-press-cornucopia-thanksgiving-oil-painting-lantern-press-artwork.htm?epik=dj0yJnU9a18zbVhwbmFJR3FpamYtbmlxcFEydjFxYjdVLTN5U0YmcD0wJm49ZS1GUWlmVm00Z0Z6dDhJTUwzTFJqQSZ0PUFBQUFBR2NXdXFz\n\n!moxtober\n\nhttps://www.artstation.com/artwork/wn1YX"
         },
         {
@@ -453,6 +478,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Kevin Glint",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/B15DNk\n\n!designgames\n\n!group moxtober\n!sort 32"
         },
         {
@@ -471,6 +497,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Elena Nedeleva",
+            "alias": "",
             "notes": "!group moxtober\n!sort 25"
         },
         {
@@ -489,6 +516,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Alexander Mokhov",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/anaa8\n\n!group moxtober\n!sort 28"
         },
         {
@@ -507,6 +535,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Serge Tsvelykh",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/5Bn3Yw\n\n!group moxtober\n!sort 21"
         },
         {
@@ -525,6 +554,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "H\u00f6gni Jarleivur Mohr",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/18na8G\n\n!group moxtober\n!sort 22"
         },
         {
@@ -543,6 +573,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Olivia Hintz",
+            "alias": "",
             "notes": "https://www.oliviahintz.com/gaze-of-the-treetops\n\n!group moxtober\n!sort 26"
         },
         {
@@ -553,7 +584,7 @@
             "number": 30,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "Vigilance\nOther Scarecrows you control get +1/+1 and have vigilance.\nWhenever another creature you control dies, create a token that's a copy of it, except it's a 1/1 Scarecrow artifact creature in addition to its other types.",
+            "rules_text": "Vigilance\nOther Scarecrows you control get +1/+1 and have vigilance.\nWhenever another nontoken creature you control dies, create a token that's a copy of it, except it's a 1/1 Scarecrow artifact creature in addition to its other types.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -561,6 +592,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Anna Gotsyaka",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/EL1Z18\n\n!group moxtober\n!sort 23"
         },
         {
@@ -579,6 +611,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Anna Podedworna",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/XBvG0Y"
         },
         {
@@ -597,6 +630,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Valera Lutfullina",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3oay1o\n\n!group moxtober\n!sort 29"
         },
         {
@@ -615,6 +649,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Conor Burke",
+            "alias": "",
             "notes": ""
         },
         {
@@ -633,6 +668,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Jaan van Eeden",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/L2nYBv"
         },
         {
@@ -651,6 +687,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Marthe Jonkers",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/LJxw"
         },
         {
@@ -669,6 +706,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Mike Pape",
+            "alias": "",
             "notes": ""
         },
         {
@@ -687,6 +725,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Anato Finnstark",
+            "alias": "",
             "notes": "!group moxtober\n!sort 27"
         },
         {
@@ -705,6 +744,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Sebastian Szmyd",
+            "alias": "",
             "notes": "!group moxtober\n!sort 24"
         },
         {
@@ -723,6 +763,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Victor Garcia",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3dAYBB\n\n!group moxtober\n!sort 30"
         },
         {
@@ -741,6 +782,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Larry Beckstein",
+            "alias": "",
             "notes": "https://www.pinterest.com/pin/30610472460696501/\n\n!moxtober"
         },
         {
@@ -759,6 +801,7 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Maria Karalia",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ELQAzn?collection_id=1660972"
         },
         {
@@ -777,8 +820,9 @@
             "set": "X24",
             "loyalty": "",
             "artist": "Sam Yang",
+            "alias": "",
             "notes": "!group moxtober\n!sort 31"
         }
     ],
-    "version": 1
+    "version": 2
 }

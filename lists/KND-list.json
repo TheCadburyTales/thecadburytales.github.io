@@ -1755,7 +1755,7 @@
     "a->colorless",
     {
         "card_name": "Djitu's Lithified Mantle",
-        "number": 241,
+        "number": 240,
         "shape": "normal",
         "set": "KND",
         "position": "16"
@@ -1775,46 +1775,46 @@
         "position": "17"
     },
     {
-        "card_name": "Clockwork Plaguebearer",
-        "number": 238,
-        "shape": "normal",
-        "set": "KND",
-        "position": "76"
-    },
-    {
         "card_name": "Dust Devil",
-        "number": 243,
+        "number": 242,
         "shape": "normal",
         "set": "KND",
         "position": "82"
     },
     {
         "card_name": "The Exile Queen's Crown",
-        "number": 244,
+        "number": 243,
         "shape": "normal",
         "set": "KND",
         "position": "80"
     },
     {
         "card_name": "Ironhide Processional",
-        "number": 246,
+        "number": 245,
         "shape": "normal",
         "set": "KND",
         "position": "79"
     },
     {
         "card_name": "Kopesh of the Veil",
-        "number": 247,
+        "number": 246,
         "shape": "normal",
         "set": "KND",
         "position": "81"
     },
     {
         "card_name": "Ocular Parasite",
-        "number": 250,
+        "number": 249,
         "shape": "normal",
         "set": "KND",
         "position": "75"
+    },
+    {
+        "card_name": "Silt Shrieker",
+        "number": 254,
+        "shape": "normal",
+        "set": "KND",
+        "position": "76"
     },
     {
         "card_name": "Star of the Sands",
@@ -1832,28 +1832,28 @@
     },
     {
         "card_name": "Directive Replicator",
-        "number": 240,
+        "number": 239,
         "shape": "normal",
         "set": "KND",
         "position": "159"
     },
     {
         "card_name": "Horn of Reflection",
-        "number": 245,
+        "number": 244,
         "shape": "normal",
         "set": "KND",
         "position": "163"
     },
     {
         "card_name": "The Maker's Mask",
-        "number": 248,
+        "number": 247,
         "shape": "normal",
         "set": "KND",
         "position": "162"
     },
     {
         "card_name": "Overseer of the Vast",
-        "number": 251,
+        "number": 250,
         "shape": "normal",
         "set": "KND",
         "position": "161"
@@ -1867,42 +1867,42 @@
     },
     {
         "card_name": "Consecrated Statuary",
-        "number": 239,
+        "number": 238,
         "shape": "normal",
         "set": "KND",
         "position": "257"
     },
     {
         "card_name": "Dune Scrapper",
-        "number": 242,
+        "number": 241,
         "shape": "normal",
         "set": "KND",
         "position": "259"
     },
     {
         "card_name": "Mask of M'Gana",
-        "number": 249,
+        "number": 248,
         "shape": "normal",
         "set": "KND",
         "position": "263"
     },
     {
         "card_name": "Prophetic Prism",
-        "number": 252,
+        "number": 251,
         "shape": "normal",
         "set": "KND",
         "position": "258"
     },
     {
         "card_name": "Sandstone Sentinels",
-        "number": 253,
+        "number": 252,
         "shape": "normal",
         "set": "KND",
         "position": "260"
     },
     {
         "card_name": "Shawl of M'Gana",
-        "number": 254,
+        "number": 253,
         "shape": "normal",
         "set": "KND",
         "position": "264"

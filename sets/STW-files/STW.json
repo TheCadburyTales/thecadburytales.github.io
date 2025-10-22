@@ -4,6 +4,7 @@
     "trimmed": "y",
     "image_type": "png",
     "draft_structure": "none",
+    "unpreviewed": "card back",
     "cards": [
         {
             "card_name": "Island",
@@ -21,6 +22,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Ralph McQuarrie",
+            "alias": "",
             "notes": ""
         },
         {
@@ -39,6 +41,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Ralph McQuarrie",
+            "alias": "",
             "notes": ""
         },
         {
@@ -57,6 +60,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Ralph McQuarrie",
+            "alias": "",
             "notes": ""
         },
         {
@@ -75,6 +79,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Ralph McQuarrie",
+            "alias": "",
             "notes": ""
         },
         {
@@ -93,6 +98,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Ralph McQuarrie",
+            "alias": "",
             "notes": ""
         },
         {
@@ -111,6 +117,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Wizards of the Coast",
+            "alias": "",
             "notes": ""
         },
         {
@@ -129,6 +136,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Alex Kim",
+            "alias": "",
             "notes": ""
         },
         {
@@ -147,6 +155,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Ryan Valle",
+            "alias": "",
             "notes": ""
         },
         {
@@ -165,6 +174,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Ryan Barger",
+            "alias": "",
             "notes": ""
         },
         {
@@ -183,6 +193,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Andrew Olson",
+            "alias": "",
             "notes": ""
         },
         {
@@ -201,6 +212,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Javier Charro",
+            "alias": "",
             "notes": ""
         },
         {
@@ -219,6 +231,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Jacob Atienza",
+            "alias": "",
             "notes": "https://www.deviantart.com/jubjubjedi/art/Admiral-Ackbar-509063930"
         },
         {
@@ -230,13 +243,14 @@
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Look at the top two cards of your library. Put one of them in your hand and the other on the bottom of your library.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cForce is what gives a Jedi his power. It's an energy field created by all living things. It binds the galaxy together\u201d\n\u2015Obi-Wan Kenobi to Luke Skywalker[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "STW",
             "loyalty": "",
             "artist": "Tony Foti",
+            "alias": "",
             "notes": "https://www.deviantart.com/anthonyfoti/art/Star-Wars-TCG-The-Force-is-Strong-403096597"
         },
         {
@@ -255,6 +269,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Javier Charro",
+            "alias": "",
             "notes": "!swtypes"
         },
         {
@@ -273,6 +288,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Rio Sabda",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/blqwg"
         },
         {
@@ -291,6 +307,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Rado Javor",
+            "alias": "",
             "notes": ""
         },
         {
@@ -309,6 +326,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Alexandr Elichev",
+            "alias": "",
             "notes": "https://archive.is/EJWoY"
         },
         {
@@ -327,6 +345,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Ryan Valle",
+            "alias": "",
             "notes": ""
         },
         {
@@ -345,6 +364,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Cristi Balanescu",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/DdAOG"
         },
         {
@@ -363,6 +383,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Christopher Burdett",
+            "alias": "",
             "notes": ""
         },
         {
@@ -381,6 +402,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Kevin Shoemaker",
+            "alias": "",
             "notes": "https://swse.fandom.com/wiki/Womp_Rat_Pack"
         },
         {
@@ -399,6 +421,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Tiziano Baracchi",
+            "alias": "",
             "notes": "https://www.deviantart.com/thaldir/art/Star-Wars-LCG-Flamethrower-505938722"
         },
         {
@@ -417,6 +440,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Christopher Burdett",
+            "alias": "",
             "notes": ""
         },
         {
@@ -435,6 +459,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Anthony Devine",
+            "alias": "",
             "notes": "https://www.deviantart.com/anthonydevine/art/Droids-Activated-467476685"
         },
         {
@@ -446,13 +471,14 @@
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Shoot First deals 3 damage to target creature. If Shoot First is the first spell you've cast this turn, it deals 5 damage to that creature instead.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cMaclunkey!\u201d\n\u2014Greedo, last words[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "STW",
             "loyalty": "",
             "artist": "Jake Murray",
+            "alias": "",
             "notes": "https://www.deviantart.com/thaldir/art/Star-Wars-Han-s-Heavy-Blaster-Pistol-597420098\n\nhttps://www.deviantart.com/jakemurray/art/A-Message-For-Jabba-457225285"
         },
         {
@@ -471,6 +497,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Aurore Folny",
+            "alias": "",
             "notes": ""
         },
         {
@@ -489,6 +516,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Charles Urbach",
+            "alias": "",
             "notes": ""
         },
         {
@@ -507,6 +535,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Fred Rambaud",
+            "alias": "",
             "notes": ""
         },
         {
@@ -525,6 +554,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Jacob Atienza",
+            "alias": "",
             "notes": "this lizard is a COP"
         },
         {
@@ -543,6 +573,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Lucas Troya",
+            "alias": "",
             "notes": "!swtypes\n\n\u201cThe kid ran into something, and it wasn't just the cold.\u201d\n\u2014Han Solo"
         },
         {
@@ -561,6 +592,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
+            "alias": "",
             "notes": "https://www.deviantart.com/manzanedo/art/Onar-Koma-656572377"
         },
         {
@@ -579,6 +611,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Chris Ng",
+            "alias": "",
             "notes": ""
         },
         {
@@ -597,6 +630,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Ryan Barger",
+            "alias": "",
             "notes": ""
         },
         {
@@ -615,6 +649,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Drew Baker",
+            "alias": "",
             "notes": ""
         },
         {
@@ -633,6 +668,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Ryan Valle",
+            "alias": "",
             "notes": ""
         },
         {
@@ -651,6 +687,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Rafal Szlapa",
+            "alias": "",
             "notes": ""
         },
         {
@@ -669,6 +706,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Martin de Diego",
+            "alias": "",
             "notes": ""
         },
         {
@@ -687,6 +725,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Kai Lim",
+            "alias": "",
             "notes": "https://www.deviantart.com/ukitakumuki/art/Black-Guard-138697313"
         },
         {
@@ -705,6 +744,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Ryan Barger",
+            "alias": "",
             "notes": ""
         },
         {
@@ -723,6 +763,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Adam Lane",
+            "alias": "",
             "notes": ""
         },
         {
@@ -741,6 +782,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Kevin Shoemaker",
+            "alias": "",
             "notes": ""
         },
         {
@@ -759,6 +801,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Darren Tan",
+            "alias": "",
             "notes": ""
         },
         {
@@ -777,6 +820,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Kai Lim",
+            "alias": "",
             "notes": "https://www.deviantart.com/ukitakumuki/art/SWGTCG-Boba-Fett-280467180"
         },
         {
@@ -795,6 +839,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Alexandr Elichev",
+            "alias": "",
             "notes": "https://www.deviantart.com/kotnonekot/art/Klaatu-662939763"
         },
         {
@@ -813,6 +858,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Sacha Angel Diener",
+            "alias": "",
             "notes": "https://www.deviantart.com/thefirstangel/art/Star-Wars-Rebel-Intel-Officer-371842608"
         },
         {
@@ -831,6 +877,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Christopher Burdett",
+            "alias": "",
             "notes": ""
         },
         {
@@ -849,6 +896,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Raymond Swanland",
+            "alias": "",
             "notes": "https://raymondswanland.com/star-wars-gallery"
         },
         {
@@ -867,6 +915,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Anthony Devine",
+            "alias": "",
             "notes": ""
         },
         {
@@ -885,6 +934,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "JB Casacop",
+            "alias": "",
             "notes": ""
         },
         {
@@ -903,6 +953,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Ekaterina Burmak",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ePVOP"
         },
         {
@@ -921,6 +972,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Kevin Shoemaker",
+            "alias": "",
             "notes": "https://www.deviantart.com/kaiz0/art/Star-Wars-Galaxies-TCG-Trooper-Assault-361210400\n\n!related Imperial Technician;Flight Commander;Imperial Stormtrooper;Lumbering Dewback;"
         },
         {
@@ -939,6 +991,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Ryan Barger",
+            "alias": "",
             "notes": "!related Rebellion X-Wing;A280 Blaster;"
         },
         {
@@ -957,6 +1010,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Jacob Atienza",
+            "alias": "",
             "notes": "!related Spice Smuggler;"
         },
         {
@@ -975,6 +1029,7 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Tsuneo Sanda",
+            "alias": "",
             "notes": "!related Whispers of Endor;Ewok Firedancers<2>;"
         },
         {
@@ -993,8 +1048,9 @@
             "set": "STW",
             "loyalty": "",
             "artist": "Jacob Atienza",
+            "alias": "",
             "notes": "https://www.deviantart.com/jubjubjedi/art/Bossk-Hound-s-Tooth-expansion-Star-Wars-X-Wing-539931971\n\n!related Territorial Wampa;"
         }
     ],
-    "version": 1
+    "version": 2
 }
