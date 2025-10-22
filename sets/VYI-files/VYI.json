@@ -1,8 +1,8 @@
 ﻿{
     "name": "Valdrasil: Voyage to Infinity",
-    "formats": "fall",
+    "formats": "",
     "trimmed": "y",
-    "image_type": "jpg",
+    "image_type": "png",
     "draft_structure": "play booster",
     "unpreviewed": "empty",
     "image_name": "position",
@@ -346,10 +346,10 @@
             "type": "Legendary Creature \u2014 God",
             "number": 54,
             "color_identity": "U",
-            "cost": "{2}{U}",
-            "rules_text": "Indestructible\nEsmund can't attack or block unless your library has fewer cards in it than half the minimum deck size.\n{T}: You may play target card from your graveyard this turn if it was discarded or put there from your library this turn.",
+            "cost": "{3}{U}",
+            "rules_text": "Indestructible\nEsmund can't attack or block unless your library has fewer cards in it than half the minimum deck size.\nOnce during each of your turns, you may play a card from your graveyard this turn if it was discarded or put there from your library this turn.",
             "flavor_text": "[i][/i]",
-            "pt": "3/5",
+            "pt": "4/6",
             "special_text": "",
             "shape": "modal double faced",
             "set": "VYI",
@@ -388,7 +388,7 @@
             "artist": "Javi Aqueche",
             "alias": "",
             "position": "17",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Kaia, Shard of Abyss",
@@ -397,10 +397,10 @@
             "type": "Legendary Creature \u2014 God",
             "number": 106,
             "color_identity": "B",
-            "cost": "{2}{B}",
-            "rules_text": "Indestructible\nKaia can't attack or block unless an opponent has less than half their starting life total.\n{T}: Target opponent discards a card or sacrifices a nonland permanent. If they can't, they lose the game. Activate only if an opponent lost life this turn. [i](One or more creatures dealing combat damage to a player is one instance of life loss.)[/i]",
+            "cost": "{3}{B}",
+            "rules_text": "Indestructible\nKaia can't attack or block unless an opponent has less than half their starting life total.\nWhenever an opponent loses life for the first time each turn, they discard a card or sacrifice a nonland permanent. If they can't, they lose the game.",
             "flavor_text": "[i][/i]",
-            "pt": "5/3",
+            "pt": "5/5",
             "special_text": "",
             "shape": "modal double faced",
             "set": "VYI",
@@ -412,7 +412,7 @@
             "color2": "",
             "type2": "Land",
             "cost2": "",
-            "rules_text2": "This land enters tapped.\n{T}: Add {B}.\n{1}{B}, {T}: Each opponent loses 3 life unless they discard a card or sacrifices a nonland permanent. Activate only as a sorcery and only if an opponent lost life this turn.",
+            "rules_text2": "This land enters tapped.\n{T}: Add {B}.\n{3}{B}, {T}: Each opponent loses 3 life unless they discard a card or sacrifices a nonland permanent. Activate only as a sorcery and only if an opponent lost life this turn.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -428,10 +428,10 @@
             "type": "Legendary Creature \u2014 God",
             "number": 13,
             "color_identity": "W",
-            "cost": "{1}{W}",
-            "rules_text": "Indestructible\nFriede can't attack or block unless you control ten or more permanents.\n{T}: The next time one or more tokens would be created under your control this turn, you may instead create that many tapped 4/4 white Demigod creature tokens with two stun counters on each of them. [i](Copies of permanent spells entering do not count as creating tokens.)[/i]",
+            "cost": "{4}{W}",
+            "rules_text": "Indestructible\nFriede can't attack or block unless you control ten or more permanents.\nIf one or more tokens would be created under your control this turn, you may instead create that many tapped 4/4 white Demigod creature tokens with two stun counters on each of them. [i](Copies of permanent spells entering do not count as creating tokens.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "4/3",
+            "pt": "6/6",
             "special_text": "",
             "shape": "modal double faced",
             "set": "VYI",
@@ -443,7 +443,7 @@
             "color2": "",
             "type2": "Land",
             "cost2": "",
-            "rules_text2": "This land enters tapped.\n{T}: Add {W}.\n{1}{W}, {T}: Create a token that's a copy of target token you control. Activate only as a sorcery and only if you created a token this turn.",
+            "rules_text2": "This land enters tapped.\n{T}: Add {W}.\n{3}{W}, {T}: Create a token that's a copy of target token you control. Activate only as a sorcery and only if you created a token this turn.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -459,10 +459,10 @@
             "type": "Legendary Creature \u2014 God",
             "number": 163,
             "color_identity": "R",
-            "cost": "{1}{R}",
-            "rules_text": "Indestructible\nVjala can't attack or block unless you've cast or copied three or more spells this turn.\n{T}: You may cast a copy of the instant or sorcery spell you most recently cast this turn. [i](Timing rules still apply.)[/i]",
+            "cost": "{2}{R}",
+            "rules_text": "Indestructible\nVjala can't attack or block unless you've cast or copied three or more spells this turn.\nOnce during each of your turns, you may cast a copy of the instant or sorcery spell you most recently cast this turn. [i](Timing rules still apply.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "3/4",
+            "pt": "4/4",
             "special_text": "",
             "shape": "modal double faced",
             "set": "VYI",
@@ -510,10 +510,10 @@
             "type": "Legendary Creature \u2014 God",
             "number": 186,
             "color_identity": "G",
-            "cost": "{3}{G}",
-            "rules_text": "Indestructible\nInga can't attack or block unless your graveyard has seven or more cards in it.\n{T}, Sacrifice another creature: Search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery and only once each turn.",
+            "cost": "{4}{G}",
+            "rules_text": "Indestructible\nInga can't attack or block unless your graveyard has seven or more cards in it.\nOnce each turn, whenever another creature you control enters, search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle.",
             "flavor_text": "[i][/i]",
-            "pt": "5/5",
+            "pt": "7/5",
             "special_text": "",
             "shape": "modal double faced",
             "set": "VYI",
@@ -525,7 +525,7 @@
             "color2": "",
             "type2": "Land",
             "cost2": "",
-            "rules_text2": "This land enters tapped.\n{T}: Add {G}.\n{1}{G}, {T}: Put two +1/+1 counters on target creature you control if it entered this turn.",
+            "rules_text2": "This land enters tapped.\n{T}: Add {G}.\n{2}{G}, {T}: Put two +1/+1 counters on target creature you control if it entered this turn.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -632,7 +632,7 @@
             "artist": "Egawa Akira",
             "alias": "",
             "position": "27",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Covet Infinity",
@@ -652,7 +652,7 @@
             "artist": "Valeria Sheina",
             "alias": "",
             "position": "28",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Amede, Vessel of Alune",
@@ -672,7 +672,7 @@
             "artist": "JasonTN",
             "alias": "",
             "position": "29",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Sojourner's Gateway",
@@ -763,7 +763,7 @@
             "artist": "Ryan Anelowe",
             "alias": "",
             "position": "33",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Sundeath Maw",
@@ -793,7 +793,7 @@
             "number": 217,
             "color_identity": "UG",
             "cost": "{G}{U}",
-            "rules_text": "When this enchantment enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\n[i]Landfall[/i] \u2014 Whenever a land you control enters, put a crossing counter on this enchantment.\nRemove six crossing counters from this enchantment: Create a 6/6 blue Leviathan creature token with flying.",
+            "rules_text": "When this enchantment enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\n[i]Landfall[/i] \u2014 Whenever a land you control enters, put a crossing counter on this enchantment.\nRemove six crossing counters from this enchantment: Create a 6/6 blue Leviathan creature token with flying. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -803,7 +803,7 @@
             "artist": "Col Price",
             "alias": "",
             "position": "35",
-            "notes": ""
+            "notes": "CHANGE"
         },
         {
             "card_name": "Atmosphere Trawlers",
@@ -893,8 +893,8 @@
             "number": 257,
             "color_identity": "BG",
             "cost": "{BG}{BG}",
-            "rules_text": "Whenever another creature you control dies, put a +1/+1 counter on this creature.\n{3}{B}{G}: This creature becomes a copy of target creature card in your graveyard until end of turn, except it has \u201cWhenever another creature you control dies, put a +1/+1 counter on this creature.\u201d",
-            "flavor_text": "[i][/i]",
+            "rules_text": "Whenever another creature you control dies, put a +1/+1 counter on this creature.",
+            "flavor_text": "[i]Cradled by the vacuum of space and nestled within the corpse, life bloomed.[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "modal double faced",
@@ -914,7 +914,7 @@
             "loyalty2": "",
             "artist2": "Cullen Cole",
             "alias2": "",
-            "notes": ""
+            "notes": "CHANGE"
         },
         {
             "card_name": "Brightheart Serpent",
@@ -945,7 +945,7 @@
             "loyalty2": "",
             "artist2": "Gabriel Yeganyan",
             "alias2": "",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Go Dark",
@@ -1516,7 +1516,7 @@
             "artist": "Gary Chen",
             "alias": "",
             "position": "69",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Zero Gravity Maneuver",
@@ -1656,10 +1656,10 @@
             "type": "Creature \u2014 Human Pilot",
             "number": 197,
             "color_identity": "G",
-            "cost": "{1}{G}",
+            "cost": "{2}{G}",
             "rules_text": "Lands you control enter untapped.\n[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life.",
             "flavor_text": "[i]\u201cCome, little star. It's time for you to bloom.\u201d[/i]",
-            "pt": "1/3",
+            "pt": "2/3",
             "special_text": "",
             "shape": "modal double faced",
             "set": "VYI",
@@ -1678,7 +1678,7 @@
             "loyalty2": "",
             "artist2": "Michal Kv\u00e1c",
             "alias2": "",
-            "notes": ""
+            "notes": "CHANGE"
         },
         {
             "card_name": "Starscape Shift",
@@ -1758,7 +1758,7 @@
             "artist": "Von Milano",
             "alias": "",
             "position": "80",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Living Meteor",
@@ -1838,7 +1838,7 @@
             "artist": "Viq Verglas",
             "alias": "",
             "position": "84",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Companion's Grave",
@@ -1888,7 +1888,7 @@
             "number": 203,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "When this enchantment enters, create a 0/0 green Tentacle creature token, then put a +1/1 counter on each Tentacle you control.\n[i]Landfall[/i] \u2014 Whenever a land you control enters, if your expanse is three or greater, put a +1/+1 counter on target creature you control. [i](Each differently named land you control adds to your expanse.)[/i]",
+            "rules_text": "When this enchantment enters, create a 0/0 green Tentacle creature token, then put a +1/1 counter and a trample counter on each Tentacle you control.\n[i]Landfall[/i] \u2014 Whenever a land you control enters, if your expanse is four or greater, put a +1/+1 counter on target creature you control. [i](Each differently named land you control adds to your expanse.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1898,7 +1898,7 @@
             "artist": "Dan Shayu",
             "alias": "",
             "position": "87",
-            "notes": ""
+            "notes": "CHANGE"
         },
         {
             "card_name": "Eir, Voidtwisted Valkyrie",
@@ -1918,7 +1918,7 @@
             "artist": "Laurien Edon Fichtner",
             "alias": "",
             "position": "88",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Angel",
@@ -2048,10 +2048,10 @@
             "number": 124,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "[+1]: If any player has one or fewer cards in hand, you may pay 1 life. If you do, draw a card. If you don't draw a card this way, each opponent loses 1 life.\n[-2]: Create a black Aura enchantment token named Nulltouched attached to target creature. It has enchant creature and \u201cEnchanted creature gets -2/-2\u201d and \u201cAt the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.\u201d\n[-X]: Draw X cards. Your maximum hand size becomes X. [i](This effects lasts indefinitely.)[/i]",
+            "rules_text": "[+1]: Each opponent loses 1 life. If any player has one or fewer cards in hand, you may pay 1 life. If you do, draw a card.\n[-2]: Create a black Aura enchantment token named Nulltouched attached to target creature. It has enchant creature and \u201cEnchanted creature gets -2/-2\u201d and \u201cAt the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.\u201d\n[-X]: Draw X cards. Your maximum hand size becomes X. [i](This effects lasts indefinitely.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[+1]: If any player has one or fewer cards in hand, you may pay 1 life. If you do, draw a card. If you don't draw a card this way, each opponent loses 1 life.\n[-2]: Create a black Aura enchantment token named Nulltouched attached to target creature. It has enchant creature and \u201cEnchanted creature gets -2/-2\u201d and \u201cAt the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.\u201d\n[-X]: Draw X cards. Your maximum hand size becomes X. [i](This effects lasts indefinitely.)[/i]",
+            "special_text": "[+1]: Each opponent loses 1 life. If any player has one or fewer cards in hand, you may pay 1 life. If you do, draw a card.\n[-2]: Create a black Aura enchantment token named Nulltouched attached to target creature. It has enchant creature and \u201cEnchanted creature gets -2/-2\u201d and \u201cAt the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.\u201d\n[-X]: Draw X cards. Your maximum hand size becomes X. [i](This effects lasts indefinitely.)[/i]",
             "shape": "planeswalker",
             "set": "VYI",
             "loyalty": "3",
@@ -2178,7 +2178,7 @@
             "artist": "Giuliano Brocani",
             "alias": "",
             "position": "101",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Herald of Nothing",
@@ -2198,7 +2198,7 @@
             "artist": "Elias Kiknavelidze",
             "alias": "",
             "position": "102",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Quintessence Division",
@@ -2341,10 +2341,10 @@
             "notes": ""
         },
         {
-            "card_name": "Starwhale Crossing",
+            "card_name": "The Starwhale Crossing",
             "color": "U",
             "rarity": "mythic",
-            "type": "Enchantment",
+            "type": "Legendary Enchantment",
             "number": 72,
             "color_identity": "U",
             "cost": "{4}{U}{U}{U}",
@@ -2992,16 +2992,16 @@
             "notes": ""
         },
         {
-            "card_name": "Pulsar Prophet",
+            "card_name": "Prophet's Birth",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2014 Angel Warlock",
+            "type": "Sorcery",
             "number": 30,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
-            "rules_text": "Flying\nAt the beginning of your end step, if you gained 3 or more life this turn, create a 3/3 white Angel artifact creature token with flying.",
-            "flavor_text": "[i]When angel dies within a singularity, its blessed light is repurposed.[/i]",
-            "pt": "4/4",
+            "rules_text": "Create a 3/3 colorless Angel artifact creature token with flying, then distribute two +1/+1 counters among creatures you control.",
+            "flavor_text": "[i]When an angel dies within a singularity, its blessed light is repurposed.[/i]",
+            "pt": "",
             "special_text": "",
             "shape": "modal double faced",
             "set": "VYI",
@@ -3020,7 +3020,7 @@
             "loyalty2": "",
             "artist2": "Fivizzani Luca",
             "alias2": "",
-            "notes": ""
+            "notes": "CHANGE"
         },
         {
             "card_name": "Desaturate",
@@ -3050,7 +3050,7 @@
             "number": 24,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Create two 1/1 blue Pilot creature tokens.\nOrbit 2\u2014{5}{W} [i]({5}{W}, Exile this card from your hand: Put two charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i]",
+            "rules_text": "Create two 1/1 blue Pilot creature tokens.\nOrbit 2\u2014{4}{W} [i]({4}{W}, Exile this card from your hand: Put two charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3060,7 +3060,7 @@
             "artist": "Felix Bauer Schlichtegroll.",
             "alias": "",
             "position": "144",
-            "notes": "CHANGE"
+            "notes": "Change"
         },
         {
             "card_name": "Call the Infinite Bridge",
@@ -3080,7 +3080,7 @@
             "artist": "Pawel Kozera",
             "alias": "",
             "position": "145",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Leif, Hero of Valdrasil",
@@ -3100,7 +3100,7 @@
             "artist": "Drew Soman",
             "alias": "",
             "position": "146",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Cybertouched Spirit",
@@ -3240,7 +3240,7 @@
             "artist": "Donato Giancola",
             "alias": "",
             "position": "153",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Plains",
@@ -3460,7 +3460,7 @@
             "artist": "George REDreev",
             "alias": "",
             "position": "164",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Starheart Harvest",
@@ -3469,8 +3469,8 @@
             "type": "Enchantment",
             "number": 242,
             "color_identity": "UG",
-            "cost": "{2}{G}{U}",
-            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, untap up to three target lands you control.\nWhenever a Kraken, Leviathan, Octopus, or Serpent creature you control enters, put X +1/+1 counters on it, where X is that creature's power.",
+            "cost": "{3}{G}{U}",
+            "rules_text": "Whenever you tap a land for mana, add one mana of any type that permanent produced.\nWhenever one or more Kraken, Leviathan, Octopus, or Serpent creatures you control attack, untap all lands you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3480,7 +3480,7 @@
             "artist": "Seokin Chung",
             "alias": "",
             "position": "165",
-            "notes": ""
+            "notes": "CHANGE"
         },
         {
             "card_name": "Scrapyard Bargain",
@@ -3529,8 +3529,8 @@
             "type": "Creature \u2014 Lizard Horror",
             "number": 52,
             "color_identity": "U",
-            "cost": "{2}{U}",
-            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, draw a card, then discard a card if this is the first time this ability has resolved this turn.",
+            "cost": "{4}{U}",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, draw a card, then discard a card.\nWhenever you draw a card, put a +1/+1 counter on this creature.",
             "flavor_text": "[i]From chaos came horrors innumerable.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3701,9 +3701,9 @@
             "number": 258,
             "color_identity": "BR",
             "cost": "{1}{BR}{BR}",
-            "rules_text": "When this creature enters, create a Treasure token.\nWhenever you cast a spell, this creature gets +X/+X until end of turn, where X is the number of colors of mana you spent to cast that spell.",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "rules_text": "When this creature enters, create a Treasure token.",
+            "flavor_text": "[i]Under Brandr's captaincy, no ship could pass through nullspace without fear of piracy. [/i]",
+            "pt": "3/2",
             "special_text": "",
             "shape": "modal double faced",
             "set": "VYI",
@@ -3722,7 +3722,7 @@
             "loyalty2": "",
             "artist2": "Jan Rozansk",
             "alias2": "",
-            "notes": ""
+            "notes": "Change"
         },
         {
             "card_name": "The Infinity Bridge",
@@ -3762,7 +3762,7 @@
             "artist": "Dominik Mayer",
             "alias": "",
             "position": "178",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Captain Brandr",
@@ -3853,7 +3853,7 @@
             "loyalty2": "",
             "artist2": "Alex Monge",
             "alias2": "",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "The Dead of Space",
@@ -3913,7 +3913,7 @@
             "artist": "oleg kuzmin",
             "alias": "",
             "position": "185",
-            "notes": "CHANGE pending"
+            "notes": ""
         },
         {
             "card_name": "Dunebreaker Wurm",
@@ -3944,7 +3944,7 @@
             "loyalty2": "",
             "artist2": "Alexander Winkler",
             "alias2": "",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Three Thousand Years Later",
@@ -4024,7 +4024,7 @@
             "artist": "Palamarchuk Mikhail",
             "alias": "",
             "position": "190",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Viridar Yearling",
@@ -4394,7 +4394,7 @@
             "number": 240,
             "color_identity": "WG",
             "cost": "{G}{W}",
-            "rules_text": "For each permanent you control with with one or more counters on it, create a 0/0 green Tentacle creature token. Then put a +1/+1 counter on each Tentacle you control.\nOrbit 2\u2014{4}{G}{W} [i]({4}{G}{W}, Exile this card from your hand: Put two charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i]",
+            "rules_text": "For each nonland permanent you control with with one or more counters on it, create a 0/0 green Tentacle creature token. Then put a +1/+1 counter on each Tentacle you control.\nOrbit 2\u2014{4}{G}{W} [i]({4}{G}{W}, Exile this card from your hand: Put two charge counters on it. Once during each of your turns, you may cast a copy of this card without paying its mana cost by removing a charge counter from it. Orbit only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4404,7 +4404,7 @@
             "artist": "Jared Krichevsky",
             "alias": "",
             "position": "209",
-            "notes": ""
+            "notes": "CHANGE"
         },
         {
             "card_name": "Reality Splicer",
@@ -4555,7 +4555,7 @@
             "artist": "Michal Kv\u00e1c",
             "alias": "",
             "position": "216",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Edge of the Universe",
@@ -4615,7 +4615,7 @@
             "artist": "Alexandr Elichev",
             "alias": "",
             "position": "219",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Xrogg, Star's Shadow",
@@ -4755,7 +4755,7 @@
             "artist": "Ivan Skudnev",
             "alias": "",
             "position": "226",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Vallacore Vanguard",
@@ -4795,7 +4795,7 @@
             "artist": "Arseniy Popov",
             "alias": "",
             "position": "228",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Wanderer of the Wastes",
@@ -4835,7 +4835,7 @@
             "artist": "Xiaoyu Wang",
             "alias": "",
             "position": "230",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Rusted Moontrotter",
@@ -4866,7 +4866,7 @@
             "loyalty2": "",
             "artist2": "Raphael Lacoste",
             "alias2": "",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Onemind, Eye of Discovery",
@@ -4906,7 +4906,7 @@
             "artist": "Jeff Jumper",
             "alias": "",
             "position": "233",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Demigod",
@@ -4966,7 +4966,7 @@
             "artist": "Szab\u00f3 Bendeg\u00faz",
             "alias": "",
             "position": "236",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Chaos Wyrm",
@@ -4997,7 +4997,7 @@
             "loyalty2": "",
             "artist2": "Chris Voy",
             "alias2": "",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Into the Unknown",
@@ -5037,7 +5037,7 @@
             "artist": "The NRG",
             "alias": "",
             "position": "239",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Strange Avian",
@@ -5077,7 +5077,7 @@
             "artist": "Viko Menezes",
             "alias": "",
             "position": "241",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Reality Dissolution",
@@ -5107,7 +5107,7 @@
             "number": 14,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Whenever you create one or more tokens, create a 1/1 blue Pilot creature token. This ability triggers only once each turn.\n{1}{W}, Sacrifice this creature: Tokens you control gains indestructible until end of turn.",
+            "rules_text": "Whenever a token you control enters, create a 1/1 blue Pilot creature token. This ability triggers only once each turn.\n{1}{W}, Sacrifice this creature: Tokens you control gains indestructible until end of turn.",
             "flavor_text": "[i]\u201cI shall draw chaos within me wherever it may be found, so that I suffer and not others.\u201d[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -5248,7 +5248,7 @@
             "artist": "Andrea Piparo",
             "alias": "",
             "position": "249",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Upload Capsule",
@@ -5268,7 +5268,7 @@
             "artist": "Grossic Guo",
             "alias": "",
             "position": "250",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "IGF Enforcer",
@@ -5459,7 +5459,7 @@
             "loyalty2": "",
             "artist2": "Florent Llamas",
             "alias2": "",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Elevated by the Gods",
@@ -5561,7 +5561,7 @@
             "loyalty2": "",
             "artist2": "Li",
             "alias2": "",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Signe, the First Maiden",
@@ -5641,7 +5641,7 @@
             "artist": "Jack Zhou",
             "alias": "",
             "position": "267",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Faraway Worlds Await",
@@ -5931,10 +5931,10 @@
             "number": 241,
             "color_identity": "WU",
             "cost": "{3}{W}{U}",
-            "rules_text": "[+1]: Exile up to one target creature you own. Put two charge counters on it. It gains orbit. [i](Once during each of your turns, you may cast a copy of that card without paying its mana cost by removing a charge counter from it.)[/i]\n[0]: Whenever you cast a spell this turn, you draw a card and gain 1 life.\n[-3]: Exile target creature you don't own.",
+            "rules_text": "[+1]: Exile up to one target nontoken creature you own. Put two charge counters on it. It gains orbit. [i](Once during each of your turns, you may cast a copy of that card without paying its mana cost by removing a charge counter from it.)[/i]\n[0]: You gain 1 life and draw a card for each spell you cast this turn.\n[-3]: Exile target creature you don't own.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[+1]: Exile up to one target creature you own. Put two charge counters on it. It gains orbit. [i](Once during each of your turns, you may cast a copy of that card without paying its mana cost by removing a charge counter from it.)[/i]\n[0]: Whenever you cast a spell this turn, you draw a card and gain 1 life.\n[-3]: Exile target creature you don't own.",
+            "special_text": "[+1]: Exile up to one target nontoken creature you own. Put two charge counters on it. It gains orbit. [i](Once during each of your turns, you may cast a copy of that card without paying its mana cost by removing a charge counter from it.)[/i]\n[0]: You gain 1 life and draw a card for each spell you cast this turn.\n[-3]: Exile target creature you don't own.",
             "shape": "planeswalker",
             "set": "VYI",
             "loyalty": "4",
@@ -6281,7 +6281,7 @@
             "artist": "Vitaliy Ostaschenko",
             "alias": "",
             "position": "299",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Chronicler's Probe",
@@ -6301,7 +6301,7 @@
             "artist": "Johannes Mucke",
             "alias": "",
             "position": "300",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Drakkonfell, First Starkarve",
@@ -6321,7 +6321,7 @@
             "artist": "Laura Geran",
             "alias": "",
             "position": "301",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Hive Sporespreader",
@@ -6401,7 +6401,7 @@
             "artist": "Christina P. Myrvold",
             "alias": "",
             "position": "305",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "The Astral Basilica",
@@ -6441,7 +6441,7 @@
             "artist": "Dmitrii Ustinov",
             "alias": "",
             "position": "307",
-            "notes": "CHANGE"
+            "notes": ""
         },
         {
             "card_name": "Zombie",
@@ -6724,5 +6724,5 @@
             "notes": ""
         }
     ],
-    "version": 25
+    "version": 27
 }

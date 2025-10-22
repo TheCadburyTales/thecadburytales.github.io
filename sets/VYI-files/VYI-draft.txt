@@ -7,7 +7,7 @@
 			"type": "Artifact Creature — Dragon Berserker",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/0.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/0.png"
 			}
 		},
 		{
@@ -20,11 +20,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/1_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/1_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/1_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/1_front.png"
 			}
 		},
 		{
@@ -34,7 +34,7 @@
 			"type": "Creature — Avatar Knight",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/2.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/2.png"
 			}
 		},
 		{
@@ -44,7 +44,7 @@
 			"type": "Artifact Creature — Cyborg Berserker",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/3.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/3.png"
 			}
 		},
 		{
@@ -54,7 +54,7 @@
 			"type": "Creature — Human Berserker",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/4.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/4.png"
 			}
 		},
 		{
@@ -64,7 +64,7 @@
 			"type": "Creature — Human Berserker",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/5.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/5.png"
 			}
 		},
 		{
@@ -74,7 +74,7 @@
 			"type": "Instant",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/6.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/6.png"
 			}
 		},
 		{
@@ -84,7 +84,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/7.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/7.png"
 			}
 		},
 		{
@@ -94,7 +94,7 @@
 			"type": "Land",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/8.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/8.png"
 			}
 		},
 		{
@@ -104,7 +104,7 @@
 			"type": "Artifact",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/9.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/9.png"
 			}
 		},
 		{
@@ -114,7 +114,7 @@
 			"type": "Creature — Avatar Scout",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/10.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/10.png"
 			}
 		},
 		{
@@ -124,7 +124,7 @@
 			"type": "Enchantment",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/11.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/11.png"
 			}
 		},
 		{
@@ -134,7 +134,7 @@
 			"type": "Creature — Human Berserker",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/12.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/12.png"
 			}
 		},
 		{
@@ -144,7 +144,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/13.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/13.png"
 			}
 		},
 		{
@@ -154,7 +154,7 @@
 			"type": "Sorcery",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/14.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/14.png"
 			}
 		},
 		{
@@ -164,24 +164,24 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/15.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/15.png"
 			}
 		},
 		{
 			"name": "Esmund, Shard of Nebula",
 			"rarity": "mythic",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — God",
 			"collector_number": "54",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/16_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/16_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/16_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/16_front.png"
 			}
 		},
 		{
@@ -191,58 +191,58 @@
 			"type": "ArtifactCreature — Robot Warlock",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/17.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/17.png"
 			}
 		},
 		{
 			"name": "Kaia, Shard of Abyss",
 			"rarity": "mythic",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — God",
 			"collector_number": "106",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/18_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/18_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/18_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/18_front.png"
 			}
 		},
 		{
 			"name": "Friede, Shard of Light",
 			"rarity": "mythic",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{4}{W}",
 			"type": "Legendary Creature — God",
 			"collector_number": "13",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/19_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/19_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/19_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/19_front.png"
 			}
 		},
 		{
 			"name": "Vjala, Shard of Creation",
 			"rarity": "mythic",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — God",
 			"collector_number": "163",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/20_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/20_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/20_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/20_front.png"
 			}
 		},
 		{
@@ -252,24 +252,24 @@
 			"type": "Sorcery",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/21.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/21.png"
 			}
 		},
 		{
 			"name": "Inga, Shard of Genesis",
 			"rarity": "mythic",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{4}{G}",
 			"type": "Legendary Creature — God",
 			"collector_number": "186",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/22_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/22_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/22_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/22_front.png"
 			}
 		},
 		{
@@ -279,7 +279,7 @@
 			"type": "Artifact Creature — Avatar",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/23.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/23.png"
 			}
 		},
 		{
@@ -289,7 +289,7 @@
 			"type": "Enchantment",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/24.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/24.png"
 			}
 		},
 		{
@@ -299,7 +299,7 @@
 			"type": "Artifact Creature — Avatar",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/25.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/25.png"
 			}
 		},
 		{
@@ -309,7 +309,7 @@
 			"type": "Legendary Land",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/26.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/26.png"
 			}
 		},
 		{
@@ -319,7 +319,7 @@
 			"type": "Legendary Planeswalker — Elai",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/27.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/27.png"
 			}
 		},
 		{
@@ -329,7 +329,7 @@
 			"type": "Sorcery",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/28.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/28.png"
 			}
 		},
 		{
@@ -339,7 +339,7 @@
 			"type": "Legendary Planeswalker — Amede",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/29.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/29.png"
 			}
 		},
 		{
@@ -349,7 +349,7 @@
 			"type": "Land",
 			"collector_number": "293",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/30.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/30.png"
 			}
 		},
 		{
@@ -362,11 +362,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/31_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/31_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/31_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/31_front.png"
 			}
 		},
 		{
@@ -376,7 +376,7 @@
 			"type": "Enchantment",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/32.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/32.png"
 			}
 		},
 		{
@@ -386,7 +386,7 @@
 			"type": "Creature — Beast Leviathan",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/33.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/33.png"
 			}
 		},
 		{
@@ -396,7 +396,7 @@
 			"type": "Creature — Kraken Horror",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/34.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/34.png"
 			}
 		},
 		{
@@ -406,7 +406,7 @@
 			"type": "Enchantment",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/35.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/35.png"
 			}
 		},
 		{
@@ -416,7 +416,7 @@
 			"type": "Creature — Leviathan",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/36.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/36.png"
 			}
 		},
 		{
@@ -426,7 +426,7 @@
 			"type": "Creature — Leviathan",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/37.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/37.png"
 			}
 		},
 		{
@@ -436,7 +436,7 @@
 			"type": "Sorcery",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/38.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/38.png"
 			}
 		},
 		{
@@ -446,7 +446,7 @@
 			"type": "Instant",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/39.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/39.png"
 			}
 		},
 		{
@@ -459,11 +459,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/40_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/40_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/40_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/40_front.png"
 			}
 		},
 		{
@@ -476,11 +476,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/41_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/41_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/41_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/41_front.png"
 			}
 		},
 		{
@@ -490,7 +490,7 @@
 			"type": "Sorcery",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/42.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/42.png"
 			}
 		},
 		{
@@ -500,7 +500,7 @@
 			"type": "Sorcery",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/43.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/43.png"
 			}
 		},
 		{
@@ -510,7 +510,7 @@
 			"type": "Creature — Demigod",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/44.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/44.png"
 			}
 		},
 		{
@@ -520,7 +520,7 @@
 			"type": "Sorcery",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/45.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/45.png"
 			}
 		},
 		{
@@ -530,7 +530,7 @@
 			"type": "Sorcery",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/46.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/46.png"
 			}
 		},
 		{
@@ -540,7 +540,7 @@
 			"type": "Token Creature — Tentacle",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/47.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/47.png"
 			}
 		},
 		{
@@ -550,7 +550,7 @@
 			"type": "Enchantment",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/48.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/48.png"
 			}
 		},
 		{
@@ -560,7 +560,7 @@
 			"type": "Creature — Human Pilot",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/49.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/49.png"
 			}
 		},
 		{
@@ -570,7 +570,7 @@
 			"type": "Token Creature — Pilot",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/50.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/50.png"
 			}
 		},
 		{
@@ -580,7 +580,7 @@
 			"type": "Legendary Artifact Creature — Avatar",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/51.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/51.png"
 			}
 		},
 		{
@@ -593,11 +593,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/52_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/52_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/52_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/52_front.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Creature — Demigod",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/53.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/53.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/54.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/54.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/55.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/55.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Creature — Human Pilot",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/56.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/56.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/57.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/57.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Legendary Land",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/58.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/58.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Sorcery",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/59.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/59.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Creature — Insect Citizen",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/60.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/60.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Sorcery",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/61.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/61.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Enchantment",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/62.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/62.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Creature — Insect Warrior",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/63.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/63.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Creature — Human Berserker",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/64.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/64.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Sorcery",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/65.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/65.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Enchantment",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/66.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/66.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Instant",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/67.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/67.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Creature — Yeti Kraken",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/68.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/68.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Artifact Creature — Insect Robot",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/69.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/69.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Sorcery",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/70.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/70.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/71.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/71.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Sorcery",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/72.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/72.png"
 			}
 		},
 		{
@@ -810,11 +810,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/73_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/73_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/73_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/73_front.png"
 			}
 		},
 		{
@@ -824,7 +824,7 @@
 			"type": "Artifact",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/74.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/74.png"
 			}
 		},
 		{
@@ -834,24 +834,24 @@
 			"type": "Artifact Creature — Spider Robot",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/75.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/75.png"
 			}
 		},
 		{
 			"name": "Stardust Explorer",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Pilot",
 			"collector_number": "197",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/76_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/76_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/76_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/76_front.png"
 			}
 		},
 		{
@@ -861,7 +861,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/77.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/77.png"
 			}
 		},
 		{
@@ -871,7 +871,7 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/78.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/78.png"
 			}
 		},
 		{
@@ -881,7 +881,7 @@
 			"type": "Instant",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/79.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/79.png"
 			}
 		},
 		{
@@ -891,7 +891,7 @@
 			"type": "Sorcery",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/80.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/80.png"
 			}
 		},
 		{
@@ -901,7 +901,7 @@
 			"type": "Creature — Phoenix",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/81.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/81.png"
 			}
 		},
 		{
@@ -911,7 +911,7 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/82.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/82.png"
 			}
 		},
 		{
@@ -921,7 +921,7 @@
 			"type": "Artifact Creature — Robot Knight",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/83.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/83.png"
 			}
 		},
 		{
@@ -931,7 +931,7 @@
 			"type": "Instant",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/84.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/84.png"
 			}
 		},
 		{
@@ -941,7 +941,7 @@
 			"type": "Enchantment",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/85.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/85.png"
 			}
 		},
 		{
@@ -951,7 +951,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/86.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/86.png"
 			}
 		},
 		{
@@ -961,7 +961,7 @@
 			"type": "Enchantment",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/87.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/87.png"
 			}
 		},
 		{
@@ -971,7 +971,7 @@
 			"type": "Legendary Creature — Angel Warlock",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/88.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/88.png"
 			}
 		},
 		{
@@ -981,7 +981,7 @@
 			"type": "Token Artifact Creature — Angel",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/89.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/89.png"
 			}
 		},
 		{
@@ -991,7 +991,7 @@
 			"type": "Token Enchantment",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/90.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/90.png"
 			}
 		},
 		{
@@ -1001,7 +1001,7 @@
 			"type": "Legendary Planeswalker — Aeon",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/91.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/91.png"
 			}
 		},
 		{
@@ -1011,7 +1011,7 @@
 			"type": "Enchantment",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/92.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/92.png"
 			}
 		},
 		{
@@ -1021,7 +1021,7 @@
 			"type": "Creature — Viridar Zombie Warlock",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/93.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/93.png"
 			}
 		},
 		{
@@ -1031,7 +1031,7 @@
 			"type": "Sorcery",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/94.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/94.png"
 			}
 		},
 		{
@@ -1041,7 +1041,7 @@
 			"type": "Legendary Planeswalker — Zaender",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/95.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/95.png"
 			}
 		},
 		{
@@ -1051,7 +1051,7 @@
 			"type": "Token Creature — Spirit Elk",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/96.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/96.png"
 			}
 		},
 		{
@@ -1061,7 +1061,7 @@
 			"type": "Instany",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/97.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/97.png"
 			}
 		},
 		{
@@ -1071,7 +1071,7 @@
 			"type": "Creature — Kraken",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/98.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/98.png"
 			}
 		},
 		{
@@ -1081,7 +1081,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/99.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/99.png"
 			}
 		},
 		{
@@ -1091,7 +1091,7 @@
 			"type": "Instant",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/100.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/100.png"
 			}
 		},
 		{
@@ -1101,7 +1101,7 @@
 			"type": "Instant",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/101.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/101.png"
 			}
 		},
 		{
@@ -1111,7 +1111,7 @@
 			"type": "Artifact Creature — Robot Scout",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/102.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/102.png"
 			}
 		},
 		{
@@ -1121,7 +1121,7 @@
 			"type": "Instant",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/103.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/103.png"
 			}
 		},
 		{
@@ -1131,7 +1131,7 @@
 			"type": "Artifact Creature — Avatar",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/104.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/104.png"
 			}
 		},
 		{
@@ -1141,7 +1141,7 @@
 			"type": "Sorcery",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/105.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/105.png"
 			}
 		},
 		{
@@ -1151,7 +1151,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/106.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/106.png"
 			}
 		},
 		{
@@ -1161,7 +1161,7 @@
 			"type": "Creature — Drake",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/107.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/107.png"
 			}
 		},
 		{
@@ -1171,7 +1171,7 @@
 			"type": "Legendary Creature — Demigod",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/108.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/108.png"
 			}
 		},
 		{
@@ -1181,17 +1181,17 @@
 			"type": "Enchantment",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/109.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/109.png"
 			}
 		},
 		{
-			"name": "Starwhale Crossing",
+			"name": "The Starwhale Crossing",
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{U}{U}",
-			"type": "Enchantment",
+			"type": "Legendary Enchantment",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/110.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/110.png"
 			}
 		},
 		{
@@ -1201,7 +1201,7 @@
 			"type": "Token Creature — Berserker",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/111.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/111.png"
 			}
 		},
 		{
@@ -1211,7 +1211,7 @@
 			"type": "Sorcery",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/112.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/112.png"
 			}
 		},
 		{
@@ -1221,7 +1221,7 @@
 			"type": "Artifact Creature — Cyborg Berserker",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/113.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/113.png"
 			}
 		},
 		{
@@ -1231,7 +1231,7 @@
 			"type": "Creature — Human Berserker",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/114.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/114.png"
 			}
 		},
 		{
@@ -1241,7 +1241,7 @@
 			"type": "Creature — Angel Berserker",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/115.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/115.png"
 			}
 		},
 		{
@@ -1251,7 +1251,7 @@
 			"type": "Creature — Fish",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/116.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/116.png"
 			}
 		},
 		{
@@ -1261,7 +1261,7 @@
 			"type": "Creature — Viridar Warlock",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/117.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/117.png"
 			}
 		},
 		{
@@ -1271,7 +1271,7 @@
 			"type": "Creature — Ox Beast",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/118.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/118.png"
 			}
 		},
 		{
@@ -1281,7 +1281,7 @@
 			"type": "Sorcery",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/119.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/119.png"
 			}
 		},
 		{
@@ -1291,7 +1291,7 @@
 			"type": "Enchantment",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/120.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/120.png"
 			}
 		},
 		{
@@ -1301,7 +1301,7 @@
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/121.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/121.png"
 			}
 		},
 		{
@@ -1311,7 +1311,7 @@
 			"type": "Artifact Creature — Vampire Cyborg",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/122.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/122.png"
 			}
 		},
 		{
@@ -1321,7 +1321,7 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/123.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/123.png"
 			}
 		},
 		{
@@ -1331,7 +1331,7 @@
 			"type": "Artifact",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/124.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/124.png"
 			}
 		},
 		{
@@ -1341,7 +1341,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/125.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/125.png"
 			}
 		},
 		{
@@ -1351,7 +1351,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/126.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/126.png"
 			}
 		},
 		{
@@ -1361,7 +1361,7 @@
 			"type": "Creature — Dog",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/127.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/127.png"
 			}
 		},
 		{
@@ -1371,7 +1371,7 @@
 			"type": "Creature — Human Pilot",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/128.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/128.png"
 			}
 		},
 		{
@@ -1381,7 +1381,7 @@
 			"type": "Instant",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/129.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/129.png"
 			}
 		},
 		{
@@ -1391,7 +1391,7 @@
 			"type": "Creature — Viridar Warrior",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/130.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/130.png"
 			}
 		},
 		{
@@ -1401,7 +1401,7 @@
 			"type": "Instant",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/131.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/131.png"
 			}
 		},
 		{
@@ -1414,11 +1414,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/132_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/132_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/132_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/132_front.png"
 			}
 		},
 		{
@@ -1428,7 +1428,7 @@
 			"type": "Creature — Human Pilot",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/133.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/133.png"
 			}
 		},
 		{
@@ -1438,7 +1438,7 @@
 			"type": "Creature — Zombie Pilot",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/134.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/134.png"
 			}
 		},
 		{
@@ -1448,7 +1448,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/135.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/135.png"
 			}
 		},
 		{
@@ -1458,7 +1458,7 @@
 			"type": "Artifact Creature — Cyborg Berserker",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/136.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/136.png"
 			}
 		},
 		{
@@ -1468,7 +1468,7 @@
 			"type": "Creature — Leech",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/137.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/137.png"
 			}
 		},
 		{
@@ -1478,7 +1478,7 @@
 			"type": "Instant",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/138.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/138.png"
 			}
 		},
 		{
@@ -1488,7 +1488,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/139.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/139.png"
 			}
 		},
 		{
@@ -1498,7 +1498,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/140.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/140.png"
 			}
 		},
 		{
@@ -1508,24 +1508,24 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/141.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/141.png"
 			}
 		},
 		{
-			"name": "Pulsar Prophet",
+			"name": "Prophet's Birth",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Artifact Creature — Angel Warlock",
+			"type": "Sorcery",
 			"collector_number": "30",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/142_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/142_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/142_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/142_front.png"
 			}
 		},
 		{
@@ -1535,7 +1535,7 @@
 			"type": "Instant",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/143.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/143.png"
 			}
 		},
 		{
@@ -1545,7 +1545,7 @@
 			"type": "Sorcery",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/144.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/144.png"
 			}
 		},
 		{
@@ -1555,7 +1555,7 @@
 			"type": "Sorcery",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/145.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/145.png"
 			}
 		},
 		{
@@ -1565,7 +1565,7 @@
 			"type": "Legendary Creature — Human Berserker",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/146.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/146.png"
 			}
 		},
 		{
@@ -1575,7 +1575,7 @@
 			"type": "Artifact Creature — Spirit Cyborg",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/147.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/147.png"
 			}
 		},
 		{
@@ -1585,7 +1585,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/148.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/148.png"
 			}
 		},
 		{
@@ -1595,7 +1595,7 @@
 			"type": "Legendary Creature — Viridar Avatar",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/149.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/149.png"
 			}
 		},
 		{
@@ -1605,7 +1605,7 @@
 			"type": "Token Creature — Leviathan",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/150.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/150.png"
 			}
 		},
 		{
@@ -1615,7 +1615,7 @@
 			"type": "Enchantment",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/151.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/151.png"
 			}
 		},
 		{
@@ -1625,7 +1625,7 @@
 			"type": "Sorcery",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/152.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/152.png"
 			}
 		},
 		{
@@ -1635,7 +1635,7 @@
 			"type": "Sorcery",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/153.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/153.png"
 			}
 		},
 		{
@@ -1645,7 +1645,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/154.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/154.png"
 			}
 		},
 		{
@@ -1655,7 +1655,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/155.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/155.png"
 			}
 		},
 		{
@@ -1665,7 +1665,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "297",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/156.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/156.png"
 			}
 		},
 		{
@@ -1675,7 +1675,7 @@
 			"type": "Legendary Creature — Leviathan",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/157.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/157.png"
 			}
 		},
 		{
@@ -1685,7 +1685,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/158.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/158.png"
 			}
 		},
 		{
@@ -1695,7 +1695,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "299",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/159.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/159.png"
 			}
 		},
 		{
@@ -1705,7 +1705,7 @@
 			"type": "Sorcery",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/160.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/160.png"
 			}
 		},
 		{
@@ -1715,7 +1715,7 @@
 			"type": "Sorcery",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/161.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/161.png"
 			}
 		},
 		{
@@ -1725,7 +1725,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/162.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/162.png"
 			}
 		},
 		{
@@ -1735,7 +1735,7 @@
 			"type": "Instant",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/163.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/163.png"
 			}
 		},
 		{
@@ -1745,17 +1745,17 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/164.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/164.png"
 			}
 		},
 		{
 			"name": "Starheart Harvest",
 			"rarity": "rare",
-			"mana_cost": "{2}{G}{U}",
+			"mana_cost": "{3}{G}{U}",
 			"type": "Enchantment",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/165.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/165.png"
 			}
 		},
 		{
@@ -1765,7 +1765,7 @@
 			"type": "Instant",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/166.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/166.png"
 			}
 		},
 		{
@@ -1775,24 +1775,24 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/167.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/167.png"
 			}
 		},
 		{
 			"name": "Domesticated Voidbeast",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{4}{U}",
 			"type": "Creature — Lizard Horror",
 			"collector_number": "52",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/168_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/168_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/168_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/168_front.png"
 			}
 		},
 		{
@@ -1802,7 +1802,7 @@
 			"type": "Creature — Dragon Horror",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/169.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/169.png"
 			}
 		},
 		{
@@ -1812,7 +1812,7 @@
 			"type": "Instant",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/170.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/170.png"
 			}
 		},
 		{
@@ -1822,7 +1822,7 @@
 			"type": "Sorcery",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/171.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/171.png"
 			}
 		},
 		{
@@ -1832,7 +1832,7 @@
 			"type": "Artifact Creature — Robot Scout",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/172.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/172.png"
 			}
 		},
 		{
@@ -1842,7 +1842,7 @@
 			"type": "Artifact Creature — Robot Berserker",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/173.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/173.png"
 			}
 		},
 		{
@@ -1852,7 +1852,7 @@
 			"type": "Legendary Creature — Viridar Warlock",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/174.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/174.png"
 			}
 		},
 		{
@@ -1862,7 +1862,7 @@
 			"type": "Creature — Human Berserker",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/175.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/175.png"
 			}
 		},
 		{
@@ -1875,11 +1875,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/176_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/176_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/176_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/176_front.png"
 			}
 		},
 		{
@@ -1889,7 +1889,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/177.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/177.png"
 			}
 		},
 		{
@@ -1899,7 +1899,7 @@
 			"type": "Sorcery",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/178.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/178.png"
 			}
 		},
 		{
@@ -1909,7 +1909,7 @@
 			"type": "Legendary Artifact Creature — Cyborg Pirate",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/179.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/179.png"
 			}
 		},
 		{
@@ -1919,7 +1919,7 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/180.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/180.png"
 			}
 		},
 		{
@@ -1929,7 +1929,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/181.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/181.png"
 			}
 		},
 		{
@@ -1942,11 +1942,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/182_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/182_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/182_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/182_front.png"
 			}
 		},
 		{
@@ -1956,7 +1956,7 @@
 			"type": "Enchantment",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/183.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/183.png"
 			}
 		},
 		{
@@ -1966,7 +1966,7 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/184.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/184.png"
 			}
 		},
 		{
@@ -1976,7 +1976,7 @@
 			"type": "Enchantment",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/185.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/185.png"
 			}
 		},
 		{
@@ -1989,11 +1989,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/186_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/186_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/186_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/186_front.png"
 			}
 		},
 		{
@@ -2003,7 +2003,7 @@
 			"type": "Sorcery",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/187.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/187.png"
 			}
 		},
 		{
@@ -2013,7 +2013,7 @@
 			"type": "Creature — Plant Horror",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/188.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/188.png"
 			}
 		},
 		{
@@ -2023,7 +2023,7 @@
 			"type": "Creature — Kraken",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/189.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/189.png"
 			}
 		},
 		{
@@ -2033,7 +2033,7 @@
 			"type": "Instant",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/190.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/190.png"
 			}
 		},
 		{
@@ -2043,7 +2043,7 @@
 			"type": "Creature — Viridar Warrior",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/191.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/191.png"
 			}
 		},
 		{
@@ -2053,7 +2053,7 @@
 			"type": "Artifact Creature — Jellyfish Robot",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/192.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/192.png"
 			}
 		},
 		{
@@ -2063,7 +2063,7 @@
 			"type": "Artifact Creature — Robot Samurai",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/193.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/193.png"
 			}
 		},
 		{
@@ -2073,7 +2073,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/194.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/194.png"
 			}
 		},
 		{
@@ -2083,7 +2083,7 @@
 			"type": "Instant",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/195.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/195.png"
 			}
 		},
 		{
@@ -2093,7 +2093,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/196.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/196.png"
 			}
 		},
 		{
@@ -2103,7 +2103,7 @@
 			"type": "Creature — Viridar Warrior",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/197.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/197.png"
 			}
 		},
 		{
@@ -2113,7 +2113,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/198.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/198.png"
 			}
 		},
 		{
@@ -2123,7 +2123,7 @@
 			"type": "Artifact Creature — Dragon",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/199.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/199.png"
 			}
 		},
 		{
@@ -2133,7 +2133,7 @@
 			"type": "Creature — Ape Octopus",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/200.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/200.png"
 			}
 		},
 		{
@@ -2143,7 +2143,7 @@
 			"type": "Creature — Wurm",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/201.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/201.png"
 			}
 		},
 		{
@@ -2153,7 +2153,7 @@
 			"type": "Artifact Creature — Robot Lizard",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/202.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/202.png"
 			}
 		},
 		{
@@ -2163,7 +2163,7 @@
 			"type": "Instant",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/203.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/203.png"
 			}
 		},
 		{
@@ -2173,7 +2173,7 @@
 			"type": "Instant",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/204.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/204.png"
 			}
 		},
 		{
@@ -2183,7 +2183,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/205.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/205.png"
 			}
 		},
 		{
@@ -2193,7 +2193,7 @@
 			"type": "Instant",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/206.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/206.png"
 			}
 		},
 		{
@@ -2203,7 +2203,7 @@
 			"type": "Creature — Jellyfish",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/207.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/207.png"
 			}
 		},
 		{
@@ -2213,7 +2213,7 @@
 			"type": "Instant",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/208.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/208.png"
 			}
 		},
 		{
@@ -2223,7 +2223,7 @@
 			"type": "Sorcery",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/209.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/209.png"
 			}
 		},
 		{
@@ -2233,7 +2233,7 @@
 			"type": "Artifact",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/210.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/210.png"
 			}
 		},
 		{
@@ -2243,7 +2243,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/211.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/211.png"
 			}
 		},
 		{
@@ -2253,7 +2253,7 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/212.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/212.png"
 			}
 		},
 		{
@@ -2263,7 +2263,7 @@
 			"type": "Artifact Creature — Angel",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/213.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/213.png"
 			}
 		},
 		{
@@ -2273,7 +2273,7 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/214.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/214.png"
 			}
 		},
 		{
@@ -2286,11 +2286,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/215_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/215_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/215_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/215_front.png"
 			}
 		},
 		{
@@ -2300,7 +2300,7 @@
 			"type": "Land",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/216.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/216.png"
 			}
 		},
 		{
@@ -2310,7 +2310,7 @@
 			"type": "Land",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/217.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/217.png"
 			}
 		},
 		{
@@ -2320,7 +2320,7 @@
 			"type": "Legendary Creature — Human Berserker",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/218.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/218.png"
 			}
 		},
 		{
@@ -2330,7 +2330,7 @@
 			"type": "Legendary Creature — Viridar Warlock",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/219.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/219.png"
 			}
 		},
 		{
@@ -2340,7 +2340,7 @@
 			"type": "Legendary Creature — Kraken Horror",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/220.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/220.png"
 			}
 		},
 		{
@@ -2350,7 +2350,7 @@
 			"type": "Legendary Creature — Viridar Avatar",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/221.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/221.png"
 			}
 		},
 		{
@@ -2360,7 +2360,7 @@
 			"type": "Artifact",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/222.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/222.png"
 			}
 		},
 		{
@@ -2370,7 +2370,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/223.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/223.png"
 			}
 		},
 		{
@@ -2380,7 +2380,7 @@
 			"type": "Sorcery",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/224.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/224.png"
 			}
 		},
 		{
@@ -2390,7 +2390,7 @@
 			"type": "Sorcery",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/225.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/225.png"
 			}
 		},
 		{
@@ -2400,7 +2400,7 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/226.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/226.png"
 			}
 		},
 		{
@@ -2410,7 +2410,7 @@
 			"type": "Creature — Human Berserker",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/227.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/227.png"
 			}
 		},
 		{
@@ -2420,7 +2420,7 @@
 			"type": "Legendary Artifact Creature — Robot",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/228.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/228.png"
 			}
 		},
 		{
@@ -2430,7 +2430,7 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/229.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/229.png"
 			}
 		},
 		{
@@ -2440,7 +2440,7 @@
 			"type": "Instant",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/230.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/230.png"
 			}
 		},
 		{
@@ -2453,11 +2453,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/231_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/231_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/231_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/231_front.png"
 			}
 		},
 		{
@@ -2467,7 +2467,7 @@
 			"type": "Legendary Artifact Creature — Orb Robot",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/232.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/232.png"
 			}
 		},
 		{
@@ -2477,7 +2477,7 @@
 			"type": "Legendary Creature — Human Pilot",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/233.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/233.png"
 			}
 		},
 		{
@@ -2487,7 +2487,7 @@
 			"type": "Token Creature — Demigod",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/234.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/234.png"
 			}
 		},
 		{
@@ -2497,7 +2497,7 @@
 			"type": "Legendary Creature — Worm Horror",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/235.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/235.png"
 			}
 		},
 		{
@@ -2507,7 +2507,7 @@
 			"type": "Legendary Creature — Angel",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/236.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/236.png"
 			}
 		},
 		{
@@ -2520,11 +2520,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/237_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/237_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/237_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/237_front.png"
 			}
 		},
 		{
@@ -2534,7 +2534,7 @@
 			"type": "Instant",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/238.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/238.png"
 			}
 		},
 		{
@@ -2544,7 +2544,7 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/239.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/239.png"
 			}
 		},
 		{
@@ -2554,7 +2554,7 @@
 			"type": "Creature — Dinosaur Bird Unicorn",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/240.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/240.png"
 			}
 		},
 		{
@@ -2564,7 +2564,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/241.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/241.png"
 			}
 		},
 		{
@@ -2574,7 +2574,7 @@
 			"type": "Sorcery",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/242.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/242.png"
 			}
 		},
 		{
@@ -2584,7 +2584,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/243.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/243.png"
 			}
 		},
 		{
@@ -2594,7 +2594,7 @@
 			"type": "Token Artifact Creature — Robot",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/244.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/244.png"
 			}
 		},
 		{
@@ -2604,7 +2604,7 @@
 			"type": "Creature — Avatar Soldier",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/245.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/245.png"
 			}
 		},
 		{
@@ -2614,7 +2614,7 @@
 			"type": "Creature — Human Pilot",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/246.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/246.png"
 			}
 		},
 		{
@@ -2627,11 +2627,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/247_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/247_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/247_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/247_front.png"
 			}
 		},
 		{
@@ -2641,7 +2641,7 @@
 			"type": "Creature — Human Pilot",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/248.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/248.png"
 			}
 		},
 		{
@@ -2651,7 +2651,7 @@
 			"type": "Artifact Creature — Viridar Cyborg",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/249.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/249.png"
 			}
 		},
 		{
@@ -2661,7 +2661,7 @@
 			"type": "Artifact",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/250.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/250.png"
 			}
 		},
 		{
@@ -2671,7 +2671,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/251.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/251.png"
 			}
 		},
 		{
@@ -2681,7 +2681,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/252.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/252.png"
 			}
 		},
 		{
@@ -2691,7 +2691,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/253.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/253.png"
 			}
 		},
 		{
@@ -2701,7 +2701,7 @@
 			"type": "Creature — Leviathan",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/254.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/254.png"
 			}
 		},
 		{
@@ -2711,7 +2711,7 @@
 			"type": "Legendary Artifact Creature — Cyborg",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/255.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/255.png"
 			}
 		},
 		{
@@ -2721,7 +2721,7 @@
 			"type": "Legendary Creature — Horror",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/256.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/256.png"
 			}
 		},
 		{
@@ -2731,7 +2731,7 @@
 			"type": "Enchantment",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/257.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/257.png"
 			}
 		},
 		{
@@ -2741,7 +2741,7 @@
 			"type": "Artifact Creature — Cyborg Rogue",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/258.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/258.png"
 			}
 		},
 		{
@@ -2754,11 +2754,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/259_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/259_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/259_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/259_front.png"
 			}
 		},
 		{
@@ -2768,7 +2768,7 @@
 			"type": "Enchantment",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/260.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/260.png"
 			}
 		},
 		{
@@ -2781,11 +2781,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/261_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/261_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/261_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/261_front.png"
 			}
 		},
 		{
@@ -2795,7 +2795,7 @@
 			"type": "Sorcery",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/262.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/262.png"
 			}
 		},
 		{
@@ -2808,11 +2808,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/VYI-files/img/263_back.jpg"
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/263_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/263_front.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/263_front.png"
 			}
 		},
 		{
@@ -2822,7 +2822,7 @@
 			"type": "Legendary Creature — Demigod Berserker",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/264.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/264.png"
 			}
 		},
 		{
@@ -2832,7 +2832,7 @@
 			"type": "Enchantment",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/265.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/265.png"
 			}
 		},
 		{
@@ -2842,7 +2842,7 @@
 			"type": "Creature — Vampire",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/266.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/266.png"
 			}
 		},
 		{
@@ -2852,7 +2852,7 @@
 			"type": "Legendary Creature — Human Pilot",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/267.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/267.png"
 			}
 		},
 		{
@@ -2862,7 +2862,7 @@
 			"type": "Enchantment",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/268.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/268.png"
 			}
 		},
 		{
@@ -2872,7 +2872,7 @@
 			"type": "Legendary Creature — Human Berserker",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/269.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/269.png"
 			}
 		},
 		{
@@ -2882,7 +2882,7 @@
 			"type": "Sorcery",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/270.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/270.png"
 			}
 		},
 		{
@@ -2892,7 +2892,7 @@
 			"type": "Sorcery",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/271.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/271.png"
 			}
 		},
 		{
@@ -2902,7 +2902,7 @@
 			"type": "Land",
 			"collector_number": "294",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/272.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/272.png"
 			}
 		},
 		{
@@ -2912,7 +2912,7 @@
 			"type": "Land",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/273.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/273.png"
 			}
 		},
 		{
@@ -2922,7 +2922,7 @@
 			"type": "Land",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/274.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/274.png"
 			}
 		},
 		{
@@ -2932,7 +2932,7 @@
 			"type": "Land",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/275.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/275.png"
 			}
 		},
 		{
@@ -2942,7 +2942,7 @@
 			"type": "Land",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/276.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/276.png"
 			}
 		},
 		{
@@ -2952,7 +2952,7 @@
 			"type": "Land",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/277.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/277.png"
 			}
 		},
 		{
@@ -2962,7 +2962,7 @@
 			"type": "Land",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/278.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/278.png"
 			}
 		},
 		{
@@ -2972,7 +2972,7 @@
 			"type": "Land",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/279.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/279.png"
 			}
 		},
 		{
@@ -2982,7 +2982,7 @@
 			"type": "Land",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/280.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/280.png"
 			}
 		},
 		{
@@ -2992,7 +2992,7 @@
 			"type": "Land",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/281.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/281.png"
 			}
 		},
 		{
@@ -3002,7 +3002,7 @@
 			"type": "Legendary Planeswalker — Xylo",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/282.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/282.png"
 			}
 		},
 		{
@@ -3012,7 +3012,7 @@
 			"type": "Land",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/283.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/283.png"
 			}
 		},
 		{
@@ -3022,7 +3022,7 @@
 			"type": "Legendary Artifact — Spacecraft",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/284.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/284.png"
 			}
 		},
 		{
@@ -3032,7 +3032,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/285.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/285.png"
 			}
 		},
 		{
@@ -3042,7 +3042,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/286.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/286.png"
 			}
 		},
 		{
@@ -3052,7 +3052,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/287.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/287.png"
 			}
 		},
 		{
@@ -3062,7 +3062,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/288.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/288.png"
 			}
 		},
 		{
@@ -3072,7 +3072,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/289.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/289.png"
 			}
 		},
 		{
@@ -3082,7 +3082,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/290.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/290.png"
 			}
 		},
 		{
@@ -3092,7 +3092,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/291.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/291.png"
 			}
 		},
 		{
@@ -3102,7 +3102,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/292.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/292.png"
 			}
 		},
 		{
@@ -3112,7 +3112,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/293.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/293.png"
 			}
 		},
 		{
@@ -3122,7 +3122,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/294.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/294.png"
 			}
 		},
 		{
@@ -3132,7 +3132,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/295.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/295.png"
 			}
 		},
 		{
@@ -3142,7 +3142,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/296.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/296.png"
 			}
 		},
 		{
@@ -3152,7 +3152,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/297.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/297.png"
 			}
 		},
 		{
@@ -3162,7 +3162,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/298.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/298.png"
 			}
 		},
 		{
@@ -3172,7 +3172,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/299.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/299.png"
 			}
 		},
 		{
@@ -3182,7 +3182,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/300.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/300.png"
 			}
 		},
 		{
@@ -3192,7 +3192,7 @@
 			"type": "Legendary Artifact — Spacecraft",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/301.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/301.png"
 			}
 		},
 		{
@@ -3202,7 +3202,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/302.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/302.png"
 			}
 		},
 		{
@@ -3212,7 +3212,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/303.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/303.png"
 			}
 		},
 		{
@@ -3222,7 +3222,7 @@
 			"type": "Legendary Artifact — Spacecraft",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/304.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/304.png"
 			}
 		},
 		{
@@ -3232,7 +3232,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/305.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/305.png"
 			}
 		},
 		{
@@ -3242,7 +3242,7 @@
 			"type": "Legendary Artifact — Spacecraft",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/306.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/306.png"
 			}
 		},
 		{
@@ -3252,7 +3252,7 @@
 			"type": "Legendary Artifact — Spacecraft",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/307.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/307.png"
 			}
 		},
 		{
@@ -3262,7 +3262,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/308.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/308.png"
 			}
 		},
 		{
@@ -3272,7 +3272,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/309.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/309.png"
 			}
 		},
 		{
@@ -3282,7 +3282,7 @@
 			"type": "Token Enchantment — Aura",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/310.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/310.png"
 			}
 		},
 		{
@@ -3292,7 +3292,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/311.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/311.png"
 			}
 		},
 		{
@@ -3302,7 +3302,7 @@
 			"type": "Land Token",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/312.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/312.png"
 			}
 		},
 		{
@@ -3312,7 +3312,7 @@
 			"type": "Token Artifact Creature — Avatar",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/313.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/313.png"
 			}
 		},
 		{
@@ -3322,7 +3322,7 @@
 			"type": "Token Creature — Horror",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/314.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/314.png"
 			}
 		},
 		{
@@ -3332,7 +3332,7 @@
 			"type": "Token Artifact",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/315.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/315.png"
 			}
 		},
 		{
@@ -3342,7 +3342,7 @@
 			"type": "Token Artifact Creature — Dragon",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/316.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/316.png"
 			}
 		},
 		{
@@ -3352,7 +3352,7 @@
 			"type": "Artifact Creature — Dragon",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/317.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/317.png"
 			}
 		},
 		{
@@ -3362,7 +3362,7 @@
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/318.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/318.png"
 			}
 		},
 		{
@@ -3372,7 +3372,7 @@
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/319.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/319.png"
 			}
 		},
 		{
@@ -3382,7 +3382,7 @@
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/320.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/320.png"
 			}
 		},
 		{
@@ -3392,7 +3392,7 @@
 			"type": "Token Enchantment — Aura",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/VYI-files/img/321.jpg"
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/321.png"
 			}
 		}
 	]
@@ -3446,7 +3446,7 @@
 	2 Quintessence Division
 	1 Varassi, Firstborn of Aeon
 	2 Share the Hyperlanes
-	1 Starwhale Crossing
+	1 The Starwhale Crossing
 	2 Wolf of Anjarja
 	1 Valkyrie of Shared Dawn
 	2 Prince Bronwyn, the Fair
@@ -3540,7 +3540,7 @@
 	4 Machine Prophets
 	4 Command Reality
 	4 Colossal Railgun
-	4 Pulsar Prophet
+	4 Prophet's Birth
 	4 Desaturate
 	4 Swimming in Moonlight
 	4 Drop Through Reality
@@ -3804,7 +3804,7 @@
 	12 Sunshadow Drake
 	1 Varassi, Firstborn of Aeon
 	2 Share the Hyperlanes
-	1 Starwhale Crossing
+	1 The Starwhale Crossing
 	6 Warriors of Vjala
 	6 Hero of Dofrar
 	2 Wolf of Anjarja
@@ -3835,7 +3835,7 @@
 	12 Massive Mantid
 	2 Hive Scytheclaw
 	6 Colossal Railgun
-	6 Pulsar Prophet
+	6 Prophet's Birth
 	6 Desaturate
 	12 It Takes Two
 	2 Call the Infinite Bridge
@@ -4103,7 +4103,7 @@
 	6 Sunshadow Drake
 	4 Varassi, Firstborn of Aeon
 	7 Share the Hyperlanes
-	4 Starwhale Crossing
+	4 The Starwhale Crossing
 	15 Warriors of Vjala
 	15 Hero of Dofrar
 	7 Wolf of Anjarja
@@ -4134,7 +4134,7 @@
 	6 Massive Mantid
 	7 Hive Scytheclaw
 	15 Colossal Railgun
-	15 Pulsar Prophet
+	15 Prophet's Birth
 	15 Desaturate
 	6 It Takes Two
 	7 Call the Infinite Bridge
