@@ -280,7 +280,7 @@
 		{
 			"name": "Chronicles of the Kitsune",
 			"rarity": "rare",
-			"mana_cost": "{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Gallery",
 			"collector_number": "9",
 			"image_uris": {
