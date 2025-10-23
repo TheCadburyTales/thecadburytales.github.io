@@ -65619,8 +65619,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jihoon Park",
+            "alias": "",
+            "position": "0",
             "notes": "!tag test",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Enter the Era of Stars",
@@ -65638,8 +65641,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Viko Menezes",
+            "alias": "",
+            "position": "1",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sirocco Cruiser",
@@ -65657,8 +65663,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Victor Adame",
+            "alias": "",
+            "position": "2",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Black Mask",
@@ -65676,8 +65685,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Andrei Pervukhin",
+            "alias": "",
+            "position": "3",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wreckage Ravager",
@@ -65695,8 +65707,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Marek Okon",
+            "alias": "",
+            "position": "4",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sigrid, the Golden Gunmaiden",
@@ -65706,7 +65721,7 @@
             "number": 137,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
-            "rules_text": "",
+            "rules_text": "[+2]: You get an emblem with \u201cIf a red or colorless source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.\u201d\n[0]: Sigrid deals 3 damage to any target.\n[-3]: Choose up to one target instant card and up to one target sorcery card in your graveyard. An opponent chooses one of them. Return that card to your hand, then you may cast the other without paying its mana cost. If a card cast this way would be put into your graveyard this turn, exile it instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+2]: You get an emblem with \u201cIf a red or colorless source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.\u201d\n[0]: Sigrid deals 3 damage to any target.\n[-3]: Choose up to one target instant card and up to one target sorcery card in your graveyard. An opponent chooses one of them. Return that card to your hand, then you may cast the other without paying its mana cost. If a card cast this way would be put into your graveyard this turn, exile it instead.",
@@ -65714,8 +65729,11 @@
             "set": "SHF",
             "loyalty": "5",
             "artist": "Kat Finn",
+            "alias": "",
+            "position": "5",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Skinshifting Puma",
@@ -65733,8 +65751,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Candela Riveros",
+            "alias": "",
+            "position": "6",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Roaming Cactegu",
@@ -65752,8 +65773,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Kaylee Gifford",
+            "alias": "",
+            "position": "7",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Evolution Event",
@@ -65771,8 +65795,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "SY-37",
+            "alias": "",
+            "position": "8",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Xylo, the Starfallen",
@@ -65782,7 +65809,7 @@
             "number": 233,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
-            "rules_text": "",
+            "rules_text": "As Xylo enters, exile from your hand and/or graveyard a white or blue card with mana value 1, a white or blue card with mana value 2 or 3, and a white or blue card with mana value 5 or greater.\n[+1]: You may cast a copy of a card exiled with Xylo with mana value 1 without paying its mana cost.\n[-2]: You may cast a copy of a card exiled with Xylo with mana value 2 or 3 without paying its mana cost.\n[-6]: You may cast a copy of a card exiled with Xylo with mana value 5 or greater without paying its mana cost.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "As Xylo enters, exile from your hand and/or graveyard a white or blue card with mana value 1, a white or blue card with mana value 2 or 3, and a white or blue card with mana value 5 or greater.\n[+1]: You may cast a copy of a card exiled with Xylo with mana value 1 without paying its mana cost.\n[-2]: You may cast a copy of a card exiled with Xylo with mana value 2 or 3 without paying its mana cost.\n[-6]: You may cast a copy of a card exiled with Xylo with mana value 5 or greater without paying its mana cost.",
@@ -65790,8 +65817,11 @@
             "set": "SHF",
             "loyalty": "4",
             "artist": "Luc de Haan",
+            "alias": "",
+            "position": "9",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eli, Wistful Drifter",
@@ -65801,7 +65831,7 @@
             "number": 198,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "",
+            "rules_text": "Whenever you activate a loyalty ability of Eli, you may sacrifice an artifact. When you do, put a loyalty counter on Eli, then he deals 1 damage to any target.\n[0]: Mill two cards, then you may return a nonland permanent card with mana value 2\nor less from your graveyard to your hand.\n[-2]: Eli deals 3 damage to any target if that target was dealt damage this turn. You gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Whenever you activate a loyalty ability of Eli, you may sacrifice an artifact. When you do, put a loyalty counter on Eli, then he deals 1 damage to any target.\n[0]: Mill two cards, then you may return a nonland permanent card with mana value 2\nor less from your graveyard to your hand.\n[-2]: Eli deals 3 damage to any target if that target was dealt damage this turn. You gain 3 life.",
@@ -65809,8 +65839,11 @@
             "set": "SHF",
             "loyalty": "3",
             "artist": "Brian Taylor",
+            "alias": "",
+            "position": "10",
             "notes": "!change",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Interstellar Realignment",
@@ -65828,6 +65861,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Shahab Alizadeh",
+            "alias": "",
+            "position": "11",
             "card_name2": "",
             "color2": "WR",
             "type2": "Instant \u2013 Projectile",
@@ -65838,8 +65873,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Blood Meridian",
@@ -65857,8 +65894,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Eric He",
+            "alias": "",
+            "position": "12",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rusty, Sidewinders Brass",
@@ -65868,7 +65908,7 @@
             "number": 221,
             "color_identity": "BRG",
             "cost": "{1}{B}{R}{G}",
-            "rules_text": "",
+            "rules_text": "[+1]: Create a Junk token.\n[-3]: You may provision. When you do, search your library for a creature card with mana value 4 or less, put it onto the battlefield, then shuffle. [i](To provision, pay {3} or sacrifice a nonland permanent with mana value 1 or less.)[/i]\n[-6]: You get an emblem with \u201cWhenever you sacrifice a nonland permanent, each other player sacrifices a nonland permanent.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Create a Junk token.\n[-3]: You may provision. When you do, search your library for a creature card with mana value 4 or less, put it onto the battlefield, then shuffle. [i](To provision, pay {3} or sacrifice a nonland permanent with mana value 1 or less.)[/i]\n[-6]: You get an emblem with \u201cWhenever you sacrifice a nonland permanent, each other player sacrifices a nonland permanent.\u201d",
@@ -65876,8 +65916,11 @@
             "set": "SHF",
             "loyalty": "4",
             "artist": "OpenArt AI",
+            "alias": "",
+            "position": "13",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stalker of the Bogs",
@@ -65895,8 +65938,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Betty Jiang",
+            "alias": "",
+            "position": "14",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Amelia Hawkeye Hayes",
@@ -65914,8 +65960,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Pinnacle Entertainment Group",
-            "notes": "",
-            "image_type": "png"
+            "alias": "",
+            "position": "15",
+            "notes": "!exportname Amelia Hawkeye Hayes",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Twilight Riders",
@@ -65933,8 +65982,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Roman Chaliy",
+            "alias": "",
+            "position": "16",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Starholme Frontier",
@@ -65952,8 +66004,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Justinas Vitkus",
+            "alias": "",
+            "position": "17",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Apocalypse Dial",
@@ -65971,6 +66026,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Konami",
+            "alias": "",
+            "position": "18",
             "card_name2": "Azumoth, the Apocalypse",
             "color2": "",
             "type2": "Legendary Creature \u2013 Eldrazi",
@@ -65981,8 +66038,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Pedro Sena",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Smoking Gun",
@@ -65992,7 +66051,7 @@
             "number": 1,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "",
+            "rules_text": "[+1]: Create a colorless Bullet artifact token with \u201c{T}, Sacrifice this artifact: It deals 1 damage to any target.\u201d\n[0]: Until end of turn, target noncreature artifact you control becomes a 4/4 artifact creature. The next time you would activate an ability of that artifact this turn, if it's tapped, you may pay {0} rather than pay that ability's costs.\n[-6]: Exile each permanent that's one or more colors.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Create a colorless Bullet artifact token with \u201c{T}, Sacrifice this artifact: It deals 1 damage to any target.\u201d\n[0]: Until end of turn, target noncreature artifact you control becomes a 4/4 artifact creature. The next time you would activate an ability of that artifact this turn, if it's tapped, you may pay {0} rather than pay that ability's costs.\n[-6]: Exile each permanent that's one or more colors.",
@@ -66000,8 +66059,11 @@
             "set": "SHF",
             "loyalty": "4",
             "artist": "Thomas Chamberlain-Keen",
+            "alias": "",
+            "position": "19",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drifting Moon",
@@ -66019,8 +66081,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Joel Gruben",
+            "alias": "",
+            "position": "20",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Opportune Musketeer",
@@ -66038,8 +66103,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Svetlana Chib",
+            "alias": "",
+            "position": "21",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Annie White Rose Harper",
@@ -66057,8 +66125,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Iana Venge",
-            "notes": "",
-            "image_type": "png"
+            "alias": "",
+            "position": "22",
+            "notes": "!exportname Annie White Rose Harper",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Procession of the Alliance",
@@ -66076,8 +66147,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Steve Jung",
+            "alias": "",
+            "position": "23",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sunset Over Pike's Chapel",
@@ -66095,8 +66169,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ismail Inceoglu",
+            "alias": "",
+            "position": "24",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blessing of the Twin Suns",
@@ -66114,6 +66191,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Zhengyi Wang",
+            "alias": "",
+            "position": "25",
             "card_name2": "",
             "color2": "W",
             "type2": "Instant \u2013 Projectile",
@@ -66124,8 +66203,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jack Flash Jacobs",
@@ -66143,8 +66224,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "peng lu",
-            "notes": "",
-            "image_type": "png"
+            "alias": "",
+            "position": "26",
+            "notes": "!exportname Jack Flash Jacobs",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shadow Puppeteer",
@@ -66162,8 +66246,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Alex Speed",
+            "alias": "",
+            "position": "27",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aione, the First Galaxian",
@@ -66181,8 +66268,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Daryl Mandryk",
+            "alias": "",
+            "position": "28",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lunar Fallout",
@@ -66200,8 +66290,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Buclofen",
+            "alias": "",
+            "position": "29",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Canyon Maraterra",
@@ -66219,8 +66312,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Susann Houndsville",
+            "alias": "",
+            "position": "30",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ad Astra",
@@ -66238,6 +66334,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Sandra Duchiewicz",
+            "alias": "",
+            "position": "31",
             "card_name2": "",
             "color2": "U",
             "type2": "Sorcery \u2013 Projectile",
@@ -66248,8 +66346,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nox, the Graven Gunman",
@@ -66267,8 +66367,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Barry Brown, Jr.",
+            "alias": "",
+            "position": "32",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shadowband Posse",
@@ -66286,8 +66389,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ildar Kharisov",
+            "alias": "",
+            "position": "33",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Debt Collectors",
@@ -66305,8 +66411,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Evgeny Loginov",
+            "alias": "",
+            "position": "34",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Gallows at Whiskey Bend",
@@ -66324,11 +66433,14 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Nikolay Litvinenko",
+            "alias": "",
+            "position": "35",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
-            "card_name": "Xiong Mao, a.k.a. Rusty",
+            "card_name": "Xiong Mao aka Rusty",
             "color": "B",
             "rarity": "rare",
             "type": "Sorcery",
@@ -66343,8 +66455,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Eleftheria Mandrela",
-            "notes": "",
-            "image_type": "png"
+            "alias": "",
+            "position": "36",
+            "notes": "!exportname Xiong Mao aka Rusty",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spray and Pray",
@@ -66362,6 +66477,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Andre Pinheiro",
+            "alias": "",
+            "position": "37",
             "card_name2": "",
             "color2": "B",
             "type2": "Sorcery \u2013 Projectile",
@@ -66372,8 +66489,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gearworks Pest",
@@ -66391,8 +66510,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Elder Scrolls: Legends",
+            "alias": "",
+            "position": "38",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kaelan Nova, Starsplitter",
@@ -66410,8 +66532,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Tamas Patkos",
+            "alias": "",
+            "position": "39",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fireball Bootleggers",
@@ -66429,8 +66554,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ivan Smirnov",
+            "alias": "",
+            "position": "40",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Skyfissure Dragon",
@@ -66448,8 +66576,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Aldo Dominguez",
+            "alias": "",
+            "position": "41",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Volatile Machinations",
@@ -66466,9 +66597,12 @@
             "shape": "normal",
             "set": "SHF",
             "loyalty": "",
-            "artist": "Openart AI",
+            "artist": "Midjourney",
+            "alias": "",
+            "position": "42",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chase the Ace",
@@ -66486,6 +66620,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Riccardo Rullo",
+            "alias": "",
+            "position": "43",
             "card_name2": "",
             "color2": "R",
             "type2": "Sorcery \u2013 Projectile",
@@ -66496,8 +66632,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Verdurous Sibyl",
@@ -66515,8 +66653,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Sheena Holm",
+            "alias": "",
+            "position": "44",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Barbed Cactimber",
@@ -66534,8 +66675,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Uken Games",
+            "alias": "",
+            "position": "45",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scourge of Devil's Spine",
@@ -66553,8 +66697,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Mark Wester",
+            "alias": "",
+            "position": "46",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Where the Wild Things Are",
@@ -66572,8 +66719,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Damien Papet",
+            "alias": "",
+            "position": "47",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cross the Verge",
@@ -66591,8 +66741,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gilberto Martimiano",
+            "alias": "",
+            "position": "48",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tactical Emesis",
@@ -66610,6 +66763,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Karol Bem",
+            "alias": "",
+            "position": "49",
             "card_name2": "",
             "color2": "G",
             "type2": "Sorcery \u2013 Projectile",
@@ -66620,8 +66775,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Varathian Consulate",
@@ -66639,8 +66796,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Marc Simonetti",
+            "alias": "",
+            "position": "50",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cloudbreacher Oktujo",
@@ -66658,8 +66818,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Veli Nystrom",
+            "alias": "",
+            "position": "51",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cut from the Same Cloth",
@@ -66677,8 +66840,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gabe Leonard",
+            "alias": "",
+            "position": "52",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Goon Squad",
@@ -66696,8 +66862,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Sergey Lushchyk",
+            "alias": "",
+            "position": "53",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Siege at Cutler's Corral",
@@ -66715,8 +66884,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "High Moon Studios",
+            "alias": "",
+            "position": "54",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Preacher Moore",
@@ -66734,8 +66906,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Brom",
+            "alias": "",
+            "position": "55",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ravenous Cactyrant",
@@ -66753,8 +66928,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Luis Dyachenko",
+            "alias": "",
+            "position": "56",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hunted Sandwurm",
@@ -66772,8 +66950,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Kekai Kotaki",
+            "alias": "",
+            "position": "57",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Juniper Greenthumb Carter",
@@ -66791,8 +66972,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Antti Hakosaari",
-            "notes": "",
-            "image_type": "png"
+            "alias": "",
+            "position": "58",
+            "notes": "!exportname Juniper Greenthumb Carter",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Amberhorn Bear",
@@ -66810,8 +66994,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Marina Kogtya",
+            "alias": "",
+            "position": "59",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Marketto, the Trafficker",
@@ -66829,8 +67016,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Viko Menezes",
+            "alias": "",
+            "position": "60",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Morris and the Lacy Gang",
@@ -66848,8 +67038,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Markella Stav",
+            "alias": "",
+            "position": "61",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Folly of Yesteryear",
@@ -66867,8 +67060,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Felipe Cagno \u2022 Fabiano Neves",
+            "alias": "",
+            "position": "62",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hound of the Hellbreak",
@@ -66886,8 +67082,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Yohann Schepacz",
+            "alias": "",
+            "position": "63",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Make Sense from Scrap",
@@ -66905,8 +67104,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "OpenArt AI",
+            "alias": "",
+            "position": "64",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Oktujo Shepherd",
@@ -66924,8 +67126,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "William Bao",
+            "alias": "",
+            "position": "65",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clementine Cogs Faraday",
@@ -66943,8 +67148,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jose Silva",
-            "notes": "",
-            "image_type": "png"
+            "alias": "",
+            "position": "66",
+            "notes": "!exportname Clementine Cogs Faraday",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Impavid Trailblazer",
@@ -66962,8 +67170,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Sergey Avtushenko",
+            "alias": "",
+            "position": "67",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shootout at the Mesa",
@@ -66981,8 +67192,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Evan Liu",
+            "alias": "",
+            "position": "68",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Carson Livewire Legette",
@@ -67000,8 +67214,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Nathan Chen",
-            "notes": "",
-            "image_type": "png"
+            "alias": "",
+            "position": "69",
+            "notes": "!exportname Carson Livewire Legette",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Galaxian's Best Friend",
@@ -67019,8 +67236,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Even Topland",
+            "alias": "",
+            "position": "70",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fractured Turbine",
@@ -67038,8 +67258,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Andrew Palyanov",
+            "alias": "",
+            "position": "71",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gunslinger's Leatherworks",
@@ -67057,8 +67280,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Midjourney AI",
+            "alias": "",
+            "position": "72",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Runaway Freight",
@@ -67076,8 +67302,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Yerbol Bulentayev",
+            "alias": "",
+            "position": "73",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Consulate Bellwether",
@@ -67095,8 +67324,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Pablo Carpio",
+            "alias": "",
+            "position": "74",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Varathian Watchtower",
@@ -67114,8 +67346,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "TopWare Interactive",
+            "alias": "",
+            "position": "75",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crystalline Clutches",
@@ -67133,8 +67368,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Cze Peku",
+            "alias": "",
+            "position": "76",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Transuding Grotto",
@@ -67152,8 +67390,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Aleksei Liakh",
+            "alias": "",
+            "position": "77",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Slaughterhills",
@@ -67171,8 +67412,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Alexey Egorov",
+            "alias": "",
+            "position": "78",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Galactic Reach",
@@ -67190,8 +67434,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Frank Sun",
+            "alias": "",
+            "position": "79",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Laden Steed",
@@ -67209,8 +67456,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Bill Anton",
+            "alias": "",
+            "position": "80",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Zarax Duelist",
@@ -67228,8 +67478,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jonathan Dawo",
+            "alias": "",
+            "position": "81",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Boot Hill Liberator",
@@ -67247,8 +67500,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Thanh Tuan",
+            "alias": "",
+            "position": "82",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hissing Sunspitter",
@@ -67266,8 +67522,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Sara Gilardi",
+            "alias": "",
+            "position": "83",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Luke The Duke McCall",
@@ -67285,8 +67544,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "nachomolina",
-            "notes": "",
-            "image_type": "png"
+            "alias": "",
+            "position": "84",
+            "notes": "!exportname Luke The Duke McCall",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sandsteppe Trooper",
@@ -67304,8 +67566,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jakub Javora",
+            "alias": "",
+            "position": "85",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Varathian Foragers",
@@ -67323,8 +67588,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jaime Jones",
+            "alias": "",
+            "position": "86",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Caravan Sideshow",
@@ -67342,8 +67610,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Charidimos Bitsakakis",
+            "alias": "",
+            "position": "87",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Charitable Oktujo",
@@ -67361,8 +67632,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Kyle Enochs",
+            "alias": "",
+            "position": "88",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Celestial Disturbance",
@@ -67380,8 +67654,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Rutger van de Steeg",
+            "alias": "",
+            "position": "89",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Quickdraw Revolver",
@@ -67399,8 +67676,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Javier Pacheco",
+            "alias": "",
+            "position": "90",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Leave in the Dust",
@@ -67418,8 +67698,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Dan Watson",
+            "alias": "",
+            "position": "91",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "A Long Road Ahead",
@@ -67437,8 +67720,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Julia Zhuravleva",
+            "alias": "",
+            "position": "92",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Shot That Saved Skyhaven",
@@ -67456,6 +67742,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Marko Djurdjevic",
+            "alias": "",
+            "position": "93",
             "card_name2": "",
             "color2": "W",
             "type2": "Sorcery \u2013 Projectile",
@@ -67466,8 +67754,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Skyhaven Deputy",
@@ -67485,8 +67775,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Maxwell Alexander",
+            "alias": "",
+            "position": "94",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ephemeral Fennec",
@@ -67504,8 +67797,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "imateria",
+            "alias": "",
+            "position": "95",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Akimbo Specialist",
@@ -67523,8 +67819,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "neneza",
+            "alias": "",
+            "position": "96",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Back Country Navigator",
@@ -67542,8 +67841,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jan Schlegel",
+            "alias": "",
+            "position": "97",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Slicky Glump",
@@ -67561,8 +67863,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Alex Konstad",
+            "alias": "",
+            "position": "98",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kono, Galvanic Gunman",
@@ -67580,8 +67885,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Benjamin Ee",
+            "alias": "",
+            "position": "99",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crimson Sea Glider",
@@ -67599,8 +67907,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Midjourney",
+            "alias": "",
+            "position": "100",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crash Site Curators",
@@ -67618,8 +67929,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Midjourney",
+            "alias": "",
+            "position": "101",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scrapper's Shank",
@@ -67637,8 +67951,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Midjourney",
+            "alias": "",
+            "position": "102",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Run Off the Tracks",
@@ -67656,8 +67973,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Dominique Buttiens",
+            "alias": "",
+            "position": "103",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Magnetic Flux",
@@ -67675,8 +67995,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Midjourney",
+            "alias": "",
+            "position": "104",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "This Town Ain't Big Enough",
@@ -67694,8 +68017,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Kai Carpenter",
+            "alias": "",
+            "position": "105",
             "notes": "f!reprint",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Qualms of Conscience",
@@ -67713,8 +68039,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Morten Solgaard Pedersen",
+            "alias": "",
+            "position": "106",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Starshard",
@@ -67732,6 +68061,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "JustV23",
+            "alias": "",
+            "position": "107",
             "card_name2": "",
             "color2": "U",
             "type2": "Sorcery \u2013 Projectile",
@@ -67742,8 +68073,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Subterranean Ravager",
@@ -67761,8 +68094,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Brent Hollowell",
+            "alias": "",
+            "position": "108",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grim Visionary",
@@ -67780,8 +68116,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Carlos Fabian Villa",
+            "alias": "",
+            "position": "109",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Backland Scrounger",
@@ -67799,8 +68138,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Josh James",
+            "alias": "",
+            "position": "110",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pestilent Ghelhound",
@@ -67818,8 +68160,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Vadim Kalabukh",
+            "alias": "",
+            "position": "111",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hunter of the Helpless",
@@ -67837,8 +68182,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Roman Chaliy",
+            "alias": "",
+            "position": "112",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ghost Town Crier",
@@ -67856,8 +68204,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gina Vila",
+            "alias": "",
+            "position": "113",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dust Devil Lieutenant",
@@ -67875,8 +68226,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "moggith",
+            "alias": "",
+            "position": "114",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mr. Skath of the Brain Gang",
@@ -67894,8 +68248,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Pinnacle Entertainment Group",
+            "alias": "",
+            "position": "115",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pit Cockatrice",
@@ -67913,8 +68270,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ryan Barger",
+            "alias": "",
+            "position": "116",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Merciless Plunder",
@@ -67932,8 +68292,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Bryce Youtsey",
+            "alias": "",
+            "position": "117",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Terminal Dehydration",
@@ -67951,8 +68314,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Yan Kyohara",
+            "alias": "",
+            "position": "118",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hunter's Carapace",
@@ -67970,8 +68336,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Adrian Kubiak",
+            "alias": "",
+            "position": "119",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Corner the Black Market",
@@ -67989,8 +68358,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Angel Palacios",
+            "alias": "",
+            "position": "120",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lever-Action at Nearly-Lethal Range",
@@ -68008,6 +68380,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "David Lozeau",
+            "alias": "",
+            "position": "121",
             "card_name2": "",
             "color2": "B",
             "type2": "Sorcery \u2013 Projectile",
@@ -68018,8 +68392,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Slag Spitter",
@@ -68037,8 +68413,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Brent Hollowell",
+            "alias": "",
+            "position": "122",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Trickshot Artist",
@@ -68056,8 +68435,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "tuabak",
+            "alias": "",
+            "position": "123",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gearworks Supervisor",
@@ -68075,8 +68457,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jon Foster",
+            "alias": "",
+            "position": "124",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blitzreaver",
@@ -68094,8 +68479,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "David Haire",
+            "alias": "",
+            "position": "125",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Debris Pillager",
@@ -68113,8 +68501,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Kerem Beyit",
+            "alias": "",
+            "position": "126",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ravine Thresher",
@@ -68132,8 +68523,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Kim Sung Hwan",
+            "alias": "",
+            "position": "127",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Beast of the Bluffs",
@@ -68151,8 +68545,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Matheus Schwartz",
+            "alias": "",
+            "position": "128",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hemophage Infuser",
@@ -68170,8 +68567,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Diana Franco",
+            "alias": "",
+            "position": "129",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Snatch and Grab",
@@ -68189,8 +68589,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Florian Chastres",
+            "alias": "",
+            "position": "130",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fire at Shaw's Chapel",
@@ -68208,8 +68611,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Tyler Jacobson",
+            "alias": "",
+            "position": "131",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Get the Drop",
@@ -68227,8 +68633,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gokhan Kahraman",
+            "alias": "",
+            "position": "132",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bounty Hunting",
@@ -68246,8 +68655,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ralph Meyer",
+            "alias": "",
+            "position": "133",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Guns A-Blazing",
@@ -68265,8 +68677,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Art of Neight",
+            "alias": "",
+            "position": "134",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Now Watch Me Whip",
@@ -68284,6 +68699,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Caleb Kuhl",
+            "alias": "",
+            "position": "135",
             "card_name2": "",
             "color2": "R",
             "type2": "Sorcery \u2013 Projectile",
@@ -68294,8 +68711,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Silent Sands Wanderer",
@@ -68313,8 +68732,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Benjamin Huen",
+            "alias": "",
+            "position": "136",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Barging Tusker",
@@ -68332,8 +68754,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Brent Hollowell",
+            "alias": "",
+            "position": "137",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Weathered Survivor",
@@ -68351,8 +68776,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Flying Frog Productions",
+            "alias": "",
+            "position": "138",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Oktujo Tracker",
@@ -68370,8 +68798,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gavin O'Donnell",
+            "alias": "",
+            "position": "139",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Slobbering Moa",
@@ -68389,8 +68820,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Fran Fdez",
+            "alias": "",
+            "position": "140",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Virulent Cactaipan",
@@ -68408,8 +68842,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Matheus Schwartz",
+            "alias": "",
+            "position": "141",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jake's Sentinels",
@@ -68427,8 +68864,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gavin O'Donnell",
+            "alias": "",
+            "position": "142",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Burgeoning Cactiger",
@@ -68446,8 +68886,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Matheus Schwartz",
+            "alias": "",
+            "position": "143",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Moss-Laden Leaper",
@@ -68465,8 +68908,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Matheus Schwartz",
+            "alias": "",
+            "position": "144",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "A New Horizon Calls",
@@ -68484,8 +68930,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Aaron Limonick",
+            "alias": "",
+            "position": "145",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vulture's Bounty",
@@ -68503,8 +68952,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "XD.",
+            "alias": "",
+            "position": "146",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chirring Rig",
@@ -68522,8 +68974,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "JG O'Donoghue",
+            "alias": "",
+            "position": "147",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Warping Wilds",
@@ -68541,8 +68996,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Anton Fadeev",
+            "alias": "",
+            "position": "148",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aim Skyward",
@@ -68560,6 +69018,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Sina Hayati",
+            "alias": "",
+            "position": "149",
             "card_name2": "",
             "color2": "G",
             "type2": "Instant \u2013 Projectile",
@@ -68570,8 +69030,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Zarax Supermajor",
@@ -68589,8 +69051,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "mingrutu",
+            "alias": "",
+            "position": "150",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Force Propulsion",
@@ -68608,18 +69073,22 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Felipe Sanchez",
+            "alias": "",
+            "position": "151",
             "card_name2": "",
             "color2": "WU",
             "type2": "Instant \u2013 Projectile",
             "cost2": "{W}{U}",
-            "rules_text2": "Tap up to one target creature, then put a stun counter on it. [i](If a permanent with a stun counter on it would become untapped, remove one from it instead.)[/i]",
+            "rules_text2": "Tap up to one target creature, then put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Underrift War Merchant",
@@ -68637,8 +69106,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Stephen Sykes",
+            "alias": "",
+            "position": "152",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gulch Bandit",
@@ -68656,8 +69128,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Rodrigo Ramos",
+            "alias": "",
+            "position": "153",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mesa Interloper",
@@ -68675,8 +69150,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Qiushi Zhang",
+            "alias": "",
+            "position": "154",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hotshot Rifle",
@@ -68694,8 +69172,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Andre Pinheiro",
+            "alias": "",
+            "position": "155",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Maverick Mutt",
@@ -68713,8 +69194,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Claudya Schmidt",
+            "alias": "",
+            "position": "156",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Whiptail Manticore",
@@ -68732,8 +69216,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Nutchapol Thitinunthakorn",
+            "alias": "",
+            "position": "157",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Consulate Nomads",
@@ -68751,8 +69238,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "C Y",
+            "alias": "",
+            "position": "158",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Gang's All Here",
@@ -68770,8 +69260,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "charro-art",
+            "alias": "",
+            "position": "159",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jules, the Beacon",
@@ -68789,8 +69282,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gabriele Cavalli",
+            "alias": "",
+            "position": "160",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Barron, the Smoke",
@@ -68808,8 +69304,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Rilez75",
+            "alias": "",
+            "position": "161",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cosmic Restitcher",
@@ -68827,8 +69326,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Joao Bragato",
+            "alias": "",
+            "position": "162",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bloodsand Gorger",
@@ -68846,8 +69348,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Filipe Augusto",
+            "alias": "",
+            "position": "163",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Frilled Starspitter",
@@ -68865,8 +69370,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Elena Churkina",
+            "alias": "",
+            "position": "164",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Go West",
@@ -68884,8 +69392,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Mark Maggiori",
+            "alias": "",
+            "position": "165",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shifty Dealer",
@@ -68903,8 +69414,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Alexander Mokhov",
+            "alias": "",
+            "position": "166",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tumultuous Flare",
@@ -68922,6 +69436,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Mateusz Mizak",
+            "alias": "",
+            "position": "167",
             "card_name2": "",
             "color2": "UR",
             "type2": "Sorcery \u2013 Projectile",
@@ -68932,8 +69448,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hot Hands Lurk",
@@ -68951,8 +69469,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "John Anthony Di Giovanni",
-            "notes": "",
-            "image_type": "png"
+            "alias": "",
+            "position": "168",
+            "notes": "!exportname Hot Hands Lurk",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Six-Shot Sheriff",
@@ -68970,8 +69491,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Federica Porpora",
+            "alias": "",
+            "position": "169",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Noxian Visage",
@@ -68989,8 +69513,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "arcipello",
+            "alias": "",
+            "position": "170",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rust Bucket",
@@ -69008,8 +69535,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "J-Humphries",
+            "alias": "",
+            "position": "171",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wrought Grotesque",
@@ -69027,8 +69557,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Mark Tarrisse",
+            "alias": "",
+            "position": "172",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Trusty Ten-Gallon",
@@ -69046,8 +69579,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "madspartan013",
+            "alias": "",
+            "position": "173",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Varathian Caravan",
@@ -69065,8 +69601,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Midjourney",
+            "alias": "",
+            "position": "174",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Eldoria Express",
@@ -69084,8 +69623,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "karola-j",
+            "alias": "",
+            "position": "175",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Streets of Sunforge",
@@ -69103,8 +69645,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ben Mauro",
+            "alias": "",
+            "position": "176",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Varathian Ootheca",
@@ -69122,8 +69667,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Travis Anderson",
+            "alias": "",
+            "position": "177",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Varathian Battery",
@@ -69141,8 +69689,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ramirez De Souza",
+            "alias": "",
+            "position": "178",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Varathian Nucleus",
@@ -69160,8 +69711,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Vadim Shchepilov",
+            "alias": "",
+            "position": "179",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Feisty Scrapper",
@@ -69179,8 +69733,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Origames",
+            "alias": "",
+            "position": "180",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Skysteed",
@@ -69198,8 +69755,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ben Wootten",
+            "alias": "",
+            "position": "181",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fleetfinger Five-Shooter",
@@ -69217,8 +69777,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "brunob",
+            "alias": "",
+            "position": "182",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Roadside Raconteur",
@@ -69236,8 +69799,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "rehg_2020",
+            "alias": "",
+            "position": "183",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Galvanized Recruiter",
@@ -69255,8 +69821,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Deiv Calviz",
+            "alias": "",
+            "position": "184",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Skychaser Trainer",
@@ -69274,8 +69843,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ramazan Kazaliev",
+            "alias": "",
+            "position": "185",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eldoria Sureshot",
@@ -69293,8 +69865,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ameera Sheikh",
+            "alias": "",
+            "position": "186",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Boot Hill Outrider",
@@ -69312,8 +69887,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Halil Ural",
+            "alias": "",
+            "position": "187",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tradewind Courier",
@@ -69331,8 +69909,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Omar Samy",
+            "alias": "",
+            "position": "188",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unbridled Colt",
@@ -69350,8 +69931,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Artem Chebokha",
+            "alias": "",
+            "position": "189",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bladetusk Herd",
@@ -69369,8 +69953,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jacques Henry",
+            "alias": "",
+            "position": "190",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shoot Your Shot",
@@ -69388,8 +69975,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Mark Zug",
+            "alias": "",
+            "position": "191",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Back Where You Came From",
@@ -69407,8 +69997,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Mojtaba Aryan",
+            "alias": "",
+            "position": "192",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Long Arm of the Law",
@@ -69426,6 +70019,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Cygames, Inc.",
+            "alias": "",
+            "position": "193",
             "card_name2": "",
             "color2": "W",
             "type2": "Instant \u2013 Projectile",
@@ -69436,8 +70031,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Make Your Move",
@@ -69455,8 +70052,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "MrHarp",
+            "alias": "",
+            "position": "194",
             "notes": "f!reprint",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Zarax Broodling",
@@ -69474,8 +70074,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "MOZCHOPS",
+            "alias": "",
+            "position": "195",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Quickdraw Broker",
@@ -69493,8 +70096,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Morgan Yon",
+            "alias": "",
+            "position": "196",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flintlock Lass",
@@ -69512,8 +70118,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jessica Oyhenart",
+            "alias": "",
+            "position": "197",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Itinerant Oktujo",
@@ -69531,8 +70140,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Juan Novelletto",
+            "alias": "",
+            "position": "198",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fleetfoot Screecher",
@@ -69542,7 +70154,7 @@
             "number": 52,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Whenever you cast your second spell each turn, tap target creature an opponent controls and put a stun counter on it. [i](If a permanent with a stun counter on it would become untapped, remove one from it instead.)[/i]",
+            "rules_text": "Whenever you cast your second spell each turn, tap target creature an opponent controls and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]",
             "flavor_text": "[i]It injects its victims with a slow-working venom, tracking them for multiple days until they finally succumb to a bitter paralysis.[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -69550,8 +70162,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Kate Pfeilschiefter",
+            "alias": "",
+            "position": "199",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Corpus Cobbler",
@@ -69569,8 +70184,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Viko Menezes",
+            "alias": "",
+            "position": "200",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Breaching Slugsnout",
@@ -69588,8 +70206,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Dave Melvin",
+            "alias": "",
+            "position": "201",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sandskiff Raider",
@@ -69607,8 +70228,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Riyahd Cassiem",
+            "alias": "",
+            "position": "202",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scrapfield Migrant",
@@ -69626,8 +70250,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Brent Hollowell",
+            "alias": "",
+            "position": "203",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "On a Cool Summer's Night",
@@ -69645,8 +70272,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Denis Kornev",
+            "alias": "",
+            "position": "204",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lost on the Horizon",
@@ -69664,8 +70294,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Nikolai Litvinenko",
+            "alias": "",
+            "position": "205",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Astral Projection",
@@ -69683,6 +70316,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "zhihui Su",
+            "alias": "",
+            "position": "206",
             "card_name2": "",
             "color2": "U",
             "type2": "Sorcery \u2013 Projectile",
@@ -69693,8 +70328,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wreckage of the Starbreaker",
@@ -69712,8 +70349,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Swang",
+            "alias": "",
+            "position": "207",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Croak",
@@ -69731,8 +70371,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Cole",
+            "alias": "",
+            "position": "208",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crystallize",
@@ -69750,8 +70393,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Simon Cowell",
+            "alias": "",
+            "position": "209",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dead Man Walkin'",
@@ -69769,8 +70415,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Roman Chaliy",
+            "alias": "",
+            "position": "210",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Silent Sands Survivor",
@@ -69788,8 +70437,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Konstantin Radichov",
+            "alias": "",
+            "position": "211",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ar'Ghel Desperado",
@@ -69807,8 +70459,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Rilez75",
+            "alias": "",
+            "position": "212",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fen Conservators",
@@ -69826,8 +70481,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Max Kostin",
+            "alias": "",
+            "position": "213",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Junkyard Vulture",
@@ -69845,8 +70503,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Boris M",
+            "alias": "",
+            "position": "214",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seeker of Sinner's Court",
@@ -69864,8 +70525,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Elias Ravanetti",
+            "alias": "",
+            "position": "215",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Experiment X",
@@ -69883,8 +70547,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "216",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gulch Ranger",
@@ -69902,8 +70569,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Roberto Robert",
+            "alias": "",
+            "position": "217",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bet Against Death",
@@ -69921,8 +70591,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ludwig Van Bacon",
+            "alias": "",
+            "position": "218",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Face the Night",
@@ -69940,8 +70613,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Andre Mateus",
+            "alias": "",
+            "position": "219",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ride on the Wild Side",
@@ -69959,8 +70635,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Halil Ural",
+            "alias": "",
+            "position": "220",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Run Train",
@@ -69978,8 +70657,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Clement Dumonceaux",
+            "alias": "",
+            "position": "221",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Retribution for a Gamblin' Man",
@@ -69997,6 +70679,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Sergey Lushchyk",
+            "alias": "",
+            "position": "222",
             "card_name2": "",
             "color2": "B",
             "type2": "Sorcery \u2013 Projectile",
@@ -70007,8 +70691,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Become Carrion",
@@ -70026,8 +70712,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "John Yau",
+            "alias": "",
+            "position": "223",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Come to Collect",
@@ -70045,8 +70734,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Daniel Eskridge",
+            "alias": "",
+            "position": "224",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Salvage Trafficker",
@@ -70064,8 +70756,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Joseph Descallar",
+            "alias": "",
+            "position": "225",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fuselage Scavenger",
@@ -70083,8 +70778,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Didier Graffet",
+            "alias": "",
+            "position": "226",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crimson Sea Sabertooth",
@@ -70102,8 +70800,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Nutchapol Thitinunthakorn",
+            "alias": "",
+            "position": "227",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Badland Hustler",
@@ -70121,8 +70822,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Juju Dachang",
+            "alias": "",
+            "position": "228",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deadheat Duo",
@@ -70140,8 +70844,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Viko Menezes",
+            "alias": "",
+            "position": "229",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sunforge Outlaw",
@@ -70159,8 +70866,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Guillerme Motta",
+            "alias": "",
+            "position": "230",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Whiskey Bend Marshal",
@@ -70178,8 +70888,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ricardo Padierne Silvera",
+            "alias": "",
+            "position": "231",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Terror of Thrasher's Pass",
@@ -70197,8 +70910,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Brent Hollowell",
+            "alias": "",
+            "position": "232",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pack Monitor",
@@ -70216,8 +70932,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Yun Ling",
+            "alias": "",
+            "position": "233",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tendril Trap",
@@ -70235,8 +70954,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Sergey Lushchyk",
+            "alias": "",
+            "position": "234",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Frontier Justice",
@@ -70254,8 +70976,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Blizzard Entertainment",
+            "alias": "",
+            "position": "235",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Risky Wager",
@@ -70273,8 +70998,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Rockstar Games",
+            "alias": "",
+            "position": "236",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dynamite in the Cargo Hold",
@@ -70292,6 +71020,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Alex Speed",
+            "alias": "",
+            "position": "237",
             "card_name2": "",
             "color2": "R",
             "type2": "Sorcery \u2013 Projectile",
@@ -70302,8 +71032,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Five-Alarm Firearm",
@@ -70321,8 +71053,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Brandon McCamey",
+            "alias": "",
+            "position": "238",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lock, Stock, and Smoke",
@@ -70340,8 +71075,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "albyu",
+            "alias": "",
+            "position": "239",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cactaurus",
@@ -70359,8 +71097,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Iggy",
+            "alias": "",
+            "position": "240",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Travellers on Yonder",
@@ -70378,8 +71119,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Kamila Szutenberg",
+            "alias": "",
+            "position": "241",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stardust Courier",
@@ -70397,8 +71141,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jin Xiaodi",
+            "alias": "",
+            "position": "242",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Skyfall Acolyte",
@@ -70416,8 +71163,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Svetlana Kostina",
+            "alias": "",
+            "position": "243",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Migratory Grazer",
@@ -70435,8 +71185,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Brent Hollowell",
+            "alias": "",
+            "position": "244",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reedcreeper Posse",
@@ -70454,8 +71207,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "cdog",
+            "alias": "",
+            "position": "245",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stoic Steadhand",
@@ -70473,8 +71229,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Adrian Rodriguez",
+            "alias": "",
+            "position": "246",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rhangol Wrangler",
@@ -70492,8 +71251,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Karl Lindberg",
+            "alias": "",
+            "position": "247",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Oktujo Migration",
@@ -70511,8 +71273,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ricardo Robles",
+            "alias": "",
+            "position": "248",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Razorgorge Wurm",
@@ -70530,8 +71295,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Kekai Kotaki",
+            "alias": "",
+            "position": "249",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Art of the Draw",
@@ -70549,8 +71317,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gregory Manchess",
+            "alias": "",
+            "position": "250",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gang Mentality",
@@ -70568,8 +71339,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gabe Leonard",
+            "alias": "",
+            "position": "251",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Territorial Domination",
@@ -70587,8 +71361,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Wizards of the Coast",
+            "alias": "",
+            "position": "252",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "New Growth in Old Haunts",
@@ -70606,8 +71383,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "peng lu",
+            "alias": "",
+            "position": "253",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bristly Landing",
@@ -70625,6 +71405,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Karl Brudvig",
+            "alias": "",
+            "position": "254",
             "card_name2": "",
             "color2": "G",
             "type2": "Instant \u2013 Projectile",
@@ -70635,8 +71417,10 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chromatic Star",
@@ -70654,8 +71438,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jose Ochoa",
+            "alias": "",
+            "position": "255",
             "notes": "f!reprint",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Steadfast Reaper",
@@ -70673,8 +71460,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Oleksandra Shchaslyva",
+            "alias": "",
+            "position": "256",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Winestago Freighter",
@@ -70692,8 +71482,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "sparth",
+            "alias": "",
+            "position": "257",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "McCall .45 Special",
@@ -70711,8 +71504,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "seiberspace",
+            "alias": "",
+            "position": "258",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Star Chart",
@@ -70730,8 +71526,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "HandMade Films",
+            "alias": "",
+            "position": "259",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Conduit Pylons",
@@ -70749,8 +71548,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ibrahem Swaid",
+            "alias": "",
+            "position": "260",
             "notes": "f!reprint",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Salt Pool Citadel",
@@ -70768,8 +71570,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "shen he",
+            "alias": "",
+            "position": "261",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Oil-Worn Depths",
@@ -70787,8 +71592,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Allison Chin",
+            "alias": "",
+            "position": "262",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Basalt Quarry",
@@ -70806,8 +71614,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Nikita Pilyukshin",
+            "alias": "",
+            "position": "263",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Weirding Territory",
@@ -70825,8 +71636,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "karlkka",
+            "alias": "",
+            "position": "264",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Henge of Safe Passage",
@@ -70844,8 +71658,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Reza Afshar",
+            "alias": "",
+            "position": "265",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Transplanted Hive",
@@ -70863,8 +71680,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Bungie",
+            "alias": "",
+            "position": "266",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pungent Smokestacks",
@@ -70882,8 +71702,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Will Noviss",
+            "alias": "",
+            "position": "267",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Phosphorescent Bileway",
@@ -70901,8 +71724,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Rimma Shmeleva",
+            "alias": "",
+            "position": "268",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stormsurge Waypoint",
@@ -70920,8 +71746,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Matteo Marjoram",
+            "alias": "",
+            "position": "269",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chiseled Hideaway",
@@ -70939,8 +71768,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Tayler Olivas",
+            "alias": "",
+            "position": "270",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wayfarer's Shrine",
@@ -70958,8 +71790,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Nelly Amosova",
+            "alias": "",
+            "position": "271",
             "notes": "!landslot\nf!reprint",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
@@ -70977,8 +71812,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ethundering",
+            "alias": "",
+            "position": "272",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Island",
@@ -70996,8 +71834,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Milos Radojkic",
+            "alias": "",
+            "position": "273",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
@@ -71015,8 +71856,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Sebastian Wagner",
+            "alias": "",
+            "position": "274",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain",
@@ -71034,8 +71878,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ned ROgers",
+            "alias": "",
+            "position": "275",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forest",
@@ -71053,8 +71900,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jack Sorenson",
+            "alias": "",
+            "position": "276",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Junk",
@@ -71072,8 +71922,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Andrew Palyanov",
+            "alias": "",
+            "position": "277",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Equipment",
@@ -71091,8 +71944,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Faba",
+            "alias": "",
+            "position": "278",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bullet",
@@ -71110,8 +71966,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Delightworks",
+            "alias": "",
+            "position": "279",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Treasure",
@@ -71129,8 +71988,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Don Doxey",
+            "alias": "",
+            "position": "280",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scooter",
@@ -71148,8 +72010,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gregory Manchess",
+            "alias": "",
+            "position": "281",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vehicle",
@@ -71167,8 +72032,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jacques Henry",
+            "alias": "",
+            "position": "282",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elemental",
@@ -71186,8 +72054,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Midjourney AI",
+            "alias": "",
+            "position": "283",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elemental",
@@ -71205,8 +72076,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "F3LC4T",
+            "alias": "",
+            "position": "284",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plant",
@@ -71224,8 +72098,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Midjourney AI",
+            "alias": "",
+            "position": "285",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Beast",
@@ -71243,8 +72120,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "William Bang",
+            "alias": "",
+            "position": "286",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mercenary",
@@ -71262,8 +72142,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "AnttiHako",
+            "alias": "",
+            "position": "287",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mercenary",
@@ -71281,8 +72164,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "David Simons",
+            "alias": "",
+            "position": "288",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bones",
@@ -71300,8 +72186,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "djodarkExperience626",
+            "alias": "",
+            "position": "289",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flesh",
@@ -71319,8 +72208,11 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Leont'eva Eugenia",
+            "alias": "",
+            "position": "290",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Josiah, Bitter Survivor",

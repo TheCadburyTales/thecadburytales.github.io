@@ -1,9 +1,12 @@
 ﻿{
     "name": "The Starholme Frontier",
     "formats": "standard",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
+    "unpreviewed": "empty",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Zarax Broodqueen",
@@ -21,6 +24,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jihoon Park",
+            "alias": "",
+            "position": "0",
             "notes": "!tag test"
         },
         {
@@ -39,6 +44,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Viko Menezes",
+            "alias": "",
+            "position": "1",
             "notes": ""
         },
         {
@@ -57,6 +64,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Victor Adame",
+            "alias": "",
+            "position": "2",
             "notes": ""
         },
         {
@@ -75,6 +84,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Andrei Pervukhin",
+            "alias": "",
+            "position": "3",
             "notes": ""
         },
         {
@@ -93,6 +104,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Marek Okon",
+            "alias": "",
+            "position": "4",
             "notes": ""
         },
         {
@@ -103,7 +116,7 @@
             "number": 137,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
-            "rules_text": "",
+            "rules_text": "[+2]: You get an emblem with \u201cIf a red or colorless source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.\u201d\n[0]: Sigrid deals 3 damage to any target.\n[-3]: Choose up to one target instant card and up to one target sorcery card in your graveyard. An opponent chooses one of them. Return that card to your hand, then you may cast the other without paying its mana cost. If a card cast this way would be put into your graveyard this turn, exile it instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+2]: You get an emblem with \u201cIf a red or colorless source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.\u201d\n[0]: Sigrid deals 3 damage to any target.\n[-3]: Choose up to one target instant card and up to one target sorcery card in your graveyard. An opponent chooses one of them. Return that card to your hand, then you may cast the other without paying its mana cost. If a card cast this way would be put into your graveyard this turn, exile it instead.",
@@ -111,6 +124,8 @@
             "set": "SHF",
             "loyalty": "5",
             "artist": "Kat Finn",
+            "alias": "",
+            "position": "5",
             "notes": ""
         },
         {
@@ -129,6 +144,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Candela Riveros",
+            "alias": "",
+            "position": "6",
             "notes": ""
         },
         {
@@ -147,6 +164,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Kaylee Gifford",
+            "alias": "",
+            "position": "7",
             "notes": ""
         },
         {
@@ -165,6 +184,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "SY-37",
+            "alias": "",
+            "position": "8",
             "notes": ""
         },
         {
@@ -175,7 +196,7 @@
             "number": 233,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
-            "rules_text": "",
+            "rules_text": "As Xylo enters, exile from your hand and/or graveyard a white or blue card with mana value 1, a white or blue card with mana value 2 or 3, and a white or blue card with mana value 5 or greater.\n[+1]: You may cast a copy of a card exiled with Xylo with mana value 1 without paying its mana cost.\n[-2]: You may cast a copy of a card exiled with Xylo with mana value 2 or 3 without paying its mana cost.\n[-6]: You may cast a copy of a card exiled with Xylo with mana value 5 or greater without paying its mana cost.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "As Xylo enters, exile from your hand and/or graveyard a white or blue card with mana value 1, a white or blue card with mana value 2 or 3, and a white or blue card with mana value 5 or greater.\n[+1]: You may cast a copy of a card exiled with Xylo with mana value 1 without paying its mana cost.\n[-2]: You may cast a copy of a card exiled with Xylo with mana value 2 or 3 without paying its mana cost.\n[-6]: You may cast a copy of a card exiled with Xylo with mana value 5 or greater without paying its mana cost.",
@@ -183,6 +204,8 @@
             "set": "SHF",
             "loyalty": "4",
             "artist": "Luc de Haan",
+            "alias": "",
+            "position": "9",
             "notes": ""
         },
         {
@@ -193,7 +216,7 @@
             "number": 198,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "",
+            "rules_text": "Whenever you activate a loyalty ability of Eli, you may sacrifice an artifact. When you do, put a loyalty counter on Eli, then he deals 1 damage to any target.\n[0]: Mill two cards, then you may return a nonland permanent card with mana value 2\nor less from your graveyard to your hand.\n[-2]: Eli deals 3 damage to any target if that target was dealt damage this turn. You gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Whenever you activate a loyalty ability of Eli, you may sacrifice an artifact. When you do, put a loyalty counter on Eli, then he deals 1 damage to any target.\n[0]: Mill two cards, then you may return a nonland permanent card with mana value 2\nor less from your graveyard to your hand.\n[-2]: Eli deals 3 damage to any target if that target was dealt damage this turn. You gain 3 life.",
@@ -201,6 +224,8 @@
             "set": "SHF",
             "loyalty": "3",
             "artist": "Brian Taylor",
+            "alias": "",
+            "position": "10",
             "notes": "!change"
         },
         {
@@ -219,6 +244,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Shahab Alizadeh",
+            "alias": "",
+            "position": "11",
             "card_name2": "",
             "color2": "WR",
             "type2": "Instant \u2014 Projectile",
@@ -229,6 +256,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -247,6 +275,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Eric He",
+            "alias": "",
+            "position": "12",
             "notes": ""
         },
         {
@@ -257,7 +287,7 @@
             "number": 221,
             "color_identity": "BRG",
             "cost": "{1}{B}{R}{G}",
-            "rules_text": "",
+            "rules_text": "[+1]: Create a Junk token.\n[-3]: You may provision. When you do, search your library for a creature card with mana value 4 or less, put it onto the battlefield, then shuffle. [i](To provision, pay {3} or sacrifice a nonland permanent with mana value 1 or less.)[/i]\n[-6]: You get an emblem with \u201cWhenever you sacrifice a nonland permanent, each other player sacrifices a nonland permanent.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Create a Junk token.\n[-3]: You may provision. When you do, search your library for a creature card with mana value 4 or less, put it onto the battlefield, then shuffle. [i](To provision, pay {3} or sacrifice a nonland permanent with mana value 1 or less.)[/i]\n[-6]: You get an emblem with \u201cWhenever you sacrifice a nonland permanent, each other player sacrifices a nonland permanent.\u201d",
@@ -265,6 +295,8 @@
             "set": "SHF",
             "loyalty": "4",
             "artist": "OpenArt AI",
+            "alias": "",
+            "position": "13",
             "notes": ""
         },
         {
@@ -283,6 +315,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Betty Jiang",
+            "alias": "",
+            "position": "14",
             "notes": ""
         },
         {
@@ -301,7 +335,9 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Pinnacle Entertainment Group",
-            "notes": ""
+            "alias": "",
+            "position": "15",
+            "notes": "!exportname Amelia Hawkeye Hayes"
         },
         {
             "card_name": "The Twilight Riders",
@@ -319,6 +355,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Roman Chaliy",
+            "alias": "",
+            "position": "16",
             "notes": ""
         },
         {
@@ -337,6 +375,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Justinas Vitkus",
+            "alias": "",
+            "position": "17",
             "notes": ""
         },
         {
@@ -355,6 +395,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Konami",
+            "alias": "",
+            "position": "18",
             "card_name2": "Azumoth, the Apocalypse",
             "color2": "",
             "type2": "Legendary Creature \u2014 Eldrazi",
@@ -365,6 +407,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Pedro Sena",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -375,7 +418,7 @@
             "number": 1,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "",
+            "rules_text": "[+1]: Create a colorless Bullet artifact token with \u201c{T}, Sacrifice this artifact: It deals 1 damage to any target.\u201d\n[0]: Until end of turn, target noncreature artifact you control becomes a 4/4 artifact creature. The next time you would activate an ability of that artifact this turn, if it's tapped, you may pay {0} rather than pay that ability's costs.\n[-6]: Exile each permanent that's one or more colors.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Create a colorless Bullet artifact token with \u201c{T}, Sacrifice this artifact: It deals 1 damage to any target.\u201d\n[0]: Until end of turn, target noncreature artifact you control becomes a 4/4 artifact creature. The next time you would activate an ability of that artifact this turn, if it's tapped, you may pay {0} rather than pay that ability's costs.\n[-6]: Exile each permanent that's one or more colors.",
@@ -383,6 +426,8 @@
             "set": "SHF",
             "loyalty": "4",
             "artist": "Thomas Chamberlain-Keen",
+            "alias": "",
+            "position": "19",
             "notes": ""
         },
         {
@@ -401,6 +446,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Joel Gruben",
+            "alias": "",
+            "position": "20",
             "notes": ""
         },
         {
@@ -419,6 +466,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Svetlana Chib",
+            "alias": "",
+            "position": "21",
             "notes": ""
         },
         {
@@ -437,7 +486,9 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Iana Venge",
-            "notes": ""
+            "alias": "",
+            "position": "22",
+            "notes": "!exportname Annie White Rose Harper"
         },
         {
             "card_name": "Procession of the Alliance",
@@ -455,6 +506,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Steve Jung",
+            "alias": "",
+            "position": "23",
             "notes": ""
         },
         {
@@ -473,6 +526,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ismail Inceoglu",
+            "alias": "",
+            "position": "24",
             "notes": ""
         },
         {
@@ -491,6 +546,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Zhengyi Wang",
+            "alias": "",
+            "position": "25",
             "card_name2": "",
             "color2": "W",
             "type2": "Instant \u2014 Projectile",
@@ -501,6 +558,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -519,7 +577,9 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "peng lu",
-            "notes": ""
+            "alias": "",
+            "position": "26",
+            "notes": "!exportname Jack Flash Jacobs"
         },
         {
             "card_name": "Shadow Puppeteer",
@@ -537,6 +597,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Alex Speed",
+            "alias": "",
+            "position": "27",
             "notes": ""
         },
         {
@@ -555,6 +617,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Daryl Mandryk",
+            "alias": "",
+            "position": "28",
             "notes": ""
         },
         {
@@ -573,6 +637,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Buclofen",
+            "alias": "",
+            "position": "29",
             "notes": ""
         },
         {
@@ -591,6 +657,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Susann Houndsville",
+            "alias": "",
+            "position": "30",
             "notes": ""
         },
         {
@@ -609,6 +677,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Sandra Duchiewicz",
+            "alias": "",
+            "position": "31",
             "card_name2": "",
             "color2": "U",
             "type2": "Sorcery \u2014 Projectile",
@@ -619,6 +689,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -637,6 +708,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Barry Brown, Jr.",
+            "alias": "",
+            "position": "32",
             "notes": ""
         },
         {
@@ -655,6 +728,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ildar Kharisov",
+            "alias": "",
+            "position": "33",
             "notes": ""
         },
         {
@@ -673,6 +748,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Evgeny Loginov",
+            "alias": "",
+            "position": "34",
             "notes": ""
         },
         {
@@ -691,10 +768,12 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Nikolay Litvinenko",
+            "alias": "",
+            "position": "35",
             "notes": ""
         },
         {
-            "card_name": "Xiong Mao, a.k.a. Rusty",
+            "card_name": "Xiong Mao aka Rusty",
             "color": "B",
             "rarity": "rare",
             "type": "Sorcery",
@@ -709,7 +788,9 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Eleftheria Mandrela",
-            "notes": ""
+            "alias": "",
+            "position": "36",
+            "notes": "!exportname Xiong Mao aka Rusty"
         },
         {
             "card_name": "Spray and Pray",
@@ -727,6 +808,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Andre Pinheiro",
+            "alias": "",
+            "position": "37",
             "card_name2": "",
             "color2": "B",
             "type2": "Sorcery \u2014 Projectile",
@@ -737,6 +820,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -755,6 +839,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Elder Scrolls: Legends",
+            "alias": "",
+            "position": "38",
             "notes": ""
         },
         {
@@ -773,6 +859,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Tamas Patkos",
+            "alias": "",
+            "position": "39",
             "notes": ""
         },
         {
@@ -791,6 +879,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ivan Smirnov",
+            "alias": "",
+            "position": "40",
             "notes": ""
         },
         {
@@ -809,6 +899,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Aldo Dominguez",
+            "alias": "",
+            "position": "41",
             "notes": ""
         },
         {
@@ -826,7 +918,9 @@
             "shape": "normal",
             "set": "SHF",
             "loyalty": "",
-            "artist": "Openart AI",
+            "artist": "Midjourney",
+            "alias": "",
+            "position": "42",
             "notes": ""
         },
         {
@@ -845,6 +939,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Riccardo Rullo",
+            "alias": "",
+            "position": "43",
             "card_name2": "",
             "color2": "R",
             "type2": "Sorcery \u2014 Projectile",
@@ -855,6 +951,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -873,6 +970,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Sheena Holm",
+            "alias": "",
+            "position": "44",
             "notes": ""
         },
         {
@@ -891,6 +990,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Uken Games",
+            "alias": "",
+            "position": "45",
             "notes": ""
         },
         {
@@ -909,6 +1010,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Mark Wester",
+            "alias": "",
+            "position": "46",
             "notes": ""
         },
         {
@@ -927,6 +1030,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Damien Papet",
+            "alias": "",
+            "position": "47",
             "notes": ""
         },
         {
@@ -945,6 +1050,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gilberto Martimiano",
+            "alias": "",
+            "position": "48",
             "notes": ""
         },
         {
@@ -963,6 +1070,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Karol Bem",
+            "alias": "",
+            "position": "49",
             "card_name2": "",
             "color2": "G",
             "type2": "Sorcery \u2014 Projectile",
@@ -973,6 +1082,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -991,6 +1101,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Marc Simonetti",
+            "alias": "",
+            "position": "50",
             "notes": ""
         },
         {
@@ -1009,6 +1121,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Veli Nystrom",
+            "alias": "",
+            "position": "51",
             "notes": ""
         },
         {
@@ -1027,6 +1141,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gabe Leonard",
+            "alias": "",
+            "position": "52",
             "notes": ""
         },
         {
@@ -1045,6 +1161,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Sergey Lushchyk",
+            "alias": "",
+            "position": "53",
             "notes": ""
         },
         {
@@ -1063,6 +1181,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "High Moon Studios",
+            "alias": "",
+            "position": "54",
             "notes": ""
         },
         {
@@ -1081,6 +1201,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Brom",
+            "alias": "",
+            "position": "55",
             "notes": ""
         },
         {
@@ -1099,6 +1221,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Luis Dyachenko",
+            "alias": "",
+            "position": "56",
             "notes": ""
         },
         {
@@ -1117,6 +1241,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Kekai Kotaki",
+            "alias": "",
+            "position": "57",
             "notes": ""
         },
         {
@@ -1135,7 +1261,9 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Antti Hakosaari",
-            "notes": ""
+            "alias": "",
+            "position": "58",
+            "notes": "!exportname Juniper Greenthumb Carter"
         },
         {
             "card_name": "Amberhorn Bear",
@@ -1153,6 +1281,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Marina Kogtya",
+            "alias": "",
+            "position": "59",
             "notes": ""
         },
         {
@@ -1171,6 +1301,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Viko Menezes",
+            "alias": "",
+            "position": "60",
             "notes": ""
         },
         {
@@ -1189,6 +1321,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Markella Stav",
+            "alias": "",
+            "position": "61",
             "notes": ""
         },
         {
@@ -1207,6 +1341,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Felipe Cagno \u2022 Fabiano Neves",
+            "alias": "",
+            "position": "62",
             "notes": ""
         },
         {
@@ -1225,6 +1361,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Yohann Schepacz",
+            "alias": "",
+            "position": "63",
             "notes": ""
         },
         {
@@ -1243,6 +1381,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "OpenArt AI",
+            "alias": "",
+            "position": "64",
             "notes": ""
         },
         {
@@ -1261,6 +1401,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "William Bao",
+            "alias": "",
+            "position": "65",
             "notes": ""
         },
         {
@@ -1279,7 +1421,9 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jose Silva",
-            "notes": ""
+            "alias": "",
+            "position": "66",
+            "notes": "!exportname Clementine Cogs Faraday"
         },
         {
             "card_name": "Impavid Trailblazer",
@@ -1297,6 +1441,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Sergey Avtushenko",
+            "alias": "",
+            "position": "67",
             "notes": ""
         },
         {
@@ -1315,6 +1461,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Evan Liu",
+            "alias": "",
+            "position": "68",
             "notes": ""
         },
         {
@@ -1333,7 +1481,9 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Nathan Chen",
-            "notes": ""
+            "alias": "",
+            "position": "69",
+            "notes": "!exportname Carson Livewire Legette"
         },
         {
             "card_name": "Galaxian's Best Friend",
@@ -1351,6 +1501,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Even Topland",
+            "alias": "",
+            "position": "70",
             "notes": ""
         },
         {
@@ -1369,6 +1521,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Andrew Palyanov",
+            "alias": "",
+            "position": "71",
             "notes": ""
         },
         {
@@ -1387,6 +1541,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Midjourney AI",
+            "alias": "",
+            "position": "72",
             "notes": ""
         },
         {
@@ -1405,6 +1561,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Yerbol Bulentayev",
+            "alias": "",
+            "position": "73",
             "notes": ""
         },
         {
@@ -1423,6 +1581,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Pablo Carpio",
+            "alias": "",
+            "position": "74",
             "notes": ""
         },
         {
@@ -1441,6 +1601,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "TopWare Interactive",
+            "alias": "",
+            "position": "75",
             "notes": ""
         },
         {
@@ -1459,6 +1621,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Cze Peku",
+            "alias": "",
+            "position": "76",
             "notes": ""
         },
         {
@@ -1477,6 +1641,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Aleksei Liakh",
+            "alias": "",
+            "position": "77",
             "notes": ""
         },
         {
@@ -1495,6 +1661,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Alexey Egorov",
+            "alias": "",
+            "position": "78",
             "notes": ""
         },
         {
@@ -1513,6 +1681,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Frank Sun",
+            "alias": "",
+            "position": "79",
             "notes": ""
         },
         {
@@ -1531,6 +1701,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Bill Anton",
+            "alias": "",
+            "position": "80",
             "notes": ""
         },
         {
@@ -1549,6 +1721,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jonathan Dawo",
+            "alias": "",
+            "position": "81",
             "notes": ""
         },
         {
@@ -1567,6 +1741,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Thanh Tuan",
+            "alias": "",
+            "position": "82",
             "notes": ""
         },
         {
@@ -1585,6 +1761,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Sara Gilardi",
+            "alias": "",
+            "position": "83",
             "notes": ""
         },
         {
@@ -1603,7 +1781,9 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "nachomolina",
-            "notes": ""
+            "alias": "",
+            "position": "84",
+            "notes": "!exportname Luke The Duke McCall"
         },
         {
             "card_name": "Sandsteppe Trooper",
@@ -1621,6 +1801,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jakub Javora",
+            "alias": "",
+            "position": "85",
             "notes": ""
         },
         {
@@ -1639,6 +1821,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jaime Jones",
+            "alias": "",
+            "position": "86",
             "notes": ""
         },
         {
@@ -1657,6 +1841,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Charidimos Bitsakakis",
+            "alias": "",
+            "position": "87",
             "notes": ""
         },
         {
@@ -1675,6 +1861,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Kyle Enochs",
+            "alias": "",
+            "position": "88",
             "notes": ""
         },
         {
@@ -1693,6 +1881,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Rutger van de Steeg",
+            "alias": "",
+            "position": "89",
             "notes": ""
         },
         {
@@ -1711,6 +1901,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Javier Pacheco",
+            "alias": "",
+            "position": "90",
             "notes": ""
         },
         {
@@ -1729,6 +1921,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Dan Watson",
+            "alias": "",
+            "position": "91",
             "notes": ""
         },
         {
@@ -1747,6 +1941,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Julia Zhuravleva",
+            "alias": "",
+            "position": "92",
             "notes": ""
         },
         {
@@ -1765,6 +1961,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Marko Djurdjevic",
+            "alias": "",
+            "position": "93",
             "card_name2": "",
             "color2": "W",
             "type2": "Sorcery \u2014 Projectile",
@@ -1775,6 +1973,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -1793,6 +1992,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Maxwell Alexander",
+            "alias": "",
+            "position": "94",
             "notes": ""
         },
         {
@@ -1811,6 +2012,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "imateria",
+            "alias": "",
+            "position": "95",
             "notes": ""
         },
         {
@@ -1829,6 +2032,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "neneza",
+            "alias": "",
+            "position": "96",
             "notes": ""
         },
         {
@@ -1847,6 +2052,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jan Schlegel",
+            "alias": "",
+            "position": "97",
             "notes": ""
         },
         {
@@ -1865,6 +2072,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Alex Konstad",
+            "alias": "",
+            "position": "98",
             "notes": ""
         },
         {
@@ -1883,6 +2092,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Benjamin Ee",
+            "alias": "",
+            "position": "99",
             "notes": ""
         },
         {
@@ -1901,6 +2112,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Midjourney",
+            "alias": "",
+            "position": "100",
             "notes": ""
         },
         {
@@ -1919,6 +2132,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Midjourney",
+            "alias": "",
+            "position": "101",
             "notes": ""
         },
         {
@@ -1937,6 +2152,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Midjourney",
+            "alias": "",
+            "position": "102",
             "notes": ""
         },
         {
@@ -1955,6 +2172,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Dominique Buttiens",
+            "alias": "",
+            "position": "103",
             "notes": ""
         },
         {
@@ -1973,6 +2192,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Midjourney",
+            "alias": "",
+            "position": "104",
             "notes": ""
         },
         {
@@ -1991,6 +2212,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Kai Carpenter",
+            "alias": "",
+            "position": "105",
             "notes": "f!reprint"
         },
         {
@@ -2009,6 +2232,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Morten Solgaard Pedersen",
+            "alias": "",
+            "position": "106",
             "notes": ""
         },
         {
@@ -2027,6 +2252,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "JustV23",
+            "alias": "",
+            "position": "107",
             "card_name2": "",
             "color2": "U",
             "type2": "Sorcery \u2014 Projectile",
@@ -2037,6 +2264,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -2055,6 +2283,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Brent Hollowell",
+            "alias": "",
+            "position": "108",
             "notes": ""
         },
         {
@@ -2073,6 +2303,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Carlos Fabian Villa",
+            "alias": "",
+            "position": "109",
             "notes": ""
         },
         {
@@ -2091,6 +2323,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Josh James",
+            "alias": "",
+            "position": "110",
             "notes": ""
         },
         {
@@ -2109,6 +2343,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Vadim Kalabukh",
+            "alias": "",
+            "position": "111",
             "notes": ""
         },
         {
@@ -2127,6 +2363,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Roman Chaliy",
+            "alias": "",
+            "position": "112",
             "notes": ""
         },
         {
@@ -2145,6 +2383,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gina Vila",
+            "alias": "",
+            "position": "113",
             "notes": ""
         },
         {
@@ -2163,6 +2403,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "moggith",
+            "alias": "",
+            "position": "114",
             "notes": ""
         },
         {
@@ -2181,6 +2423,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Pinnacle Entertainment Group",
+            "alias": "",
+            "position": "115",
             "notes": ""
         },
         {
@@ -2199,6 +2443,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ryan Barger",
+            "alias": "",
+            "position": "116",
             "notes": ""
         },
         {
@@ -2217,6 +2463,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Bryce Youtsey",
+            "alias": "",
+            "position": "117",
             "notes": ""
         },
         {
@@ -2235,6 +2483,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Yan Kyohara",
+            "alias": "",
+            "position": "118",
             "notes": ""
         },
         {
@@ -2253,6 +2503,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Adrian Kubiak",
+            "alias": "",
+            "position": "119",
             "notes": ""
         },
         {
@@ -2271,6 +2523,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Angel Palacios",
+            "alias": "",
+            "position": "120",
             "notes": ""
         },
         {
@@ -2289,6 +2543,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "David Lozeau",
+            "alias": "",
+            "position": "121",
             "card_name2": "",
             "color2": "B",
             "type2": "Sorcery \u2014 Projectile",
@@ -2299,6 +2555,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -2317,6 +2574,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Brent Hollowell",
+            "alias": "",
+            "position": "122",
             "notes": ""
         },
         {
@@ -2335,6 +2594,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "tuabak",
+            "alias": "",
+            "position": "123",
             "notes": ""
         },
         {
@@ -2353,6 +2614,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jon Foster",
+            "alias": "",
+            "position": "124",
             "notes": ""
         },
         {
@@ -2371,6 +2634,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "David Haire",
+            "alias": "",
+            "position": "125",
             "notes": ""
         },
         {
@@ -2389,6 +2654,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Kerem Beyit",
+            "alias": "",
+            "position": "126",
             "notes": ""
         },
         {
@@ -2407,6 +2674,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Kim Sung Hwan",
+            "alias": "",
+            "position": "127",
             "notes": ""
         },
         {
@@ -2425,6 +2694,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Matheus Schwartz",
+            "alias": "",
+            "position": "128",
             "notes": ""
         },
         {
@@ -2443,6 +2714,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Diana Franco",
+            "alias": "",
+            "position": "129",
             "notes": ""
         },
         {
@@ -2461,6 +2734,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Florian Chastres",
+            "alias": "",
+            "position": "130",
             "notes": ""
         },
         {
@@ -2479,6 +2754,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Tyler Jacobson",
+            "alias": "",
+            "position": "131",
             "notes": ""
         },
         {
@@ -2497,6 +2774,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gokhan Kahraman",
+            "alias": "",
+            "position": "132",
             "notes": ""
         },
         {
@@ -2515,6 +2794,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ralph Meyer",
+            "alias": "",
+            "position": "133",
             "notes": ""
         },
         {
@@ -2533,6 +2814,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Art of Neight",
+            "alias": "",
+            "position": "134",
             "notes": ""
         },
         {
@@ -2551,6 +2834,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Caleb Kuhl",
+            "alias": "",
+            "position": "135",
             "card_name2": "",
             "color2": "R",
             "type2": "Sorcery \u2014 Projectile",
@@ -2561,6 +2846,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -2579,6 +2865,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Benjamin Huen",
+            "alias": "",
+            "position": "136",
             "notes": ""
         },
         {
@@ -2597,6 +2885,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Brent Hollowell",
+            "alias": "",
+            "position": "137",
             "notes": ""
         },
         {
@@ -2615,6 +2905,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Flying Frog Productions",
+            "alias": "",
+            "position": "138",
             "notes": ""
         },
         {
@@ -2633,6 +2925,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gavin O'Donnell",
+            "alias": "",
+            "position": "139",
             "notes": ""
         },
         {
@@ -2651,6 +2945,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Fran Fdez",
+            "alias": "",
+            "position": "140",
             "notes": ""
         },
         {
@@ -2669,6 +2965,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Matheus Schwartz",
+            "alias": "",
+            "position": "141",
             "notes": ""
         },
         {
@@ -2687,6 +2985,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gavin O'Donnell",
+            "alias": "",
+            "position": "142",
             "notes": ""
         },
         {
@@ -2705,6 +3005,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Matheus Schwartz",
+            "alias": "",
+            "position": "143",
             "notes": ""
         },
         {
@@ -2723,6 +3025,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Matheus Schwartz",
+            "alias": "",
+            "position": "144",
             "notes": ""
         },
         {
@@ -2741,6 +3045,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Aaron Limonick",
+            "alias": "",
+            "position": "145",
             "notes": ""
         },
         {
@@ -2759,6 +3065,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "XD.",
+            "alias": "",
+            "position": "146",
             "notes": ""
         },
         {
@@ -2777,6 +3085,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "JG O'Donoghue",
+            "alias": "",
+            "position": "147",
             "notes": ""
         },
         {
@@ -2795,6 +3105,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Anton Fadeev",
+            "alias": "",
+            "position": "148",
             "notes": ""
         },
         {
@@ -2813,6 +3125,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Sina Hayati",
+            "alias": "",
+            "position": "149",
             "card_name2": "",
             "color2": "G",
             "type2": "Instant \u2014 Projectile",
@@ -2823,6 +3137,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -2841,6 +3156,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "mingrutu",
+            "alias": "",
+            "position": "150",
             "notes": ""
         },
         {
@@ -2859,16 +3176,19 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Felipe Sanchez",
+            "alias": "",
+            "position": "151",
             "card_name2": "",
             "color2": "WU",
             "type2": "Instant \u2014 Projectile",
             "cost2": "{W}{U}",
-            "rules_text2": "Tap up to one target creature, then put a stun counter on it. [i](If a permanent with a stun counter on it would become untapped, remove one from it instead.)[/i]",
+            "rules_text2": "Tap up to one target creature, then put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -2887,6 +3207,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Stephen Sykes",
+            "alias": "",
+            "position": "152",
             "notes": ""
         },
         {
@@ -2905,6 +3227,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Rodrigo Ramos",
+            "alias": "",
+            "position": "153",
             "notes": ""
         },
         {
@@ -2923,6 +3247,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Qiushi Zhang",
+            "alias": "",
+            "position": "154",
             "notes": ""
         },
         {
@@ -2941,6 +3267,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Andre Pinheiro",
+            "alias": "",
+            "position": "155",
             "notes": ""
         },
         {
@@ -2959,6 +3287,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Claudya Schmidt",
+            "alias": "",
+            "position": "156",
             "notes": ""
         },
         {
@@ -2977,6 +3307,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Nutchapol Thitinunthakorn",
+            "alias": "",
+            "position": "157",
             "notes": ""
         },
         {
@@ -2995,6 +3327,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "C Y",
+            "alias": "",
+            "position": "158",
             "notes": ""
         },
         {
@@ -3013,6 +3347,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "charro-art",
+            "alias": "",
+            "position": "159",
             "notes": ""
         },
         {
@@ -3031,6 +3367,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gabriele Cavalli",
+            "alias": "",
+            "position": "160",
             "notes": ""
         },
         {
@@ -3049,6 +3387,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Rilez75",
+            "alias": "",
+            "position": "161",
             "notes": ""
         },
         {
@@ -3067,6 +3407,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Joao Bragato",
+            "alias": "",
+            "position": "162",
             "notes": ""
         },
         {
@@ -3085,6 +3427,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Filipe Augusto",
+            "alias": "",
+            "position": "163",
             "notes": ""
         },
         {
@@ -3103,6 +3447,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Elena Churkina",
+            "alias": "",
+            "position": "164",
             "notes": ""
         },
         {
@@ -3121,6 +3467,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Mark Maggiori",
+            "alias": "",
+            "position": "165",
             "notes": ""
         },
         {
@@ -3139,6 +3487,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Alexander Mokhov",
+            "alias": "",
+            "position": "166",
             "notes": ""
         },
         {
@@ -3157,6 +3507,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Mateusz Mizak",
+            "alias": "",
+            "position": "167",
             "card_name2": "",
             "color2": "UR",
             "type2": "Sorcery \u2014 Projectile",
@@ -3167,6 +3519,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -3185,7 +3538,9 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "John Anthony Di Giovanni",
-            "notes": ""
+            "alias": "",
+            "position": "168",
+            "notes": "!exportname Hot Hands Lurk"
         },
         {
             "card_name": "Six-Shot Sheriff",
@@ -3203,6 +3558,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Federica Porpora",
+            "alias": "",
+            "position": "169",
             "notes": ""
         },
         {
@@ -3221,6 +3578,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "arcipello",
+            "alias": "",
+            "position": "170",
             "notes": ""
         },
         {
@@ -3239,6 +3598,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "J-Humphries",
+            "alias": "",
+            "position": "171",
             "notes": ""
         },
         {
@@ -3257,6 +3618,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Mark Tarrisse",
+            "alias": "",
+            "position": "172",
             "notes": ""
         },
         {
@@ -3275,6 +3638,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "madspartan013",
+            "alias": "",
+            "position": "173",
             "notes": ""
         },
         {
@@ -3293,6 +3658,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Midjourney",
+            "alias": "",
+            "position": "174",
             "notes": ""
         },
         {
@@ -3311,6 +3678,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "karola-j",
+            "alias": "",
+            "position": "175",
             "notes": ""
         },
         {
@@ -3329,6 +3698,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ben Mauro",
+            "alias": "",
+            "position": "176",
             "notes": ""
         },
         {
@@ -3347,6 +3718,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Travis Anderson",
+            "alias": "",
+            "position": "177",
             "notes": ""
         },
         {
@@ -3365,6 +3738,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ramirez De Souza",
+            "alias": "",
+            "position": "178",
             "notes": ""
         },
         {
@@ -3383,6 +3758,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Vadim Shchepilov",
+            "alias": "",
+            "position": "179",
             "notes": ""
         },
         {
@@ -3401,6 +3778,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Origames",
+            "alias": "",
+            "position": "180",
             "notes": ""
         },
         {
@@ -3419,6 +3798,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ben Wootten",
+            "alias": "",
+            "position": "181",
             "notes": ""
         },
         {
@@ -3437,6 +3818,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "brunob",
+            "alias": "",
+            "position": "182",
             "notes": ""
         },
         {
@@ -3455,6 +3838,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "rehg_2020",
+            "alias": "",
+            "position": "183",
             "notes": ""
         },
         {
@@ -3473,6 +3858,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Deiv Calviz",
+            "alias": "",
+            "position": "184",
             "notes": ""
         },
         {
@@ -3491,6 +3878,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ramazan Kazaliev",
+            "alias": "",
+            "position": "185",
             "notes": ""
         },
         {
@@ -3509,6 +3898,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ameera Sheikh",
+            "alias": "",
+            "position": "186",
             "notes": ""
         },
         {
@@ -3527,6 +3918,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Halil Ural",
+            "alias": "",
+            "position": "187",
             "notes": ""
         },
         {
@@ -3545,6 +3938,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Omar Samy",
+            "alias": "",
+            "position": "188",
             "notes": ""
         },
         {
@@ -3563,6 +3958,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Artem Chebokha",
+            "alias": "",
+            "position": "189",
             "notes": ""
         },
         {
@@ -3581,6 +3978,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jacques Henry",
+            "alias": "",
+            "position": "190",
             "notes": ""
         },
         {
@@ -3599,6 +3998,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Mark Zug",
+            "alias": "",
+            "position": "191",
             "notes": ""
         },
         {
@@ -3617,6 +4018,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Mojtaba Aryan",
+            "alias": "",
+            "position": "192",
             "notes": ""
         },
         {
@@ -3635,6 +4038,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Cygames, Inc.",
+            "alias": "",
+            "position": "193",
             "card_name2": "",
             "color2": "W",
             "type2": "Instant \u2014 Projectile",
@@ -3645,6 +4050,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -3663,6 +4069,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "MrHarp",
+            "alias": "",
+            "position": "194",
             "notes": "f!reprint"
         },
         {
@@ -3681,6 +4089,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "MOZCHOPS",
+            "alias": "",
+            "position": "195",
             "notes": ""
         },
         {
@@ -3699,6 +4109,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Morgan Yon",
+            "alias": "",
+            "position": "196",
             "notes": ""
         },
         {
@@ -3717,6 +4129,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jessica Oyhenart",
+            "alias": "",
+            "position": "197",
             "notes": ""
         },
         {
@@ -3735,6 +4149,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Juan Novelletto",
+            "alias": "",
+            "position": "198",
             "notes": ""
         },
         {
@@ -3745,7 +4161,7 @@
             "number": 52,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Whenever you cast your second spell each turn, tap target creature an opponent controls and put a stun counter on it. [i](If a permanent with a stun counter on it would become untapped, remove one from it instead.)[/i]",
+            "rules_text": "Whenever you cast your second spell each turn, tap target creature an opponent controls and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]",
             "flavor_text": "[i]It injects its victims with a slow-working venom, tracking them for multiple days until they finally succumb to a bitter paralysis.[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -3753,6 +4169,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Kate Pfeilschiefter",
+            "alias": "",
+            "position": "199",
             "notes": ""
         },
         {
@@ -3771,6 +4189,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Viko Menezes",
+            "alias": "",
+            "position": "200",
             "notes": ""
         },
         {
@@ -3789,6 +4209,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Dave Melvin",
+            "alias": "",
+            "position": "201",
             "notes": ""
         },
         {
@@ -3807,6 +4229,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Riyahd Cassiem",
+            "alias": "",
+            "position": "202",
             "notes": ""
         },
         {
@@ -3825,6 +4249,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Brent Hollowell",
+            "alias": "",
+            "position": "203",
             "notes": ""
         },
         {
@@ -3843,6 +4269,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Denis Kornev",
+            "alias": "",
+            "position": "204",
             "notes": ""
         },
         {
@@ -3861,6 +4289,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Nikolai Litvinenko",
+            "alias": "",
+            "position": "205",
             "notes": ""
         },
         {
@@ -3879,6 +4309,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "zhihui Su",
+            "alias": "",
+            "position": "206",
             "card_name2": "",
             "color2": "U",
             "type2": "Sorcery \u2014 Projectile",
@@ -3889,6 +4321,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -3907,6 +4340,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Swang",
+            "alias": "",
+            "position": "207",
             "notes": ""
         },
         {
@@ -3925,6 +4360,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Cole",
+            "alias": "",
+            "position": "208",
             "notes": ""
         },
         {
@@ -3943,6 +4380,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Simon Cowell",
+            "alias": "",
+            "position": "209",
             "notes": ""
         },
         {
@@ -3961,6 +4400,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Roman Chaliy",
+            "alias": "",
+            "position": "210",
             "notes": ""
         },
         {
@@ -3979,6 +4420,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Konstantin Radichov",
+            "alias": "",
+            "position": "211",
             "notes": ""
         },
         {
@@ -3997,6 +4440,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Rilez75",
+            "alias": "",
+            "position": "212",
             "notes": ""
         },
         {
@@ -4015,6 +4460,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Max Kostin",
+            "alias": "",
+            "position": "213",
             "notes": ""
         },
         {
@@ -4033,6 +4480,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Boris M",
+            "alias": "",
+            "position": "214",
             "notes": ""
         },
         {
@@ -4051,6 +4500,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Elias Ravanetti",
+            "alias": "",
+            "position": "215",
             "notes": ""
         },
         {
@@ -4069,6 +4520,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "216",
             "notes": ""
         },
         {
@@ -4087,6 +4540,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Roberto Robert",
+            "alias": "",
+            "position": "217",
             "notes": ""
         },
         {
@@ -4105,6 +4560,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ludwig Van Bacon",
+            "alias": "",
+            "position": "218",
             "notes": ""
         },
         {
@@ -4123,6 +4580,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Andre Mateus",
+            "alias": "",
+            "position": "219",
             "notes": ""
         },
         {
@@ -4141,6 +4600,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Halil Ural",
+            "alias": "",
+            "position": "220",
             "notes": ""
         },
         {
@@ -4159,6 +4620,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Clement Dumonceaux",
+            "alias": "",
+            "position": "221",
             "notes": ""
         },
         {
@@ -4177,6 +4640,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Sergey Lushchyk",
+            "alias": "",
+            "position": "222",
             "card_name2": "",
             "color2": "B",
             "type2": "Sorcery \u2014 Projectile",
@@ -4187,6 +4652,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -4205,6 +4671,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "John Yau",
+            "alias": "",
+            "position": "223",
             "notes": ""
         },
         {
@@ -4223,6 +4691,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Daniel Eskridge",
+            "alias": "",
+            "position": "224",
             "notes": ""
         },
         {
@@ -4241,6 +4711,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Joseph Descallar",
+            "alias": "",
+            "position": "225",
             "notes": ""
         },
         {
@@ -4259,6 +4731,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Didier Graffet",
+            "alias": "",
+            "position": "226",
             "notes": ""
         },
         {
@@ -4277,6 +4751,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Nutchapol Thitinunthakorn",
+            "alias": "",
+            "position": "227",
             "notes": ""
         },
         {
@@ -4295,6 +4771,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Juju Dachang",
+            "alias": "",
+            "position": "228",
             "notes": ""
         },
         {
@@ -4313,6 +4791,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Viko Menezes",
+            "alias": "",
+            "position": "229",
             "notes": ""
         },
         {
@@ -4331,6 +4811,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Guillerme Motta",
+            "alias": "",
+            "position": "230",
             "notes": ""
         },
         {
@@ -4349,6 +4831,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ricardo Padierne Silvera",
+            "alias": "",
+            "position": "231",
             "notes": ""
         },
         {
@@ -4367,6 +4851,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Brent Hollowell",
+            "alias": "",
+            "position": "232",
             "notes": ""
         },
         {
@@ -4385,6 +4871,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Yun Ling",
+            "alias": "",
+            "position": "233",
             "notes": ""
         },
         {
@@ -4403,6 +4891,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Sergey Lushchyk",
+            "alias": "",
+            "position": "234",
             "notes": ""
         },
         {
@@ -4421,6 +4911,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Blizzard Entertainment",
+            "alias": "",
+            "position": "235",
             "notes": ""
         },
         {
@@ -4439,6 +4931,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Rockstar Games",
+            "alias": "",
+            "position": "236",
             "notes": ""
         },
         {
@@ -4457,6 +4951,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Alex Speed",
+            "alias": "",
+            "position": "237",
             "card_name2": "",
             "color2": "R",
             "type2": "Sorcery \u2014 Projectile",
@@ -4467,6 +4963,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -4485,6 +4982,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Brandon McCamey",
+            "alias": "",
+            "position": "238",
             "notes": ""
         },
         {
@@ -4503,6 +5002,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "albyu",
+            "alias": "",
+            "position": "239",
             "notes": ""
         },
         {
@@ -4521,6 +5022,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Iggy",
+            "alias": "",
+            "position": "240",
             "notes": ""
         },
         {
@@ -4539,6 +5042,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Kamila Szutenberg",
+            "alias": "",
+            "position": "241",
             "notes": ""
         },
         {
@@ -4557,6 +5062,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jin Xiaodi",
+            "alias": "",
+            "position": "242",
             "notes": ""
         },
         {
@@ -4575,6 +5082,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Svetlana Kostina",
+            "alias": "",
+            "position": "243",
             "notes": ""
         },
         {
@@ -4593,6 +5102,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Brent Hollowell",
+            "alias": "",
+            "position": "244",
             "notes": ""
         },
         {
@@ -4611,6 +5122,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "cdog",
+            "alias": "",
+            "position": "245",
             "notes": ""
         },
         {
@@ -4629,6 +5142,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Adrian Rodriguez",
+            "alias": "",
+            "position": "246",
             "notes": ""
         },
         {
@@ -4647,6 +5162,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Karl Lindberg",
+            "alias": "",
+            "position": "247",
             "notes": ""
         },
         {
@@ -4665,6 +5182,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ricardo Robles",
+            "alias": "",
+            "position": "248",
             "notes": ""
         },
         {
@@ -4683,6 +5202,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Kekai Kotaki",
+            "alias": "",
+            "position": "249",
             "notes": ""
         },
         {
@@ -4701,6 +5222,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gregory Manchess",
+            "alias": "",
+            "position": "250",
             "notes": ""
         },
         {
@@ -4719,6 +5242,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gabe Leonard",
+            "alias": "",
+            "position": "251",
             "notes": ""
         },
         {
@@ -4737,6 +5262,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Wizards of the Coast",
+            "alias": "",
+            "position": "252",
             "notes": ""
         },
         {
@@ -4755,6 +5282,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "peng lu",
+            "alias": "",
+            "position": "253",
             "notes": ""
         },
         {
@@ -4773,6 +5302,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Karl Brudvig",
+            "alias": "",
+            "position": "254",
             "card_name2": "",
             "color2": "G",
             "type2": "Instant \u2014 Projectile",
@@ -4783,6 +5314,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -4801,6 +5333,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jose Ochoa",
+            "alias": "",
+            "position": "255",
             "notes": "f!reprint"
         },
         {
@@ -4819,6 +5353,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Oleksandra Shchaslyva",
+            "alias": "",
+            "position": "256",
             "notes": ""
         },
         {
@@ -4837,6 +5373,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "sparth",
+            "alias": "",
+            "position": "257",
             "notes": ""
         },
         {
@@ -4855,6 +5393,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "seiberspace",
+            "alias": "",
+            "position": "258",
             "notes": ""
         },
         {
@@ -4873,6 +5413,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "HandMade Films",
+            "alias": "",
+            "position": "259",
             "notes": ""
         },
         {
@@ -4891,6 +5433,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ibrahem Swaid",
+            "alias": "",
+            "position": "260",
             "notes": "f!reprint"
         },
         {
@@ -4909,6 +5453,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "shen he",
+            "alias": "",
+            "position": "261",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -4927,6 +5473,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Allison Chin",
+            "alias": "",
+            "position": "262",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -4945,6 +5493,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Nikita Pilyukshin",
+            "alias": "",
+            "position": "263",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -4963,6 +5513,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "karlkka",
+            "alias": "",
+            "position": "264",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -4981,6 +5533,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Reza Afshar",
+            "alias": "",
+            "position": "265",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -4999,6 +5553,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Bungie",
+            "alias": "",
+            "position": "266",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -5017,6 +5573,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Will Noviss",
+            "alias": "",
+            "position": "267",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -5035,6 +5593,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Rimma Shmeleva",
+            "alias": "",
+            "position": "268",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -5053,6 +5613,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Matteo Marjoram",
+            "alias": "",
+            "position": "269",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -5071,6 +5633,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Tayler Olivas",
+            "alias": "",
+            "position": "270",
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -5089,6 +5653,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Nelly Amosova",
+            "alias": "",
+            "position": "271",
             "notes": "!landslot\nf!reprint"
         },
         {
@@ -5107,6 +5673,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ethundering",
+            "alias": "",
+            "position": "272",
             "notes": ""
         },
         {
@@ -5125,6 +5693,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Milos Radojkic",
+            "alias": "",
+            "position": "273",
             "notes": ""
         },
         {
@@ -5143,6 +5713,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Sebastian Wagner",
+            "alias": "",
+            "position": "274",
             "notes": ""
         },
         {
@@ -5161,6 +5733,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Ned ROgers",
+            "alias": "",
+            "position": "275",
             "notes": ""
         },
         {
@@ -5179,6 +5753,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jack Sorenson",
+            "alias": "",
+            "position": "276",
             "notes": ""
         },
         {
@@ -5197,6 +5773,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Andrew Palyanov",
+            "alias": "",
+            "position": "277",
             "notes": ""
         },
         {
@@ -5215,6 +5793,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Faba",
+            "alias": "",
+            "position": "278",
             "notes": ""
         },
         {
@@ -5233,6 +5813,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Delightworks",
+            "alias": "",
+            "position": "279",
             "notes": ""
         },
         {
@@ -5251,6 +5833,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Don Doxey",
+            "alias": "",
+            "position": "280",
             "notes": ""
         },
         {
@@ -5269,6 +5853,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Gregory Manchess",
+            "alias": "",
+            "position": "281",
             "notes": ""
         },
         {
@@ -5287,6 +5873,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Jacques Henry",
+            "alias": "",
+            "position": "282",
             "notes": ""
         },
         {
@@ -5305,6 +5893,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Midjourney AI",
+            "alias": "",
+            "position": "283",
             "notes": ""
         },
         {
@@ -5323,6 +5913,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "F3LC4T",
+            "alias": "",
+            "position": "284",
             "notes": ""
         },
         {
@@ -5341,6 +5933,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Midjourney AI",
+            "alias": "",
+            "position": "285",
             "notes": ""
         },
         {
@@ -5359,6 +5953,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "William Bang",
+            "alias": "",
+            "position": "286",
             "notes": ""
         },
         {
@@ -5377,6 +5973,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "AnttiHako",
+            "alias": "",
+            "position": "287",
             "notes": ""
         },
         {
@@ -5395,6 +5993,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "David Simons",
+            "alias": "",
+            "position": "288",
             "notes": ""
         },
         {
@@ -5413,6 +6013,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "djodarkExperience626",
+            "alias": "",
+            "position": "289",
             "notes": ""
         },
         {
@@ -5431,6 +6033,8 @@
             "set": "SHF",
             "loyalty": "",
             "artist": "Leont'eva Eugenia",
+            "alias": "",
+            "position": "290",
             "notes": ""
         }
     ]
