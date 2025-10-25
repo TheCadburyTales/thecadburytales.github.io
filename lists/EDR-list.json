@@ -1,0 +1,3977 @@
+﻿[
+    {
+        "card_name": "Abductor Virgin",
+        "number": 1,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "40"
+    },
+    {
+        "card_name": "Adula, Dark Moon Sworn",
+        "number": 58,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "313"
+    },
+    {
+        "card_name": "Abandoning Even His Fate",
+        "number": 115,
+        "shape": "saga",
+        "set": "EDR",
+        "position": "315"
+    },
+    {
+        "card_name": "Ancient Dragon",
+        "number": 172,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "227"
+    },
+    {
+        "card_name": "Albinauric Archer",
+        "number": 229,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "356"
+    },
+    {
+        "card_name": "Arrow of Nightglow",
+        "number": 2,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "502"
+    },
+    {
+        "card_name": "Ancient Hero of Zamor",
+        "number": 59,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "178"
+    },
+    {
+        "card_name": "Afflicted with Frenzy",
+        "number": 116,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "2"
+    },
+    {
+        "card_name": "Animus, Ascendant Light",
+        "number": 173,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "517"
+    },
+    {
+        "card_name": "Ancestral Follower",
+        "number": 230,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "45"
+    },
+    {
+        "card_name": "Banish from Leyndell",
+        "number": 3,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "146"
+    },
+    {
+        "card_name": "Behold Primeval Currents",
+        "number": 60,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "381"
+    },
+    {
+        "card_name": "Aging Untouchable",
+        "number": 117,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "294"
+    },
+    {
+        "card_name": "At the Heart of the Storm",
+        "number": 174,
+        "shape": "saga",
+        "set": "EDR",
+        "position": "91"
+    },
+    {
+        "card_name": "Behold the Jagged Peak",
+        "number": 231,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "522"
+    },
+    {
+        "card_name": "Becoming a Mother",
+        "number": 4,
+        "shape": "saga",
+        "set": "EDR",
+        "position": "213"
+    },
+    {
+        "card_name": "Carian Knight",
+        "number": 61,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "54"
+    },
+    {
+        "card_name": "Banished Knight",
+        "number": 118,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "124"
+    },
+    {
+        "card_name": "Bayle's Flame Lightning",
+        "number": 175,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "225"
+    },
+    {
+        "card_name": "Blaidd, Carian Knight",
+        "number": 232,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "51"
+    },
+    {
+        "card_name": "Blackgaol Knight",
+        "number": 5,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "324"
+    },
+    {
+        "card_name": "Carian Retaliation",
+        "number": 62,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "113"
+    },
+    {
+        "card_name": "Bayle's Tyranny",
+        "number": 119,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "212"
+    },
+    {
+        "card_name": "Bear Witness!",
+        "number": 176,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "4"
+    },
+    {
+        "card_name": "Boc, the Seamster",
+        "number": 233,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "301"
+    },
+    {
+        "card_name": "Circlet of Light",
+        "number": 6,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "203"
+    },
+    {
+        "card_name": "Claimed by Death",
+        "number": 63,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "285"
+    },
+    {
+        "card_name": "Bell Bearing Hunter",
+        "number": 120,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "34"
+    },
+    {
+        "card_name": "Blade of Miquella",
+        "number": 177,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "249"
+    },
+    {
+        "card_name": "Challenge of the Ring",
+        "number": 234,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "172"
+    },
+    {
+        "card_name": "Condemn to Memory",
+        "number": 7,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "503"
+    },
+    {
+        "card_name": "Conjure",
+        "number": 64,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "64"
+    },
+    {
+        "card_name": "Beloved Child",
+        "number": 121,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "348"
+    },
+    {
+        "card_name": "Blasphemous Act",
+        "number": 178,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "232"
+    },
+    {
+        "card_name": "Contest of Claws",
+        "number": 235,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "35"
+    },
+    {
+        "card_name": "Crusader's Resentment",
+        "number": 8,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "337"
+    },
+    {
+        "card_name": "Count Ymir, High Priest",
+        "number": 65,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "220"
+    },
+    {
+        "card_name": "Black Knife Assassin",
+        "number": 122,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "72"
+    },
+    {
+        "card_name": "Bloodborn Ritual",
+        "number": 179,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "38"
+    },
+    {
+        "card_name": "Cradled by Death",
+        "number": 236,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "523"
+    },
+    {
+        "card_name": "D, Hunter of the Dead",
+        "number": 9,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "141"
+    },
+    {
+        "card_name": "Dark Moon Sorcery",
+        "number": 66,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "167"
+    },
+    {
+        "card_name": "Black Knight Captain",
+        "number": 123,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "210"
+    },
+    {
+        "card_name": "Bloody Finger",
+        "number": 180,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "1"
+    },
+    {
+        "card_name": "Dancing Lion of Rauh",
+        "number": 237,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "224"
+    },
+    {
+        "card_name": "Diallos Hoslow",
+        "number": 10,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "33"
+    },
+    {
+        "card_name": "Death Rite Bird",
+        "number": 67,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "80"
+    },
+    {
+        "card_name": "Blackguard Boggart",
+        "number": 124,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "241"
+    },
+    {
+        "card_name": "Bolt Bend",
+        "number": 181,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "204"
+    },
+    {
+        "card_name": "Deathroot's Grasp",
+        "number": 238,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "397"
+    },
+    {
+        "card_name": "Die a True Death",
+        "number": 11,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "396"
+    },
+    {
+        "card_name": "Enter Ranni's Service",
+        "number": 68,
+        "shape": "saga",
+        "set": "EDR",
+        "position": "365"
+    },
+    {
+        "card_name": "Blade of Destined Death",
+        "number": 125,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "353"
+    },
+    {
+        "card_name": "Crucible Knights",
+        "number": 182,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "262"
+    },
+    {
+        "card_name": "Doubling Season",
+        "number": 239,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "122"
+    },
+    {
+        "card_name": "Divine Bird Warrior",
+        "number": 12,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "256"
+    },
+    {
+        "card_name": "Fallingstar Beast",
+        "number": 69,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "441"
+    },
+    {
+        "card_name": "Bloodhound Knight",
+        "number": 126,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "60"
+    },
+    {
+        "card_name": "Dancer of Ranah",
+        "number": 183,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "175"
+    },
+    {
+        "card_name": "Dragonkin of Nokstella",
+        "number": 240,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "93"
+    },
+    {
+        "card_name": "Dragon Cult Priestess",
+        "number": 13,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "43"
+    },
+    {
+        "card_name": "Fissure in the Fog",
+        "number": 70,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "481"
+    },
+    {
+        "card_name": "Call the Condemned",
+        "number": 127,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "512"
+    },
+    {
+        "card_name": "Dragonlord Placidusax",
+        "number": 184,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "92"
+    },
+    {
+        "card_name": "Dragonkin Roar",
+        "number": 241,
+        "shape": "saga",
+        "set": "EDR",
+        "position": "86"
+    },
+    {
+        "card_name": "The Ever Brilliant Goldmask",
+        "number": 14,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "258"
+    },
+    {
+        "card_name": "Founding Rain of Stars",
+        "number": 71,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "264"
+    },
+    {
+        "card_name": "Crux of Fate",
+        "number": 128,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "231"
+    },
+    {
+        "card_name": "Drake Knight",
+        "number": 185,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "154"
+    },
+    {
+        "card_name": "Dragonkin Soldier",
+        "number": 242,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "373"
+    },
+    {
+        "card_name": "Formless Mother's Embrace",
+        "number": 15,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "235"
+    },
+    {
+        "card_name": "Frenzied Troll",
+        "number": 72,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "371"
+    },
+    {
+        "card_name": "Death Knight",
+        "number": 129,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "211"
+    },
+    {
+        "card_name": "Erdtree Burial Watchdog",
+        "number": 186,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "155"
+    },
+    {
+        "card_name": "Dryleaf Dane",
+        "number": 243,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "214"
+    },
+    {
+        "card_name": "Gaol Binding",
+        "number": 16,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "484"
+    },
+    {
+        "card_name": "Glintstone Dragon",
+        "number": 73,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "81"
+    },
+    {
+        "card_name": "Death Prince's Domain",
+        "number": 130,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "208"
+    },
+    {
+        "card_name": "Farum Azula Dragon",
+        "number": 187,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "518"
+    },
+    {
+        "card_name": "Empyrean Bond",
+        "number": 244,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "470"
+    },
+    {
+        "card_name": "Godfrey, First Elden Lord",
+        "number": 17,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "90"
+    },
+    {
+        "card_name": "Glow",
+        "number": 74,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "507"
+    },
+    {
+        "card_name": "Desperate Measures",
+        "number": 131,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "374"
+    },
+    {
+        "card_name": "Fire Giant",
+        "number": 188,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "145"
+    },
+    {
+        "card_name": "Epic Encounter",
+        "number": 245,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "362"
+    },
+    {
+        "card_name": "Golden Epitaph",
+        "number": 18,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "268"
+    },
+    {
+        "card_name": "Heretical Rise",
+        "number": 75,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "137"
+    },
+    {
+        "card_name": "Dread Fortissax",
+        "number": 132,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "253"
+    },
+    {
+        "card_name": "Fire Knight",
+        "number": 189,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "336"
+    },
+    {
+        "card_name": "Erdtree Avatar",
+        "number": 246,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "430"
+    },
+    {
+        "card_name": "Heartfelt Wish",
+        "number": 19,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "389"
+    },
+    {
+        "card_name": "Hold Back the Stars",
+        "number": 76,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "15"
+    },
+    {
+        "card_name": "Feeding the Haligtree",
+        "number": 133,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "193"
+    },
+    {
+        "card_name": "Fire Knight Captain",
+        "number": 190,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "460"
+    },
+    {
+        "card_name": "Erdtree Burial",
+        "number": 247,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "427"
+    },
+    {
+        "card_name": "Horn-deck'd Beast",
+        "number": 20,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "275"
+    },
+    {
+        "card_name": "Larval Transformation",
+        "number": 77,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "508"
+    },
+    {
+        "card_name": "Fia, Deathbed Companion",
+        "number": 134,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "171"
+    },
+    {
+        "card_name": "Fire Prelate",
+        "number": 191,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "519"
+    },
+    {
+        "card_name": "Finger Crone's Blessing",
+        "number": 248,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "199"
+    },
+    {
+        "card_name": "Juno Hoslow",
+        "number": 21,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "32"
+    },
+    {
+        "card_name": "Liurnian Siege",
+        "number": 78,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "361"
+    },
+    {
+        "card_name": "Footprints of the Nightlord",
+        "number": 135,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "513"
+    },
+    {
+        "card_name": "Flames of Gladius",
+        "number": 192,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "520"
+    },
+    {
+        "card_name": "Fingercreeper",
+        "number": 249,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "311"
+    },
+    {
+        "card_name": "Light of Miquella",
+        "number": 22,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "504"
+    },
+    {
+        "card_name": "Maris, Fathom of Night",
+        "number": 79,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "449"
+    },
+    {
+        "card_name": "Giant Spirit Skeleton",
+        "number": 136,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "433"
+    },
+    {
+        "card_name": "Flames of the Crusade",
+        "number": 193,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "318"
+    },
+    {
+        "card_name": "Forager Brood Gift",
+        "number": 250,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "198"
+    },
+    {
+        "card_name": "Marika, Shaman Saint",
+        "number": 23,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "131"
+    },
+    {
+        "card_name": "Maris, Unknown Entity",
+        "number": 80,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "509"
+    },
+    {
+        "card_name": "Godwyn's Fall",
+        "number": 137,
+        "shape": "saga",
+        "set": "EDR",
+        "position": "382"
+    },
+    {
+        "card_name": "Florissax, Dragon Priestess",
+        "number": 194,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "342"
+    },
+    {
+        "card_name": "Grafted Scion",
+        "number": 251,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "77"
+    },
+    {
+        "card_name": "Marika, the Eternal",
+        "number": 24,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "19"
+    },
+    {
+        "card_name": "Mimic Tear",
+        "number": 81,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "42"
+    },
+    {
+        "card_name": "Grave Keeper",
+        "number": 138,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "514"
+    },
+    {
+        "card_name": "Flying Dragon Agheel",
+        "number": 195,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "18"
+    },
+    {
+        "card_name": "Great Exodus",
+        "number": 252,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "482"
+    },
+    {
+        "card_name": "Marika's Ascension",
+        "number": 25,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "162"
+    },
+    {
+        "card_name": "Miquella's Love",
+        "number": 82,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "308"
+    },
+    {
+        "card_name": "The Great Shattering",
+        "number": 139,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "144"
+    },
+    {
+        "card_name": "Forge's Flames",
+        "number": 196,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "521"
+    },
+    {
+        "card_name": "Guardian Golem",
+        "number": 253,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "245"
+    },
+    {
+        "card_name": "Marika's Communion",
+        "number": 26,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "206"
+    },
+    {
+        "card_name": "Preceptor Seluvis",
+        "number": 83,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "317"
+    },
+    {
+        "card_name": "Hornsent Inquisition",
+        "number": 140,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "321"
+    },
+    {
+        "card_name": "Frenzied Flame",
+        "number": 197,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "76"
+    },
+    {
+        "card_name": "Guided by Grace",
+        "number": 254,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "375"
+    },
+    {
+        "card_name": "Marika's Crucifixion",
+        "number": 27,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "106"
+    },
+    {
+        "card_name": "Primeval Sorcerer Lusat",
+        "number": 84,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "274"
+    },
+    {
+        "card_name": "In Search of Purpose",
+        "number": 141,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "456"
+    },
+    {
+        "card_name": "Gladius, Beast of Night",
+        "number": 198,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "309"
+    },
+    {
+        "card_name": "Hallowed Grounds",
+        "number": 255,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "147"
+    },
+    {
+        "card_name": "Marika's Guidance",
+        "number": 28,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "383"
+    },
+    {
+        "card_name": "Ranni the Witch",
+        "number": 85,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "8"
+    },
+    {
+        "card_name": "Infernal Grasp",
+        "number": 142,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "284"
+    },
+    {
+        "card_name": "Godwyn's Cursemark",
+        "number": 199,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "26"
+    },
+    {
+        "card_name": "Hallowhorn Remains",
+        "number": 256,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "102"
+    },
+    {
+        "card_name": "Melina, Kindling Maiden",
+        "number": 29,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "115"
+    },
+    {
+        "card_name": "Ranni's Wedding",
+        "number": 86,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "12"
+    },
+    {
+        "card_name": "Into the Jar",
+        "number": 143,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "418"
+    },
+    {
+        "card_name": "Igneous Visions",
+        "number": 200,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "369"
+    },
+    {
+        "card_name": "Hardened Scales",
+        "number": 257,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "85"
+    },
+    {
+        "card_name": "Mend the Elden Ring",
+        "number": 30,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "445"
+    },
+    {
+        "card_name": "Rellana, Blade of Messmer",
+        "number": 87,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "174"
+    },
+    {
+        "card_name": "Lady Tanith",
+        "number": 144,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "48"
+    },
+    {
+        "card_name": "Igon, Drake Warrior",
+        "number": 201,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "184"
+    },
+    {
+        "card_name": "Hornsent Grandam",
+        "number": 258,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "319"
+    },
+    {
+        "card_name": "Minor Erdtree",
+        "number": 31,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "201"
+    },
+    {
+        "card_name": "Rellana's Cameo",
+        "number": 88,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "510"
+    },
+    {
+        "card_name": "The Loathsome Dung Eater",
+        "number": 145,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "246"
+    },
+    {
+        "card_name": "Ironeye",
+        "number": 202,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "459"
+    },
+    {
+        "card_name": "Iron Fist Alexander",
+        "number": 259,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "20"
+    },
+    {
+        "card_name": "Miquella, the Unalloyed",
+        "number": 32,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "173"
+    },
+    {
+        "card_name": "Rennala, Lunar Queen",
+        "number": 89,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "70"
+    },
+    {
+        "card_name": "The Madness Wells",
+        "number": 146,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "197"
+    },
+    {
+        "card_name": "Jagged Peak Drake",
+        "number": 203,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "355"
+    },
+    {
+        "card_name": "Jar-Bairn",
+        "number": 260,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "266"
+    },
+    {
+        "card_name": "Miquella's Cross",
+        "number": 33,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "302"
+    },
+    {
+        "card_name": "Rennala's Studies",
+        "number": 90,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "138"
+    },
+    {
+        "card_name": "Maliketh, Demigod's Demise",
+        "number": 147,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "67"
+    },
+    {
+        "card_name": "Journey to the Haligtree",
+        "number": 204,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "432"
+    },
+    {
+        "card_name": "Land of Shadow",
+        "number": 261,
+        "shape": "saga",
+        "set": "EDR",
+        "position": "454"
+    },
+    {
+        "card_name": "Morgott, Veiled Monarch",
+        "number": 34,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "429"
+    },
+    {
+        "card_name": "Restage",
+        "number": 91,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "496"
+    },
+    {
+        "card_name": "Maliketh, the Black Blade",
+        "number": 148,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "304"
+    },
+    {
+        "card_name": "Leonard, Radahn's Steed",
+        "number": 205,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "360"
+    },
+    {
+        "card_name": "Living Jars",
+        "number": 262,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "130"
+    },
+    {
+        "card_name": "Nature of the Shamans",
+        "number": 35,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "425"
+    },
+    {
+        "card_name": "Riverwell Dragonkin",
+        "number": 92,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "94"
+    },
+    {
+        "card_name": "Marika, the Golden One",
+        "number": 149,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "379"
+    },
+    {
+        "card_name": "Leyndell Siege",
+        "number": 206,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "65"
+    },
+    {
+        "card_name": "March to Caelid",
+        "number": 263,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "88"
+    },
+    {
+        "card_name": "A New Journey",
+        "number": 36,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "455"
+    },
+    {
+        "card_name": "Roderika, Spirit Tuner",
+        "number": 93,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "320"
+    },
+    {
+        "card_name": "Marika's Soreseal",
+        "number": 150,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "191"
+    },
+    {
+        "card_name": "Lightning Bolt",
+        "number": 207,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "128"
+    },
+    {
+        "card_name": "Merchant's Song",
+        "number": 264,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "271"
+    },
+    {
+        "card_name": "Nox Maidens",
+        "number": 37,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "354"
+    },
+    {
+        "card_name": "Seekers of Redemption",
+        "number": 94,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "419"
+    },
+    {
+        "card_name": "Mariner's Dirge",
+        "number": 151,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "376"
+    },
+    {
+        "card_name": "Lightseeker Hyetta",
+        "number": 208,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "207"
+    },
+    {
+        "card_name": "Miquella's Charm",
+        "number": 265,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "267"
+    },
+    {
+        "card_name": "Offer Pita Bread",
+        "number": 38,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "505"
+    },
+    {
+        "card_name": "Sellen, Graven Witch",
+        "number": 95,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "139"
+    },
+    {
+        "card_name": "Miquella's Sacrifice",
+        "number": 152,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "314"
+    },
+    {
+        "card_name": "Madness",
+        "number": 209,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "244"
+    },
+    {
+        "card_name": "Nepheli Loux, Warrior",
+        "number": 266,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "236"
+    },
+    {
+        "card_name": "Path to the Capital",
+        "number": 39,
+        "shape": "saga",
+        "set": "EDR",
+        "position": "100"
+    },
+    {
+        "card_name": "Sellen's Ponderance",
+        "number": 96,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "257"
+    },
+    {
+        "card_name": "Nascent Cocoon",
+        "number": 153,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "149"
+    },
+    {
+        "card_name": "Make Your Choice",
+        "number": 210,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "473"
+    },
+    {
+        "card_name": "Nomadic Merchant",
+        "number": 267,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "151"
+    },
+    {
+        "card_name": "Perfect Order",
+        "number": 40,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "230"
+    },
+    {
+        "card_name": "Shadows Colder than Death",
+        "number": 97,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "511"
+    },
+    {
+        "card_name": "Night's Cavalry",
+        "number": 154,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "169"
+    },
+    {
+        "card_name": "Malenia, the Severed",
+        "number": 211,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "279"
+    },
+    {
+        "card_name": "Occult Mystery",
+        "number": 268,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "74"
+    },
+    {
+        "card_name": "Radagon is Marika",
+        "number": 41,
+        "shape": "saga",
+        "set": "EDR",
+        "position": "357"
+    },
+    {
+        "card_name": "Silver Tear Seal",
+        "number": 98,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "471"
+    },
+    {
+        "card_name": "Night's Tide",
+        "number": 155,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "515"
+    },
+    {
+        "card_name": "Messmer, Marika's Spear",
+        "number": 212,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "185"
+    },
+    {
+        "card_name": "Oracle Envoy",
+        "number": 269,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "265"
+    },
+    {
+        "card_name": "Radahn's Resurrection",
+        "number": 42,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "276"
+    },
+    {
+        "card_name": "Sir Gideon Ofnir, All-Knowing",
+        "number": 99,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "61"
+    },
+    {
+        "card_name": "Patches, the Untethered",
+        "number": 156,
+        "shape": "planeswalker",
+        "set": "EDR",
+        "position": "152"
+    },
+    {
+        "card_name": "Messmer's Orb",
+        "number": 213,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "202"
+    },
+    {
+        "card_name": "Perfumer",
+        "number": 270,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "272"
+    },
+    {
+        "card_name": "Reprieve",
+        "number": 43,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "36"
+    },
+    {
+        "card_name": "Somber Remembrance",
+        "number": 100,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "363"
+    },
+    {
+        "card_name": "Portents of the Future",
+        "number": 157,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "142"
+    },
+    {
+        "card_name": "Midra, Lord of Frenzied Flame",
+        "number": 214,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "218"
+    },
+    {
+        "card_name": "Raider",
+        "number": 271,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "480"
+    },
+    {
+        "card_name": "Seeker of Runes",
+        "number": 44,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "351"
+    },
+    {
+        "card_name": "Sorcerer Rogier",
+        "number": 101,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "165"
+    },
+    {
+        "card_name": "Purge without Grace",
+        "number": 158,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "217"
+    },
+    {
+        "card_name": "Millicent, Flowering Valkyrie",
+        "number": 215,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "322"
+    },
+    {
+        "card_name": "Roderika and Hewg",
+        "number": 272,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "524"
+    },
+    {
+        "card_name": "Seeking the Crosses",
+        "number": 45,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "350"
+    },
+    {
+        "card_name": "Sorceress Sellen",
+        "number": 102,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "37"
+    },
+    {
+        "card_name": "Radagon of the Golden Order",
+        "number": 159,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "444"
+    },
+    {
+        "card_name": "Radahn's Meteor",
+        "number": 216,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "24"
+    },
+    {
+        "card_name": "Secret Path to Nokron",
+        "number": 273,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "52"
+    },
+    {
+        "card_name": "Serosh, Beast Regent",
+        "number": 46,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "506"
+    },
+    {
+        "card_name": "Spectral Hawk",
+        "number": 103,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "352"
+    },
+    {
+        "card_name": "Royal Revenant",
+        "number": 160,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "400"
+    },
+    {
+        "card_name": "Red Wolf of Radagon",
+        "number": 217,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "134"
+    },
+    {
+        "card_name": "Secret Rite",
+        "number": 274,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "421"
+    },
+    {
+        "card_name": "Serve the Gods",
+        "number": 47,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "477"
+    },
+    {
+        "card_name": "Spirit Eel",
+        "number": 104,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "334"
+    },
+    {
+        "card_name": "Rykard, Lord of Blasphemy",
+        "number": 161,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "89"
+    },
+    {
+        "card_name": "Red-Maned Radagon",
+        "number": 218,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "234"
+    },
+    {
+        "card_name": "Servants of Death",
+        "number": 275,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "338"
+    },
+    {
+        "card_name": "Slaughter the Strong",
+        "number": 48,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "239"
+    },
+    {
+        "card_name": "Spirit-Calling Snail",
+        "number": 105,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "87"
+    },
+    {
+        "card_name": "Seduction and Betrayal",
+        "number": 162,
+        "shape": "saga",
+        "set": "EDR",
+        "position": "281"
+    },
+    {
+        "card_name": "Roundtable Knight Vyke",
+        "number": 219,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "238"
+    },
+    {
+        "card_name": "The Shadow Sunflower",
+        "number": 276,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "248"
+    },
+    {
+        "card_name": "Spirits of Nox",
+        "number": 49,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "164"
+    },
+    {
+        "card_name": "Stars of Darkness",
+        "number": 106,
+        "shape": "saga",
+        "set": "EDR",
+        "position": "358"
+    },
+    {
+        "card_name": "The Shape of Night",
+        "number": 163,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "516"
+    },
+    {
+        "card_name": "Scarlet Phantoms",
+        "number": 220,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "30"
+    },
+    {
+        "card_name": "Shaman Village Sentinel",
+        "number": 277,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "525"
+    },
+    {
+        "card_name": "Stick Together",
+        "number": 50,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "293"
+    },
+    {
+        "card_name": "Sunder Reality",
+        "number": 107,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "472"
+    },
+    {
+        "card_name": "Sir Ansbach",
+        "number": 164,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "194"
+    },
+    {
+        "card_name": "Secret Away",
+        "number": 221,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "390"
+    },
+    {
+        "card_name": "Sir Moore",
+        "number": 278,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "331"
+    },
+    {
+        "card_name": "Strength of Runes",
+        "number": 51,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "242"
+    },
+    {
+        "card_name": "Sweet Dreams",
+        "number": 108,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "422"
+    },
+    {
+        "card_name": "Tanith Devours Rykard",
+        "number": 165,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "105"
+    },
+    {
+        "card_name": "Shabriri, the Reviled",
+        "number": 222,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "117"
+    },
+    {
+        "card_name": "Snow Witch",
+        "number": 279,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "440"
+    },
+    {
+        "card_name": "Sword Monument",
+        "number": 52,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "136"
+    },
+    {
+        "card_name": "Tarnished Bowcaster",
+        "number": 109,
+        "shape": "adventure",
+        "set": "EDR",
+        "position": "78"
+    },
+    {
+        "card_name": "Thiollier's Plea",
+        "number": 166,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "221"
+    },
+    {
+        "card_name": "Smithing Master Hewg",
+        "number": 223,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "127"
+    },
+    {
+        "card_name": "Soldier of Godrick",
+        "number": 280,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "73"
+    },
+    {
+        "card_name": "Those United in Common Cause",
+        "number": 53,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "216"
+    },
+    {
+        "card_name": "Teardrop of Night",
+        "number": 110,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "485"
+    },
+    {
+        "card_name": "Those Who Live in Death",
+        "number": 167,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "109"
+    },
+    {
+        "card_name": "The Three Fingers",
+        "number": 224,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "408"
+    },
+    {
+        "card_name": "Storm Ruler",
+        "number": 281,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "526"
+    },
+    {
+        "card_name": "To the Land of Shadow",
+        "number": 54,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "108"
+    },
+    {
+        "card_name": "Thiollier",
+        "number": 111,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "479"
+    },
+    {
+        "card_name": "Tibia Mariner",
+        "number": 168,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "57"
+    },
+    {
+        "card_name": "Throes of Chaos",
+        "number": 225,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "49"
+    },
+    {
+        "card_name": "Tree Sentinel",
+        "number": 282,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "62"
+    },
+    {
+        "card_name": "Torrent, Spirit Steed",
+        "number": 55,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "58"
+    },
+    {
+        "card_name": "Thousand Year Voyage",
+        "number": 112,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "107"
+    },
+    {
+        "card_name": "Unrelenting Hunger",
+        "number": 169,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "483"
+    },
+    {
+        "card_name": "Tricephalos's Howl",
+        "number": 226,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "487"
+    },
+    {
+        "card_name": "Turtle",
+        "number": 283,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "82"
+    },
+    {
+        "card_name": "Will You Be My Consort",
+        "number": 56,
+        "shape": "saga",
+        "set": "EDR",
+        "position": "349"
+    },
+    {
+        "card_name": "To the Three Sisters",
+        "number": 113,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "11"
+    },
+    {
+        "card_name": "Wander the Wastes",
+        "number": 170,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "28"
+    },
+    {
+        "card_name": "War Against the Giants",
+        "number": 227,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "170"
+    },
+    {
+        "card_name": "Walking Mausoleum",
+        "number": 284,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "401"
+    },
+    {
+        "card_name": "Yura, Bloody Finger Hunter",
+        "number": 57,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "153"
+    },
+    {
+        "card_name": "Ymir's Entreaty",
+        "number": 114,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "240"
+    },
+    {
+        "card_name": "Wraithcaller",
+        "number": 171,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "135"
+    },
+    {
+        "card_name": "Waterfowl Dance",
+        "number": 228,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "6"
+    },
+    {
+        "card_name": "Wormface Encounter",
+        "number": 285,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "79"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Caligo, Miasma of Night",
+        "number": 300,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "501"
+    },
+    {
+        "card_name": "Adel, Gaping Jaw",
+        "number": 286,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "458"
+    },
+    {
+        "card_name": "Base Serpent Messmer",
+        "number": 292,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "183"
+    },
+    {
+        "card_name": "Baleful Scarlet Rot",
+        "number": 291,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "339"
+    },
+    {
+        "card_name": "Guardian",
+        "number": 336,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "330"
+    },
+    {
+        "card_name": "Concept of Order",
+        "number": 305,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "83"
+    },
+    {
+        "card_name": "Astel, Naturalborn of the Void",
+        "number": 290,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "188"
+    },
+    {
+        "card_name": "Bayle, the Dread",
+        "number": 297,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "200"
+    },
+    {
+        "card_name": "Battling the Sisters of Rot",
+        "number": 295,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "305"
+    },
+    {
+        "card_name": "Haligtree Knight",
+        "number": 338,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "177"
+    },
+    {
+        "card_name": "D and Rogier",
+        "number": 307,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "287"
+    },
+    {
+        "card_name": "Eternal City's Desolation",
+        "number": 316,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "368"
+    },
+    {
+        "card_name": "Feast Upon the Heart",
+        "number": 318,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "343"
+    },
+    {
+        "card_name": "Blaidd, Baleful Shadow",
+        "number": 298,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "23"
+    },
+    {
+        "card_name": "Horned Warrior",
+        "number": 341,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "469"
+    },
+    {
+        "card_name": "Floating Spirit",
+        "number": 321,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "168"
+    },
+    {
+        "card_name": "Fleeting Microcosm",
+        "number": 320,
+        "shape": "saga",
+        "set": "EDR",
+        "position": "254"
+    },
+    {
+        "card_name": "Jar Innards",
+        "number": 345,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "416"
+    },
+    {
+        "card_name": "Cleanrot Knight",
+        "number": 302,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "160"
+    },
+    {
+        "card_name": "Margit, the Fell Omen",
+        "number": 355,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "291"
+    },
+    {
+        "card_name": "Gideon's Revelation",
+        "number": 324,
+        "shape": "saga",
+        "set": "EDR",
+        "position": "69"
+    },
+    {
+        "card_name": "Heolstor, the Nightlord",
+        "number": 339,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "446"
+    },
+    {
+        "card_name": "Libra, Equilibrious Beast",
+        "number": 347,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "500"
+    },
+    {
+        "card_name": "Dearest Nanaya",
+        "number": 308,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "251"
+    },
+    {
+        "card_name": "Miquella, the Kind",
+        "number": 365,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "222"
+    },
+    {
+        "card_name": "A God and a Lord",
+        "number": 326,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "219"
+    },
+    {
+        "card_name": "Melina, of Destined Death",
+        "number": 360,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "71"
+    },
+    {
+        "card_name": "Mohg, Lord of Blood",
+        "number": 368,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "300"
+    },
+    {
+        "card_name": "Flee from Caelid",
+        "number": 319,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "420"
+    },
+    {
+        "card_name": "Miriel, Pastor of Vows",
+        "number": 367,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "29"
+    },
+    {
+        "card_name": "Lord Miquella",
+        "number": 350,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "123"
+    },
+    {
+        "card_name": "Metyr, Mother of Fingers",
+        "number": 362,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "252"
+    },
+    {
+        "card_name": "One-Eyed God's Flame",
+        "number": 375,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "295"
+    },
+    {
+        "card_name": "Hoarah Loux, Warrior",
+        "number": 340,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "192"
+    },
+    {
+        "card_name": "Rauh Crucible Knight",
+        "number": 383,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "298"
+    },
+    {
+        "card_name": "Loretta, Haligtree Knight",
+        "number": 351,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "53"
+    },
+    {
+        "card_name": "Naturalborn's Presence",
+        "number": 370,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "156"
+    },
+    {
+        "card_name": "Rya, Volcano Manor Scout",
+        "number": 393,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "140"
+    },
+    {
+        "card_name": "Radahn Festival",
+        "number": 382,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "25"
+    },
+    {
+        "card_name": "Return to the Erdtree",
+        "number": 389,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "486"
+    },
+    {
+        "card_name": "Miquella's Promise",
+        "number": 366,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "187"
+    },
+    {
+        "card_name": "Revenant",
+        "number": 390,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "380"
+    },
+    {
+        "card_name": "Sage Midra",
+        "number": 394,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "307"
+    },
+    {
+        "card_name": "Romina, Saint of the Bud",
+        "number": 392,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "181"
+    },
+    {
+        "card_name": "Spoken Echoes",
+        "number": 397,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "223"
+    },
+    {
+        "card_name": "Wylder",
+        "number": 409,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "310"
+    },
+    {
+        "card_name": "Rogier, Scholar of Death",
+        "number": 391,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "423"
+    },
+    {
+        "card_name": "Visions of Madness",
+        "number": 406,
+        "shape": "saga",
+        "set": "EDR",
+        "position": "250"
+    },
+    {
+        "card_name": "War Counselor Iji",
+        "number": 407,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "10"
+    },
+    {
+        "card_name": "Torrent, Miquella's Mount",
+        "number": 401,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "104"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Duchess",
+        "number": 312,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "345"
+    },
+    {
+        "card_name": "Blaidd, Forlorn Hound",
+        "number": 299,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "209"
+    },
+    {
+        "card_name": "Godwyn, Prince of Death",
+        "number": 331,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "44"
+    },
+    {
+        "card_name": "Battle in Caelid",
+        "number": 294,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "21"
+    },
+    {
+        "card_name": "Ancestor Spirit",
+        "number": 287,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "103"
+    },
+    {
+        "card_name": "The Elden Beast",
+        "number": 313,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "0"
+    },
+    {
+        "card_name": "Carian Separation",
+        "number": 301,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "16"
+    },
+    {
+        "card_name": "Godwyn's Knight",
+        "number": 333,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "299"
+    },
+    {
+        "card_name": "Confrontation at the Gate",
+        "number": 306,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "372"
+    },
+    {
+        "card_name": "Ancestral Presence",
+        "number": 288,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "121"
+    },
+    {
+        "card_name": "Ensha of the Royal Remains",
+        "number": 315,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "280"
+    },
+    {
+        "card_name": "Comet Azur",
+        "number": 303,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "27"
+    },
+    {
+        "card_name": "Gurranq, Beast Clergyman",
+        "number": 337,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "329"
+    },
+    {
+        "card_name": "Divine Invocation",
+        "number": 310,
+        "shape": "saga",
+        "set": "EDR",
+        "position": "399"
+    },
+    {
+        "card_name": "Commander Gaius",
+        "number": 304,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "283"
+    },
+    {
+        "card_name": "Godskin Duo",
+        "number": 329,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "488"
+    },
+    {
+        "card_name": "Dominula Celebrant",
+        "number": 311,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "286"
+    },
+    {
+        "card_name": "The Hornsent",
+        "number": 342,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "273"
+    },
+    {
+        "card_name": "Executor",
+        "number": 317,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "426"
+    },
+    {
+        "card_name": "Giant Crayfish",
+        "number": 323,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "359"
+    },
+    {
+        "card_name": "Marika, Born of Shadow",
+        "number": 356,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "326"
+    },
+    {
+        "card_name": "Enchanted Knight",
+        "number": 314,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "189"
+    },
+    {
+        "card_name": "Insidious Roots",
+        "number": 344,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "398"
+    },
+    {
+        "card_name": "Fulghor, Darkdrift Knight",
+        "number": 322,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "461"
+    },
+    {
+        "card_name": "Gnoster, Wisdom of Night",
+        "number": 325,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "468"
+    },
+    {
+        "card_name": "Marika, God-Queen",
+        "number": 357,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "41"
+    },
+    {
+        "card_name": "Promised Consort Radahn",
+        "number": 379,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "237"
+    },
+    {
+        "card_name": "Jori, Elder Inquisitor",
+        "number": 346,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "364"
+    },
+    {
+        "card_name": "Lion Dance",
+        "number": 349,
+        "shape": "adventure",
+        "set": "EDR",
+        "position": "195"
+    },
+    {
+        "card_name": "Godrick, the Golden",
+        "number": 327,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "125"
+    },
+    {
+        "card_name": "Needle Knight Leda",
+        "number": 371,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "190"
+    },
+    {
+        "card_name": "Recluse",
+        "number": 384,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "328"
+    },
+    {
+        "card_name": "Millicent's Decay",
+        "number": 363,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "17"
+    },
+    {
+        "card_name": "Malenia, Blade of Miquella",
+        "number": 353,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "119"
+    },
+    {
+        "card_name": "Induced Dreams",
+        "number": 343,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "292"
+    },
+    {
+        "card_name": "Night of Black Knives",
+        "number": 372,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "111"
+    },
+    {
+        "card_name": "Rellana, Twin Moon Knight",
+        "number": 387,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "270"
+    },
+    {
+        "card_name": "Siofra River Convergence",
+        "number": 396,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "59"
+    },
+    {
+        "card_name": "Radagon, King Consort",
+        "number": 381,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "132"
+    },
+    {
+        "card_name": "Primeval Sorcerer Azur",
+        "number": 378,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "243"
+    },
+    {
+        "card_name": "A Numen Ascends",
+        "number": 373,
+        "shape": "saga",
+        "set": "EDR",
+        "position": "7"
+    },
+    {
+        "card_name": "Starscourge's Challenge",
+        "number": 400,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "388"
+    },
+    {
+        "card_name": "Twin Sentinels",
+        "number": 403,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "63"
+    },
+    {
+        "card_name": "Redmane Freyja",
+        "number": 385,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "215"
+    },
+    {
+        "card_name": "Putrescent Knight",
+        "number": 380,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "297"
+    },
+    {
+        "card_name": "Vindicate",
+        "number": 405,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "366"
+    },
+    {
+        "card_name": "The Twin Prodigies",
+        "number": 402,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "39"
+    },
+    {
+        "card_name": "Veiled Monarch's Reign",
+        "number": 404,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "247"
+    },
+    {
+        "card_name": "White Mask Varre",
+        "number": 408,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "55"
+    },
+    {
+        "card_name": "Rennala of Caria",
+        "number": 388,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "84"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Godwyn, First to Fall",
+        "number": 330,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "428"
+    },
+    {
+        "card_name": "Messmer, the Impaler",
+        "number": 361,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "126"
+    },
+    {
+        "card_name": "Bayle, Terror Incarnate",
+        "number": 296,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "205"
+    },
+    {
+        "card_name": "Aspect of the Crucible",
+        "number": 289,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "306"
+    },
+    {
+        "card_name": "Melina and Torrent",
+        "number": 358,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "457"
+    },
+    {
+        "card_name": "Lunar Princess Ranni",
+        "number": 352,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "114"
+    },
+    {
+        "card_name": "Praetor Rykard",
+        "number": 377,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "255"
+    },
+    {
+        "card_name": "Melina of Cardinal Sin",
+        "number": 359,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "110"
+    },
+    {
+        "card_name": "Morgott, Omen King",
+        "number": 369,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "47"
+    },
+    {
+        "card_name": "St. Trina",
+        "number": 398,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "75"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Lichdragon Fortissax",
+        "number": 348,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "228"
+    },
+    {
+        "card_name": "Godrick, the Grafted",
+        "number": 328,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "3"
+    },
+    {
+        "card_name": "Godwyn, the Golden",
+        "number": 332,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "182"
+    },
+    {
+        "card_name": "Divine Beast Dancing Lion",
+        "number": 309,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "179"
+    },
+    {
+        "card_name": "Regal Ancestor Spirit",
+        "number": 386,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "120"
+    },
+    {
+        "card_name": "Malenia, Goddess of Rot",
+        "number": 354,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "112"
+    },
+    {
+        "card_name": "Starscourge Radahn",
+        "number": 399,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "22"
+    },
+    {
+        "card_name": "Scadutree Avatar",
+        "number": 395,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "186"
+    },
+    {
+        "card_name": "Placidusax, Elden Lord",
+        "number": 376,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "157"
+    },
+    {
+        "card_name": "Ymir, Mother of Fingers",
+        "number": 410,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "312"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Miquella and Radahn",
+        "number": 364,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "180"
+    },
+    {
+        "card_name": "Bathed in Gold",
+        "number": 293,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "176"
+    },
+    {
+        "card_name": "The Golden Star Beast",
+        "number": 334,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "158"
+    },
+    {
+        "card_name": "Gransax, Ancient One",
+        "number": 335,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "56"
+    },
+    {
+        "card_name": "O, Elden Ring!",
+        "number": 374,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "443"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Ancient Golem",
+        "number": 411,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "464"
+    },
+    {
+        "card_name": "Arcane Signet",
+        "number": 412,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "129"
+    },
+    {
+        "card_name": "Black Knife",
+        "number": 413,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "417"
+    },
+    {
+        "card_name": "Carian Inverted Statue",
+        "number": 414,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "303"
+    },
+    {
+        "card_name": "Dark Moon Greatsword",
+        "number": 415,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "13"
+    },
+    {
+        "card_name": "Eclipse Shotel",
+        "number": 416,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "278"
+    },
+    {
+        "card_name": "Eclipsed Sun",
+        "number": 417,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "527"
+    },
+    {
+        "card_name": "The Elden Ring",
+        "number": 418,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "14"
+    },
+    {
+        "card_name": "Empyrean Cocoon",
+        "number": 419,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "431"
+    },
+    {
+        "card_name": "Fanged Imp",
+        "number": 420,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "316"
+    },
+    {
+        "card_name": "Furnace Golem",
+        "number": 421,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "344"
+    },
+    {
+        "card_name": "The Gate of Divinity",
+        "number": 422,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "277"
+    },
+    {
+        "card_name": "The Gate of Night",
+        "number": 423,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "377"
+    },
+    {
+        "card_name": "Ghiza's Wheel",
+        "number": 424,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "528"
+    },
+    {
+        "card_name": "The Great Jar",
+        "number": 425,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "490"
+    },
+    {
+        "card_name": "Haligtree Shrine",
+        "number": 426,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "261"
+    },
+    {
+        "card_name": "Iron Menial",
+        "number": 427,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "474"
+    },
+    {
+        "card_name": "Larval Tear",
+        "number": 428,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "529"
+    },
+    {
+        "card_name": "Marika's Hammer",
+        "number": 429,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "150"
+    },
+    {
+        "card_name": "Marika's Head",
+        "number": 430,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "405"
+    },
+    {
+        "card_name": "Marika's Jars",
+        "number": 431,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "530"
+    },
+    {
+        "card_name": "Marika's Statue",
+        "number": 432,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "260"
+    },
+    {
+        "card_name": "Messmer's Spear",
+        "number": 433,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "161"
+    },
+    {
+        "card_name": "Miniature Doll",
+        "number": 434,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "163"
+    },
+    {
+        "card_name": "Misericorde",
+        "number": 435,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "31"
+    },
+    {
+        "card_name": "Moonlight Greatsword",
+        "number": 436,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "531"
+    },
+    {
+        "card_name": "Sacred Relic Sword",
+        "number": 437,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "159"
+    },
+    {
+        "card_name": "Shabriri Grape",
+        "number": 438,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "118"
+    },
+    {
+        "card_name": "Small Jar Bazaar",
+        "number": 439,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "478"
+    },
+    {
+        "card_name": "Sol Ring",
+        "number": 440,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "5"
+    },
+    {
+        "card_name": "Sword of Night and Flame",
+        "number": 441,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "166"
+    },
+    {
+        "card_name": "Trina's Lily",
+        "number": 442,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "196"
+    },
+    {
+        "card_name": "Unknown Effigy",
+        "number": 443,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "46"
+    },
+    {
+        "card_name": "Valkyrie's Prosthesis",
+        "number": 444,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "143"
+    },
+    {
+        "card_name": "Wandering Mausoleum",
+        "number": 445,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "68"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Ancient Ruins of Rauh",
+        "number": 447,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "233"
+    },
+    {
+        "card_name": "Nokron, Eternal City",
+        "number": 470,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "97"
+    },
+    {
+        "card_name": "Midra's Manse",
+        "number": 467,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "323"
+    },
+    {
+        "card_name": "The First Step",
+        "number": 458,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "296"
+    },
+    {
+        "card_name": "Leyndell, Royal Capital",
+        "number": 465,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "96"
+    },
+    {
+        "card_name": "Belurat, Tower Settlement",
+        "number": 448,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "259"
+    },
+    {
+        "card_name": "Raya Lucaria Academy",
+        "number": 472,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "98"
+    },
+    {
+        "card_name": "Scadutree Base",
+        "number": 476,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "442"
+    },
+    {
+        "card_name": "Forge of the Giants",
+        "number": 460,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "101"
+    },
+    {
+        "card_name": "Cerulean Coast",
+        "number": 449,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "332"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Ranni's Rise",
+        "number": 471,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "9"
+    },
+    {
+        "card_name": "Lake of Rot",
+        "number": 463,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "407"
+    },
+    {
+        "card_name": "Wailing Dunes",
+        "number": 480,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "463"
+    },
+    {
+        "card_name": "Redmane Castle",
+        "number": 473,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "465"
+    },
+    {
+        "card_name": "Altus Plateau",
+        "number": 446,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "453"
+    },
+    {
+        "card_name": "Leyndell, Ashen Capital",
+        "number": 464,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "467"
+    },
+    {
+        "card_name": "Jarburg",
+        "number": 462,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "462"
+    },
+    {
+        "card_name": "Foot of the Erdtree",
+        "number": 459,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "347"
+    },
+    {
+        "card_name": "Elphael, Brace of the Haligtree",
+        "number": 455,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "466"
+    },
+    {
+        "card_name": "Consecrated Snowfield",
+        "number": 452,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "450"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Church of Marika",
+        "number": 450,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "290"
+    },
+    {
+        "card_name": "The Scadutree",
+        "number": 475,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "229"
+    },
+    {
+        "card_name": "The Shadow Keep",
+        "number": 477,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "489"
+    },
+    {
+        "card_name": "City of Nox",
+        "number": 451,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "289"
+    },
+    {
+        "card_name": "Crumbling Farum Azula",
+        "number": 453,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "448"
+    },
+    {
+        "card_name": "Dominula, Windmill Village",
+        "number": 454,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "282"
+    },
+    {
+        "card_name": "Enir Ilim",
+        "number": 456,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "325"
+    },
+    {
+        "card_name": "Liurnia of the Lakes",
+        "number": 466,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "346"
+    },
+    {
+        "card_name": "Mountaintops of the Giants",
+        "number": 468,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "95"
+    },
+    {
+        "card_name": "Noklateo, the Shrouded City",
+        "number": 469,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "434"
+    },
+    {
+        "card_name": "Roundtable Hold",
+        "number": 474,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "288"
+    },
+    {
+        "card_name": "Shaman Village",
+        "number": 478,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "327"
+    },
+    {
+        "card_name": "Stormveil Castle",
+        "number": 479,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "99"
+    },
+    {
+        "card_name": "The Erdtree",
+        "number": 457,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "66"
+    },
+    {
+        "card_name": "The Haligtree",
+        "number": 461,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "269"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 0,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "451"
+    },
+    {
+        "card_name": "Island",
+        "number": 0,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "452"
+    },
+    {
+        "card_name": "Plains",
+        "number": 0,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "491"
+    },
+    {
+        "card_name": "Forest",
+        "number": 0,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "492"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 0,
+        "shape": "normal",
+        "set": "EDR",
+        "position": "493"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "A Tarnished of No Renown",
+        "number": 5,
+        "shape": "token",
+        "set": "EDR",
+        "position": "532"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Duke's Dear Freja",
+        "number": 22,
+        "shape": "token",
+        "set": "EDR",
+        "position": "447"
+    },
+    {
+        "card_name": "King of the Storm",
+        "number": 23,
+        "shape": "token",
+        "set": "EDR",
+        "position": "435"
+    },
+    {
+        "card_name": "Smelter Demon",
+        "number": 26,
+        "shape": "token",
+        "set": "EDR",
+        "position": "439"
+    },
+    {
+        "card_name": "Centipede Demon",
+        "number": 36,
+        "shape": "token",
+        "set": "EDR",
+        "position": "533"
+    },
+    {
+        "card_name": "Dancer of the Boreal Valley",
+        "number": 37,
+        "shape": "token",
+        "set": "EDR",
+        "position": "438"
+    },
+    {
+        "card_name": "Gaping Dragon",
+        "number": 38,
+        "shape": "token",
+        "set": "EDR",
+        "position": "436"
+    },
+    {
+        "card_name": "Nameless King",
+        "number": 40,
+        "shape": "token",
+        "set": "EDR",
+        "position": "437"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Poison Counter",
+        "number": 1,
+        "shape": "token",
+        "set": "EDR",
+        "position": "403"
+    },
+    {
+        "card_name": "Can Be Cast From Exile",
+        "number": 1,
+        "shape": "token",
+        "set": "EDR",
+        "position": "495"
+    },
+    {
+        "card_name": "The Monarch",
+        "number": 2,
+        "shape": "token",
+        "set": "EDR",
+        "position": "424"
+    },
+    {
+        "card_name": "On An Adventure",
+        "number": 3,
+        "shape": "token",
+        "set": "EDR",
+        "position": "494"
+    },
+    {
+        "card_name": "Shard",
+        "number": 4,
+        "shape": "token",
+        "set": "EDR",
+        "position": "406"
+    },
+    {
+        "card_name": "Blood",
+        "number": 41,
+        "shape": "token",
+        "set": "EDR",
+        "position": "413"
+    },
+    {
+        "card_name": "Clue",
+        "number": 42,
+        "shape": "token",
+        "set": "EDR",
+        "position": "335"
+    },
+    {
+        "card_name": "Construct",
+        "number": 43,
+        "shape": "token",
+        "set": "EDR",
+        "position": "475"
+    },
+    {
+        "card_name": "Food",
+        "number": 44,
+        "shape": "token",
+        "set": "EDR",
+        "position": "340"
+    },
+    {
+        "card_name": "Golden Braid",
+        "number": 45,
+        "shape": "token",
+        "set": "EDR",
+        "position": "378"
+    },
+    {
+        "card_name": "Map",
+        "number": 46,
+        "shape": "token",
+        "set": "EDR",
+        "position": "414"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 47,
+        "shape": "token",
+        "set": "EDR",
+        "position": "367"
+    },
+    {
+        "card_name": "Everywhere",
+        "number": 48,
+        "shape": "token",
+        "set": "EDR",
+        "position": "415"
+    },
+    {
+        "card_name": "Knight",
+        "number": 6,
+        "shape": "token",
+        "set": "EDR",
+        "position": "50"
+    },
+    {
+        "card_name": "Bird Spirit",
+        "number": 7,
+        "shape": "token",
+        "set": "EDR",
+        "position": "499"
+    },
+    {
+        "card_name": "Ooze Horse",
+        "number": 8,
+        "shape": "token",
+        "set": "EDR",
+        "position": "404"
+    },
+    {
+        "card_name": "Spirit Fish",
+        "number": 9,
+        "shape": "token",
+        "set": "EDR",
+        "position": "333"
+    },
+    {
+        "card_name": "Wizard",
+        "number": 10,
+        "shape": "token",
+        "set": "EDR",
+        "position": "148"
+    },
+    {
+        "card_name": "Basilisk",
+        "number": 11,
+        "shape": "token",
+        "set": "EDR",
+        "position": "226"
+    },
+    {
+        "card_name": "Demigod",
+        "number": 12,
+        "shape": "token",
+        "set": "EDR",
+        "position": "393"
+    },
+    {
+        "card_name": "Demigod",
+        "number": 13,
+        "shape": "token",
+        "set": "EDR",
+        "position": "394"
+    },
+    {
+        "card_name": "Demigod",
+        "number": 14,
+        "shape": "token",
+        "set": "EDR",
+        "position": "395"
+    },
+    {
+        "card_name": "Demigod",
+        "number": 15,
+        "shape": "token",
+        "set": "EDR",
+        "position": "392"
+    },
+    {
+        "card_name": "Demigod",
+        "number": 16,
+        "shape": "token",
+        "set": "EDR",
+        "position": "370"
+    },
+    {
+        "card_name": "Demigod",
+        "number": 17,
+        "shape": "token",
+        "set": "EDR",
+        "position": "384"
+    },
+    {
+        "card_name": "Demigod",
+        "number": 18,
+        "shape": "token",
+        "set": "EDR",
+        "position": "385"
+    },
+    {
+        "card_name": "Demigod",
+        "number": 19,
+        "shape": "token",
+        "set": "EDR",
+        "position": "386"
+    },
+    {
+        "card_name": "Demigod",
+        "number": 20,
+        "shape": "token",
+        "set": "EDR",
+        "position": "387"
+    },
+    {
+        "card_name": "Demigod",
+        "number": 21,
+        "shape": "token",
+        "set": "EDR",
+        "position": "391"
+    },
+    {
+        "card_name": "Serpent",
+        "number": 24,
+        "shape": "token",
+        "set": "EDR",
+        "position": "263"
+    },
+    {
+        "card_name": "Skeleton",
+        "number": 25,
+        "shape": "token",
+        "set": "EDR",
+        "position": "411"
+    },
+    {
+        "card_name": "Spider Horror",
+        "number": 27,
+        "shape": "token",
+        "set": "EDR",
+        "position": "116"
+    },
+    {
+        "card_name": "Warrior Army",
+        "number": 28,
+        "shape": "token",
+        "set": "EDR",
+        "position": "133"
+    },
+    {
+        "card_name": "Dragon",
+        "number": 29,
+        "shape": "token",
+        "set": "EDR",
+        "position": "412"
+    },
+    {
+        "card_name": "Soldier",
+        "number": 30,
+        "shape": "token",
+        "set": "EDR",
+        "position": "402"
+    },
+    {
+        "card_name": "Dragon Warrior",
+        "number": 31,
+        "shape": "token",
+        "set": "EDR",
+        "position": "341"
+    },
+    {
+        "card_name": "Faurtis Stoneshield",
+        "number": 32,
+        "shape": "token",
+        "set": "EDR",
+        "position": "476"
+    },
+    {
+        "card_name": "Plant",
+        "number": 33,
+        "shape": "token",
+        "set": "EDR",
+        "position": "497"
+    },
+    {
+        "card_name": "Wolf",
+        "number": 34,
+        "shape": "token",
+        "set": "EDR",
+        "position": "409"
+    },
+    {
+        "card_name": "Butterfly",
+        "number": 35,
+        "shape": "token",
+        "set": "EDR",
+        "position": "498"
+    },
+    {
+        "card_name": "Human Warrior",
+        "number": 39,
+        "shape": "token",
+        "set": "EDR",
+        "position": "410"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "ACE",
+            "set_name": "Aldmore Cube",
+            "formats": "aldmore"
+        },
+        {
             "set_code": "ATR",
             "set_name": "The Shattered Pantheon of Atros",
             "formats": "standard"
@@ -9,6 +14,21 @@
             "set_code": "CNF",
             "set_name": "Confluence",
             "formats": ""
+        },
+        {
+            "set_code": "DSS",
+            "set_name": "Dark Seas of Shiryen",
+            "formats": "modern"
+        },
+        {
+            "set_code": "EDR",
+            "set_name": "The Elden Ring Commander Cube",
+            "formats": ""
+        },
+        {
+            "set_code": "GHQ",
+            "set_name": "Glacia: Hail to the Queen",
+            "formats": "modern"
         },
         {
             "set_code": "GQC",
@@ -46,6 +66,11 @@
             "formats": "standard"
         },
         {
+            "set_code": "KOD",
+            "set_name": "Kahembo: Olde Dawn",
+            "formats": "modern"
+        },
+        {
             "set_code": "KRK",
             "set_name": "Seas of Krakonos",
             "formats": ""
@@ -64,6 +89,11 @@
             "set_code": "NJB",
             "set_name": "Nangjiao in Bloom",
             "formats": "standard"
+        },
+        {
+            "set_code": "SGB",
+            "set_name": "Strombo\u2019s Grand Banquet",
+            "formats": "modern"
         },
         {
             "set_code": "SHF",
@@ -93,6 +123,11 @@
         {
             "set_code": "X24",
             "set_name": "Moxtober 2024",
+            "formats": ""
+        },
+        {
+            "set_code": "X25",
+            "set_name": "Moxtober 2025",
             "formats": ""
         }
     ]

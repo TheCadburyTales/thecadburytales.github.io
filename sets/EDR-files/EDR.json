@@ -1,0 +1,33 @@
+﻿{
+    "name": "The Elden Ring Commander Cube",
+    "formats": "",
+    "trimmed": "y",
+    "image_type": "png",
+    "draft_structure": "cube",
+    "unpreviewed": "empty",
+    "image_name": "position",
+    "v_mana": "",
+    "cards": [
+        {
+            "card_name": "Turtle",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Creature \u2014 Turtle",
+            "number": 283,
+            "color_identity": "G",
+            "cost": "{G}",
+            "rules_text": "{T}: Add one mana of any color.",
+            "flavor_text": "[i]Those who hold turtles to be wise creatures consider the practice of eating their meat to be barbarous.[/i]",
+            "pt": "0/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "EDR",
+            "loyalty": "",
+            "artist": "AndWhatArt",
+            "alias": "",
+            "position": "82",
+            "notes": "Ramp"
+        }
+    ],
+    "version": 8
+}

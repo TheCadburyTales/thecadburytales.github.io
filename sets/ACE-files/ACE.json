@@ -1,0 +1,46 @@
+﻿{
+    "name": "Aldmore Cube",
+    "formats": "aldmore",
+    "trimmed": "y",
+    "image_type": "jpg",
+    "draft_structure": "cube",
+    "cards": [
+        {
+            "card_name": "Ring-Tailed Lemur",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Creature \u2014 Lemur",
+            "number": 263,
+            "color_identity": "WBG",
+            "cost": "{G}",
+            "rules_text": "{T}: Add {W} or {B}.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "normal",
+            "set": "ACE",
+            "loyalty": "",
+            "artist": "Kovacs Anna Brigitta",
+            "notes": "!eggprint"
+        },
+        {
+            "card_name": "Elvish Dreamspinner",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Creature \u2014 Elf Druid",
+            "number": 239,
+            "color_identity": "G",
+            "cost": "{G}",
+            "rules_text": "Elves you control have \u201c{T}: Add {G}.\u201d\n{6}{G}{G}: Create an 8/8 green Elemental creature token.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "normal",
+            "set": "ACE",
+            "loyalty": "",
+            "artist": "Dream Reactor",
+            "notes": "!eggprint"
+        }
+    ],
+    "version": 1
+}

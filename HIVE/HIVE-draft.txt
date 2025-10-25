@@ -1,0 +1,5095 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Eira, Selfless Paladin",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Planeswalker – Eira",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/205_Eira, Selfless Paladin.png"
+			}
+		},
+		{
+			"name": "Twinferno Summoner",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Creature – Human Wizard",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/225_Twinferno Summoner.png"
+			}
+		},
+		{
+			"name": "Seto San, Divine Heroine",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Planeswalker – Seto",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/17.png"
+			}
+		},
+		{
+			"name": "Skodir, Reborn",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature – Human Warrior",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/244_Skodir, Reborn.png"
+			}
+		},
+		{
+			"name": "Clamber to the Light",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/203_Clamber to the Light.png"
+			}
+		},
+		{
+			"name": "Dragonheart Technique",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/73.png"
+			}
+		},
+		{
+			"name": "Machine Prophets",
+			"rarity": "special",
+			"mana_cost": "{1}{R/W}{R/W}",
+			"type": "Artifact Creature – Robot Cleric",
+			"collector_number": "253",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/132_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/132_front.png"
+			}
+		},
+		{
+			"name": "Fables of the Ill-Fated",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Enchantment – Gallery",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/159.png"
+			}
+		},
+		{
+			"name": "Ecliptic Ending",
+			"rarity": "special",
+			"mana_cost": "{X}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/220_Ecliptic Ending.png"
+			}
+		},
+		{
+			"name": "Fleetcrusher Titan",
+			"rarity": "special",
+			"mana_cost": "{6}{B}{G}",
+			"type": "Creature – Serpent",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/215_Fleetcrusher Titan.png"
+			}
+		},
+		{
+			"name": "Jack, the Exterminator",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Planeswalker – Jack",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/174_Jack, the Exterminator.png"
+			}
+		},
+		{
+			"name": "The Divine Caele",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}{G}{G}",
+			"type": "Legendary Enchantment Creature – God",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/11.png"
+			}
+		},
+		{
+			"name": "Oakblight Sage",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{G}",
+			"type": "Creature – Giant Warlock",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/68.png"
+			}
+		},
+		{
+			"name": "Shambling Terrarium",
+			"rarity": "special",
+			"mana_cost": "{B/G}{B/G}",
+			"type": "Creature – Skeleton Pilot",
+			"collector_number": "257",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/40_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/40_front.png"
+			}
+		},
+		{
+			"name": "Clementine Cogs Faraday",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature – Galaxian Artificer",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/66.png"
+			}
+		},
+		{
+			"name": "Parrot Pools",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KOD-files/img/160_Parrot Pools.jpg"
+			}
+		},
+		{
+			"name": "Captain Elai",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Planeswalker – Elai",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/27.png"
+			}
+		},
+		{
+			"name": "Rum Guzzler",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature – Human Pirate",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/229_Rum Guzzler.png"
+			}
+		},
+		{
+			"name": "Adler of the Thirteenth Hour",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature – Human Warlock",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/X24-files/img/22_Adler of the Thirteenth Hour.png"
+			}
+		},
+		{
+			"name": "Dross Incubator",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature – Eldrazi Drone",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GQC-files/img/226_Dross Incubator.jpg"
+			}
+		},
+		{
+			"name": "Blazing Meteors",
+			"rarity": "special",
+			"mana_cost": "{3}{U/R}{U/R}",
+			"type": "Sorcery",
+			"collector_number": "249",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/182_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/182_front.png"
+			}
+		},
+		{
+			"name": "Kiora, Voice of the Deep",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Planeswalker – Kiora",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/222_Kiora, Voice of the Deep.png"
+			}
+		},
+		{
+			"name": "Nythr, Stargate Goliath",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature – Leviathan",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/157.png"
+			}
+		},
+		{
+			"name": "Witness Forces Unknown",
+			"rarity": "special",
+			"mana_cost": "{G}{U}",
+			"type": "Kindred Sorcery – Kraken Revelation",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/199_Witness Forces Unknown.png"
+			}
+		},
+		{
+			"name": "The Starholme Frontier",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/17.png"
+			}
+		},
+		{
+			"name": "Glimpse Worlds Within Worlds",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Kindred Sorcery – Kraken Revelation",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/176_Glimpse Worlds Within Worlds.png"
+			}
+		},
+		{
+			"name": "A World Through the Wake",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Kindred Instant – Kraken Revelation",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/200_A World Through the Wake.png"
+			}
+		},
+		{
+			"name": "Migrating Cetacean",
+			"rarity": "special",
+			"mana_cost": "{2}{G/U}{G/U}",
+			"type": "Creature – Leviathan",
+			"collector_number": "254",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/31_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/31_front.png"
+			}
+		},
+		{
+			"name": "Ashen Paragon",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature – Wraith Knight",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/15.png"
+			}
+		},
+		{
+			"name": "Banisher Rifle",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Artifact",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/174_Banisher Rifle.png"
+			}
+		},
+		{
+			"name": "Dawson, Out for Blood",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Planeswalker – Dawson",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/213_Dawson, Out for Blood.png"
+			}
+		},
+		{
+			"name": "Jorah, Godslayer",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}{B}{B}",
+			"type": "Legendary Planeswalker – Jorah",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/10.png"
+			}
+		},
+		{
+			"name": "Mother of Hands",
+			"rarity": "special",
+			"mana_cost": "{W}{B}",
+			"type": "Creature – Human Cleric",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/214_Mother of Hands.png"
+			}
+		},
+		{
+			"name": "Marketto, the Trafficker",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature – Galaxian Rogue",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/60.png"
+			}
+		},
+		{
+			"name": "Kjaldiran Battlewolves",
+			"rarity": "special",
+			"mana_cost": "{W/B}{W/B}",
+			"type": "Creature – Human Berserker",
+			"collector_number": "252",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/1_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/1_front.png"
+			}
+		},
+		{
+			"name": "Tarja, Favored Keen-Eye",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature – Human Ranger",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/247_Tarja, Favored Keen-Eye.png"
+			}
+		},
+		{
+			"name": "Ingrid Farjalla",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Planeswalker – Ingrid",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/219_Ingrid Farjalla.png"
+			}
+		},
+		{
+			"name": "Freydis, the Astrobiologist",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature – Human Pilot",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/267.png"
+			}
+		},
+		{
+			"name": "The Divine Marisyn",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}{W}{W}",
+			"type": "Legendary Enchantment Creature – God",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/9.png"
+			}
+		},
+		{
+			"name": "Awakener of Ancients",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature – Human Rebel",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/69.png"
+			}
+		},
+		{
+			"name": "Kanghyae Forum",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment – Gallery",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/153.png"
+			}
+		},
+		{
+			"name": "Rip in Half",
+			"rarity": "special",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Instant",
+			"collector_number": "255",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/261_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/261_front.png"
+			}
+		},
+		{
+			"name": "Majesty",
+			"rarity": "special",
+			"mana_cost": "{R}{R/G}{G}",
+			"type": "Enchantment",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/247_Majesty.png"
+			}
+		},
+		{
+			"name": "Wavebreaker Brute",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature – Giant",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/234_Wavebreaker Brute.png"
+			}
+		},
+		{
+			"name": "Dragon-Eye Lookout",
+			"rarity": "special",
+			"mana_cost": "{R}{G}",
+			"type": "Creature – Human Pirate",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/214_Dragon-Eye Lookout.png"
+			}
+		},
+		{
+			"name": "Current Pacer",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature – Merfolk Scout",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/168_Current Pacer.png"
+			}
+		},
+		{
+			"name": "Ravenous Cactyrant",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature – Plant Dragon",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/56.png"
+			}
+		},
+		{
+			"name": "Battle for Highspire",
+			"rarity": "special",
+			"mana_cost": "{R}{G}",
+			"type": "Battle – Conquest",
+			"collector_number": "151",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/GSS-files/img/151_Battle for Highspire_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/151_Battle for Highspire_front.png"
+			}
+		},
+		{
+			"name": "Dunebreaker Wurm",
+			"rarity": "special",
+			"mana_cost": "{4}{R/G}{R/G}",
+			"type": "Creature – Wurm",
+			"collector_number": "250",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/186_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/186_front.png"
+			}
+		},
+		{
+			"name": "Jadon, Who Fells the Mighty",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Planeswalker – Jadon",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/220_Jadon, Who Fells the Mighty.png"
+			}
+		},
+		{
+			"name": "Strip-Mining Charter",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/257.png"
+			}
+		},
+		{
+			"name": "Swiftblade Ren",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature – Human Warrior",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/12.png"
+			}
+		},
+		{
+			"name": "Seasoned Sandshaper",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature – Human Mercenary",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/67.png"
+			}
+		},
+		{
+			"name": "Prideful Reaper",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature – Demon Warrior",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/222_Prideful Reaper.png"
+			}
+		},
+		{
+			"name": "Smoke Seer",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Creature – Human Warlock",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/X24-files/img/24_Smoke Seer.png"
+			}
+		},
+		{
+			"name": "Upgraded Marauder",
+			"rarity": "special",
+			"mana_cost": "{1}{B/R}{B/R}",
+			"type": "Artifact Creature – Cyborg Pirate",
+			"collector_number": "258",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/176_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/176_front.png"
+			}
+		},
+		{
+			"name": "Hemophage Hunter",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature – Vampire Shark",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/217_Hemophage Hunter.png"
+			}
+		},
+		{
+			"name": "Baneful Seer",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Creature – Human Warlock",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/66.png"
+			}
+		},
+		{
+			"name": "Twist Perceptions",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Instant",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/57.png"
+			}
+		},
+		{
+			"name": "Yusi, the Sable Crow",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Planeswalker – Yusi",
+			"collector_number": "237",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/KND-files/img/13_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/13_front.png"
+			}
+		},
+		{
+			"name": "Voidsent Ghoul",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Creature – Spirit",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/71.png"
+			}
+		},
+		{
+			"name": "Sundeath Maw",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Creature – Kraken Horror",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/34.png"
+			}
+		},
+		{
+			"name": "Seek the Last Light",
+			"rarity": "special",
+			"mana_cost": "{U/B}{U/B}",
+			"type": "Sorcery",
+			"collector_number": "256",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/259_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/259_front.png"
+			}
+		},
+		{
+			"name": "The Divine Vaelias",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}{U}{U}",
+			"type": "Legendary Enchantment Creature – God",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/5.png"
+			}
+		},
+		{
+			"name": "Terithius, the Iron Mind",
+			"rarity": "special",
+			"mana_cost": "{9}{W}{U}",
+			"type": "Legendary Creature – Human Artificer",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/222_Terithius, the Iron Mind.png"
+			}
+		},
+		{
+			"name": "Painting Dolls",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/28.png"
+			}
+		},
+		{
+			"name": "Disruptor Strix",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature – Bird",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/169_Disruptor Strix.png"
+			}
+		},
+		{
+			"name": "Righteous Archangel",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}{U}{U}",
+			"type": "Creature – Angel Knight",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/56.png"
+			}
+		},
+		{
+			"name": "The Varathian Consulate",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature – Galaxian Advisor",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/50.png"
+			}
+		},
+		{
+			"name": "False God Interface",
+			"rarity": "special",
+			"mana_cost": "{W/U}{W/U}",
+			"type": "Instant",
+			"collector_number": "251",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/263_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/263_front.png"
+			}
+		},
+		{
+			"name": "Xrogg, Star's Shadow",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Creature – Kraken Horror",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/220.png"
+			}
+		},
+		{
+			"name": "Ayeshi, Time's Jailer",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Planeswalker – Ayeshi",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/172_Ayeshi, Time's Jailer.png"
+			}
+		},
+		{
+			"name": "Kai'Oro, Grave Betrayer",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature – Demon",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/54.png"
+			}
+		},
+		{
+			"name": "Mpumo, the Rebel Lord",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Planeswalker – Mpumo",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/11.png"
+			}
+		},
+		{
+			"name": "Cou Ling of the Lunar Den",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Legendary Creature – Human Wizard",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/67.png"
+			}
+		},
+		{
+			"name": "Beacon of Horizons",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/265_Beacon of Horizons.png"
+			}
+		},
+		{
+			"name": "Cosmic Heart",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/74.png"
+			}
+		},
+		{
+			"name": "Monument of Waning Faith",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/222.png"
+			}
+		},
+		{
+			"name": "Affectionate Mimic",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature – Treasure Shapeshifter",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/236_Affectionate Mimic.png"
+			}
+		},
+		{
+			"name": "Convergence Mirror",
+			"rarity": "special",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/X24-files/img/29_Convergence Mirror.png"
+			}
+		},
+		{
+			"name": "Cursed Coins",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/241_Cursed Coins.png"
+			}
+		},
+		{
+			"name": "Dust Devil",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature – Sand Construct",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/82.png"
+			}
+		},
+		{
+			"name": "The Apocalypse Pendulum",
+			"rarity": "special",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/75.png"
+			}
+		},
+		{
+			"name": "Pilferer's Pouch",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/251_Pilferer's Pouch.png"
+			}
+		},
+		{
+			"name": "Sword of Greed and Glory",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact – Equipment",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/261_Sword of Greed and Glory.png"
+			}
+		},
+		{
+			"name": "Consulate Bellwether",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact – Vehicle",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/74.png"
+			}
+		},
+		{
+			"name": "Runaway Freight",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact – Vehicle",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/73.png"
+			}
+		},
+		{
+			"name": "Fractured Turbine",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/71.png"
+			}
+		},
+		{
+			"name": "The Apocalypse Dial",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "235",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/SHF-files/img/18_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/18_front.png"
+			}
+		},
+		{
+			"name": "Sentinels of Canica Strait",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/207_Sentinels of Canica Strait.png"
+			}
+		},
+		{
+			"name": "Fishing Docks",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/204_Fishing Docks.png"
+			}
+		},
+		{
+			"name": "Revenant Lantern",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/X24-files/img/31_Revenant Lantern.png"
+			}
+		},
+		{
+			"name": "Aeon",
+			"rarity": "special",
+			"mana_cost": "{8}",
+			"type": "Legendary Planeswalker – Aeon",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/91.png"
+			}
+		},
+		{
+			"name": "The Chasmal Rift",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GQC-files/img/247_The Chasmal Rift.jpg"
+			}
+		},
+		{
+			"name": "Sword of Dreams and Empire",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact – Equipment",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/286_Sword of Dreams and Empire.png"
+			}
+		},
+		{
+			"name": "The Exile Queen's Crown",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact – Equipment",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/80.png"
+			}
+		},
+		{
+			"name": "Djitu's Lithified Mantle",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact – Equipment",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/16.png"
+			}
+		},
+		{
+			"name": "Ashen Progenitor",
+			"rarity": "special",
+			"mana_cost": "{9}",
+			"type": "Creature – Eldrazi",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GQC-files/img/2_Ashen Progenitor.jpg"
+			}
+		},
+		{
+			"name": "Galaxian's Best Friend",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature – Junk Dog",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/70.png"
+			}
+		},
+		{
+			"name": "Finecraft Seraph",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature – Angel",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/235_Finecraft Seraph.png"
+			}
+		},
+		{
+			"name": "Meteor Harvester",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature – Robot",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/57.png"
+			}
+		},
+		{
+			"name": "Revolutionary's Monument",
+			"rarity": "special",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature – Golem",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/273_Revolutionary's Monument.png"
+			}
+		},
+		{
+			"name": "M-80, Clockwork Captain",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature – Pirate",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/249_M-80, Clockwork Captain.png"
+			}
+		},
+		{
+			"name": "Ghariv, the Quaking City",
+			"rarity": "special",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact Planeswalker – Ghariv",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GQC-files/img/249_Ghariv, the Quaking City.jpg"
+			}
+		},
+		{
+			"name": "Port Goliath",
+			"rarity": "special",
+			"mana_cost": "{12}",
+			"type": "Artifact Creature – Construct",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/278_Port Goliath.png"
+			}
+		},
+		{
+			"name": "Eye of the Eight Winds",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/265_Eye of the Eight Winds.png"
+			}
+		},
+		{
+			"name": "Bismuth Skycity",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/249_Bismuth Skycity.png"
+			}
+		},
+		{
+			"name": "Luscious Planetscape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/216.png"
+			}
+		},
+		{
+			"name": "Sojourner's Gateway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/30.png"
+			}
+		},
+		{
+			"name": "Valdrasil Reborn",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/285_Valdrasil Reborn.png"
+			}
+		},
+		{
+			"name": "Galactic Reach",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Gate",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/79.png"
+			}
+		},
+		{
+			"name": "Reflecting Canyon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Desert",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/277.png"
+			}
+		},
+		{
+			"name": "Varathian Battery",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Power-Plant",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/178.png"
+			}
+		},
+		{
+			"name": "Varathian Watchtower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Tower",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/75.png"
+			}
+		},
+		{
+			"name": "War-Scarred Remnants",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/174.png"
+			}
+		},
+		{
+			"name": "Almicar's Striker",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature – Human Soldier",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/1_Almicar's Striker.png"
+			}
+		},
+		{
+			"name": "Gleaming Praetor",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature – Soldier",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/16_Gleaming Praetor.png"
+			}
+		},
+		{
+			"name": "Pledgeseeker",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature – Human Knight",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/23.png"
+			}
+		},
+		{
+			"name": "Chosen Valiant",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature – Cat Knight",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/6_Chosen Valiant.png"
+			}
+		},
+		{
+			"name": "Echoed Vanguard",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature – Human Soldier",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/125.png"
+			}
+		},
+		{
+			"name": "Steelframe Viridar",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature – Viridar Cyborg",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/249.png"
+			}
+		},
+		{
+			"name": "Aarakocra Champion",
+			"rarity": "special",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment Creature – Bird Warrior",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/21.png"
+			}
+		},
+		{
+			"name": "Sculptor's Replica",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature – Golem Monk",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/23_Sculptor's Replica.png"
+			}
+		},
+		{
+			"name": "Blighted Angel",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature – Insect Angel",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/4_Blighted Angel.png"
+			}
+		},
+		{
+			"name": "Illusory Savior",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature – Illusion Samurai",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/12_Illusory Savior.png"
+			}
+		},
+		{
+			"name": "Kiri, Corporeal Conduit",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature – Fox Spirit",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/20.png"
+			}
+		},
+		{
+			"name": "Chronicles of the Kitsune",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment – Gallery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/27.png"
+			}
+		},
+		{
+			"name": "Dockside Warden",
+			"rarity": "special",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Creature – Human Soldier",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/5_Dockside Warden.png"
+			}
+		},
+		{
+			"name": "Novice Navigator",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature – Human Scout",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/25_Novice Navigator.png"
+			}
+		},
+		{
+			"name": "Queen Saleh Amidi",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature – Human Noble",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/1.png"
+			}
+		},
+		{
+			"name": "Gao'Wu, Humble Sibyl",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature – Human Bard",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/21.png"
+			}
+		},
+		{
+			"name": "Drifting Moon",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature – Jellyfish",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/20.png"
+			}
+		},
+		{
+			"name": "Purifying Zealot",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature – Cat Cleric",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GS2-files/img/2_Purifying Zealot.png"
+			}
+		},
+		{
+			"name": "Annie White Rose Harper",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature – Human Mercenary",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/22.png"
+			}
+		},
+		{
+			"name": "Ivory Tactician",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature – Spirit Knight",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/20.png"
+			}
+		},
+		{
+			"name": "Rivha, Heiress of Pinions",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature – Angel Warrior",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GQC-files/img/44_Rivha, Heiress of Pinions.jpg"
+			}
+		},
+		{
+			"name": "Starsent Angel",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature – Angel",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/33_Starsent Angel.png"
+			}
+		},
+		{
+			"name": "Cai Lan, the Puppeteer",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature – Human Bard",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/23.png"
+			}
+		},
+		{
+			"name": "Druno, Marquisian Collector",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature – Human Advisor",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/6_Druno, Marquisian Collector.png"
+			}
+		},
+		{
+			"name": "Dawn Patrol",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature – Griffin",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/10_Dawn Patrol.png"
+			}
+		},
+		{
+			"name": "Ayeshi's Agent",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature – Human Rogue",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/2_Ayeshi's Agent.png"
+			}
+		},
+		{
+			"name": "Emperor Almicar",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature – Human Noble",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/9_Emperor Almicar.png"
+			}
+		},
+		{
+			"name": "Ria, Master Smith",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature – Human Artificer",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/31_Ria, Master Smith.png"
+			}
+		},
+		{
+			"name": "Goldblossom Angel",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature – Angel",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/17_Goldblossom Angel.png"
+			}
+		},
+		{
+			"name": "Lijing, the Great Partisan",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature – Elder Fox Spirit",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/0.png"
+			}
+		},
+		{
+			"name": "Rescue Strix",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Creature – Bird",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/25.png"
+			}
+		},
+		{
+			"name": "Forgiveness",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature – Incarnation",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/11_Forgiveness.png"
+			}
+		},
+		{
+			"name": "Herald of the Heavens",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature – Avatar",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/X24-files/img/1_Herald of the Heavens.png"
+			}
+		},
+		{
+			"name": "Valkyrie of Shared Dawn",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature – Angel Berserker",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/115.png"
+			}
+		},
+		{
+			"name": "Adrift in a Twilit Sea",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/62.png"
+			}
+		},
+		{
+			"name": "Imperial Tour",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/14_Imperial Tour.png"
+			}
+		},
+		{
+			"name": "Revolt at the Palace",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment – Saga",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/22_Revolt at the Palace.png"
+			}
+		},
+		{
+			"name": "Heping, at War's End",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Planeswalker – Heping",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/0.png"
+			}
+		},
+		{
+			"name": "Mafua, Oathseeker",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Planeswalker – Mafua",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/0.png"
+			}
+		},
+		{
+			"name": "Knightfall",
+			"rarity": "special",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/26.png"
+			}
+		},
+		{
+			"name": "Procession of the Alliance",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/23.png"
+			}
+		},
+		{
+			"name": "Rivha's Blessed Blade",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact – Equipment",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GQC-files/img/45_Rivha's Blessed Blade.jpg"
+			}
+		},
+		{
+			"name": "Restore Order",
+			"rarity": "special",
+			"mana_cost": "{X}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/30_Restore Order.png"
+			}
+		},
+		{
+			"name": "Spectral Sabers",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Artifact – Equipment",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/33_Spectral Sabers.png"
+			}
+		},
+		{
+			"name": "Become Faceless",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/90.png"
+			}
+		},
+		{
+			"name": "Leave in the Dust",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/91.png"
+			}
+		},
+		{
+			"name": "One Swift Strike",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/91.png"
+			}
+		},
+		{
+			"name": "Seal the Gateway",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/94.png"
+			}
+		},
+		{
+			"name": "Starlit Exeunt",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GQC-files/img/48_Starlit Exeunt.jpg"
+			}
+		},
+		{
+			"name": "Encased in Glass",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment – Aura",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/10_Encased in Glass.png"
+			}
+		},
+		{
+			"name": "Maroon",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/20_Maroon.png"
+			}
+		},
+		{
+			"name": "Clearcut",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/7_Clearcut.png"
+			}
+		},
+		{
+			"name": "Sentence to the Gaol",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/30_Sentence to the Gaol.png"
+			}
+		},
+		{
+			"name": "Swift Reproach",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/27_Swift Reproach.png"
+			}
+		},
+		{
+			"name": "System Cage",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/124.png"
+			}
+		},
+		{
+			"name": "The Dutiful Wanderer",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Planeswalker",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/7_The Dutiful Wanderer.png"
+			}
+		},
+		{
+			"name": "Tell No Tales",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/36_Tell No Tales.png"
+			}
+		},
+		{
+			"name": "Dust to Flesh to Dust",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/13_Dust to Flesh to Dust.png"
+			}
+		},
+		{
+			"name": "Annihilation",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/25.png"
+			}
+		},
+		{
+			"name": "End of Days",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KOD-files/img/8_End of Days.jpg"
+			}
+		},
+		{
+			"name": "Prodigious Panya",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature – Mouse Warrior",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KOD-files/img/42_Prodigious Panya.jpg"
+			}
+		},
+		{
+			"name": "Murktown Angler",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature – Human Peasant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/X24-files/img/6_Murktown Angler.png"
+			}
+		},
+		{
+			"name": "Aurelian Drake",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature – Drake",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/31_Aurelian Drake.png"
+			}
+		},
+		{
+			"name": "Aione, the First Galaxian",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature – Galaxian Pilot",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/28.png"
+			}
+		},
+		{
+			"name": "Dreadlich Captain",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature – Zombie Pirate",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/36_Dreadlich Captain.png"
+			}
+		},
+		{
+			"name": "Enigma Variant",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature – Shapeshifter",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/57_Enigma Variant.png"
+			}
+		},
+		{
+			"name": "Ghostlight Infiltrator",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature – Human Monk",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/61_Ghostlight Infiltrator.png"
+			}
+		},
+		{
+			"name": "Overmorrow's Architect",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature – Avatar Artificer",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/66_Overmorrow's Architect.png"
+			}
+		},
+		{
+			"name": "Prescient Phantom",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature – Spirit Wizard",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/27.png"
+			}
+		},
+		{
+			"name": "The Crowspeaker",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Creature – Human Shaman",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/29.png"
+			}
+		},
+		{
+			"name": "Davijan, Trenchbound Titan",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature – Leviathan",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/50_Davijan, Trenchbound Titan.png"
+			}
+		},
+		{
+			"name": "Shifting Sailor",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature – Shapeshifter Pirate",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/69_Shifting Sailor.png"
+			}
+		},
+		{
+			"name": "Ulderwild Haunt",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature – Spirit",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/60_Ulderwild Haunt.png"
+			}
+		},
+		{
+			"name": "Onemind, Eye of Discovery",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact Creature – Orb Robot",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/232.png"
+			}
+		},
+		{
+			"name": "Cloudbreacher",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature – Drake",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/34_Cloudbreacher.png"
+			}
+		},
+		{
+			"name": "Ushi Yun, the Curator",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature – Human Wizard",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/34.png"
+			}
+		},
+		{
+			"name": "Faceless Form",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature – Shapeshifter",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/42_Faceless Form.png"
+			}
+		},
+		{
+			"name": "Atmosphere Trawlers",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature – Leviathan",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/36.png"
+			}
+		},
+		{
+			"name": "Stormmane Drakkon",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature – Elemental Dragon",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/79_Stormmane Drakkon.png"
+			}
+		},
+		{
+			"name": "Wakeborne Kraken",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature – Kraken",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/DSS-files/img/82_Wakeborne Kraken.jpg"
+			}
+		},
+		{
+			"name": "Sirocco Cruiser",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature – Human Pilot",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/2.png"
+			}
+		},
+		{
+			"name": "Nexus Serasphinx",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature – Angel Sphinx",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/63_Nexus Serasphinx.png"
+			}
+		},
+		{
+			"name": "Awakened Deus",
+			"rarity": "special",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Creature – Leviathan Avatar",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/33_Awakened Deus.png"
+			}
+		},
+		{
+			"name": "Meditation",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/STW-files/img/10_Meditation.png"
+			}
+		},
+		{
+			"name": "Grasp at Frail Dreams",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Tribal Sorcery – Eldrazi Revelation",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GQC-files/img/67_Grasp at Frail Dreams.jpg"
+			}
+		},
+		{
+			"name": "Secrets Shimmer Like Silver",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Kindred Sorcery – Kraken Revelation",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/51_Secrets Shimmer Like Silver.png"
+			}
+		},
+		{
+			"name": "Command Reality",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/138.png"
+			}
+		},
+		{
+			"name": "Sneap",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/77_Sneap.png"
+			}
+		},
+		{
+			"name": "Gaze Inward",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/54_Gaze Inward.png"
+			}
+		},
+		{
+			"name": "Juyu Offering Pool",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment – Gallery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/39.png"
+			}
+		},
+		{
+			"name": "Upset Balance",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/103.png"
+			}
+		},
+		{
+			"name": "Fang Fleet Mandate",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/38_Fang Fleet Mandate.png"
+			}
+		},
+		{
+			"name": "Deft Deflection",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/38_Deft Deflection.png"
+			}
+		},
+		{
+			"name": "Hydrolyze",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/101.png"
+			}
+		},
+		{
+			"name": "Mind's Unraveling",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/X24-files/img/5_Mind's Unraveling.png"
+			}
+		},
+		{
+			"name": "The Briny Depths Await",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Kindred Instant – Kraken Revelation",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/33_The Briny Depths Await.png"
+			}
+		},
+		{
+			"name": "Repel Aggression",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/230.png"
+			}
+		},
+		{
+			"name": "Melancholy",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature – Incarnation",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/50_Melancholy.png"
+			}
+		},
+		{
+			"name": "Aurora Harnesser",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature – Human Wizard",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/31.png"
+			}
+		},
+		{
+			"name": "Runic Lockdown",
+			"rarity": "special",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/69_Runic Lockdown.png"
+			}
+		},
+		{
+			"name": "Battle for the Mistwinds",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Battle – Conquest",
+			"collector_number": "32",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/GSS-files/img/32_Battle for the Mistwinds_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/32_Battle for the Mistwinds_front.png"
+			}
+		},
+		{
+			"name": "Better Thy Ken",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/106.png"
+			}
+		},
+		{
+			"name": "Waveshaping",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/57_Waveshaping.png"
+			}
+		},
+		{
+			"name": "Dictate of the Heavens",
+			"rarity": "special",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/54_Dictate of the Heavens.png"
+			}
+		},
+		{
+			"name": "Dracolich's Mastery",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/48_Dracolich's Mastery.png"
+			}
+		},
+		{
+			"name": "Wreckage of the Starbreaker",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/207.png"
+			}
+		},
+		{
+			"name": "Bleeding Dunes",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/37.png"
+			}
+		},
+		{
+			"name": "Croak",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Enchantment – Aura",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/208.png"
+			}
+		},
+		{
+			"name": "Ing'Wei, Azure Empress",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Planeswalker – Ing'Wei",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/2.png"
+			}
+		},
+		{
+			"name": "Lagoon Logistics",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/36.png"
+			}
+		},
+		{
+			"name": "Skin to Stone",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/34.png"
+			}
+		},
+		{
+			"name": "Touch of Oros",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment – Aura",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/207.png"
+			}
+		},
+		{
+			"name": "Coincidence",
+			"rarity": "special",
+			"mana_cost": "{7}{U}{U}",
+			"type": "Enchantment Creature – Incarnation",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/30.png"
+			}
+		},
+		{
+			"name": "Rhapsody in Blue",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Enchantment – Saga",
+			"collector_number": "67",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/KND-files/img/3_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/3_front.png"
+			}
+		},
+		{
+			"name": "Lilith, Seafaring Scribe",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker – Lilith",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/58_Lilith, Seafaring Scribe.png"
+			}
+		},
+		{
+			"name": "Beyond the Horizon",
+			"rarity": "special",
+			"mana_cost": "{7}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/44_Beyond the Horizon.png"
+			}
+		},
+		{
+			"name": "Thalassophobia",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/74_Thalassophobia.png"
+			}
+		},
+		{
+			"name": "The Starwhale Crossing",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/110.png"
+			}
+		},
+		{
+			"name": "Josiah, Bitter Survivor",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker – Josiah",
+			"collector_number": "59",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/SOL-files/img/59_Josiah, Bitter Survivor_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/59_Josiah, Bitter Survivor_front.png"
+			}
+		},
+		{
+			"name": "Taste the Waters",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/105.png"
+			}
+		},
+		{
+			"name": "Herald of Nothing",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature – Robot Scout",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/102.png"
+			}
+		},
+		{
+			"name": "Mechanized Propagator",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature – Insect Robot",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/69.png"
+			}
+		},
+		{
+			"name": "Raider's Remains",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature – Skeleton Pirate",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/117_Raider's Remains.png"
+			}
+		},
+		{
+			"name": "The Deep Ones",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature – Merfolk Horror",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/76_The Deep Ones.png"
+			}
+		},
+		{
+			"name": "Callous Tactician",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature – Orc Advisor",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GQC-files/img/99_Callous Tactician.jpg"
+			}
+		},
+		{
+			"name": "Ha'Eng, Profane Scribe",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature – Human Wizard",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/45.png"
+			}
+		},
+		{
+			"name": "Shifu of Xiangyin Temple",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature – Human Warrior",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/109.png"
+			}
+		},
+		{
+			"name": "Aviomancer",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Creature – Human Warlock",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/66_Aviomancer.png"
+			}
+		},
+		{
+			"name": "Emperor's Executioner",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature – Human Soldier",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/105_Emperor's Executioner.png"
+			}
+		},
+		{
+			"name": "Rotcycle Myconid",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Creature – Fungus",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/X24-files/img/13_Rotcycle Myconid.png"
+			}
+		},
+		{
+			"name": "Augmented Bankbuster",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature – Human Rogue",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/85_Augmented Bankbuster.png"
+			}
+		},
+		{
+			"name": "Inklight Dancer",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature – Human Performer",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/72_Inklight Dancer.png"
+			}
+		},
+		{
+			"name": "Null Knight",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature – Avatar Knight",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/2.png"
+			}
+		},
+		{
+			"name": "Debt Collectors",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature – Human Rogue",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/34.png"
+			}
+		},
+		{
+			"name": "Clever Familiar",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature – Cat",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/73_Clever Familiar.png"
+			}
+		},
+		{
+			"name": "Eir, Voidtwisted Valkyrie",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature – Angel Warlock",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/88.png"
+			}
+		},
+		{
+			"name": "Deathwind Whisperer",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature – Human Knight",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/34.png"
+			}
+		},
+		{
+			"name": "Crimza Taal Infiltrator",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature – Halfling Pirate",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/91_Crimza Taal Infiltrator.png"
+			}
+		},
+		{
+			"name": "Bitterbone Horror",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature – Horror",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/67_Bitterbone Horror.png"
+			}
+		},
+		{
+			"name": "Dreadtide Marauder",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature – Zombie Pirate",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/101_Dreadtide Marauder.png"
+			}
+		},
+		{
+			"name": "Lotus Cultivator",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature – Human Warlock",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/103_Lotus Cultivator.png"
+			}
+		},
+		{
+			"name": "Kai'Jun, the Eradicator",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature – Demon",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/46.png"
+			}
+		},
+		{
+			"name": "The Black Mask",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature – Galaxian Rogue",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/3.png"
+			}
+		},
+		{
+			"name": "Charge into the Void",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/61.png"
+			}
+		},
+		{
+			"name": "Don the Wintercrown",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/119.png"
+			}
+		},
+		{
+			"name": "Necrotic Duality",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/44.png"
+			}
+		},
+		{
+			"name": "Abyssal Promenade",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/39.png"
+			}
+		},
+		{
+			"name": "Lifeblood Ritual",
+			"rarity": "special",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/82_Lifeblood Ritual.png"
+			}
+		},
+		{
+			"name": "What Lurks Beneath",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/125_What Lurks Beneath.png"
+			}
+		},
+		{
+			"name": "Avarice",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature – Incarnation",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/87_Avarice.png"
+			}
+		},
+		{
+			"name": "Lizhao, Last Breath of the Yenzu",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature – Elder Demon",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/4.png"
+			}
+		},
+		{
+			"name": "Nachtengel",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature – Skeleton Angel",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/37.png"
+			}
+		},
+		{
+			"name": "Fright",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature – Incarnation",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/79_Fright.png"
+			}
+		},
+		{
+			"name": "Malevolent Eradicator",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Artifact Creature – Construct",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/102_Malevolent Eradicator.png"
+			}
+		},
+		{
+			"name": "Sereium, Viridar Hegemon",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature – Viridar Avatar",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/149.png"
+			}
+		},
+		{
+			"name": "Fever Tree",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Artifact",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/45.png"
+			}
+		},
+		{
+			"name": "Merciless Plunder",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/117.png"
+			}
+		},
+		{
+			"name": "Stroke of Nescience",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GQC-files/img/127_Stroke of Nescience.jpg"
+			}
+		},
+		{
+			"name": "Inverter Dreadnought",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact – Spacecraft",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/293.png"
+			}
+		},
+		{
+			"name": "Recovering the Pieces",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/111_Recovering the Pieces.png"
+			}
+		},
+		{
+			"name": "Dark Blood Font",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Artifact",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GQC-files/img/101_Dark Blood Font.jpg"
+			}
+		},
+		{
+			"name": "Scared of the Dark",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/91_Scared of the Dark.png"
+			}
+		},
+		{
+			"name": "As the King Decrees",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/114.png"
+			}
+		},
+		{
+			"name": "Crucify",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GQC-files/img/100_Crucify.jpg"
+			}
+		},
+		{
+			"name": "Fester and Fade",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/43.png"
+			}
+		},
+		{
+			"name": "Terminal Dehydration",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/118.png"
+			}
+		},
+		{
+			"name": "The Gallows at Whiskey Bend",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/35.png"
+			}
+		},
+		{
+			"name": "Jailer's Ire",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/97_Jailer's Ire.png"
+			}
+		},
+		{
+			"name": "Hunter's Ambition",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/109_Hunter's Ambition.png"
+			}
+		},
+		{
+			"name": "Hematic Contract",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment – Aura",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GQC-files/img/109_Hematic Contract.jpg"
+			}
+		},
+		{
+			"name": "Might of the Empire",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/STW-files/img/16_Might of the Empire.png"
+			}
+		},
+		{
+			"name": "All-Seeing Lurker",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature – Spider Demon",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/65_All-Seeing Lurker.png"
+			}
+		},
+		{
+			"name": "Cleave the Soul",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/85_Cleave the Soul.png"
+			}
+		},
+		{
+			"name": "Oni-Power Production",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/107_Oni-Power Production.png"
+			}
+		},
+		{
+			"name": "Zaender, Anomaly Analyst",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Planeswalker – Zaender",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/95.png"
+			}
+		},
+		{
+			"name": "Cult Following",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/74_Cult Following.png"
+			}
+		},
+		{
+			"name": "Eve, the Haunt's Heart",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Planeswalker – Eve",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/X24-files/img/10_Eve, the Haunt's Heart.png"
+			}
+		},
+		{
+			"name": "Encroaching Blight",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/38.png"
+			}
+		},
+		{
+			"name": "Run Train",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/221.png"
+			}
+		},
+		{
+			"name": "Sights of the Blind",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/117.png"
+			}
+		},
+		{
+			"name": "Marooned Mutineer",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature – Human Pirate",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/154_Marooned Mutineer.png"
+			}
+		},
+		{
+			"name": "Gearworks Pest",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature – Scorpion",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/38.png"
+			}
+		},
+		{
+			"name": "Slag Spitter",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature – Lizard",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/122.png"
+			}
+		},
+		{
+			"name": "Doom Monarch",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature – Zombie Noble",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/0_Doom Monarch.png"
+			}
+		},
+		{
+			"name": "Firestorm Evangelist",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature – Monk",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/139_Firestorm Evangelist.png"
+			}
+		},
+		{
+			"name": "Wolf of Anjarja",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature – Human Berserker",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/114.png"
+			}
+		},
+		{
+			"name": "Lurholme Embershaper",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature – Human Wizard",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/114_Lurholme Embershaper.png"
+			}
+		},
+		{
+			"name": "Grottle Shell-Singer",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature – Goblin",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/146_Grottle Shell-Singer.png"
+			}
+		},
+		{
+			"name": "Lurholme Flamedancer",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature – Human Warlock",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/X24-files/img/15_Lurholme Flamedancer.png"
+			}
+		},
+		{
+			"name": "Tavern Gambler",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature – Human Pirate",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/164_Tavern Gambler.png"
+			}
+		},
+		{
+			"name": "Hamlet Shrieker",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature – Dragon",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/103_Hamlet Shrieker.png"
+			}
+		},
+		{
+			"name": "Sorellan Lamplighter",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature – Spirit Knight",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/41.png"
+			}
+		},
+		{
+			"name": "Drakkonic Scion",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature – Human Warrior",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/140_Drakkonic Scion.png"
+			}
+		},
+		{
+			"name": "Excavator Spider",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature – Spider Robot",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/75.png"
+			}
+		},
+		{
+			"name": "Protostar Tender",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature – Viridar Warlock",
+			"collector_number": "151",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/73_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/73_front.png"
+			}
+		},
+		{
+			"name": "Audra, Raucous Rallier",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature – Human Pirate",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/128_Audra, Raucous Rallier.png"
+			}
+		},
+		{
+			"name": "Elder General Hatsuo",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature – Human Warrior",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/57.png"
+			}
+		},
+		{
+			"name": "Incendiary Historian",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature – Human Rebel Wizard",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/47.png"
+			}
+		},
+		{
+			"name": "Mieng of the Pyre Waltz",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature – Human Wizard",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/58.png"
+			}
+		},
+		{
+			"name": "Msuji Berserker",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment Creature – Lizard Berserker",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/48.png"
+			}
+		},
+		{
+			"name": "Relic Trampler",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature – Elephant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/50.png"
+			}
+		},
+		{
+			"name": "Blazing Knight-Errant",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature – Knight",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/127_Blazing Knight-Errant.png"
+			}
+		},
+		{
+			"name": "Flame-Scarred Abomination",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature – Demon",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/138_Flame-Scarred Abomination.png"
+			}
+		},
+		{
+			"name": "Hive Scytheclaw",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature – Insect",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/140.png"
+			}
+		},
+		{
+			"name": "Charismatic Captain",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature – Human Pirate",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/134_Charismatic Captain.png"
+			}
+		},
+		{
+			"name": "Scourge Taskmaster",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature – Demon",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/150_Scourge Taskmaster.png"
+			}
+		},
+		{
+			"name": "Liege of the Pyre",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature – Human Knight",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/42.png"
+			}
+		},
+		{
+			"name": "Merciless Shieldbreaker",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature – Orc Warrior",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GQC-files/img/161_Merciless Shieldbreaker.jpg"
+			}
+		},
+		{
+			"name": "Rapacious Tyrant",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature – Dragon",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/159_Rapacious Tyrant.png"
+			}
+		},
+		{
+			"name": "Wreckage Ravager",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature – Dragon",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/4.png"
+			}
+		},
+		{
+			"name": "The Butcher of Bandura",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature – Shark Beast",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/92_The Butcher of Bandura.png"
+			}
+		},
+		{
+			"name": "Dravak Tyrant",
+			"rarity": "special",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Enchantment Creature – Dragon Knight",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/131.png"
+			}
+		},
+		{
+			"name": "Chaos Wyrm",
+			"rarity": "special",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature – Dragon Wurm",
+			"collector_number": "132",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/237_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/237_front.png"
+			}
+		},
+		{
+			"name": "Kjaldiran Cavalry",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature – Human Warrior",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/147_Kjaldiran Cavalry.png"
+			}
+		},
+		{
+			"name": "Into the Unknown",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/238.png"
+			}
+		},
+		{
+			"name": "Objects In Motion",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/21.png"
+			}
+		},
+		{
+			"name": "Realize the Delicate Ideal",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Tribal Sorcery – Eldrazi Revelation",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GQC-files/img/172_Realize the Delicate Ideal.jpg"
+			}
+		},
+		{
+			"name": "Hoard",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/47.png"
+			}
+		},
+		{
+			"name": "Rise of Cinders",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/55.png"
+			}
+		},
+		{
+			"name": "The Liberated Onslaught",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Enchantment",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/45.png"
+			}
+		},
+		{
+			"name": "Volatile Machinations",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/42.png"
+			}
+		},
+		{
+			"name": "Command the Cosmos",
+			"rarity": "special",
+			"mana_cost": "{X}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/132_Command the Cosmos.png"
+			}
+		},
+		{
+			"name": "Falling Star's Wake",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/39.png"
+			}
+		},
+		{
+			"name": "Faster than Light",
+			"rarity": "special",
+			"mana_cost": "{5}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/161.png"
+			}
+		},
+		{
+			"name": "Shigane Manor Burns",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment – Saga",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/122_Shigane Manor Burns.png"
+			}
+		},
+		{
+			"name": "Quintessence Division",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/103.png"
+			}
+		},
+		{
+			"name": "Approach the Eye",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/100_Approach the Eye.png"
+			}
+		},
+		{
+			"name": "Cataclysmic Downfall",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/54.png"
+			}
+		},
+		{
+			"name": "Hellfire Volley",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/147_Hellfire Volley.png"
+			}
+		},
+		{
+			"name": "Bonk",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/127.png"
+			}
+		},
+		{
+			"name": "Guns A-Blazing",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/134.png"
+			}
+		},
+		{
+			"name": "Tendril Trap",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/234.png"
+			}
+		},
+		{
+			"name": "Prancing Flame",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/155_Prancing Flame.png"
+			}
+		},
+		{
+			"name": "Searing Barrage",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/150_Searing Barrage.png"
+			}
+		},
+		{
+			"name": "To Stone and Ash",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/154_To Stone and Ash.png"
+			}
+		},
+		{
+			"name": "Let the Fray Burn",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/46.png"
+			}
+		},
+		{
+			"name": "Sandspout",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/126.png"
+			}
+		},
+		{
+			"name": "Shoot First",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/STW-files/img/25_Shoot First.png"
+			}
+		},
+		{
+			"name": "Bitter End",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VLA-files/img/130_Bitter End.png"
+			}
+		},
+		{
+			"name": "Paint the Town Red",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Enchantment – Saga",
+			"collector_number": "147",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/KND-files/img/7_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/7_front.png"
+			}
+		},
+		{
+			"name": "Ring-Tailed Lemur",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature – Lemur",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ACE-files/img/263_Ring-Tailed Lemur.jpg"
+			}
+		},
+		{
+			"name": "Elvish Dreamspinner",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature – Elf Druid",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ACE-files/img/239_Elvish Dreamspinner.jpg"
+			}
+		},
+		{
+			"name": "Turtle",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature – Turtle",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/EDR-files/img/82.png"
+			}
+		},
+		{
+			"name": "Xenobotanist",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature – Human Pilot",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/56.png"
+			}
+		},
+		{
+			"name": "Clockwork Arachnid",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Artifact Creature – Spider",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/162_Clockwork Arachnid.png"
+			}
+		},
+		{
+			"name": "Foraging Jackalope",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature – Rabbit Elk",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/X25-files/img/2_Foraging Jackalope.png"
+			}
+		},
+		{
+			"name": "Amidi Beastspeaker",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature – Human Druid",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/130.png"
+			}
+		},
+		{
+			"name": "Steppe Shepherd",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature – Human Rebel Scout",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/56.png"
+			}
+		},
+		{
+			"name": "Putrescent Branchstalker",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature – Horror",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/183_Putrescent Branchstalker.png"
+			}
+		},
+		{
+			"name": "Fathoms Spearhunter",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature – Human Merfolk Pirate",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/126_Fathoms Spearhunter.png"
+			}
+		},
+		{
+			"name": "Tanavir, Simulacra Ascetic",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature – Elf Shaman",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/199_Tanavir, Simulacra Ascetic.png"
+			}
+		},
+		{
+			"name": "Corporate Fumigator",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature – Human Soldier",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/162.png"
+			}
+		},
+		{
+			"name": "Crucible Druid",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature – Elf Druid",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/174_Crucible Druid.png"
+			}
+		},
+		{
+			"name": "Malvo's Quartermaster",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature – Human Scout",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/194_Malvo's Quartermaster.png"
+			}
+		},
+		{
+			"name": "Verdurous Sibyl",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature – Galaxian Druid",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/44.png"
+			}
+		},
+		{
+			"name": "Adapted Lifespinner",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature – Avatar Shaman",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/166_Adapted Lifespinner.png"
+			}
+		},
+		{
+			"name": "Coaxer of the Cycle",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature – Dryad Warlock",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/163_Coaxer of the Cycle.png"
+			}
+		},
+		{
+			"name": "Curious Horticulturist",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature – Insect Citizen",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/60.png"
+			}
+		},
+		{
+			"name": "Convergence Thaumaturge",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature – Human Warlock",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/137_Convergence Thaumaturge.png"
+			}
+		},
+		{
+			"name": "Everbough Dryad",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature – Dryad",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/139.png"
+			}
+		},
+		{
+			"name": "Verdant Auspex",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature – Human Druid",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/58.png"
+			}
+		},
+		{
+			"name": "Behemoth Tracker",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature – Robot Scout",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/172.png"
+			}
+		},
+		{
+			"name": "Reygias, Lord Phytolich",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature – Skeleton Warlock",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/184_Reygias, Lord Phytolich.png"
+			}
+		},
+		{
+			"name": "Settler's Caravan",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature – Turtle",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/151_Settler's Caravan.png"
+			}
+		},
+		{
+			"name": "Terralight Stag",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature – Elk",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/200_Terralight Stag.png"
+			}
+		},
+		{
+			"name": "Blighteater Lynxstag",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature – Skeleton Elk Cat",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/170_Blighteater Lynxstag.png"
+			}
+		},
+		{
+			"name": "Where the Wild Things Are",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/47.png"
+			}
+		},
+		{
+			"name": "Realmsplicer",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature – Giant Knight",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/ATR-files/img/49.png"
+			}
+		},
+		{
+			"name": "Hillback Ollipheist",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature – Wurm",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GS2-files/img/20_Hillback Ollipheist.png"
+			}
+		},
+		{
+			"name": "Kelpscale Serpent",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature – Plant Serpent",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/190_Kelpscale Serpent.png"
+			}
+		},
+		{
+			"name": "Chiu, Hand of the Pack",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature – Human Druid",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/69.png"
+			}
+		},
+		{
+			"name": "Jade Champion",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature – Centaur Knight",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GQC-files/img/199_Jade Champion.jpg"
+			}
+		},
+		{
+			"name": "Earthshaker Colossus",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature – Treefolk",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/X24-files/img/17_Earthshaker Colossus.png"
+			}
+		},
+		{
+			"name": "Gangplank Marauders",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature – Human Pirate",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/183_Gangplank Marauders.png"
+			}
+		},
+		{
+			"name": "Kiora's Coiler",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature – Serpent",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/192_Kiora's Coiler.png"
+			}
+		},
+		{
+			"name": "Octotyrant",
+			"rarity": "special",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature – Octopus",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/198_Octotyrant.png"
+			}
+		},
+		{
+			"name": "Brightheart Serpent",
+			"rarity": "special",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature – Serpent",
+			"collector_number": "171",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thecadburytales.github.io/sets/VYI-files/img/41_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/41_front.png"
+			}
+		},
+		{
+			"name": "Lotus Tender",
+			"rarity": "special",
+			"mana_cost": "{4}{G}",
+			"type": "Creature – Plant",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/174_Lotus Tender.png"
+			}
+		},
+		{
+			"name": "Stonework Titan",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Artifact Creature – Turtle",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/154_Stonework Titan.png"
+			}
+		},
+		{
+			"name": "Rising Tide",
+			"rarity": "special",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/200_Rising Tide.png"
+			}
+		},
+		{
+			"name": "Escaping A World's End",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment – Saga",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/178_Escaping A World's End.png"
+			}
+		},
+		{
+			"name": "Terraformer Archengine",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/9.png"
+			}
+		},
+		{
+			"name": "Evolution Event",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/8.png"
+			}
+		},
+		{
+			"name": "Something Stirs Within",
+			"rarity": "special",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Kindred Sorcery – Kraken Revelation",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/140_Something Stirs Within.png"
+			}
+		},
+		{
+			"name": "Wildlife Sketches",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Enchantment – Gallery",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/75.png"
+			}
+		},
+		{
+			"name": "Call of L'Or",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/122_Call of L'Or.png"
+			}
+		},
+		{
+			"name": "Davijan's Awakening",
+			"rarity": "special",
+			"mana_cost": "{X}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/175_Davijan's Awakening.png"
+			}
+		},
+		{
+			"name": "Gateway Collapse",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/63.png"
+			}
+		},
+		{
+			"name": "Timberland Hymn",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/141.png"
+			}
+		},
+		{
+			"name": "Putrid Sludge",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature – Ooze",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/152_Putrid Sludge.png"
+			}
+		},
+		{
+			"name": "Tactical Emesis",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery – Projectile",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/49.png"
+			}
+		},
+		{
+			"name": "Amede, Vessel of Alune",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Planeswalker – Amede",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/29.png"
+			}
+		},
+		{
+			"name": "Uncharted Frontiers",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/178.png"
+			}
+		},
+		{
+			"name": "Genesis Event",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/270.png"
+			}
+		},
+		{
+			"name": "Colony Migration",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/46.png"
+			}
+		},
+		{
+			"name": "Eldritch Deluge",
+			"rarity": "special",
+			"mana_cost": "{X}{G}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MOX-files/img/140_Eldritch Deluge.png"
+			}
+		},
+		{
+			"name": "Kism, Daughter of Fates",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Planeswalker – Kism",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SGB-files/img/154_Kism, Daughter of Fates.jpg"
+			}
+		},
+		{
+			"name": "Behemoth of World's End",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Creature – Crocodile",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/172_Behemoth of World's End.png"
+			}
+		},
+		{
+			"name": "Jindao, the World Eye",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature – Snake",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/NJB-files/img/71.png"
+			}
+		},
+		{
+			"name": "Champion of Confluence",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature – Human Knight",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/173_Champion of Confluence.png"
+			}
+		},
+		{
+			"name": "Bitter Expanse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Desert",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/272.png"
+			}
+		},
+		{
+			"name": "Blistered Quarry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Desert",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/269.png"
+			}
+		},
+		{
+			"name": "Cape of Plenty",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Desert",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/274.png"
+			}
+		},
+		{
+			"name": "Magmatic Rift",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Desert",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/275.png"
+			}
+		},
+		{
+			"name": "Paradise Shores",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Desert",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/267.png"
+			}
+		},
+		{
+			"name": "Plague Shrine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Desert",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/273.png"
+			}
+		},
+		{
+			"name": "Rugged Sedge",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Desert",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/270.png"
+			}
+		},
+		{
+			"name": "Scorched Pass",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Desert",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/276.png"
+			}
+		},
+		{
+			"name": "Shackled Depths",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Desert",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/268.png"
+			}
+		},
+		{
+			"name": "Sunkissed Sanctuary",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Desert",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/KND-files/img/271.png"
+			}
+		},
+		{
+			"name": "Basalt Quarry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Mine",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/263.png"
+			}
+		},
+		{
+			"name": "Chiseled Hideaway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Cave",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/270.png"
+			}
+		},
+		{
+			"name": "Henge of Safe Passage",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Gate",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/265.png"
+			}
+		},
+		{
+			"name": "Oil-Worn Depths",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Cave",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/262.png"
+			}
+		},
+		{
+			"name": "Phosphorescent Bileway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Mine",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/268.png"
+			}
+		},
+		{
+			"name": "Pungent Smokestacks",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Tower",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/267.png"
+			}
+		},
+		{
+			"name": "Salt Pool Citadel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Tower",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/261.png"
+			}
+		},
+		{
+			"name": "Stormsurge Waypoint",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Gate",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/269.png"
+			}
+		},
+		{
+			"name": "Transplanted Hive",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Lair",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/266.png"
+			}
+		},
+		{
+			"name": "Weirding Territory",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land – Lair",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/SHF-files/img/264.png"
+			}
+		},
+		{
+			"name": "Armor Workshop",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MRV-files/img/306_Armor Workshop.png"
+			}
+		},
+		{
+			"name": "Essex Laboratory",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MRV-files/img/320_Essex Laboratory.png"
+			}
+		},
+		{
+			"name": "Hala",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MRV-files/img/323_Hala.png"
+			}
+		},
+		{
+			"name": "K'un-Lun",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MRV-files/img/331_K'un-Lun.png"
+			}
+		},
+		{
+			"name": "Klyntar Homeworld",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MRV-files/img/328_Klyntar Homeworld.png"
+			}
+		},
+		{
+			"name": "Krakoa",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MRV-files/img/330_Krakoa.png"
+			}
+		},
+		{
+			"name": "SHIELD Headquarters",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MRV-files/img/346_SHIELD Headquarters.png"
+			}
+		},
+		{
+			"name": "Savage Land",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MRV-files/img/349_Savage Land.png"
+			}
+		},
+		{
+			"name": "Subterranea",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MRV-files/img/351_Subterranea.png"
+			}
+		},
+		{
+			"name": "Symkaria",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/MRV-files/img/353_Symkaria.png"
+			}
+		},
+		{
+			"name": "Seto San, the Dragonblade",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Planeswalker – Seto",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/DSS-files/img/32_Seto San, the Dragonblade.jpg"
+			}
+		},
+		{
+			"name": "Cane Dancer",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature – Human Monk",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/GHQ-files/img/50_Cane Dancer.jpg"
+			}
+		},
+		{
+			"name": "Crewmaster Gillo",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature – Monkey Pirate",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/DSS-files/img/173_Crewmaster Gillo.jpg"
+			}
+		},
+		{
+			"name": "Noxela, the Gloom",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature – Viridar Warlock",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/VYI-files/img/174.png"
+			}
+		},
+		{
+			"name": "Invoker's Voidlord",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature – Demon",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/97_Invoker's Voidlord.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Eira, Selfless Paladin
+	1 Twinferno Summoner
+	1 Seto San, Divine Heroine
+	1 Skodir, Reborn
+	1 Clamber to the Light
+	1 Dragonheart Technique
+	1 Machine Prophets
+	1 Fables of the Ill-Fated
+	1 Ecliptic Ending
+	1 Fleetcrusher Titan
+	1 Jack, the Exterminator
+	1 The Divine Caele
+	1 Oakblight Sage
+	1 Shambling Terrarium
+	1 Clementine Cogs Faraday
+	1 Parrot Pools
+	1 Captain Elai
+	1 Rum Guzzler
+	1 Adler of the Thirteenth Hour
+	1 Dross Incubator
+	1 Blazing Meteors
+	1 Kiora, Voice of the Deep
+	1 Nythr, Stargate Goliath
+	1 Witness Forces Unknown
+	1 The Starholme Frontier
+	1 Glimpse Worlds Within Worlds
+	1 A World Through the Wake
+	1 Migrating Cetacean
+	1 Ashen Paragon
+	1 Banisher Rifle
+	1 Dawson, Out for Blood
+	1 Jorah, Godslayer
+	1 Mother of Hands
+	1 Marketto, the Trafficker
+	1 Kjaldiran Battlewolves
+	1 Tarja, Favored Keen-Eye
+	1 Ingrid Farjalla
+	1 Freydis, the Astrobiologist
+	1 The Divine Marisyn
+	1 Awakener of Ancients
+	1 Kanghyae Forum
+	1 Rip in Half
+	1 Majesty
+	1 Wavebreaker Brute
+	1 Dragon-Eye Lookout
+	1 Current Pacer
+	1 Ravenous Cactyrant
+	1 Battle for Highspire
+	1 Dunebreaker Wurm
+	1 Jadon, Who Fells the Mighty
+	1 Strip-Mining Charter
+	1 Swiftblade Ren
+	1 Seasoned Sandshaper
+	1 Prideful Reaper
+	1 Smoke Seer
+	1 Upgraded Marauder
+	1 Hemophage Hunter
+	1 Baneful Seer
+	1 Twist Perceptions
+	1 Yusi, the Sable Crow
+	1 Voidsent Ghoul
+	1 Sundeath Maw
+	1 Seek the Last Light
+	1 The Divine Vaelias
+	1 Terithius, the Iron Mind
+	1 Painting Dolls
+	1 Disruptor Strix
+	1 Righteous Archangel
+	1 The Varathian Consulate
+	1 False God Interface
+	1 Xrogg, Star's Shadow
+	1 Ayeshi, Time's Jailer
+	1 Kai'Oro, Grave Betrayer
+	1 Mpumo, the Rebel Lord
+	1 Cou Ling of the Lunar Den
+	1 Beacon of Horizons
+	1 Cosmic Heart
+	1 Monument of Waning Faith
+	1 Affectionate Mimic
+	1 Convergence Mirror
+	1 Cursed Coins
+	1 Dust Devil
+	1 The Apocalypse Pendulum
+	1 Pilferer's Pouch
+	1 Sword of Greed and Glory
+	1 Consulate Bellwether
+	1 Runaway Freight
+	1 Fractured Turbine
+	1 The Apocalypse Dial
+	1 Sentinels of Canica Strait
+	1 Fishing Docks
+	1 Revenant Lantern
+	1 Aeon
+	1 The Chasmal Rift
+	1 Sword of Dreams and Empire
+	1 The Exile Queen's Crown
+	1 Djitu's Lithified Mantle
+	1 Ashen Progenitor
+	1 Galaxian's Best Friend
+	1 Finecraft Seraph
+	1 Meteor Harvester
+	1 Revolutionary's Monument
+	1 M-80, Clockwork Captain
+	1 Ghariv, the Quaking City
+	1 Port Goliath
+	1 Eye of the Eight Winds
+	1 Bismuth Skycity
+	1 Luscious Planetscape
+	1 Sojourner's Gateway
+	1 Valdrasil Reborn
+	1 Galactic Reach
+	1 Reflecting Canyon
+	1 Varathian Battery
+	1 Varathian Watchtower
+	1 War-Scarred Remnants
+	1 Almicar's Striker
+	1 Gleaming Praetor
+	1 Pledgeseeker
+	1 Chosen Valiant
+	1 Echoed Vanguard
+	1 Steelframe Viridar
+	1 Aarakocra Champion
+	1 Sculptor's Replica
+	1 Blighted Angel
+	1 Illusory Savior
+	1 Kiri, Corporeal Conduit
+	1 Chronicles of the Kitsune
+	1 Dockside Warden
+	1 Novice Navigator
+	1 Queen Saleh Amidi
+	1 Gao'Wu, Humble Sibyl
+	1 Drifting Moon
+	1 Purifying Zealot
+	1 Annie White Rose Harper
+	1 Ivory Tactician
+	1 Rivha, Heiress of Pinions
+	1 Starsent Angel
+	1 Cai Lan, the Puppeteer
+	1 Druno, Marquisian Collector
+	1 Dawn Patrol
+	1 Ayeshi's Agent
+	1 Emperor Almicar
+	1 Ria, Master Smith
+	1 Goldblossom Angel
+	1 Lijing, the Great Partisan
+	1 Rescue Strix
+	1 Forgiveness
+	1 Herald of the Heavens
+	1 Valkyrie of Shared Dawn
+	1 Adrift in a Twilit Sea
+	1 Imperial Tour
+	1 Revolt at the Palace
+	1 Heping, at War's End
+	1 Mafua, Oathseeker
+	1 Knightfall
+	1 Procession of the Alliance
+	1 Rivha's Blessed Blade
+	1 Restore Order
+	1 Spectral Sabers
+	1 Become Faceless
+	1 Leave in the Dust
+	1 One Swift Strike
+	1 Seal the Gateway
+	1 Starlit Exeunt
+	1 Encased in Glass
+	1 Maroon
+	1 Clearcut
+	1 Sentence to the Gaol
+	1 Swift Reproach
+	1 System Cage
+	1 The Dutiful Wanderer
+	1 Tell No Tales
+	1 Dust to Flesh to Dust
+	1 Annihilation
+	1 End of Days
+	1 Prodigious Panya
+	1 Murktown Angler
+	1 Aurelian Drake
+	1 Aione, the First Galaxian
+	1 Dreadlich Captain
+	1 Enigma Variant
+	1 Ghostlight Infiltrator
+	1 Overmorrow's Architect
+	1 Prescient Phantom
+	1 The Crowspeaker
+	1 Davijan, Trenchbound Titan
+	1 Shifting Sailor
+	1 Ulderwild Haunt
+	1 Onemind, Eye of Discovery
+	1 Cloudbreacher
+	1 Ushi Yun, the Curator
+	1 Faceless Form
+	1 Atmosphere Trawlers
+	1 Stormmane Drakkon
+	1 Wakeborne Kraken
+	1 Sirocco Cruiser
+	1 Nexus Serasphinx
+	1 Awakened Deus
+	1 Meditation
+	1 Grasp at Frail Dreams
+	1 Secrets Shimmer Like Silver
+	1 Command Reality
+	1 Sneap
+	1 Gaze Inward
+	1 Juyu Offering Pool
+	1 Upset Balance
+	1 Fang Fleet Mandate
+	1 Deft Deflection
+	1 Hydrolyze
+	1 Mind's Unraveling
+	1 The Briny Depths Await
+	1 Repel Aggression
+	1 Melancholy
+	1 Aurora Harnesser
+	1 Runic Lockdown
+	1 Battle for the Mistwinds
+	1 Better Thy Ken
+	1 Waveshaping
+	1 Dictate of the Heavens
+	1 Dracolich's Mastery
+	1 Wreckage of the Starbreaker
+	1 Bleeding Dunes
+	1 Croak
+	1 Ing'Wei, Azure Empress
+	1 Lagoon Logistics
+	1 Skin to Stone
+	1 Touch of Oros
+	1 Coincidence
+	1 Rhapsody in Blue
+	1 Lilith, Seafaring Scribe
+	1 Beyond the Horizon
+	1 Thalassophobia
+	1 The Starwhale Crossing
+	1 Josiah, Bitter Survivor
+	1 Taste the Waters
+	1 Herald of Nothing
+	1 Mechanized Propagator
+	1 Raider's Remains
+	1 The Deep Ones
+	1 Callous Tactician
+	1 Ha'Eng, Profane Scribe
+	1 Shifu of Xiangyin Temple
+	1 Aviomancer
+	1 Emperor's Executioner
+	1 Rotcycle Myconid
+	1 Augmented Bankbuster
+	1 Inklight Dancer
+	1 Null Knight
+	1 Debt Collectors
+	1 Clever Familiar
+	1 Eir, Voidtwisted Valkyrie
+	1 Deathwind Whisperer
+	1 Crimza Taal Infiltrator
+	1 Bitterbone Horror
+	1 Dreadtide Marauder
+	1 Lotus Cultivator
+	1 Kai'Jun, the Eradicator
+	1 The Black Mask
+	1 Charge into the Void
+	1 Don the Wintercrown
+	1 Necrotic Duality
+	1 Abyssal Promenade
+	1 Lifeblood Ritual
+	1 What Lurks Beneath
+	1 Avarice
+	1 Lizhao, Last Breath of the Yenzu
+	1 Nachtengel
+	1 Fright
+	1 Malevolent Eradicator
+	1 Sereium, Viridar Hegemon
+	1 Fever Tree
+	1 Merciless Plunder
+	1 Stroke of Nescience
+	1 Inverter Dreadnought
+	1 Recovering the Pieces
+	1 Dark Blood Font
+	1 Scared of the Dark
+	1 As the King Decrees
+	1 Crucify
+	1 Fester and Fade
+	1 Terminal Dehydration
+	1 The Gallows at Whiskey Bend
+	1 Jailer's Ire
+	1 Hunter's Ambition
+	1 Hematic Contract
+	1 Might of the Empire
+	1 All-Seeing Lurker
+	1 Cleave the Soul
+	1 Oni-Power Production
+	1 Zaender, Anomaly Analyst
+	1 Cult Following
+	1 Eve, the Haunt's Heart
+	1 Encroaching Blight
+	1 Run Train
+	1 Sights of the Blind
+	1 Marooned Mutineer
+	1 Gearworks Pest
+	1 Slag Spitter
+	1 Doom Monarch
+	1 Firestorm Evangelist
+	1 Wolf of Anjarja
+	1 Lurholme Embershaper
+	1 Grottle Shell-Singer
+	1 Lurholme Flamedancer
+	1 Tavern Gambler
+	1 Hamlet Shrieker
+	1 Sorellan Lamplighter
+	1 Drakkonic Scion
+	1 Excavator Spider
+	1 Protostar Tender
+	1 Audra, Raucous Rallier
+	1 Elder General Hatsuo
+	1 Incendiary Historian
+	1 Mieng of the Pyre Waltz
+	1 Msuji Berserker
+	1 Relic Trampler
+	1 Blazing Knight-Errant
+	1 Flame-Scarred Abomination
+	1 Hive Scytheclaw
+	1 Charismatic Captain
+	1 Scourge Taskmaster
+	1 Liege of the Pyre
+	1 Merciless Shieldbreaker
+	1 Rapacious Tyrant
+	1 Wreckage Ravager
+	1 The Butcher of Bandura
+	1 Dravak Tyrant
+	1 Chaos Wyrm
+	1 Kjaldiran Cavalry
+	1 Into the Unknown
+	1 Objects In Motion
+	1 Realize the Delicate Ideal
+	1 Hoard
+	1 Rise of Cinders
+	1 The Liberated Onslaught
+	1 Volatile Machinations
+	1 Command the Cosmos
+	1 Falling Star's Wake
+	1 Faster than Light
+	1 Shigane Manor Burns
+	1 Quintessence Division
+	1 Approach the Eye
+	1 Cataclysmic Downfall
+	1 Hellfire Volley
+	1 Bonk
+	1 Guns A-Blazing
+	1 Tendril Trap
+	1 Prancing Flame
+	1 Searing Barrage
+	1 To Stone and Ash
+	1 Let the Fray Burn
+	1 Sandspout
+	1 Shoot First
+	1 Bitter End
+	1 Paint the Town Red
+	1 Ring-Tailed Lemur
+	1 Elvish Dreamspinner
+	1 Turtle
+	1 Xenobotanist
+	1 Clockwork Arachnid
+	1 Foraging Jackalope
+	1 Amidi Beastspeaker
+	1 Steppe Shepherd
+	1 Putrescent Branchstalker
+	1 Fathoms Spearhunter
+	1 Tanavir, Simulacra Ascetic
+	1 Corporate Fumigator
+	1 Crucible Druid
+	1 Malvo's Quartermaster
+	1 Verdurous Sibyl
+	1 Adapted Lifespinner
+	1 Coaxer of the Cycle
+	1 Curious Horticulturist
+	1 Convergence Thaumaturge
+	1 Everbough Dryad
+	1 Verdant Auspex
+	1 Behemoth Tracker
+	1 Reygias, Lord Phytolich
+	1 Settler's Caravan
+	1 Terralight Stag
+	1 Blighteater Lynxstag
+	1 Where the Wild Things Are
+	1 Realmsplicer
+	1 Hillback Ollipheist
+	1 Kelpscale Serpent
+	1 Chiu, Hand of the Pack
+	1 Jade Champion
+	1 Earthshaker Colossus
+	1 Gangplank Marauders
+	1 Kiora's Coiler
+	1 Octotyrant
+	1 Brightheart Serpent
+	1 Lotus Tender
+	1 Stonework Titan
+	1 Rising Tide
+	1 Escaping A World's End
+	1 Terraformer Archengine
+	1 Evolution Event
+	1 Something Stirs Within
+	1 Wildlife Sketches
+	1 Call of L'Or
+	1 Davijan's Awakening
+	1 Gateway Collapse
+	1 Timberland Hymn
+	1 Putrid Sludge
+	1 Tactical Emesis
+	1 Amede, Vessel of Alune
+	1 Uncharted Frontiers
+	1 Genesis Event
+	1 Colony Migration
+	1 Eldritch Deluge
+	1 Kism, Daughter of Fates
+	1 Behemoth of World's End
+	1 Jindao, the World Eye
+	1 Champion of Confluence
+	1 Bitter Expanse
+	1 Blistered Quarry
+	1 Cape of Plenty
+	1 Magmatic Rift
+	1 Paradise Shores
+	1 Plague Shrine
+	1 Rugged Sedge
+	1 Scorched Pass
+	1 Shackled Depths
+	1 Sunkissed Sanctuary
+	1 Basalt Quarry
+	1 Chiseled Hideaway
+	1 Henge of Safe Passage
+	1 Oil-Worn Depths
+	1 Phosphorescent Bileway
+	1 Pungent Smokestacks
+	1 Salt Pool Citadel
+	1 Stormsurge Waypoint
+	1 Transplanted Hive
+	1 Weirding Territory
+	1 Armor Workshop
+	1 Essex Laboratory
+	1 Hala
+	1 K'un-Lun
+	1 Klyntar Homeworld
+	1 Krakoa
+	1 SHIELD Headquarters
+	1 Savage Land
+	1 Subterranea
+	1 Symkaria
+	1 Seto San, the Dragonblade
+	1 Cane Dancer
+	1 Crewmaster Gillo
+	1 Noxela, the Gloom
+	1 Invoker's Voidlord
