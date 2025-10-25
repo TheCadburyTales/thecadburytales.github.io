@@ -69,17 +69,17 @@ def generateFile(code):
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://''' + github_path + '''/sets/''' + card['set'] + '''-files/img/''' + card_file_name + '''_back.''' + card['image_type'] + '''"
+					"en": "https://''' + github_path + '''/sets/''' + card['set'] + '''-files/img/''' + card_file_name + '''_back.''' + (set_data['image_type'] if 'image_type' not in card else card['image_type']) + '''"
 				}
 			},
 			"image_uris": {
-				"en": "https://''' + github_path + '''/sets/''' + card['set'] + '''-files/img/''' + card_file_name + '''_front.''' + card['image_type'] + '''"
+				"en": "https://''' + github_path + '''/sets/''' + card['set'] + '''-files/img/''' + card_file_name + '''_front.''' + (set_data['image_type'] if 'image_type' not in card else card['image_type']) + '''"
 			}
 		},
 	'''
 		else:
 			draft_string += '''		"image_uris": {
-				"en": "https://''' + github_path + '''/sets/''' + card['set'] + '''-files/img/''' + card_file_name + '''.''' + card['image_type'] + '''"
+				"en": "https://''' + github_path + '''/sets/''' + card['set'] + '''-files/img/''' + card_file_name + '''.''' + (set_data['image_type'] if 'image_type' not in card else card['image_type']) + '''"
 			}
 		}''' + (''',''' if x != len(set_data['cards']) - 1 else '''''') + '''
 	'''
