@@ -4196,6 +4196,7 @@
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery – Projectile",
 			"collector_number": "177",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/49.png"
 			}
