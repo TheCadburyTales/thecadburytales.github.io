@@ -2662,7 +2662,88 @@
 		}
 	]
 
-[uncommon(2)]
+[rare(1)]
+	1 Elder Angel Ethella
+	1 Glorious Chaplain
+	1 The Angel's Renown
+	1 Velia Sol, Queen of Flights
+	1 Elder Sphinx Veritanos
+	1 Omniscient Witness
+	1 The Sphinx's Expertise
+	1 Nefeti, On Wind and Wisdom
+	1 Elder Demon Aternox
+	1 Herald of Damnation
+	1 The Demon's Covenant
+	1 Liliana, Apocryphal Heretic
+	1 Elder Dragon Yadil
+	1 Starstorm Emberkite
+	1 The Dragon's Majesty
+	1 Sarkhan, Scalebound
+	1 Elder Hydra Vidir
+	1 Torrent of Fangs
+	1 The Hydra's Persistence
+	1 Kism, Threads of Destiny
+	2 Prophet of Dawn
+	2 Erin, Beacon of Humility
+	2 Aethelian Shepherd
+	2 Bishop of Sophic Salt
+	2 Faithlight Magister
+	2 Rose Court Justicar
+	2 Judgment of the Tiranos
+	2 Divine Vigil
+	2 Ethella's Command
+	2 Elegant Waveshaper
+	2 Squire of Aequitius
+	2 Vaetas, the Worldwatcher
+	2 Curio Antiquary
+	2 Precognos Augury
+	2 Spectral Aethergate
+	2 Overwhelming Wisdom
+	2 Sphinx of Cryptic Passage
+	2 Veritanos's Command
+	2 Baron of Calamity
+	2 Naev, the Sinner's Bane
+	2 Embodiment of Anguish
+	2 Shadowbrand Templar
+	2 Il-Ergal Soothsayer
+	2 Reaper's Promenade
+	2 Vessel of Vile Truths
+	2 Kaelax Blood Pact
+	2 Aternox's Command
+	2 Calamitous Hellwing
+	2 Vashai, the Pyretic Roar
+	2 Antiquities Hoarder
+	2 Adishii Stormcaller
+	2 Iron Eye Captain
+	2 Atsinil Freeblade
+	2 Earthshatter Prodigy
+	2 Bloodfire Brand
+	2 Yadil's Command
+	2 Keeper of the Godhold
+	2 Rampaging Hydra
+	2 Virulent Scourge
+	2 Uthrun Auspex
+	2 Oridian Clique
+	2 Burgeoning Wildwood
+	2 Everbough Oracle
+	2 Wondrous Genesis
+	2 Vidir's Command
+	2 Savos, Hand of Justice
+	2 Devora, the Persecutor
+	2 Slaughtermonger Huaxi
+	2 Ati-Iri, the Evervisage
+	2 Oyana, the Shattered One
+	2 Zora and Aroz, Twin Souls
+	2 Vivix, Pustulent Maw
+	2 Multirus, Symbiotic Sage
+	2 Incignos, Ash in the Wind
+	2 Atsaeri, the Cindersoul
+	2 Chitinous Escort
+	2 Forge the First Seal
+	2 Lordsworn Chariot
+	2 Monolith Architect
+	2 Mons Miralis, Lustrous Apex
+[uncommon(3)]
 	4 Disciple of the Tiranos
 	4 Arbiter of Equity
 	4 Unwavering Andi
@@ -2763,7 +2844,7 @@
 	4 Mithril Vein
 	4 Icon of the Devout
 	4 Marbled Aakriti
-[common(9)]
+[common(7)]
 	8 Censer Attendee
 	8 Heartsteel Fledgling
 	8 Ivory Forum Duelist
