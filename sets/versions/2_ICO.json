@@ -1,7 +1,7 @@
 ﻿{
     "name": "Inner Coriansa",
     "formats": "standard",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
     "unpreviewed": "empty",
@@ -5383,6 +5383,5 @@
             "position": "265",
             "notes": ""
         }
-    ],
-    "version": 2
+    ]
 }

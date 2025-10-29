@@ -1,4 +1,517 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Elder Angel Ethella added.
+Glorious Chaplain added.
+The Angel's Renown added.
+Velia Sol, Queen of Flights added.
+Elder Sphinx Veritanos added.
+Omniscient Witness added.
+The Sphinx's Expertise added.
+Nefeti, On Wind and Wisdom added.
+Elder Demon Aternox added.
+Herald of Damnation added.
+The Demon's Covenant added.
+Liliana, Apocryphal Heretic added.
+Elder Dragon Yadil added.
+Starstorm Emberkite added.
+The Dragon's Majesty added.
+Sarkhan, Scalebound added.
+Elder Hydra Vidir added.
+Torrent of Fangs added.
+The Hydra's Persistence added.
+Kism, Threads of Destiny added.
+Prophet of Dawn added.
+Erin, Beacon of Humility added.
+Aethelian Shepherd added.
+Bishop of Sophic Salt added.
+Faithlight Magister added.
+Rose Court Justicar added.
+Judgment of the Tiranos added.
+Divine Vigil added.
+Ethella's Command added.
+Elegant Waveshaper added.
+Squire of Aequitius added.
+Vaetas, the Worldwatcher added.
+Curio Antiquary added.
+Precognos Augury added.
+Spectral Aethergate added.
+Overwhelming Wisdom added.
+Sphinx of Cryptic Passage added.
+Veritanos's Command added.
+Baron of Calamity added.
+Naev, the Sinner's Bane added.
+Embodiment of Anguish added.
+Shadowbrand Templar added.
+Il-Ergal Soothsayer added.
+Reaper's Promenade added.
+Vessel of Vile Truths added.
+Kaelax Blood Pact added.
+Aternox's Command added.
+Calamitous Hellwing added.
+Vashai, the Pyretic Roar added.
+Antiquities Hoarder added.
+Adishii Stormcaller added.
+Iron Eye Captain added.
+Atsinil Freeblade added.
+Earthshatter Prodigy added.
+Bloodfire Brand added.
+Yadil's Command added.
+Keeper of the Godhold added.
+Rampaging Hydra added.
+Virulent Scourge added.
+Uthrun Auspex added.
+Oridian Clique added.
+Burgeoning Wildwood added.
+Everbough Oracle added.
+Wondrous Genesis added.
+Vidir's Command added.
+Savos, Hand of Justice added.
+Devora, the Persecutor added.
+Slaughtermonger Huaxi added.
+Ati-Iri, the Evervisage added.
+Oyana, the Shattered One added.
+Zora and Aroz, Twin Souls added.
+Vivix, Pustulent Maw added.
+Multirus, Symbiotic Sage added.
+Incignos, Ash in the Wind added.
+Atsaeri, the Cindersoul added.
+Chitinous Escort added.
+Forge the First Seal added.
+Lordsworn Chariot added.
+Monolith Architect added.
+Mons Miralis, Lustrous Apex added.
+Arbiter of Equity added.
+Unwavering Andi added.
+Aethelian Chronomancer added.
+Allegiant Cavalier added.
+Inspired Fateseeker added.
+Halle, the Savior added.
+Set in Stone added.
+Liberated March added.
+Empyrean Aegis added.
+Radiance of the Meek added.
+Ethella Spreads Faith added.
+Aether Locksmith added.
+Silthion Gargantuan added.
+Vizier of Many Ends added.
+Custos, the Judge added.
+Disdainful Stroke added.
+Survey Elder Runes added.
+Rippling Thoughts added.
+Eavesdrop added.
+Rebuff the Untethered added.
+Praecognos Indoctrination added.
+Perpetual Whisper added.
+Inkling Harvester added.
+Kaelax Reaper added.
+Ravael, the Shadow added.
+Peace at Last added.
+Blood Begets Blood added.
+Perilous Brainwork added.
+Macabre Echoes added.
+Soul Transfusion added.
+Archdemon's Mantle added.
+Soulblaze Shaman added.
+High Keep Plunderer added.
+Forger of Convictions added.
+Toshzi, the Thunder added.
+Blastburn Salvo added.
+Molten Deluge added.
+Untethered Spectacle added.
+Sanguine Reproach added.
+Smolder added.
+Scales Etched in Stone added.
+Oaken Envoy added.
+Shriving Piper added.
+Virulent Zealot added.
+Uthrun Hierophant added.
+Striding Cascade added.
+Selidith, the Hunger added.
+Thrash of Fangs added.
+Hinterland Ceremony added.
+Verdant Tactics added.
+Late Harvest added.
+Myriad Landscape added.
+Shrouded Citadel added.
+Uplifting Thopter added.
+Unerring Blade added.
+Austere Quadralith added.
+Galvanic Golem added.
+Sacred Medallion added.
+Mithril Vein added.
+Icon of the Devout added.
+Marbled Aakriti added.
+Gilded Oathblade added.
+Smite the Wretched added.
+Acolyte of Brilliance added.
+Volcanic Whelp added.
+Firesteel Scoundrel added.
+Skybane Sniper added.
+Ravenous Assault added.
+Scour the Nest added.
+Steadfast Colossus added.
+Path of the Angel added.
+Path of the Sphinx added.
+Path of the Demon added.
+Path of the Dragon added.
+Path of the Hydra added.
+
+Radiant Savior removed.
+Etheria Spreads Faith removed.
+Empyrean Smite removed.
+Acolyte of Genius removed.
+Skystep Whelp removed.
+Vehement Seether removed.
+Virulent Sniper removed.
+Thrashing Fangs removed.
+Scout the Pit removed.
+Steadfash Colossus removed.
+
+Disciple of the Tiranos
+
+Zephyr Legionnaire
+type: Creature — Angel => Creature — Angel Warrior
+rules_text: Flying
+Whenever Zephyr Legionnaire attacks, create a 1/1 white Cleric creature token that's tapped and attacking. If your life total is at least 5 greater than your starting life total, create a 3/3 white Angel creature token with flying that's tapped and attacking instead. => Flying
+Whenever Zephyr Legionnaire attacks, create a 1/1 white Cleric creature token that's tapped and attacking. If you control three or more attacking Clerics, create a 3/3 white Angel creature token with flying that's tapped and attacking instead.
+
+Guardian of Eteris
+rules_text: Whenever you attack with three or more creatures, invoke the Angels. [i](Begin or advance the Path of the Angel.)[/i] => Lifelink
+Whenever a nontoken creature enters under your control, create a 1/1 white Cleric creature token. If this is the second time this ability has triggered this turn, invoke the Angels. [i](Begin or advance the Path of the Angel.)[/i]
+
+Luminous Monarch
+rules_text: Once during each of your turns, you may cast a permanent spell from your graveyard with mana value less than or equal to devotion to white. A spell cast this way enters with a finality counter on it. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i] => Once during each of your turns, you may cast a permanent spell from your graveyard with mana value less than or equal to devotion to white. That spell enters with a finality counter on it. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]
+
+Disciple of the Aequitius
+rules_text: Sphinx spells you cast cost {1} less to cast.
+Whenever a Sphinx you control enters, scry 1. => Sphinx spells you cast cost {1} less to cast.
+Whenever a Sphinx you control enters, surveil 1.
+
+Wise Prognosticator
+rules_text: Flying
+The first time you scry each turn, you may look at an additional two cards. => Flying
+The first time you scry or surveil each turn, you may look at an additional two cards.
+
+Snapfly Stalking
+
+Current Distortionist
+
+Veritanos Teaches Curiosity
+rules_text: 
+Invoke the Sphinxes. [i](Begin or advance the path of the Sphinx.)[/i]
+Until your next turn, you can cast spells as though they had flash.
+Whenever a creature you control deals combat damage to a player this turn, look at that many cards from the top of your library. Put one into your hand and the rest on the bottom of your library in any order. => 
+Invoke the Sphinxes. [i](Begin or advance the Path of the Sphinx.)[/i]
+Until your next turn, you can cast spells as though they had flash.
+Whenever a creature you control deals combat damage to a player this turn, look at that many cards from the top of your library. Put one into your hand and the rest on the bottom of your library in any order.
+special_text: 
+Invoke the Sphinxes. [i](Begin or advance the path of the Sphinx.)[/i]
+Until your next turn, you can cast spells as though they had flash.
+Whenever a creature you control deals combat damage to a player this turn, look at that many cards from the top of your library. Put one into your hand and the rest on the bottom of your library in any order. => 
+Invoke the Sphinxes. [i](Begin or advance the Path of the Sphinx.)[/i]
+Until your next turn, you can cast spells as though they had flash.
+Whenever a creature you control deals combat damage to a player this turn, look at that many cards from the top of your library. Put one into your hand and the rest on the bottom of your library in any order.
+
+Disciple of the Il-Ergal
+
+Imperious Egoist
+
+Shaithana
+cost: {4}{B} => {3}{B}{B}
+
+Quag Prowler
+
+Aternox Imparts Humility
+rules_text: 
+Invoke the Demons. [i](Begin or advance the Path of the Demon.)[/i]
+Each player sacrifices a nonland permanent, discard a card, and loses 3 life.
+Put target creature card with mana value 3 or less in a graveyard onto the battlefield under your control. => 
+Invoke the Demons. [i](Begin or advance the Path of the Demon.)[/i]
+Each opponent sacrifices a nonland permanent, discards a card, and loses 3 life.
+Put target creature card with mana value 3 or less in a graveyard onto the battlefield under your control.
+special_text: 
+Invoke the Demons. [i](Begin or advance the Path of the Demon.)[/i]
+Each player sacrifices a nonland permanent, discard a card, and loses 3 life.
+Put target creature card with mana value 3 or less in a graveyard onto the battlefield under your control. => 
+Invoke the Demons. [i](Begin or advance the Path of the Demon.)[/i]
+Each opponent sacrifices a nonland permanent, discards a card, and loses 3 life.
+Put target creature card with mana value 3 or less in a graveyard onto the battlefield under your control.
+
+Disciple of the Adishii
+
+Shrieking Magmaw
+type: Creature — Dragon => Creature — Dragon Wurm
+
+Resolute Geomancer
+
+Mortar Emissary
+rules_text: Flying
+{2}{R}: Dragons you control get +1/+0 until end of turn. => Flying, haste
+{2}{R}: Creatures you control get +1/+0 until end of turn.
+pt: 3/4 => 3/3
+
+Yadil Exhibits Tenacity
+rules_text: 
+Invoke the Dragons. [i](Begin or advance the Path of the Dragon.)[/i]
+The next time a creature you control enters this turn, it deals damage equal to its power to any target.
+Add {R}{R}. => 
+Invoke the Dragons. [i](Begin or advance the Path of the Dragon.)[/i]
+The next time a creature you control enters this turn, it deals damage equal to its power to any target.
+Yadil Exhibits Tenacity deals 2 damage to each opponent. Add {R}{R}.
+special_text: 
+Invoke the Dragons. [i](Begin or advance the Path of the Dragon.)[/i]
+The next time a creature you control enters this turn, it deals damage equal to its power to any target.
+Add {R}{R}. => 
+Invoke the Dragons. [i](Begin or advance the Path of the Dragon.)[/i]
+The next time a creature you control enters this turn, it deals damage equal to its power to any target.
+Yadil Exhibits Tenacity deals 2 damage to each opponent. Add {R}{R}.
+
+Disciple of the Oridian
+
+Omnifang
+rules_text: Omnifang enters with X +1/+1 counters on it. => Omnifang enters with a +1/+1 counter on it for each mana spent to cast it.
+pt: 2/2 => 0/0
+
+Brackish Hydra
+pt: 4/4 => 5/4
+
+Everwilder Mentor
+rules_text: At the beginning of combat on your turn, target creature you control gets +X/+X until end of turn, where X is your devotion to green. [i](Each {G} in the mana costs of permanents you control counts toward your devotion to green.)[/i] => Whenever Everwilder Mentor attacks, target creature you control gets +X/+X until end of turn, where X is your devotion to green. [i](Each {G} in the mana costs of permanents you control counts toward your devotion to green.)[/i]
+
+Vidir Manifests Unity
+rules_text: 
+Invoke the Hydras. [i](Begin or advance the Path of the Hydra.)[/i]
+Create two 1/1 green Snake creature tokens.
+Put a +1/+1 counter on each creature you control. Those creatures gain trample until end of turn. => 
+Invoke the Hydras. [i](Begin or advance the Path of the Hydra.)[/i]
+Create two 1/1 green Snake creature tokens.
+Put four +1/+1 counters on target creature you control. Until end of turn, that creature can't be blocked by more than one creature and must be blocked if able.
+special_text: 
+Invoke the Hydras. [i](Begin or advance the Path of the Hydra.)[/i]
+Create two 1/1 green Snake creature tokens.
+Put a +1/+1 counter on each creature you control. Those creatures gain trample until end of turn. => 
+Invoke the Hydras. [i](Begin or advance the Path of the Hydra.)[/i]
+Create two 1/1 green Snake creature tokens.
+Put four +1/+1 counters on target creature you control. Until end of turn, that creature can't be blocked by more than one creature and must be blocked if able.
+
+Cycolith Harmonist
+
+Ebon Tomb Occultist
+
+Edgeland Barbarian
+
+Silversilt Reshaper
+rules_text: {T}: Add {R}{G}.
+{8}: Target land you control becomes a 5/5 Elemental creature with haste. It's still a land. => {T}: Add {R}{G}.
+{8}: Target land you control becomes a 5/5 Elemental creature with haste. It's still a land. Activate only as a sorcery.
+
+Blessed Andi
+type: Creature — Spirit => Creature — Incarnation
+
+Notion Trafficker
+rules_text: When Notion Trafficker enters, target opponent reveals their hand. Choose a nonland card from it or a creature that player controls and exile it. For as long that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast. => When Notion Trafficker enters, target opponent reveals their hand. You may choose a nonland card from it or a creature that player controls and exile it. For as long that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.
+
+Patron of the Many-Faced
+
+Breaching Baleen
+
+Giltweave Mesmer
+
+Intrepid Outrider
+
+Radiant Glade
+
+Illustrious Falls
+
+Liturgic Grotto
+
+Eclipsed Highland
+
+Untrodden Tangle
+
+Censer Attendee
+
+Heartsteel Fledgling
+
+Ivory Forum Duelist
+
+Acolyte of Enlightenment
+pt: 3/2 => 2/3
+
+Sunspear Angel
+
+Halcyon Skydancer
+
+Angel of Guiding Light
+
+Reverent Sentinel
+
+Take to the Heavens
+
+Moment of Triumph
+
+Burden of Sacrilege
+
+Preening Genius
+
+Eye of the Obelisk
+
+Orian Pass Patrol
+
+Fatesower Sphinx
+rules_text: Flying
+When Fatesower Sphinx enters, scry 2.
+Islandcycling {1} [i]({1}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i] => Flying
+When Fatesower Sphinx enters, surveil 2.
+Islandcycling {1} [i]({1}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Drifting Mindwrench
+
+See Fault
+
+Grasp of Praecognos
+
+Insidious Haze
+
+Turn Forward Time
+rules_text: This spell costs {1} less to cast if you control a Sphinx.
+Scry 2, then draw two cards. => This spell costs {1} less to cast if you control a Sphinx.
+Surveil 2, then draw two cards.
+
+Comprehend
+
+Unmaking Whispers
+
+Eternal Slumber
+
+Sightless Swordsman
+
+Kaelax Herald
+rules_text: {5}{B}{B}, Sacrifice a non-Demon creature, Pay 3 life: Create a 5/5 black Demon creature token with flying. => {5}{B}{B}, Sacrifice a non-Demon creature, Pay 3 life: Create a 5/5 black Demon creature token with flying. It can't block this turn.
+
+Acolyte of Agony
+
+Indulgent Bloodqueen
+
+Infernum Scraper
+rules_text: Menace
+Whenever Infernum Scraper attacks a player with one or fewer cards in hand, put two +1/+1 counters on it. => Menace
+Whenever Infernum Scraper attacks a player with one or fewer cards in hand, put a +1/+1 counter on it.
+
+Mindrender Demon
+
+Essence Lasher
+
+Ebon Tomb Rattler
+
+Harvest the Host
+
+Bloodmarque
+
+Writhing Shadows
+
+Violate the Pact
+
+Claim Death's Due
+
+Acolyte of Scales
+type: Creature — Human Rogue => Creature — Orc Shaman
+rules_text: Haste
+When Acolyte of Scales enters, invoke the Dragons. [i](Begin or advance the Path of the Dragon.)[/i] => When Acolyte of Scales enters, invoke the Dragons. [i](Begin or advance the Path of the Dragon.)[/i]
+pt: 2/2 => 3/2
+
+Silthion Reaver
+rules_text: Menace
+When Silthion Reaver enters, create a Treasure token and an Idol token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i] => Menace
+When Silthion Reaver enters, you may pay {R}{R}{R}. When you do, it deals 3 damage to any target.
+pt: 4/2 => 4/3
+
+Bleakmaul Brawler
+
+Covetous Dragon
+rules_text: Flying
+When Covetous Dragon enters, create a Treasure token.
+Mountaincycling {1} [i]({1}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => Flying
+When Covetous Dragon enters, it deals 2 damage to each opponent, then you create a Treasure token.
+Mountaincycling {1} [i]({1}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Hissing Sunkite
+pt: 1/3 => 2/3
+
+Act of Contempt
+
+Flame Warden's Rites
+type: Sorcery => Instant
+
+Agate Assault
+
+Draconic Inferno
+
+Madcap Foray
+
+Pyre Adherent
+
+Jadescale Yearling
+rules_text: {T}: Add {G}.
+{5}{G}{G}: Put four +1/+1 counters on Jadescale Yearling. => {T}: Add {G}.
+{5}{G}{G}: Put three +1/+1 counters on Jadescale Yearling.
+
+Acolyte of Progress
+
+Cavern Gnasher
+
+Uthrun Devotee
+pt: 2/2 => 1/1
+
+Understory Ruffian
+
+Territorial Hydra
+
+Vythos Liege
+
+Snakeskin Veil
+
+Streaking Silver
+type: Instant => Sorcery
+
+Expansion's Embrace
+
+Fogstalker
+
+Umbral Thaumaturge
+
+Gibbering Flenser
+
+Untethered Brute
+
+Mesa Elemental
+
+Blight-Bone Summoner
+
+Myrell Naturalist
+
+Azure Augur
+rules_text: Flash
+When Azure Augur enters, scry 1. => Flash
+When Azure Augur enters, surveil 1.
+
+Silkwarp Weird
+
+Scarhorn Cleaver
+
+Masqued Nomad
+
+Shelter Sentry
+
+Ichor Basin
+
+Overgrown Totem
+
+Rambling Path
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
