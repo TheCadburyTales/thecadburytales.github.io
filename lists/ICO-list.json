@@ -1898,7 +1898,7 @@
         "position": "171"
     },
     {
-        "card_name": "Rambling Path",
+        "card_name": "Rambling Trail",
         "number": 259,
         "shape": "normal",
         "set": "ICO",
@@ -1954,6 +1954,229 @@
         "shape": "token",
         "set": "ICO",
         "position": "262"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->masterpiece",
+    {
+        "card_name": "Arbiter of the Alliance",
+        "number": 1,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "266"
+    },
+    {
+        "card_name": "Archangel of Accord",
+        "number": 2,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "269"
+    },
+    {
+        "card_name": "Empress of Strahn",
+        "number": 3,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "271"
+    },
+    {
+        "card_name": "Rivha, Heiress of Pinions",
+        "number": 4,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "270"
+    },
+    {
+        "card_name": "Sheil, Academy Partisan",
+        "number": 5,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "267"
+    },
+    {
+        "card_name": "Virtuous Angel",
+        "number": 6,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "268"
+    },
+    {
+        "card_name": "Ay'I, Temple Magister",
+        "number": 7,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "272"
+    },
+    {
+        "card_name": "Ay'I, the Templesworn",
+        "number": 8,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "273"
+    },
+    {
+        "card_name": "Clairvoyant Sphinx",
+        "number": 9,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "274"
+    },
+    {
+        "card_name": "Consecrated Guardian",
+        "number": 10,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "275"
+    },
+    {
+        "card_name": "Maven of Misdirection",
+        "number": 11,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "276"
+    },
+    {
+        "card_name": "Mhurio, the Fool's Hoard",
+        "number": 12,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "277"
+    },
+    {
+        "card_name": "Bloodrift Overlord",
+        "number": 13,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "278"
+    },
+    {
+        "card_name": "Bloodwoken Demon",
+        "number": 14,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "279"
+    },
+    {
+        "card_name": "Kai'Dwo, Eternal Ravager",
+        "number": 15,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "280"
+    },
+    {
+        "card_name": "Kai'Jun, the Annihilator",
+        "number": 16,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "281"
+    },
+    {
+        "card_name": "Lizhao, Last Breath of the Yenzu",
+        "number": 17,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "282"
+    },
+    {
+        "card_name": "Threzak, the Heinous",
+        "number": 18,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "283"
+    },
+    {
+        "card_name": "Emissary of Antiquity",
+        "number": 19,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "284"
+    },
+    {
+        "card_name": "Giradrus, Ashen Master",
+        "number": 20,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "285"
+    },
+    {
+        "card_name": "Hadra, the Last Dragon",
+        "number": 21,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "286"
+    },
+    {
+        "card_name": "Seething Snapjaw",
+        "number": 22,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "287"
+    },
+    {
+        "card_name": "Tseng, the Shooting Star",
+        "number": 23,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "288"
+    },
+    {
+        "card_name": "Wreckage Ravager",
+        "number": 24,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "289"
+    },
+    {
+        "card_name": "Fungahydra",
+        "number": 25,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "290"
+    },
+    {
+        "card_name": "Jungle Hydra",
+        "number": 26,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "291"
+    },
+    {
+        "card_name": "Nacreous Hydra",
+        "number": 27,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "292"
+    },
+    {
+        "card_name": "Pelagic Hydra",
+        "number": 28,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "293"
+    },
+    {
+        "card_name": "Qiyan, Great Progenitor",
+        "number": 29,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "294"
+    },
+    {
+        "card_name": "Thriving Hydra",
+        "number": 30,
+        "shape": "normal",
+        "set": "ICO",
+        "position": "295"
     },
     {
         "card_name": "er"

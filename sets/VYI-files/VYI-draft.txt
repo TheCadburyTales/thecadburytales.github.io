@@ -3602,7 +3602,103 @@
 	4 Outer System Shuttle
 	4 Starscape Journeyer
 	4 Viridar Research Vessel
-[common(7)]
+[common(6)]
+	8 Kjaldiran Berserker
+	8 Go Forth and Slaughter
+	8 Aeon's Forerunner
+	8 Valiant Titanhunter
+	8 Kjaldiran Lookout
+	8 Ancient Communion
+	8 Void Potentate
+	8 Objects In Motion
+	8 Chronicler of Regrets
+	8 Feed on the Cosmos
+	8 Go Dark
+	8 Doomed Pilot
+	8 Curious Horticulturist
+	8 Shield Surfer
+	8 Zero Gravity Maneuver
+	8 Drifting Among Regrets
+	8 Cosmic Heart
+	8 Starscape Shift
+	8 Repair Mech
+	8 Ventilate
+	8 Pillbot
+	8 Staunch Sentinel
+	8 Tectonic Megapod
+	8 Brandr's Wrecksifters
+	8 Lightning Strike
+	8 Voidbeast's Fury
+	8 Herald of Nothing
+	8 Mysterious Chronicler
+	8 Guiding Seraph
+	8 Sunshadow Drake
+	8 Fizzle Ray
+	8 Viridar Chaoseer
+	8 Uncontrolled Descent
+	8 Unsettling Traveler
+	8 Stitched Simulacrum
+	8 System Cage
+	8 Varassi's Silencers
+	8 Intergalactic Security
+	8 Beyond Design
+	8 Viridar Voidmass
+	8 Nova Blast
+	8 Scrapyard Repairer
+	8 Abandoned Crewmate
+	8 Hired Protector
+	8 Modified Shieldmaiden
+	8 Toxic Cavernicole
+	8 Massive Mantid
+	8 It Takes Two
+	8 Cybertouched Spirit
+	8 Ecliptic Harbinger
+	8 Mageflame Unleashed
+	8 Through the Wormhole
+	8 Uncharted Frontiers
+	8 Man-Eating Mandrake
+	8 Moonsea Terror
+	8 Might of the Machine
+	8 Viridar Yearling
+	8 Floating Processors
+	8 Deep Space Sentinel
+	8 Oblivion Monarch
+	8 Scout the Landscape
+	8 Mutated Ragebeast
+	8 Viridar Battalion
+	8 Aridian Wanderer
+	8 Eternal Mekkastruct
+	8 Terror of Skolha Peak
+	8 Recorder of Auroras
+	8 Mystifying Denial
+	8 Unknowable Bond
+	8 Esmund's Starpather
+	8 Leave Home Behind
+	8 Inflated Siphonophore
+	8 Ad Astra
+	8 Reality Splicer
+	8 Uploaded Intelligence
+	8 Heavencraft Valkyrie
+	8 Core Guardian
+	8 Edge of the Universe
+	8 Battle for Survival
+	8 Alien Contact
+	8 Spiralgrowth Clouds
+	8 Fulgurite Peaks
+	8 Burning Hyperlane
+	8 Asteroid Field
+	8 Coral Lowlands
+	8 Intergalactic Hub
+	8 Reflected Canyon
+	8 Fungal Fumarole
+	8 Inverted Gulch
+	8 Peat Bluffs
+	8 IGF Supplyship
+	8 Voidsent Stalker
+	8 In Orbit
+	8 Storm Count
+	8 Draw Count
+[common | masterpiece(1)]
 	8 Kjaldiran Berserker
 	8 Go Forth and Slaughter
 	8 Aeon's Forerunner

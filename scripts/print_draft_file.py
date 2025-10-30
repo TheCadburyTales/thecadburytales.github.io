@@ -49,7 +49,7 @@ def generateFile(code):
 			if slot_name in [ 'wildcard', 'foil' ] and not filtered(card, filters) and not 'Basic' in card['type'] and not 'token' in card['shape']:
 				booster[slot_name].append(card)
 			elif not slot['custom']:
-				if ((card['rarity'] == 'mythic' and slot_name == 'rare') or card['rarity'] == slot_name) and not filtered(card, filters) and not 'Basic' in card['type'] and not 'token' in card['shape']:
+				if ((card['rarity'] in ['common', 'masterpiece'] and slot_name == 'common | masterpiece') or (card['rarity'] == 'mythic' and slot_name == 'rare') or card['rarity'] == slot_name) and not filtered(card, filters) and not 'Basic' in card['type'] and not 'token' in card['shape']:
 					booster[slot_name].append(card)
 			else:
 				if ('!' + slot_name) in card['notes']:
@@ -105,6 +105,8 @@ def generateFile(code):
 						count = 4
 					case 'common':
 						count = 8
+					case 'masterpiece':
+						count = 3
 			elif slot['balanced'] == 'w': # wildcard distribution
 				# these numbers look weird but they distribute to 0.6 u / 0.2 c / 0.17 r / 0.03 m (I did the math)
 				match c['rarity']:

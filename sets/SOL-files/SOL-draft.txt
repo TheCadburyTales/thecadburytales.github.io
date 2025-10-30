@@ -2990,7 +2990,89 @@
 	4 Shepherd of Shadows
 	4 Teluran Gardens
 	4 Shattered Peak
-[common(7)]
+[common(6)]
+	8 Shadowborn Apostle
+	8 Seeker of Atonement
+	8 Stonework Angel
+	8 Ancient Transmutation
+	8 Wyldwood Dryad
+	8 Hellfire Ballista
+	8 Execute for Blasphemy
+	8 Legate Sparkweaver
+	8 Glint-Edge Knight
+	8 Shackled Phantom
+	8 Thunderous Corruscation
+	8 Exalted Persecutor
+	8 Cobbled Equine
+	8 Marble Arbiter
+	8 Heaventouched Sentinel
+	8 Forlorn Knight
+	8 Everwatching Widow
+	8 Phytolich's Research
+	8 Drown in Fear
+	8 Elbrine Thundercaller
+	8 Enclave Piercer
+	8 Feverbite Winder
+	8 Heart of the Wyldwood
+	8 Misshapen Buck
+	8 Sylvua's Dryad
+	8 Ritual of Negation
+	8 Plated Leviathan
+	8 Ambling Ruins
+	8 Devour Tender Flesh
+	8 Grotesque Abomination
+	8 Lightborn Apostle
+	8 Prism of Portents
+	8 Rock Scorpion
+	8 Sentence to the Gaol
+	8 Whisperer of Pale Boons
+	8 Steelskin Pilgrim
+	8 Extan Steelshifter
+	8 Startouched Wayfarer
+	8 Knight of the Thorn
+	8 Choking Grief
+	8 Extan Runeweaving
+	8 Pull of Heaven
+	8 Lifeblood Imitation
+	8 Unnatural Hunger
+	8 Spindlewail
+	8 Belltower Haunt
+	8 See Worlds Beyond
+	8 Swelling Growth
+	8 Cloak of Miasma
+	8 Life and Death
+	8 Sprouting Sentinel
+	8 Nascent Lich
+	8 Stump Brute
+	8 Silver Suitor
+	8 Unleashed Guardian
+	8 By Heaven's Decree
+	8 Devotion Rewarded
+	8 Banishing Thrust
+	8 Herald of the Clarion
+	8 Noble Steed
+	8 Champion of Relos
+	8 Paladin of Sacred Testament
+	8 Steelwrought Sunblade
+	8 Prophet of Rheydia
+	8 Blessed Feathers
+	8 Gaze Inward
+	8 Weigh the Soul
+	8 Among the Lily Pads
+	8 Call Beyond
+	8 Seraph of Storms
+	8 Josiah's Bulwark
+	8 To Stone and Ash
+	8 Cleave the Blood of Gods
+	8 Cruel Heartstealer
+	8 Biting Pain
+	8 Molten Bloodhunter
+	8 Skull Summoner
+	8 Extan Knight-Errant
+	8 Voidhungry Avatar
+	8 Sol Herald
+	8 Evolving Wilds
+[common | masterpiece(1)]
 	8 Shadowborn Apostle
 	8 Seeker of Atonement
 	8 Stonework Angel

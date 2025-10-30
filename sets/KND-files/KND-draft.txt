@@ -3319,7 +3319,119 @@
 	4 Warped Wilds
 	4 The God Hand
 	4 Desolate Tract
-[common(7)]
+[common(6)]
+	8 Village Matron
+	8 Sigil Seeker
+	8 Alluring Raconteur
+	8 Spearfang Campaigner
+	8 Indignant Lionheart
+	8 Palace Retainer
+	8 Twilight Nomad
+	8 Khazran Recruiter
+	8 Rehengi Falconer
+	8 Festooned Eagle
+	8 Uchana General
+	8 Temple Training
+	8 Strength of Spirits
+	8 See Past the Veil
+	8 Spear Volley
+	8 Channel the Microcosmos
+	8 Provisional Machete
+	8 Bound in Silence
+	8 Sophic Augur
+	8 Sugar-Cane Cultivators
+	8 Mekini Eremite
+	8 Illusion Evoker
+	8 Sorcerer's Familiar
+	8 Skywise Mentor
+	8 Deep-Dune Stirrer
+	8 Aspiring Astronomer
+	8 Frostbeak Mystic
+	8 Nightfall Raptor
+	8 Warding Hex
+	8 Secrets of the Undercity
+	8 Corporeal Dispute
+	8 Croak Tales
+	8 Cloudcatch
+	8 Subduing Palm
+	8 Whispers on the Wind
+	8 Bewitching Glamour
+	8 Highland Huntress
+	8 Khalfani Confidant
+	8 Acolyte of Unkindness
+	8 Looming Vulture
+	8 Gutter Scoundrel
+	8 Eternal Chaplain
+	8 Gloomrapt Ranger
+	8 Somber Anarchist
+	8 Wayfaring Headhunter
+	8 Mambu Temple Brute
+	8 By Blood and Venom
+	8 Fall Prey to the Hunt
+	8 Caress of Dark Fumes
+	8 Visions of the Uprising
+	8 Tomb of Alaj
+	8 Revenant Cleave
+	8 No One Left Behind
+	8 Gates of Ifeh
+	8 Screeching Rabble-Rousers
+	8 Bushland Militant
+	8 Student of Korongo
+	8 Amidi Legionnaire
+	8 Msuji Arsonist
+	8 Dust Puppeteer
+	8 Brazen Firedancer
+	8 Tomb Bandit
+	8 Barrelling Cavalry
+	8 Rehengi Steed
+	8 Edgeland Guardians
+	8 Shock
+	8 Champion's Rage
+	8 Between Sun and Sand
+	8 Sandshaping
+	8 Ancestral Flame
+	8 Citadel Pyre
+	8 Audience Participation
+	8 Megafauna Tracker
+	8 Field Pioneer
+	8 Edgeland Sentry
+	8 Speaker of the Pride
+	8 Savage Silverback
+	8 Am'Atambi's Wildkin
+	8 Slimefoot Knight
+	8 Loyal Strongjaw
+	8 Broadhide Patrol
+	8 Hulking Herdleader
+	8 Conqueror's Mentality
+	8 Trials of the Tiny
+	8 Thundering Charge
+	8 Broken Wings
+	8 Barren Passage
+	8 Unweave the Tangle
+	8 Crush Underfoot
+	8 Mark of the Brigade
+	8 Consecrated Statuary
+	8 Prophetic Prism
+	8 Dune Scrapper
+	8 Sandstone Sentinels
+	8 Trumpeting Caravan
+	8 Staff of M'Gana
+	8 Mask of M'Gana
+	8 Shawl of M'Gana
+	8 Vibrant Headland
+	8 Forsaken Sanctuary
+	8 Paradise Shores
+	8 Shackled Depths
+	8 Blistered Quarry
+	8 Rugged Sedge
+	8 Sunkissed Sanctuary
+	8 Bitter Expanse
+	8 Plague Shrine
+	8 Cape of Plenty
+	8 Magmatic Rift
+	8 Scorched Pass
+	8 Reflecting Canyon
+[common | masterpiece(1)]
 	8 Village Matron
 	8 Sigil Seeker
 	8 Alluring Raconteur

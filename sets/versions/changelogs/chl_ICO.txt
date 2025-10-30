@@ -1,4 +1,42 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Rambling Trail added.
+Arbiter of the Alliance added.
+Sheil, Academy Partisan added.
+Virtuous Angel added.
+Archangel of Accord added.
+Rivha, Heiress of Pinions added.
+Empress of Strahn added.
+Ay'I, Temple Magister added.
+Ay'I, the Templesworn added.
+Clairvoyant Sphinx added.
+Consecrated Guardian added.
+Maven of Misdirection added.
+Mhurio, the Fool's Hoard added.
+Bloodrift Overlord added.
+Bloodwoken Demon added.
+Kai'Dwo, Eternal Ravager added.
+Kai'Jun, the Annihilator added.
+Lizhao, Last Breath of the Yenzu added.
+Threzak, the Heinous added.
+Emissary of Antiquity added.
+Giradrus, Ashen Master added.
+Hadra, the Last Dragon added.
+Seething Snapjaw added.
+Tseng, the Shooting Star added.
+Wreckage Ravager added.
+Fungahydra added.
+Jungle Hydra added.
+Nacreous Hydra added.
+Pelagic Hydra added.
+Qiyan, Great Progenitor added.
+Thriving Hydra added.
+
+Rambling Path removed.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Elder Angel Ethella added.
