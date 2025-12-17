@@ -15,7 +15,7 @@ Shambling Terrarium
 Clementine Cogs Faraday
 Parrot Pools
 Captain Elai 
-Rum Guzzler
+Rum Guzzler	KRK
 Adler of the Thirteenth Hour
 Dross Incubator
 Blazing Meteors
@@ -106,7 +106,7 @@ Port Goliath
 Eye of the Eight Winds
 Bismuth Skycity
 Luscious Planetscape
-Sojourner's Gateway
+Sojourner's Gateway	VYI
 Valdrasil Reborn
 Galactic Reach
 Reflecting Canyon
@@ -163,7 +163,7 @@ One Swift Strike
 Seal the Gateway
 Starlit Exeunt
 Encased in Glass
-Maroon
+Maroon	KRK
 Clearcut
 Sentence to the Gaol
 Swift Reproach
@@ -196,7 +196,7 @@ Wakeborne Kraken
 Sirocco Cruiser
 Nexus Serasphinx
 Awakened Deus
-Meditation
+Meditation	STW
 Grasp at Frail Dreams
 Secrets Shimmer Like Silver
 Command Reality
@@ -229,7 +229,7 @@ Coincidence
 Rhapsody in Blue
 Lilith, Seafaring Scribe
 Beyond the Horizon
-Thalassophobia
+Thalassophobia	KRK
 The Starwhale Crossing
 Josiah, Bitter Survivor
 Taste the Waters
@@ -298,7 +298,7 @@ Gearworks Pest
 Slag Spitter
 Doom Monarch
 Firestorm Evangelist
-Wolf of Anjarja
+Wolf of Anjarja	VYI
 Lurholme Embershaper
 Grottle Shell-Singer
 Lurholme Flamedancer
