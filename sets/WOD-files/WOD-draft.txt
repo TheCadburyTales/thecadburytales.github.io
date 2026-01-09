@@ -1,0 +1,4036 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Lady Wicked's Huntress",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/0.png"
+			}
+		},
+		{
+			"name": "Send Straight to Hell",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/1.png"
+			}
+		},
+		{
+			"name": "Forktongued Balladeer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue Bard",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/2.png"
+			}
+		},
+		{
+			"name": "Long Arm of the Law",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/3.png"
+			}
+		},
+		{
+			"name": "Slipspace Freight",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/4.png"
+			}
+		},
+		{
+			"name": "Behold Wonder",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/5.png"
+			}
+		},
+		{
+			"name": "Stoneglare Slinger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Gorgon Rogue",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/6.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/7.png"
+			}
+		},
+		{
+			"name": "King of Skull Pass",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/8.png"
+			}
+		},
+		{
+			"name": "Farseeker's Leatherwing",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/9.png"
+			}
+		},
+		{
+			"name": "Saddle Up",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/10.png"
+			}
+		},
+		{
+			"name": "Sky Cities Messenger",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/11.png"
+			}
+		},
+		{
+			"name": "Mystweaver Reading",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/12.png"
+			}
+		},
+		{
+			"name": "Noble Ranger",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/13.png"
+			}
+		},
+		{
+			"name": "Ancient Cloudgrazer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/14.png"
+			}
+		},
+		{
+			"name": "Chronotide Thief",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Skeleton Rogue",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/15.png"
+			}
+		},
+		{
+			"name": "Bayou Boon",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/16.png"
+			}
+		},
+		{
+			"name": "Blood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Blood",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/17.png"
+			}
+		},
+		{
+			"name": "Bullet Down the Gullet",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/18.png"
+			}
+		},
+		{
+			"name": "Dirgepoint Survivor",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/19.png"
+			}
+		},
+		{
+			"name": "Oasis Nest",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/20.png"
+			}
+		},
+		{
+			"name": "Eccentric Skinner",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/21.png"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Horror",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/22.png"
+			}
+		},
+		{
+			"name": "Mewling Hatchling",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/23.png"
+			}
+		},
+		{
+			"name": "Line Em' Up, Knock Em' Down",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/24.png"
+			}
+		},
+		{
+			"name": "Avatar of Persistence",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Llama Avatar",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/25.png"
+			}
+		},
+		{
+			"name": "Notorious Hijacker",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/26.png"
+			}
+		},
+		{
+			"name": "Rabbit Elk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Rabbit Elk",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/27.png"
+			}
+		},
+		{
+			"name": "Surging Tentacles",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/28.png"
+			}
+		},
+		{
+			"name": "New Lands Await",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/29.png"
+			}
+		},
+		{
+			"name": "Whirlwind Romance",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/30.png"
+			}
+		},
+		{
+			"name": "Balloon Terror",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/31.png"
+			}
+		},
+		{
+			"name": "Ironcast Razer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/32.png"
+			}
+		},
+		{
+			"name": "Spineplate Behemoth",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/33.png"
+			}
+		},
+		{
+			"name": "Lightning Lariat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/34.png"
+			}
+		},
+		{
+			"name": "Cactus-Crested Cassowary",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Plant Bird",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/35.png"
+			}
+		},
+		{
+			"name": "Chapel Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/36.png"
+			}
+		},
+		{
+			"name": "Elvish Outrider",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Elf Ranger",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/37.png"
+			}
+		},
+		{
+			"name": "Florid Herder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/38.png"
+			}
+		},
+		{
+			"name": "Feral Stranger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/39.png"
+			}
+		},
+		{
+			"name": "Gunpoint Persuasion",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/40.png"
+			}
+		},
+		{
+			"name": "Intrepid Journeyers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/41.png"
+			}
+		},
+		{
+			"name": "Leaking Lead",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/42.png"
+			}
+		},
+		{
+			"name": "Hunted Thief",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/43.png"
+			}
+		},
+		{
+			"name": "Tales of Days Long Past",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/44.png"
+			}
+		},
+		{
+			"name": "Broken Lands Stinger",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Scorpion",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/45.png"
+			}
+		},
+		{
+			"name": "Trihorn Rancher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/46.png"
+			}
+		},
+		{
+			"name": "Undead Marshals",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Skeleton Rogue",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/47.png"
+			}
+		},
+		{
+			"name": "Vengeful Sheriff",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Citizen",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/48.png"
+			}
+		},
+		{
+			"name": "Winged Packbeast",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/49.png"
+			}
+		},
+		{
+			"name": "Steelstorm Requiem",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/50.png"
+			}
+		},
+		{
+			"name": "Lady Akane Shigane",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Ninja",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/51.png"
+			}
+		},
+		{
+			"name": "Alien Abduction",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/52.png"
+			}
+		},
+		{
+			"name": "Automated Cowpuncher",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/53.png"
+			}
+		},
+		{
+			"name": "Belle, Aggressive Capitalist",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Noble Rogue",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/54.png"
+			}
+		},
+		{
+			"name": "Big Bull",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{G}{G}",
+			"type": "Legendary Creature — Dinosaur",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/55.png"
+			}
+		},
+		{
+			"name": "Brennae, Biledeep Sheriff",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/56.png"
+			}
+		},
+		{
+			"name": "Charged Peaks",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/57.png"
+			}
+		},
+		{
+			"name": "Clearcutter Leatherwing",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/58.png"
+			}
+		},
+		{
+			"name": "Counterfeit Converter",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/59.png"
+			}
+		},
+		{
+			"name": "Demonic Ashlands",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/60.png"
+			}
+		},
+		{
+			"name": "Devastating Derailment",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/61.png"
+			}
+		},
+		{
+			"name": "Broken Lands Offering",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/62.png"
+			}
+		},
+		{
+			"name": "Dune Golem",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elemental Golem",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/63.png"
+			}
+		},
+		{
+			"name": "Slayer from Broken Lands",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/64.png"
+			}
+		},
+		{
+			"name": "Bugcatcher Pair",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/65.png"
+			}
+		},
+		{
+			"name": "Eight-Armed Waddie",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Octopus Rogue",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/66.png"
+			}
+		},
+		{
+			"name": "Elvish Lawbringer",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Citizen",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/67.png"
+			}
+		},
+		{
+			"name": "Firebird of Yore",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/68.png"
+			}
+		},
+		{
+			"name": "Forgemaster's Salamander",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Salamander",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/69.png"
+			}
+		},
+		{
+			"name": "Fungal Pampas",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/70.png"
+			}
+		},
+		{
+			"name": "The Glory of Derrigoa",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/71.png"
+			}
+		},
+		{
+			"name": "Here Comes Calamity",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/72.png"
+			}
+		},
+		{
+			"name": "Ichorblessed Slinger",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/73.png"
+			}
+		},
+		{
+			"name": "Indecipherable Bones",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/74.png"
+			}
+		},
+		{
+			"name": "Keira, First to Fly",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/75.png"
+			}
+		},
+		{
+			"name": "Scarlet Dancers",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Performer",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/76.png"
+			}
+		},
+		{
+			"name": "Malevolent Tarpit",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Dinosaur Skeleton Ooze",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/77.png"
+			}
+		},
+		{
+			"name": "Miracles of Flight",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/78.png"
+			}
+		},
+		{
+			"name": "Oasis Raptor",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Bird Dinosaur",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/79.png"
+			}
+		},
+		{
+			"name": "Opportunistic Reaper",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Skeleton Rogue",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/80.png"
+			}
+		},
+		{
+			"name": "Phantom Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Spirit Dinosaur",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/81.png"
+			}
+		},
+		{
+			"name": "Possum Posse",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Orc Rogue",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/82.png"
+			}
+		},
+		{
+			"name": "Rumbling Canyon",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/83.png"
+			}
+		},
+		{
+			"name": "Saurian Charge",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/84.png"
+			}
+		},
+		{
+			"name": "Spectral Steppe",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/85.png"
+			}
+		},
+		{
+			"name": "Spiny Junction",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/86.png"
+			}
+		},
+		{
+			"name": "Sprouting Cactusaur",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/87.png"
+			}
+		},
+		{
+			"name": "Sunlit Hillock",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/88.png"
+			}
+		},
+		{
+			"name": "Tyrant's Territory",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/89.png"
+			}
+		},
+		{
+			"name": "Barre, Bounty Hunter",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Orc Rogue",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/90.png"
+			}
+		},
+		{
+			"name": "Well-Trodden Gulch",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/91.png"
+			}
+		},
+		{
+			"name": "Ensouled Dreadbeast",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Elk Demon",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/92.png"
+			}
+		},
+		{
+			"name": "Avatar of the Holy Wound",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/93.png"
+			}
+		},
+		{
+			"name": "Avatar of the Stone Heart",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/94.png"
+			}
+		},
+		{
+			"name": "Ignited Tithetaker",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Angel Rogue",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/95.png"
+			}
+		},
+		{
+			"name": "Bennett, the Pilgrim",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Planeswalker — Bennett",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/96.png"
+			}
+		},
+		{
+			"name": "Broodmoth Monarch",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/97.png"
+			}
+		},
+		{
+			"name": "Cowgirl's Rattler",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Snake Drake",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/98.png"
+			}
+		},
+		{
+			"name": "Furious Toad-Strangler",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/99.png"
+			}
+		},
+		{
+			"name": "Lady Wicked, Hell's Vassal",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Demon Rogue",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/100.png"
+			}
+		},
+		{
+			"name": "Progress",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/101.png"
+			}
+		},
+		{
+			"name": "Rejuvenating Derrigoa",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/102.png"
+			}
+		},
+		{
+			"name": "The Broken Lands",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land — Desert",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/103.png"
+			}
+		},
+		{
+			"name": "The Ur-Dinosaur",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Dinosaur Avatar",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/104.png"
+			}
+		},
+		{
+			"name": "Walking Digsite",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dinosaur Spirit",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/105.png"
+			}
+		},
+		{
+			"name": "Commune with Dinosaurs",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/106.png"
+			}
+		},
+		{
+			"name": "Fluttering Wispbeak",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit Insect Bird",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/107.png"
+			}
+		},
+		{
+			"name": "Reaping Conductor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton Rogue",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/108.png"
+			}
+		},
+		{
+			"name": "Varus, Chaos Conductor",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Planeswalker — Varus",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/109.png"
+			}
+		},
+		{
+			"name": "Territorial Trihorns",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/110.png"
+			}
+		},
+		{
+			"name": "Predator's Gaze",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/111.png"
+			}
+		},
+		{
+			"name": "Convergent Evolution",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/112.png"
+			}
+		},
+		{
+			"name": "Tricerastop",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/113.png"
+			}
+		},
+		{
+			"name": "Caravan Colossus",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/114.png"
+			}
+		},
+		{
+			"name": "Lasso Up",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/115.png"
+			}
+		},
+		{
+			"name": "Duskveil Emperor",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/116.png"
+			}
+		},
+		{
+			"name": "Menacing Harvester",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/117.png"
+			}
+		},
+		{
+			"name": "Tick-Tock Terrier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Dog",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/118.png"
+			}
+		},
+		{
+			"name": "Dirt Nap",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/119.png"
+			}
+		},
+		{
+			"name": "Necrosaurus Caller",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Warlock",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/120.png"
+			}
+		},
+		{
+			"name": "Ride the Lightning",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/121.png"
+			}
+		},
+		{
+			"name": "Wyldwastes Trapjaw",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/122.png"
+			}
+		},
+		{
+			"name": "Cindercoil Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Artifact Creature — Dinosaur",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/123.png"
+			}
+		},
+		{
+			"name": "Foreign Probe",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/124.png"
+			}
+		},
+		{
+			"name": "Scourge of the Oasis",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Kraken",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/125.png"
+			}
+		},
+		{
+			"name": "Strange Wasteland",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/126.png"
+			}
+		},
+		{
+			"name": "Secluded Oasis",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/127.png"
+			}
+		},
+		{
+			"name": "Arid Canyon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/128.png"
+			}
+		},
+		{
+			"name": "Dirgepoint Traveler",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Scout",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/129.png"
+			}
+		},
+		{
+			"name": "Shepherd Giantess",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Creature — Giant Scout",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/130.png"
+			}
+		},
+		{
+			"name": "Oilyard Flats",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/131.png"
+			}
+		},
+		{
+			"name": "Eye of Tomorrow",
+			"rarity": "mythic",
+			"mana_cost": "{0}",
+			"type": "Legendary Artifact",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/132.png"
+			}
+		},
+		{
+			"name": "Belle's Tracker",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/133.png"
+			}
+		},
+		{
+			"name": "Orcish Ferriers",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Orc Citizen",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/134.png"
+			}
+		},
+		{
+			"name": "Foul Rotcaller",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bird Demon",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/135.png"
+			}
+		},
+		{
+			"name": "Buckshot",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/136.png"
+			}
+		},
+		{
+			"name": "Caramelo's Repose",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/137.png"
+			}
+		},
+		{
+			"name": "Vicious Greatbat",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Bat",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/138.png"
+			}
+		},
+		{
+			"name": "Steeljaw Desperado",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct Rogue",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/139.png"
+			}
+		},
+		{
+			"name": "Smoldering Farmhand",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Azra Rogue",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/140.png"
+			}
+		},
+		{
+			"name": "Specter of Biledeep",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit Rogue",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/141.png"
+			}
+		},
+		{
+			"name": "Caramelo, Faith in Steel",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Planeswalker — Caramelo",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/142.png"
+			}
+		},
+		{
+			"name": "Maria, Burnt by Sin",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Planeswalker — Maria",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/143.png"
+			}
+		},
+		{
+			"name": "Perilous Pilgrimage",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/144.png"
+			}
+		},
+		{
+			"name": "Thunder Lizard",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/145.png"
+			}
+		},
+		{
+			"name": "Praerie Beau",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/146.png"
+			}
+		},
+		{
+			"name": "Run Hot",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/147.png"
+			}
+		},
+		{
+			"name": "Mesa Mailrunner",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/148.png"
+			}
+		},
+		{
+			"name": "Cocky Sureshot",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/149.png"
+			}
+		},
+		{
+			"name": "Savvy Investigator",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/150.png"
+			}
+		},
+		{
+			"name": "Nefarious Mercenary",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/151.png"
+			}
+		},
+		{
+			"name": "Pilgrim's Bison",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Bison",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/152.png"
+			}
+		},
+		{
+			"name": "Roaming Sheriffs",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/153.png"
+			}
+		},
+		{
+			"name": "Vinelash",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/154.png"
+			}
+		},
+		{
+			"name": "Rotting Rex",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Zombie Dinosaur",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/155.png"
+			}
+		},
+		{
+			"name": "Magma Splash",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/156.png"
+			}
+		},
+		{
+			"name": "Leave to Die",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/157.png"
+			}
+		},
+		{
+			"name": "Sunset Chaser",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/158.png"
+			}
+		},
+		{
+			"name": "Ignited Helltaker",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Skeleton Rogue",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/159.png"
+			}
+		},
+		{
+			"name": "Apex of the Sands",
+			"rarity": "common",
+			"mana_cost": "{6}{R}",
+			"type": "Creature — Scorpion",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/160.png"
+			}
+		},
+		{
+			"name": "Corrupted Tyrant",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/161.png"
+			}
+		},
+		{
+			"name": "Hellsent Executioner",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spirit Rogue",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/162.png"
+			}
+		},
+		{
+			"name": "Search for Answers",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/163.png"
+			}
+		},
+		{
+			"name": "Saddled Trihorn",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/164.png"
+			}
+		},
+		{
+			"name": "Phantom Gravedigger",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/165.png"
+			}
+		},
+		{
+			"name": "Basking Sunfrill",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/166.png"
+			}
+		},
+		{
+			"name": "To New Lands",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/167.png"
+			}
+		},
+		{
+			"name": "Hillhopper Scout",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/168.png"
+			}
+		},
+		{
+			"name": "Oasis Mantis",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/169.png"
+			}
+		},
+		{
+			"name": "Starpluck",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/170.png"
+			}
+		},
+		{
+			"name": "Guiding Tumblewagg",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Brushwagg",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/171.png"
+			}
+		},
+		{
+			"name": "Ridge Raptor",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/172.png"
+			}
+		},
+		{
+			"name": "Belén, Lady of Wounds",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Angel Horror",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/173.png"
+			}
+		},
+		{
+			"name": "Worn-Down Marvel",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct Bard",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/174.png"
+			}
+		},
+		{
+			"name": "Clockwork Dragon",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Dragon",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/175.png"
+			}
+		},
+		{
+			"name": "Cursed Miner",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/176.png"
+			}
+		},
+		{
+			"name": "Shadow of Hollowgrave",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Shade",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/177.png"
+			}
+		},
+		{
+			"name": "Reclaimed Vitality",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/178.png"
+			}
+		},
+		{
+			"name": "Run Down the Convoy",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/179.png"
+			}
+		},
+		{
+			"name": "Modified Leatherwing",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Dinosaur Cyborg",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/180.png"
+			}
+		},
+		{
+			"name": "Cheery Ruffian",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Construct Rogue",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/181.png"
+			}
+		},
+		{
+			"name": "Ironwyst Sheriff",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/182.png"
+			}
+		},
+		{
+			"name": "Giant Cyhawk",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Artifact Creature — Bird Construct",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/183.png"
+			}
+		},
+		{
+			"name": "Careen Off The Cliff",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/184.png"
+			}
+		},
+		{
+			"name": "Engine Surge",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/185.png"
+			}
+		},
+		{
+			"name": "Steamworks Songbeast",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Dinosaur Cyborg",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/186.png"
+			}
+		},
+		{
+			"name": "Fabled Coatlus",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Bird",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/187.png"
+			}
+		},
+		{
+			"name": "Spiny Titan",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Creature — Plant Beast",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/188.png"
+			}
+		},
+		{
+			"name": "Once in a Lifetime Shot",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/189.png"
+			}
+		},
+		{
+			"name": "Automaton of Great Feats",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/190.png"
+			}
+		},
+		{
+			"name": "Underground Colony",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/191.png"
+			}
+		},
+		{
+			"name": "Groff Escape",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/192.png"
+			}
+		},
+		{
+			"name": "Seized by Madness",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/193.png"
+			}
+		},
+		{
+			"name": "Nowhere Land",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/194.png"
+			}
+		},
+		{
+			"name": "Cackling Cutthroat",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Skeleton Rogue",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/195.png"
+			}
+		},
+		{
+			"name": "Split Peak Canyon",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/196.png"
+			}
+		},
+		{
+			"name": "Abandoned Creation",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/197.png"
+			}
+		},
+		{
+			"name": "Ancestral Songbeast",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Dinosaur Spirit",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/198.png"
+			}
+		},
+		{
+			"name": "Elusive Cryptid",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Insect Horror",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/199.png"
+			}
+		},
+		{
+			"name": "Killer Crustacean",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Crab",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/200.png"
+			}
+		},
+		{
+			"name": "Strix Roost",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/201.png"
+			}
+		},
+		{
+			"name": "Wastelight Weaver",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/202.png"
+			}
+		},
+		{
+			"name": "Ironwyst Tycoon",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Noble",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/203.png"
+			}
+		},
+		{
+			"name": "Haunting Hangman",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/204.png"
+			}
+		},
+		{
+			"name": "Filigree Lantern",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/205.png"
+			}
+		},
+		{
+			"name": "Jig of Protection",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/206.png"
+			}
+		},
+		{
+			"name": "Bestial Tempest",
+			"rarity": "common",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/207.png"
+			}
+		},
+		{
+			"name": "Scout the Broken Lands",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/208.png"
+			}
+		},
+		{
+			"name": "Arcane Thievery",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/209.png"
+			}
+		},
+		{
+			"name": "Train Ride to Nowhere",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/210.png"
+			}
+		},
+		{
+			"name": "Dead Man's Peace",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/211.png"
+			}
+		},
+		{
+			"name": "Steelcast Steed",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Horse",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/212.png"
+			}
+		},
+		{
+			"name": "Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/213.png"
+			}
+		},
+		{
+			"name": "Ironwyst Express",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/214.png"
+			}
+		},
+		{
+			"name": "Wind-Up Angel",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Angel",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/215.png"
+			}
+		},
+		{
+			"name": "Malevolent Effigy",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/216.png"
+			}
+		},
+		{
+			"name": "Tool-Laden Saddle",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/217.png"
+			}
+		},
+		{
+			"name": "Meteor-Bound Beast",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/218.png"
+			}
+		},
+		{
+			"name": "Stormspine Tyrant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/219.png"
+			}
+		},
+		{
+			"name": "Rare Find",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/220.png"
+			}
+		},
+		{
+			"name": "Lands Unknown Await",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/221.png"
+			}
+		},
+		{
+			"name": "Gila of Hellcrest Ridge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Lizard Dragon",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/222.png"
+			}
+		},
+		{
+			"name": "Blossoming Jerboa",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Mouse",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/223.png"
+			}
+		},
+		{
+			"name": "Songbeast Scouting",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/224.png"
+			}
+		},
+		{
+			"name": "Travel by Stars",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/225.png"
+			}
+		},
+		{
+			"name": "Osseoconjuration",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/226.png"
+			}
+		},
+		{
+			"name": "Belén's Golem",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/227.png"
+			}
+		},
+		{
+			"name": "Spineplate Denmother",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/228.png"
+			}
+		},
+		{
+			"name": "Tyrant Hunt",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/229.png"
+			}
+		},
+		{
+			"name": "Outrider of the Blighted",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Zombie Rogue",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/230.png"
+			}
+		},
+		{
+			"name": "Assemble the Crew",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{G}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/231.png"
+			}
+		},
+		{
+			"name": "Stitched Gravedigger",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Orc Zombie Rogue",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/232.png"
+			}
+		},
+		{
+			"name": "Naked Molerex",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Mole Dinosaur",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/233.png"
+			}
+		},
+		{
+			"name": "Deathstorm Dogfish",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Shark Spirit",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/234.png"
+			}
+		},
+		{
+			"name": "Twin Titans",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/235.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/236.png"
+			}
+		},
+		{
+			"name": "Sky Island Animator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/237.png"
+			}
+		},
+		{
+			"name": "Wystern Hero",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/238.png"
+			}
+		},
+		{
+			"name": "Desert Wonders",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/239.png"
+			}
+		},
+		{
+			"name": "Herd Hivemind",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Ox",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/240.png"
+			}
+		},
+		{
+			"name": "Blighted Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/241.png"
+			}
+		},
+		{
+			"name": "Haunting Fleshtaker",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Bird Demon",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/242.png"
+			}
+		},
+		{
+			"name": "Rise on Wicked Winds",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/243.png"
+			}
+		},
+		{
+			"name": "Pathlighting Seraph",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/244.png"
+			}
+		},
+		{
+			"name": "Snuffling Tracker",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/245.png"
+			}
+		},
+		{
+			"name": "Wrapped by Tentacles",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/246.png"
+			}
+		},
+		{
+			"name": "Brazen Tycoon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/247.png"
+			}
+		},
+		{
+			"name": "Haughty Trickshot",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/248.png"
+			}
+		},
+		{
+			"name": "Imposing Flats",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/249.png"
+			}
+		},
+		{
+			"name": "Sudden Pandemonium",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/250.png"
+			}
+		},
+		{
+			"name": "Dark Deal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/251.png"
+			}
+		},
+		{
+			"name": "Buried Together",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/252.png"
+			}
+		},
+		{
+			"name": "Rusted Strummer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Construct Bard",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/253.png"
+			}
+		},
+		{
+			"name": "Whirring Fowl",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact Creature — Bird Construct",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/254.png"
+			}
+		},
+		{
+			"name": "Familiar Tinkering",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/255.png"
+			}
+		},
+		{
+			"name": "Affluent Socialite",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/256.png"
+			}
+		},
+		{
+			"name": "Griffinback Scout",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/257.png"
+			}
+		},
+		{
+			"name": "Field of Caltrops",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/258.png"
+			}
+		},
+		{
+			"name": "Ancient Knight-Errant",
+			"rarity": "uncommon",
+			"mana_cost": "{9}",
+			"type": "Artifact Creature — Construct Knight",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/259.png"
+			}
+		},
+		{
+			"name": "Rumbling Azurehulk",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/260.png"
+			}
+		},
+		{
+			"name": "Cackling Dread-Engine",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/261.png"
+			}
+		},
+		{
+			"name": "Fel, Ignited Roadster",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Planeswalker — Fel",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/262.png"
+			}
+		},
+		{
+			"name": "Deep Azurium Node",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Artifact",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/263.png"
+			}
+		},
+		{
+			"name": "Skilled Deadeye",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/264.png"
+			}
+		},
+		{
+			"name": "Heroic Farmhand",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/265.png"
+			}
+		},
+		{
+			"name": "Serpentsplitter",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/266.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/267.png"
+			}
+		},
+		{
+			"name": "Umbral Egregore",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/268.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/269.png"
+			}
+		},
+		{
+			"name": "Ritual of Returning",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/270.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/271.png"
+			}
+		},
+		{
+			"name": "Align Life and Death",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/272.png"
+			}
+		},
+		{
+			"name": "Rogue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Rogue",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/273.png"
+			}
+		},
+		{
+			"name": "Outrider from Skull Pass",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Rogur",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/274.png"
+			}
+		},
+		{
+			"name": "Cogwork Dracolich",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Artifact Creature — Dragon Warlock",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/275.png"
+			}
+		},
+		{
+			"name": "Covet Humanity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/276.png"
+			}
+		},
+		{
+			"name": "Tied to the Tracks",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/277.png"
+			}
+		},
+		{
+			"name": "Startouched Hotshot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/278.png"
+			}
+		},
+		{
+			"name": "Ravenous Locomotive",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/279.png"
+			}
+		},
+		{
+			"name": "Trolley Problem",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/280.png"
+			}
+		},
+		{
+			"name": "Heart of the Avatar",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/281.png"
+			}
+		},
+		{
+			"name": "Avatar's Return",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/282.png"
+			}
+		},
+		{
+			"name": "Raucous Gemhide",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/283.png"
+			}
+		},
+		{
+			"name": "Sporecap Sentinels",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Fungus",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/284.png"
+			}
+		},
+		{
+			"name": "Houndmaster Aris",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/285.png"
+			}
+		},
+		{
+			"name": "Prismatic Prospector",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/286.png"
+			}
+		},
+		{
+			"name": "Scrapyard Harvester",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/287.png"
+			}
+		},
+		{
+			"name": "Heavenfall Crashsite",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/288.png"
+			}
+		},
+		{
+			"name": "Rocket-Powered Dragon",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Dragon",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/289.png"
+			}
+		},
+		{
+			"name": "Jess, High Heavens Marshal",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/290.png"
+			}
+		},
+		{
+			"name": "Deepmine Skitterer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spider",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/291.png"
+			}
+		},
+		{
+			"name": "Paurl, Lord of Unlife",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Legendary Creature — Elk Demon Dragon",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/292.png"
+			}
+		},
+		{
+			"name": "Ramiro, Shadowcaster",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Vampire Warlock",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/293.png"
+			}
+		},
+		{
+			"name": "Forgesaddled Strider",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{W}",
+			"type": "Artifact Creature — Dinosaur Cyborg",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/294.png"
+			}
+		},
+		{
+			"name": "Storm at the Pinnacle",
+			"rarity": "rare",
+			"mana_cost": "{8}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/295.png"
+			}
+		},
+		{
+			"name": "Return with the Storm",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/296.png"
+			}
+		},
+		{
+			"name": "Watering Hole",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/297.png"
+			}
+		},
+		{
+			"name": "Bonnie, Worldtrotter",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Planeswalker — Bonnie",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/298.png"
+			}
+		},
+		{
+			"name": "Cactus Copse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/299.png"
+			}
+		},
+		{
+			"name": "Dead Sandsea",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/300.png"
+			}
+		},
+		{
+			"name": "Prismatic Dunes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/301.png"
+			}
+		},
+		{
+			"name": "Shalehewn Ridges",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/302.png"
+			}
+		},
+		{
+			"name": "Soot-Covered Glade",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/303.png"
+			}
+		},
+		{
+			"name": "Biledeep Marshal",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Skeleton Rogue",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/304.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Ancient Cloudgrazer
+	2 New Lands Await
+	2 Steelstorm Requiem
+	2 Lady Akane Shigane
+	2 Alien Abduction
+	2 Automated Cowpuncher
+	2 Belle, Aggressive Capitalist
+	2 Big Bull
+	2 Brennae, Biledeep Sheriff
+	2 Charged Peaks
+	2 Clearcutter Leatherwing
+	2 Counterfeit Converter
+	2 Demonic Ashlands
+	2 Devastating Derailment
+	2 Dune Golem
+	2 Eight-Armed Waddie
+	2 Elvish Lawbringer
+	2 Forgemaster's Salamander
+	2 Fungal Pampas
+	1 The Glory of Derrigoa
+	2 Here Comes Calamity
+	2 Ichorblessed Slinger
+	2 Indecipherable Bones
+	2 Keira, First to Fly
+	1 Scarlet Dancers
+	2 Malevolent Tarpit
+	2 Miracles of Flight
+	2 Oasis Raptor
+	2 Opportunistic Reaper
+	2 Phantom Tyrant
+	2 Possum Posse
+	2 Rumbling Canyon
+	1 Saurian Charge
+	2 Spectral Steppe
+	2 Spiny Junction
+	2 Sprouting Cactusaur
+	2 Sunlit Hillock
+	2 Tyrant's Territory
+	2 Barre, Bounty Hunter
+	2 Well-Trodden Gulch
+	2 Ensouled Dreadbeast
+	1 Avatar of the Holy Wound
+	1 Avatar of the Stone Heart
+	1 Ignited Tithetaker
+	1 Bennett, the Pilgrim
+	2 Broodmoth Monarch
+	1 Cowgirl's Rattler
+	1 Furious Toad-Strangler
+	2 Lady Wicked, Hell's Vassal
+	1 Progress
+	1 Rejuvenating Derrigoa
+	1 The Broken Lands
+	1 The Ur-Dinosaur
+	1 Walking Digsite
+	1 Varus, Chaos Conductor
+	1 Duskveil Emperor
+	1 Necrosaurus Caller
+	2 Cindercoil Tyrant
+	2 Foreign Probe
+	1 Scourge of the Oasis
+	2 Shepherd Giantess
+	2 Oilyard Flats
+	1 Eye of Tomorrow
+	2 Caramelo's Repose
+	1 Caramelo, Faith in Steel
+	1 Maria, Burnt by Sin
+	2 Perilous Pilgrimage
+	2 Praerie Beau
+	2 Mesa Mailrunner
+	1 Belén, Lady of Wounds
+	2 Steamworks Songbeast
+	2 Fabled Coatlus
+	2 Cackling Cutthroat
+	2 Abandoned Creation
+	1 Blossoming Jerboa
+	2 Naked Molerex
+	1 Twin Titans
+	2 Haunting Fleshtaker
+	1 Buried Together
+	1 Fel, Ignited Roadster
+	1 Heroic Farmhand
+	2 Serpentsplitter
+	2 Umbral Egregore
+	2 Ritual of Returning
+	2 Ravenous Locomotive
+	2 Trolley Problem
+	2 Heart of the Avatar
+	2 Avatar's Return
+	2 Raucous Gemhide
+	2 Sporecap Sentinels
+	2 Houndmaster Aris
+	2 Prismatic Prospector
+	2 Scrapyard Harvester
+	2 Heavenfall Crashsite
+	1 Rocket-Powered Dragon
+	2 Jess, High Heavens Marshal
+	2 Deepmine Skitterer
+	2 Paurl, Lord of Unlife
+	2 Ramiro, Shadowcaster
+	2 Forgesaddled Strider
+	2 Storm at the Pinnacle
+	1 Return with the Storm
+	1 Bonnie, Worldtrotter
+	2 Biledeep Marshal
+[uncommon(3)]
+	4 Long Arm of the Law
+	4 Slipspace Freight
+	4 Behold Wonder
+	4 Stoneglare Slinger
+	4 Saddle Up
+	4 Mystweaver Reading
+	4 Chronotide Thief
+	4 Balloon Terror
+	4 Ironcast Razer
+	4 Lightning Lariat
+	4 Cactus-Crested Cassowary
+	4 Chapel Guardian
+	4 Elvish Outrider
+	4 Florid Herder
+	4 Feral Stranger
+	4 Gunpoint Persuasion
+	4 Intrepid Journeyers
+	4 Leaking Lead
+	4 Tales of Days Long Past
+	4 Broken Lands Stinger
+	4 Trihorn Rancher
+	4 Undead Marshals
+	4 Vengeful Sheriff
+	4 Winged Packbeast
+	4 Slayer from Broken Lands
+	4 Bugcatcher Pair
+	4 Firebird of Yore
+	4 Fluttering Wispbeak
+	4 Reaping Conductor
+	4 Predator's Gaze
+	4 Convergent Evolution
+	4 Lasso Up
+	4 Menacing Harvester
+	4 Tick-Tock Terrier
+	4 Dirt Nap
+	4 Wyldwastes Trapjaw
+	4 Belle's Tracker
+	4 Foul Rotcaller
+	4 Smoldering Farmhand
+	4 Thunder Lizard
+	4 Savvy Investigator
+	4 Phantom Gravedigger
+	4 Spiny Titan
+	4 Once in a Lifetime Shot
+	4 Automaton of Great Feats
+	4 Underground Colony
+	4 Groff Escape
+	4 Seized by Madness
+	4 Nowhere Land
+	4 Split Peak Canyon
+	4 Ancestral Songbeast
+	4 Elusive Cryptid
+	4 Strix Roost
+	4 Wastelight Weaver
+	4 Filigree Lantern
+	4 Meteor-Bound Beast
+	4 Stormspine Tyrant
+	4 Rare Find
+	4 Lands Unknown Await
+	4 Gila of Hellcrest Ridge
+	4 Songbeast Scouting
+	4 Travel by Stars
+	4 Osseoconjuration
+	4 Belén's Golem
+	4 Spineplate Denmother
+	4 Tyrant Hunt
+	4 Outrider of the Blighted
+	4 Assemble the Crew
+	4 Stitched Gravedigger
+	4 Deathstorm Dogfish
+	4 Sky Island Animator
+	4 Wystern Hero
+	4 Desert Wonders
+	4 Herd Hivemind
+	4 Blighted Dragon
+	4 Rise on Wicked Winds
+	4 Pathlighting Seraph
+	4 Snuffling Tracker
+	4 Wrapped by Tentacles
+	4 Brazen Tycoon
+	4 Haughty Trickshot
+	4 Sudden Pandemonium
+	4 Dark Deal
+	4 Rusted Strummer
+	4 Whirring Fowl
+	4 Familiar Tinkering
+	4 Affluent Socialite
+	4 Griffinback Scout
+	4 Field of Caltrops
+	4 Ancient Knight-Errant
+	4 Rumbling Azurehulk
+	4 Cackling Dread-Engine
+	4 Deep Azurium Node
+	4 Skilled Deadeye
+	4 Align Life and Death
+	4 Outrider from Skull Pass
+	4 Cogwork Dracolich
+	4 Covet Humanity
+	4 Tied to the Tracks
+	4 Startouched Hotshot
+[common(6)]
+	8 Lady Wicked's Huntress
+	8 Send Straight to Hell
+	8 Forktongued Balladeer
+	8 King of Skull Pass
+	8 Farseeker's Leatherwing
+	8 Sky Cities Messenger
+	8 Noble Ranger
+	8 Bayou Boon
+	8 Bullet Down the Gullet
+	8 Dirgepoint Survivor
+	8 Oasis Nest
+	8 Eccentric Skinner
+	8 Mewling Hatchling
+	8 Line Em' Up, Knock Em' Down
+	8 Avatar of Persistence
+	8 Notorious Hijacker
+	8 Surging Tentacles
+	8 Whirlwind Romance
+	8 Spineplate Behemoth
+	8 Hunted Thief
+	8 Broken Lands Offering
+	8 Commune with Dinosaurs
+	8 Territorial Trihorns
+	8 Tricerastop
+	8 Caravan Colossus
+	8 Ride the Lightning
+	8 Strange Wasteland
+	8 Secluded Oasis
+	8 Arid Canyon
+	8 Dirgepoint Traveler
+	8 Orcish Ferriers
+	8 Buckshot
+	8 Vicious Greatbat
+	8 Steeljaw Desperado
+	8 Specter of Biledeep
+	8 Run Hot
+	8 Cocky Sureshot
+	8 Nefarious Mercenary
+	8 Pilgrim's Bison
+	8 Roaming Sheriffs
+	8 Vinelash
+	8 Rotting Rex
+	8 Magma Splash
+	8 Leave to Die
+	8 Sunset Chaser
+	8 Ignited Helltaker
+	8 Apex of the Sands
+	8 Corrupted Tyrant
+	8 Hellsent Executioner
+	8 Search for Answers
+	8 Saddled Trihorn
+	8 Basking Sunfrill
+	8 To New Lands
+	8 Hillhopper Scout
+	8 Oasis Mantis
+	8 Starpluck
+	8 Guiding Tumblewagg
+	8 Ridge Raptor
+	8 Worn-Down Marvel
+	8 Clockwork Dragon
+	8 Cursed Miner
+	8 Shadow of Hollowgrave
+	8 Reclaimed Vitality
+	8 Run Down the Convoy
+	8 Modified Leatherwing
+	8 Cheery Ruffian
+	8 Ironwyst Sheriff
+	8 Giant Cyhawk
+	8 Careen Off The Cliff
+	8 Engine Surge
+	8 Killer Crustacean
+	8 Ironwyst Tycoon
+	8 Haunting Hangman
+	8 Jig of Protection
+	8 Bestial Tempest
+	8 Scout the Broken Lands
+	8 Arcane Thievery
+	8 Train Ride to Nowhere
+	8 Dead Man's Peace
+	8 Steelcast Steed
+	8 Ironwyst Express
+	8 Wind-Up Angel
+	8 Malevolent Effigy
+	8 Tool-Laden Saddle
+	8 Imposing Flats
+	8 Watering Hole
+	8 Cactus Copse
+	8 Dead Sandsea
+	8 Prismatic Dunes
+	8 Shalehewn Ridges
+	8 Soot-Covered Glade
+[common | masterpiece(1)]
+	8 Lady Wicked's Huntress
+	8 Send Straight to Hell
+	8 Forktongued Balladeer
+	8 King of Skull Pass
+	8 Farseeker's Leatherwing
+	8 Sky Cities Messenger
+	8 Noble Ranger
+	8 Bayou Boon
+	8 Bullet Down the Gullet
+	8 Dirgepoint Survivor
+	8 Oasis Nest
+	8 Eccentric Skinner
+	8 Mewling Hatchling
+	8 Line Em' Up, Knock Em' Down
+	8 Avatar of Persistence
+	8 Notorious Hijacker
+	8 Surging Tentacles
+	8 Whirlwind Romance
+	8 Spineplate Behemoth
+	8 Hunted Thief
+	8 Broken Lands Offering
+	8 Commune with Dinosaurs
+	8 Territorial Trihorns
+	8 Tricerastop
+	8 Caravan Colossus
+	8 Ride the Lightning
+	8 Strange Wasteland
+	8 Secluded Oasis
+	8 Arid Canyon
+	8 Dirgepoint Traveler
+	8 Orcish Ferriers
+	8 Buckshot
+	8 Vicious Greatbat
+	8 Steeljaw Desperado
+	8 Specter of Biledeep
+	8 Run Hot
+	8 Cocky Sureshot
+	8 Nefarious Mercenary
+	8 Pilgrim's Bison
+	8 Roaming Sheriffs
+	8 Vinelash
+	8 Rotting Rex
+	8 Magma Splash
+	8 Leave to Die
+	8 Sunset Chaser
+	8 Ignited Helltaker
+	8 Apex of the Sands
+	8 Corrupted Tyrant
+	8 Hellsent Executioner
+	8 Search for Answers
+	8 Saddled Trihorn
+	8 Basking Sunfrill
+	8 To New Lands
+	8 Hillhopper Scout
+	8 Oasis Mantis
+	8 Starpluck
+	8 Guiding Tumblewagg
+	8 Ridge Raptor
+	8 Worn-Down Marvel
+	8 Clockwork Dragon
+	8 Cursed Miner
+	8 Shadow of Hollowgrave
+	8 Reclaimed Vitality
+	8 Run Down the Convoy
+	8 Modified Leatherwing
+	8 Cheery Ruffian
+	8 Ironwyst Sheriff
+	8 Giant Cyhawk
+	8 Careen Off The Cliff
+	8 Engine Surge
+	8 Killer Crustacean
+	8 Ironwyst Tycoon
+	8 Haunting Hangman
+	8 Jig of Protection
+	8 Bestial Tempest
+	8 Scout the Broken Lands
+	8 Arcane Thievery
+	8 Train Ride to Nowhere
+	8 Dead Man's Peace
+	8 Steelcast Steed
+	8 Ironwyst Express
+	8 Wind-Up Angel
+	8 Malevolent Effigy
+	8 Tool-Laden Saddle
+	8 Imposing Flats
+	8 Watering Hole
+	8 Cactus Copse
+	8 Dead Sandsea
+	8 Prismatic Dunes
+	8 Shalehewn Ridges
+	8 Soot-Covered Glade
+[foil(1)]
+	12 Lady Wicked's Huntress
+	12 Send Straight to Hell
+	12 Forktongued Balladeer
+	6 Long Arm of the Law
+	6 Slipspace Freight
+	6 Behold Wonder
+	6 Stoneglare Slinger
+	12 King of Skull Pass
+	12 Farseeker's Leatherwing
+	6 Saddle Up
+	12 Sky Cities Messenger
+	6 Mystweaver Reading
+	12 Noble Ranger
+	2 Ancient Cloudgrazer
+	6 Chronotide Thief
+	12 Bayou Boon
+	12 Bullet Down the Gullet
+	12 Dirgepoint Survivor
+	12 Oasis Nest
+	12 Eccentric Skinner
+	12 Mewling Hatchling
+	12 Line Em' Up, Knock Em' Down
+	12 Avatar of Persistence
+	12 Notorious Hijacker
+	12 Surging Tentacles
+	2 New Lands Await
+	12 Whirlwind Romance
+	6 Balloon Terror
+	6 Ironcast Razer
+	12 Spineplate Behemoth
+	6 Lightning Lariat
+	6 Cactus-Crested Cassowary
+	6 Chapel Guardian
+	6 Elvish Outrider
+	6 Florid Herder
+	6 Feral Stranger
+	6 Gunpoint Persuasion
+	6 Intrepid Journeyers
+	6 Leaking Lead
+	12 Hunted Thief
+	6 Tales of Days Long Past
+	6 Broken Lands Stinger
+	6 Trihorn Rancher
+	6 Undead Marshals
+	6 Vengeful Sheriff
+	6 Winged Packbeast
+	2 Steelstorm Requiem
+	2 Lady Akane Shigane
+	2 Alien Abduction
+	2 Automated Cowpuncher
+	2 Belle, Aggressive Capitalist
+	2 Big Bull
+	2 Brennae, Biledeep Sheriff
+	2 Charged Peaks
+	2 Clearcutter Leatherwing
+	2 Counterfeit Converter
+	2 Demonic Ashlands
+	2 Devastating Derailment
+	12 Broken Lands Offering
+	2 Dune Golem
+	6 Slayer from Broken Lands
+	6 Bugcatcher Pair
+	2 Eight-Armed Waddie
+	2 Elvish Lawbringer
+	6 Firebird of Yore
+	2 Forgemaster's Salamander
+	2 Fungal Pampas
+	1 The Glory of Derrigoa
+	2 Here Comes Calamity
+	2 Ichorblessed Slinger
+	2 Indecipherable Bones
+	2 Keira, First to Fly
+	1 Scarlet Dancers
+	2 Malevolent Tarpit
+	2 Miracles of Flight
+	2 Oasis Raptor
+	2 Opportunistic Reaper
+	2 Phantom Tyrant
+	2 Possum Posse
+	2 Rumbling Canyon
+	1 Saurian Charge
+	2 Spectral Steppe
+	2 Spiny Junction
+	2 Sprouting Cactusaur
+	2 Sunlit Hillock
+	2 Tyrant's Territory
+	2 Barre, Bounty Hunter
+	2 Well-Trodden Gulch
+	2 Ensouled Dreadbeast
+	1 Avatar of the Holy Wound
+	1 Avatar of the Stone Heart
+	1 Ignited Tithetaker
+	1 Bennett, the Pilgrim
+	2 Broodmoth Monarch
+	1 Cowgirl's Rattler
+	1 Furious Toad-Strangler
+	2 Lady Wicked, Hell's Vassal
+	1 Progress
+	1 Rejuvenating Derrigoa
+	1 The Broken Lands
+	1 The Ur-Dinosaur
+	1 Walking Digsite
+	12 Commune with Dinosaurs
+	6 Fluttering Wispbeak
+	6 Reaping Conductor
+	1 Varus, Chaos Conductor
+	12 Territorial Trihorns
+	6 Predator's Gaze
+	6 Convergent Evolution
+	12 Tricerastop
+	12 Caravan Colossus
+	6 Lasso Up
+	1 Duskveil Emperor
+	6 Menacing Harvester
+	6 Tick-Tock Terrier
+	6 Dirt Nap
+	1 Necrosaurus Caller
+	12 Ride the Lightning
+	6 Wyldwastes Trapjaw
+	2 Cindercoil Tyrant
+	2 Foreign Probe
+	1 Scourge of the Oasis
+	12 Strange Wasteland
+	12 Secluded Oasis
+	12 Arid Canyon
+	12 Dirgepoint Traveler
+	2 Shepherd Giantess
+	2 Oilyard Flats
+	1 Eye of Tomorrow
+	6 Belle's Tracker
+	12 Orcish Ferriers
+	6 Foul Rotcaller
+	12 Buckshot
+	2 Caramelo's Repose
+	12 Vicious Greatbat
+	12 Steeljaw Desperado
+	6 Smoldering Farmhand
+	12 Specter of Biledeep
+	1 Caramelo, Faith in Steel
+	1 Maria, Burnt by Sin
+	2 Perilous Pilgrimage
+	6 Thunder Lizard
+	2 Praerie Beau
+	12 Run Hot
+	2 Mesa Mailrunner
+	12 Cocky Sureshot
+	6 Savvy Investigator
+	12 Nefarious Mercenary
+	12 Pilgrim's Bison
+	12 Roaming Sheriffs
+	12 Vinelash
+	12 Rotting Rex
+	12 Magma Splash
+	12 Leave to Die
+	12 Sunset Chaser
+	12 Ignited Helltaker
+	12 Apex of the Sands
+	12 Corrupted Tyrant
+	12 Hellsent Executioner
+	12 Search for Answers
+	12 Saddled Trihorn
+	6 Phantom Gravedigger
+	12 Basking Sunfrill
+	12 To New Lands
+	12 Hillhopper Scout
+	12 Oasis Mantis
+	12 Starpluck
+	12 Guiding Tumblewagg
+	12 Ridge Raptor
+	1 Belén, Lady of Wounds
+	12 Worn-Down Marvel
+	12 Clockwork Dragon
+	12 Cursed Miner
+	12 Shadow of Hollowgrave
+	12 Reclaimed Vitality
+	12 Run Down the Convoy
+	12 Modified Leatherwing
+	12 Cheery Ruffian
+	12 Ironwyst Sheriff
+	12 Giant Cyhawk
+	12 Careen Off The Cliff
+	12 Engine Surge
+	2 Steamworks Songbeast
+	2 Fabled Coatlus
+	6 Spiny Titan
+	6 Once in a Lifetime Shot
+	6 Automaton of Great Feats
+	6 Underground Colony
+	6 Groff Escape
+	6 Seized by Madness
+	6 Nowhere Land
+	2 Cackling Cutthroat
+	6 Split Peak Canyon
+	2 Abandoned Creation
+	6 Ancestral Songbeast
+	6 Elusive Cryptid
+	12 Killer Crustacean
+	6 Strix Roost
+	6 Wastelight Weaver
+	12 Ironwyst Tycoon
+	12 Haunting Hangman
+	6 Filigree Lantern
+	12 Jig of Protection
+	12 Bestial Tempest
+	12 Scout the Broken Lands
+	12 Arcane Thievery
+	12 Train Ride to Nowhere
+	12 Dead Man's Peace
+	12 Steelcast Steed
+	12 Ironwyst Express
+	12 Wind-Up Angel
+	12 Malevolent Effigy
+	12 Tool-Laden Saddle
+	6 Meteor-Bound Beast
+	6 Stormspine Tyrant
+	6 Rare Find
+	6 Lands Unknown Await
+	6 Gila of Hellcrest Ridge
+	1 Blossoming Jerboa
+	6 Songbeast Scouting
+	6 Travel by Stars
+	6 Osseoconjuration
+	6 Belén's Golem
+	6 Spineplate Denmother
+	6 Tyrant Hunt
+	6 Outrider of the Blighted
+	6 Assemble the Crew
+	6 Stitched Gravedigger
+	2 Naked Molerex
+	6 Deathstorm Dogfish
+	1 Twin Titans
+	6 Sky Island Animator
+	6 Wystern Hero
+	6 Desert Wonders
+	6 Herd Hivemind
+	6 Blighted Dragon
+	2 Haunting Fleshtaker
+	6 Rise on Wicked Winds
+	6 Pathlighting Seraph
+	6 Snuffling Tracker
+	6 Wrapped by Tentacles
+	6 Brazen Tycoon
+	6 Haughty Trickshot
+	12 Imposing Flats
+	6 Sudden Pandemonium
+	6 Dark Deal
+	1 Buried Together
+	6 Rusted Strummer
+	6 Whirring Fowl
+	6 Familiar Tinkering
+	6 Affluent Socialite
+	6 Griffinback Scout
+	6 Field of Caltrops
+	6 Ancient Knight-Errant
+	6 Rumbling Azurehulk
+	6 Cackling Dread-Engine
+	1 Fel, Ignited Roadster
+	6 Deep Azurium Node
+	6 Skilled Deadeye
+	1 Heroic Farmhand
+	2 Serpentsplitter
+	2 Umbral Egregore
+	2 Ritual of Returning
+	6 Align Life and Death
+	6 Outrider from Skull Pass
+	6 Cogwork Dracolich
+	6 Covet Humanity
+	6 Tied to the Tracks
+	6 Startouched Hotshot
+	2 Ravenous Locomotive
+	2 Trolley Problem
+	2 Heart of the Avatar
+	2 Avatar's Return
+	2 Raucous Gemhide
+	2 Sporecap Sentinels
+	2 Houndmaster Aris
+	2 Prismatic Prospector
+	2 Scrapyard Harvester
+	2 Heavenfall Crashsite
+	1 Rocket-Powered Dragon
+	2 Jess, High Heavens Marshal
+	2 Deepmine Skitterer
+	2 Paurl, Lord of Unlife
+	2 Ramiro, Shadowcaster
+	2 Forgesaddled Strider
+	2 Storm at the Pinnacle
+	1 Return with the Storm
+	12 Watering Hole
+	1 Bonnie, Worldtrotter
+	12 Cactus Copse
+	12 Dead Sandsea
+	12 Prismatic Dunes
+	12 Shalehewn Ridges
+	12 Soot-Covered Glade
+	2 Biledeep Marshal
+[wildcard(1)]
+	6 Lady Wicked's Huntress
+	6 Send Straight to Hell
+	6 Forktongued Balladeer
+	15 Long Arm of the Law
+	15 Slipspace Freight
+	15 Behold Wonder
+	15 Stoneglare Slinger
+	6 King of Skull Pass
+	6 Farseeker's Leatherwing
+	15 Saddle Up
+	6 Sky Cities Messenger
+	15 Mystweaver Reading
+	6 Noble Ranger
+	7 Ancient Cloudgrazer
+	15 Chronotide Thief
+	6 Bayou Boon
+	6 Bullet Down the Gullet
+	6 Dirgepoint Survivor
+	6 Oasis Nest
+	6 Eccentric Skinner
+	6 Mewling Hatchling
+	6 Line Em' Up, Knock Em' Down
+	6 Avatar of Persistence
+	6 Notorious Hijacker
+	6 Surging Tentacles
+	7 New Lands Await
+	6 Whirlwind Romance
+	15 Balloon Terror
+	15 Ironcast Razer
+	6 Spineplate Behemoth
+	15 Lightning Lariat
+	15 Cactus-Crested Cassowary
+	15 Chapel Guardian
+	15 Elvish Outrider
+	15 Florid Herder
+	15 Feral Stranger
+	15 Gunpoint Persuasion
+	15 Intrepid Journeyers
+	15 Leaking Lead
+	6 Hunted Thief
+	15 Tales of Days Long Past
+	15 Broken Lands Stinger
+	15 Trihorn Rancher
+	15 Undead Marshals
+	15 Vengeful Sheriff
+	15 Winged Packbeast
+	7 Steelstorm Requiem
+	7 Lady Akane Shigane
+	7 Alien Abduction
+	7 Automated Cowpuncher
+	7 Belle, Aggressive Capitalist
+	7 Big Bull
+	7 Brennae, Biledeep Sheriff
+	7 Charged Peaks
+	7 Clearcutter Leatherwing
+	7 Counterfeit Converter
+	7 Demonic Ashlands
+	7 Devastating Derailment
+	6 Broken Lands Offering
+	7 Dune Golem
+	15 Slayer from Broken Lands
+	15 Bugcatcher Pair
+	7 Eight-Armed Waddie
+	7 Elvish Lawbringer
+	15 Firebird of Yore
+	7 Forgemaster's Salamander
+	7 Fungal Pampas
+	4 The Glory of Derrigoa
+	7 Here Comes Calamity
+	7 Ichorblessed Slinger
+	7 Indecipherable Bones
+	7 Keira, First to Fly
+	4 Scarlet Dancers
+	7 Malevolent Tarpit
+	7 Miracles of Flight
+	7 Oasis Raptor
+	7 Opportunistic Reaper
+	7 Phantom Tyrant
+	7 Possum Posse
+	7 Rumbling Canyon
+	4 Saurian Charge
+	7 Spectral Steppe
+	7 Spiny Junction
+	7 Sprouting Cactusaur
+	7 Sunlit Hillock
+	7 Tyrant's Territory
+	7 Barre, Bounty Hunter
+	7 Well-Trodden Gulch
+	7 Ensouled Dreadbeast
+	4 Avatar of the Holy Wound
+	4 Avatar of the Stone Heart
+	4 Ignited Tithetaker
+	4 Bennett, the Pilgrim
+	7 Broodmoth Monarch
+	4 Cowgirl's Rattler
+	4 Furious Toad-Strangler
+	7 Lady Wicked, Hell's Vassal
+	4 Progress
+	4 Rejuvenating Derrigoa
+	4 The Broken Lands
+	4 The Ur-Dinosaur
+	4 Walking Digsite
+	6 Commune with Dinosaurs
+	15 Fluttering Wispbeak
+	15 Reaping Conductor
+	4 Varus, Chaos Conductor
+	6 Territorial Trihorns
+	15 Predator's Gaze
+	15 Convergent Evolution
+	6 Tricerastop
+	6 Caravan Colossus
+	15 Lasso Up
+	4 Duskveil Emperor
+	15 Menacing Harvester
+	15 Tick-Tock Terrier
+	15 Dirt Nap
+	4 Necrosaurus Caller
+	6 Ride the Lightning
+	15 Wyldwastes Trapjaw
+	7 Cindercoil Tyrant
+	7 Foreign Probe
+	4 Scourge of the Oasis
+	6 Strange Wasteland
+	6 Secluded Oasis
+	6 Arid Canyon
+	6 Dirgepoint Traveler
+	7 Shepherd Giantess
+	7 Oilyard Flats
+	4 Eye of Tomorrow
+	15 Belle's Tracker
+	6 Orcish Ferriers
+	15 Foul Rotcaller
+	6 Buckshot
+	7 Caramelo's Repose
+	6 Vicious Greatbat
+	6 Steeljaw Desperado
+	15 Smoldering Farmhand
+	6 Specter of Biledeep
+	4 Caramelo, Faith in Steel
+	4 Maria, Burnt by Sin
+	7 Perilous Pilgrimage
+	15 Thunder Lizard
+	7 Praerie Beau
+	6 Run Hot
+	7 Mesa Mailrunner
+	6 Cocky Sureshot
+	15 Savvy Investigator
+	6 Nefarious Mercenary
+	6 Pilgrim's Bison
+	6 Roaming Sheriffs
+	6 Vinelash
+	6 Rotting Rex
+	6 Magma Splash
+	6 Leave to Die
+	6 Sunset Chaser
+	6 Ignited Helltaker
+	6 Apex of the Sands
+	6 Corrupted Tyrant
+	6 Hellsent Executioner
+	6 Search for Answers
+	6 Saddled Trihorn
+	15 Phantom Gravedigger
+	6 Basking Sunfrill
+	6 To New Lands
+	6 Hillhopper Scout
+	6 Oasis Mantis
+	6 Starpluck
+	6 Guiding Tumblewagg
+	6 Ridge Raptor
+	4 Belén, Lady of Wounds
+	6 Worn-Down Marvel
+	6 Clockwork Dragon
+	6 Cursed Miner
+	6 Shadow of Hollowgrave
+	6 Reclaimed Vitality
+	6 Run Down the Convoy
+	6 Modified Leatherwing
+	6 Cheery Ruffian
+	6 Ironwyst Sheriff
+	6 Giant Cyhawk
+	6 Careen Off The Cliff
+	6 Engine Surge
+	7 Steamworks Songbeast
+	7 Fabled Coatlus
+	15 Spiny Titan
+	15 Once in a Lifetime Shot
+	15 Automaton of Great Feats
+	15 Underground Colony
+	15 Groff Escape
+	15 Seized by Madness
+	15 Nowhere Land
+	7 Cackling Cutthroat
+	15 Split Peak Canyon
+	7 Abandoned Creation
+	15 Ancestral Songbeast
+	15 Elusive Cryptid
+	6 Killer Crustacean
+	15 Strix Roost
+	15 Wastelight Weaver
+	6 Ironwyst Tycoon
+	6 Haunting Hangman
+	15 Filigree Lantern
+	6 Jig of Protection
+	6 Bestial Tempest
+	6 Scout the Broken Lands
+	6 Arcane Thievery
+	6 Train Ride to Nowhere
+	6 Dead Man's Peace
+	6 Steelcast Steed
+	6 Ironwyst Express
+	6 Wind-Up Angel
+	6 Malevolent Effigy
+	6 Tool-Laden Saddle
+	15 Meteor-Bound Beast
+	15 Stormspine Tyrant
+	15 Rare Find
+	15 Lands Unknown Await
+	15 Gila of Hellcrest Ridge
+	4 Blossoming Jerboa
+	15 Songbeast Scouting
+	15 Travel by Stars
+	15 Osseoconjuration
+	15 Belén's Golem
+	15 Spineplate Denmother
+	15 Tyrant Hunt
+	15 Outrider of the Blighted
+	15 Assemble the Crew
+	15 Stitched Gravedigger
+	7 Naked Molerex
+	15 Deathstorm Dogfish
+	4 Twin Titans
+	15 Sky Island Animator
+	15 Wystern Hero
+	15 Desert Wonders
+	15 Herd Hivemind
+	15 Blighted Dragon
+	7 Haunting Fleshtaker
+	15 Rise on Wicked Winds
+	15 Pathlighting Seraph
+	15 Snuffling Tracker
+	15 Wrapped by Tentacles
+	15 Brazen Tycoon
+	15 Haughty Trickshot
+	6 Imposing Flats
+	15 Sudden Pandemonium
+	15 Dark Deal
+	4 Buried Together
+	15 Rusted Strummer
+	15 Whirring Fowl
+	15 Familiar Tinkering
+	15 Affluent Socialite
+	15 Griffinback Scout
+	15 Field of Caltrops
+	15 Ancient Knight-Errant
+	15 Rumbling Azurehulk
+	15 Cackling Dread-Engine
+	4 Fel, Ignited Roadster
+	15 Deep Azurium Node
+	15 Skilled Deadeye
+	4 Heroic Farmhand
+	7 Serpentsplitter
+	7 Umbral Egregore
+	7 Ritual of Returning
+	15 Align Life and Death
+	15 Outrider from Skull Pass
+	15 Cogwork Dracolich
+	15 Covet Humanity
+	15 Tied to the Tracks
+	15 Startouched Hotshot
+	7 Ravenous Locomotive
+	7 Trolley Problem
+	7 Heart of the Avatar
+	7 Avatar's Return
+	7 Raucous Gemhide
+	7 Sporecap Sentinels
+	7 Houndmaster Aris
+	7 Prismatic Prospector
+	7 Scrapyard Harvester
+	7 Heavenfall Crashsite
+	4 Rocket-Powered Dragon
+	7 Jess, High Heavens Marshal
+	7 Deepmine Skitterer
+	7 Paurl, Lord of Unlife
+	7 Ramiro, Shadowcaster
+	7 Forgesaddled Strider
+	7 Storm at the Pinnacle
+	4 Return with the Storm
+	6 Watering Hole
+	4 Bonnie, Worldtrotter
+	6 Cactus Copse
+	6 Dead Sandsea
+	6 Prismatic Dunes
+	6 Shalehewn Ridges
+	6 Soot-Covered Glade
+	7 Biledeep Marshal

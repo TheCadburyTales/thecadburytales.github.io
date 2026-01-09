@@ -1,4 +1,268 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Elder Hydra Vidir
+
+Prophet of Dawn
+
+Rose Court Justicar
+rules_text: Whenever a creature enters under your control, create an Idol token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Whenever Rose Court Justicar attacks, you may sacrifice an Idol. If you do, put a +1/+1 counter on target creature. => Whenever a creature you control enters, create an Idol token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Whenever Rose Court Justicar attacks, you may sacrifice an Idol. If you do, put a +1/+1 counter on target creature.
+
+Judgment of the Tiranos
+
+Divine Vigil
+
+Overwhelming Wisdom
+
+Sphinx of Cryptic Passage
+
+Baron of Calamity
+
+Embodiment of Anguish
+
+Il-Ergal Soothsayer
+
+Reaper's Promenade
+
+Iron Eye Captain
+rules_text: When Iron Eye Captain enters, discard your hand, then exile X cards from the top of your library, where X is your devotion to red. You may cast a spell from among them with mana value X or less without paying its mana cost. You may play the rest until the end of your next turn. [i](Each {R} in the mana costs of permanents you control counts toward your devotion to red.)[/i] => Double strike
+Whenever Iron Eye Captain attacks for the first time each turn, untap any number of target creatures you control with total power less than or equal to your devotion to red. After this phase, there is an additional combat phase. [i](Each {R} in the mana costs of permanents you control counts toward your devotion to red.)[/i]
+pt: 3/2 => 2/3
+
+Devora, the Persecutor
+
+Atsaeri, the Cindersoul
+
+Disciple of the Tiranos
+
+Arbiter of Equity
+
+Unwavering Andi
+
+Guardian of Eteris
+rules_text: Lifelink
+Whenever a nontoken creature enters under your control, create a 1/1 white Cleric creature token. If this is the second time this ability has triggered this turn, invoke the Angels. [i](Begin or advance the Path of the Angel.)[/i] => Lifelink
+Whenever a nontoken creature you control enters, create a 1/1 white Cleric creature token. If this is the second time this ability has triggered this turn, invoke the Angels. [i](Begin or advance the Path of the Angel.)[/i]
+
+Halle, the Savior
+
+Set in Stone
+
+Liberated March
+
+Radiance of the Meek
+
+Disciple of the Aequitius
+
+Wise Prognosticator
+
+Vizier of Many Ends
+
+Snapfly Stalking
+
+Custos, the Judge
+
+Disdainful Stroke
+
+Survey Elder Runes
+
+Rippling Thoughts
+
+Eavesdrop
+
+Rebuff the Untethered
+
+Disciple of the Il-Ergal
+
+Inkling Harvester
+
+Shaithana
+
+Peace at Last
+
+Blood Begets Blood
+
+Macabre Echoes
+
+Soul Transfusion
+
+Disciple of the Adishii
+
+Shrieking Magmaw
+
+Soulblaze Shaman
+
+Mortar Emissary
+
+Blastburn Salvo
+
+Molten Deluge
+
+Untethered Spectacle
+
+Sanguine Reproach
+
+Disciple of the Oridian
+
+Omnifang
+
+Virulent Zealot
+rules_text: When Virulent Zealot enters, create a 0/0 green Hydra creature token with two +1/+1 counters on it.
+Hydras you control have toxic 2. [i](Plays dealt damage by Hydras you control also get two poison counters.)[/i] => When Virulent Zealot enters, create a 0/0 green Hydra creature token with two +1/+1 counters on it.
+Hydras you control have toxic 2. [i](Players dealt damage by Hydras you control also get two poison counters.)[/i]
+
+Uthrun Hierophant
+
+Brackish Hydra
+
+Everwilder Mentor
+
+Thrash of Fangs
+
+Verdant Tactics
+
+Late Harvest
+
+Cycolith Harmonist
+
+Ebon Tomb Occultist
+
+Edgeland Barbarian
+
+Silversilt Reshaper
+
+Blessed Andi
+
+Patron of the Many-Faced
+
+Intrepid Outrider
+
+Galvanic Golem
+
+Mithril Vein
+
+Icon of the Devout
+
+Marbled Aakriti
+
+Censer Attendee
+
+Ivory Forum Duelist
+
+Acolyte of Enlightenment
+
+Sunspear Angel
+
+Halcyon Skydancer
+
+Gilded Oathblade
+
+Smite the Wretched
+
+Moment of Triumph
+
+Preening Genius
+
+Acolyte of Brilliance
+
+See Fault
+
+Grasp of Praecognos
+
+Turn Forward Time
+
+Comprehend
+
+Sightless Swordsman
+
+Kaelax Herald
+
+Acolyte of Agony
+
+Indulgent Bloodqueen
+
+Infernum Scraper
+
+Essence Lasher
+
+Ebon Tomb Rattler
+
+Bloodmarque
+
+Writhing Shadows
+
+Violate the Pact
+
+Claim Death's Due
+
+Volcanic Whelp
+
+Firesteel Scoundrel
+
+Acolyte of Scales
+
+Silthion Reaver
+
+Hissing Sunkite
+
+Act of Contempt
+
+Flame Warden's Rites
+
+Agate Assault
+
+Draconic Inferno
+
+Madcap Foray
+
+Pyre Adherent
+
+Jadescale Yearling
+
+Acolyte of Progress
+
+Skybane Sniper
+
+Uthrun Devotee
+
+Understory Ruffian
+
+Ravenous Assault
+
+Snakeskin Veil
+
+Expansion's Embrace
+
+Fogstalker
+
+Umbral Thaumaturge
+
+Gibbering Flenser
+
+Untethered Brute
+
+Mesa Elemental
+
+Blight-Bone Summoner
+
+Myrell Naturalist
+
+Azure Augur
+
+Scarhorn Cleaver
+
+Masqued Nomad
+
+Steadfast Colossus
+
+Overgrown Totem
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Rambling Trail added.
