@@ -63,6 +63,13 @@ def generateFile(code):
 			"collector_number": "''' + str(card['number']) + '''",
 	'''
 
+		split_types = [ 'Projectile' ]
+		for type in split_types:
+			if type in card['type']:
+				draft_string += '''		"layout": "split",
+	'''
+
+
 		card_file_name = (str(card['number']) + '_' + card['card_name']) if ('position' not in card) else card['position']
 		if 'double' in card['shape']:
 			draft_string += '''		"back": {

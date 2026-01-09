@@ -116,6 +116,7 @@
 			"mana_cost": "{2}{U}{R}{W}",
 			"type": "Instant — Projectile",
 			"collector_number": "210",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/11.png"
 			}
@@ -263,6 +264,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Instant — Projectile",
 			"collector_number": "5",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/25.png"
 			}
@@ -323,6 +325,7 @@
 			"mana_cost": "{2}{U}{U}",
 			"type": "Sorcery — Projectile",
 			"collector_number": "38",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/31.png"
 			}
@@ -383,6 +386,7 @@
 			"mana_cost": "{4}{B}{B}",
 			"type": "Sorcery — Projectile",
 			"collector_number": "107",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/37.png"
 			}
@@ -443,6 +447,7 @@
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery — Projectile",
 			"collector_number": "115",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/43.png"
 			}
@@ -503,6 +508,7 @@
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery — Projectile",
 			"collector_number": "177",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/49.png"
 			}
@@ -943,6 +949,7 @@
 			"mana_cost": "{3}{W}",
 			"type": "Sorcery — Projectile",
 			"collector_number": "29",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/93.png"
 			}
@@ -1083,6 +1090,7 @@
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery — Projectile",
 			"collector_number": "71",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/107.png"
 			}
@@ -1223,6 +1231,7 @@
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery — Projectile",
 			"collector_number": "95",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/121.png"
 			}
@@ -1363,6 +1372,7 @@
 			"mana_cost": "{R}{R}",
 			"type": "Sorcery — Projectile",
 			"collector_number": "132",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/135.png"
 			}
@@ -1503,6 +1513,7 @@
 			"mana_cost": "{3}{G}",
 			"type": "Instant — Projectile",
 			"collector_number": "148",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/149.png"
 			}
@@ -1523,6 +1534,7 @@
 			"mana_cost": "{W}{U}",
 			"type": "Instant — Projectile",
 			"collector_number": "200",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/151.png"
 			}
@@ -1683,6 +1695,7 @@
 			"mana_cost": "{U}{R}",
 			"type": "Sorcery — Projectile",
 			"collector_number": "228",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/167.png"
 			}
@@ -1943,6 +1956,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Instant — Projectile",
 			"collector_number": "19",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/193.png"
 			}
@@ -2073,6 +2087,7 @@
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery — Projectile",
 			"collector_number": "41",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/206.png"
 			}
@@ -2233,6 +2248,7 @@
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery — Projectile",
 			"collector_number": "101",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/222.png"
 			}
@@ -2383,6 +2399,7 @@
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery — Projectile",
 			"collector_number": "119",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/237.png"
 			}
@@ -2553,6 +2570,7 @@
 			"mana_cost": "{1}{G}",
 			"type": "Instant — Projectile",
 			"collector_number": "152",
+			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/254.png"
 			}
