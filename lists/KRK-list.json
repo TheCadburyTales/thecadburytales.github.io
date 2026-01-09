@@ -15,7 +15,7 @@
     },
     {
         "card_name": "Avarice",
-        "number": 87,
+        "number": 88,
         "shape": "normal",
         "set": "KRK",
         "position": ""
@@ -50,7 +50,7 @@
     },
     {
         "card_name": "Curse of Siren's Song",
-        "number": 92,
+        "number": 93,
         "shape": "normal",
         "set": "KRK",
         "position": ""
@@ -119,7 +119,7 @@
         "position": ""
     },
     {
-        "card_name": "Alkar of the Floating Horde",
+        "card_name": "Abyssal Breach",
         "number": 85,
         "shape": "normal",
         "set": "KRK",
@@ -154,8 +154,8 @@
         "position": ""
     },
     {
-        "card_name": "Crimza Taal Infiltrator",
-        "number": 91,
+        "card_name": "Alkar of the Floating Horde",
+        "number": 86,
         "shape": "normal",
         "set": "KRK",
         "position": ""
@@ -189,8 +189,8 @@
         "position": ""
     },
     {
-        "card_name": "Devour",
-        "number": 96,
+        "card_name": "Crimza Taal Infiltrator",
+        "number": 92,
         "shape": "normal",
         "set": "KRK",
         "position": ""
@@ -400,7 +400,7 @@
     },
     {
         "card_name": "Azla's Monstrosity",
-        "number": 88,
+        "number": 89,
         "shape": "normal",
         "set": "KRK",
         "position": ""
@@ -820,7 +820,7 @@
     },
     {
         "card_name": "Arrogant Crewmate",
-        "number": 86,
+        "number": 87,
         "shape": "normal",
         "set": "KRK",
         "position": ""
@@ -855,7 +855,7 @@
     },
     {
         "card_name": "Azla's Rotcrew",
-        "number": 89,
+        "number": 90,
         "shape": "adventure",
         "set": "KRK",
         "position": ""
@@ -890,7 +890,7 @@
     },
     {
         "card_name": "Crimza Taal Headhunter",
-        "number": 90,
+        "number": 91,
         "shape": "adventure",
         "set": "KRK",
         "position": ""
@@ -925,7 +925,7 @@
     },
     {
         "card_name": "Davijan's Curse",
-        "number": 93,
+        "number": 94,
         "shape": "normal",
         "set": "KRK",
         "position": ""
@@ -960,7 +960,7 @@
     },
     {
         "card_name": "Dawson's Ire",
-        "number": 94,
+        "number": 95,
         "shape": "normal",
         "set": "KRK",
         "position": ""
@@ -995,7 +995,7 @@
     },
     {
         "card_name": "Deathless Conscription",
-        "number": 95,
+        "number": 96,
         "shape": "normal",
         "set": "KRK",
         "position": ""

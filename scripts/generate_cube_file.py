@@ -13,7 +13,7 @@ def validate_card_names(input_file):
     """
     try:
         with open(input_file, 'r') as f:
-            card_names_to_check = [line.strip() for line in f if line.strip()]
+            card_names_to_check = [line.strip().split('\t')[0] for line in f if line.strip()]
     except FileNotFoundError:
         print(f"Error: Input file not found at '{input_file}'")
         return

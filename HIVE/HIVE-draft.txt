@@ -1446,9 +1446,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature – Angel Warrior",
-			"collector_number": "44",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GQC-files/img/44_Rivha, Heiress of Pinions.jpg"
+				"en": "https://thecadburytales.github.io/sets/ICO-files/img/270.png"
 			}
 		},
 		{
@@ -2637,9 +2637,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature – Halfling Pirate",
-			"collector_number": "91",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/91_Crimza Taal Infiltrator.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/92_Crimza Taal Infiltrator.png"
 			}
 		},
 		{
@@ -2757,9 +2757,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature – Incarnation",
-			"collector_number": "87",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/87_Avarice.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/88_Avarice.png"
 			}
 		},
 		{
@@ -3734,13 +3734,13 @@
 			}
 		},
 		{
-			"name": "Foraging Jackalope",
+			"name": "Elvish Lawbringer",
 			"rarity": "special",
 			"mana_cost": "{G}",
-			"type": "Creature – Rabbit Elk",
-			"collector_number": "2",
+			"type": "Creature – Elf Citizen",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/X25-files/img/2_Foraging Jackalope.png"
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/67.png"
 			}
 		},
 		{
@@ -4196,7 +4196,6 @@
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery – Projectile",
 			"collector_number": "177",
-			"layout": "split",
 			"image_uris": {
 				"en": "https://thecadburytales.github.io/sets/SHF-files/img/49.png"
 			}
@@ -4492,103 +4491,103 @@
 			}
 		},
 		{
-			"name": "Armor Workshop",
+			"name": "Heavenfall Crashsite",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "306",
+			"type": "Land – Desert",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/MRV-files/img/306_Armor Workshop.png"
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/288.png"
 			}
 		},
 		{
-			"name": "Essex Laboratory",
+			"name": "Fungal Pampas",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "320",
+			"type": "Land – Desert",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/MRV-files/img/320_Essex Laboratory.png"
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/70.png"
 			}
 		},
 		{
-			"name": "Hala",
+			"name": "Demonic Ashlands",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "323",
+			"type": "Land – Desert",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/MRV-files/img/323_Hala.png"
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/60.png"
 			}
 		},
 		{
-			"name": "K'un-Lun",
+			"name": "Tyrant's Territory",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "331",
+			"type": "Land – Desert",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/MRV-files/img/331_K'un-Lun.png"
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/89.png"
 			}
 		},
 		{
-			"name": "Klyntar Homeworld",
+			"name": "Sunlit Hillock",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "328",
+			"type": "Land – Desert",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/MRV-files/img/328_Klyntar Homeworld.png"
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/88.png"
 			}
 		},
 		{
-			"name": "Krakoa",
+			"name": "Oilyard Flats",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "330",
+			"type": "Land – Desert",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/MRV-files/img/330_Krakoa.png"
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/131.png"
 			}
 		},
 		{
-			"name": "SHIELD Headquarters",
+			"name": "Charged Peaks",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "346",
+			"type": "Land – Desert",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/MRV-files/img/346_SHIELD Headquarters.png"
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/57.png"
 			}
 		},
 		{
-			"name": "Savage Land",
+			"name": "Rumbling Canyon",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "349",
+			"type": "Land – Desert",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/MRV-files/img/349_Savage Land.png"
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/83.png"
 			}
 		},
 		{
-			"name": "Subterranea",
+			"name": "Well-Trodden Gulch",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "351",
+			"type": "Land – Desert",
+			"collector_number": "295",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/MRV-files/img/351_Subterranea.png"
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/91.png"
 			}
 		},
 		{
-			"name": "Symkaria",
+			"name": "Spectral Steppe",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "353",
+			"type": "Land – Desert",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/MRV-files/img/353_Symkaria.png"
+				"en": "https://thecadburytales.github.io/sets/WOD-files/img/85.png"
 			}
 		},
 		{
@@ -5004,7 +5003,7 @@
 	1 Turtle
 	1 Xenobotanist
 	1 Clockwork Arachnid
-	1 Foraging Jackalope
+	1 Elvish Lawbringer
 	1 Amidi Beastspeaker
 	1 Steppe Shepherd
 	1 Putrescent Branchstalker
@@ -5079,16 +5078,16 @@
 	1 Stormsurge Waypoint
 	1 Transplanted Hive
 	1 Weirding Territory
-	1 Armor Workshop
-	1 Essex Laboratory
-	1 Hala
-	1 K'un-Lun
-	1 Klyntar Homeworld
-	1 Krakoa
-	1 SHIELD Headquarters
-	1 Savage Land
-	1 Subterranea
-	1 Symkaria
+	1 Heavenfall Crashsite
+	1 Fungal Pampas
+	1 Demonic Ashlands
+	1 Tyrant's Territory
+	1 Sunlit Hillock
+	1 Oilyard Flats
+	1 Charged Peaks
+	1 Rumbling Canyon
+	1 Well-Trodden Gulch
+	1 Spectral Steppe
 	1 Seto San, the Dragonblade
 	1 Cane Dancer
 	1 Crewmaster Gillo

@@ -358,7 +358,7 @@ Elvish Dreamspinner
 Turtle
 Xenobotanist
 Clockwork Arachnid
-Foraging Jackalope
+Elvish Lawbringer
 Amidi Beastspeaker
 Steppe Shepherd
 Putrescent Branchstalker
@@ -433,16 +433,16 @@ Salt Pool Citadel
 Stormsurge Waypoint
 Transplanted Hive
 Weirding Territory
-Armor Workshop
-Essex Laboratory
-Hala
-K'un-Lun
-Klyntar Homeworld
-Krakoa
-SHIELD Headquarters
-Savage Land
-Subterranea
-Symkaria
+Heavenfall Crashsite
+Fungal Pampas
+Demonic Ashlands
+Tyrant's Territory
+Sunlit Hillock
+Oilyard Flats
+Charged Peaks
+Rumbling Canyon
+Well-Trodden Gulch
+Spectral Steppe
 Seto San, the Dragonblade
 Cane Dancer
 Crewmaster Gillo

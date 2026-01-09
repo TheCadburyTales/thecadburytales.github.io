@@ -3,7 +3,8 @@
     "formats": "",
     "trimmed": "y",
     "image_type": "png",
-    "draft_structure": "none",
+    "draft_structure": "draft booster",
+    "unpreviewed": "card back",
     "cards": [
         {
             "card_name": "Candlelight Hexcrafter",
@@ -21,6 +22,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Sam Kanios",
+            "alias": "",
             "notes": ""
         },
         {
@@ -39,6 +41,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Vivian Poetzscher",
+            "alias": "",
             "notes": ""
         },
         {
@@ -57,6 +60,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Jocelin Carmes",
+            "alias": "",
             "notes": "!tag reprint"
         },
         {
@@ -75,6 +79,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "totorrl",
+            "alias": "",
             "notes": ""
         },
         {
@@ -93,6 +98,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "totorrl",
+            "alias": "",
             "notes": ""
         },
         {
@@ -111,6 +117,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Mr--Jack",
+            "alias": "",
             "notes": ""
         },
         {
@@ -129,6 +136,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Kleiner Hai",
+            "alias": "",
             "notes": ""
         },
         {
@@ -147,6 +155,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "\u00c1lvaro Carrillo Gonz\u00e1lez",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/GlbLa"
         },
         {
@@ -165,6 +174,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Kim Dingwall",
+            "alias": "",
             "notes": ""
         },
         {
@@ -183,6 +193,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Maciej Laszkiewicz",
+            "alias": "",
             "notes": ""
         },
         {
@@ -201,6 +212,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Bing Image Generator",
+            "alias": "",
             "notes": "https://chiakiroart.tumblr.com/post/667582137325731840/a-moth-creature"
         },
         {
@@ -219,6 +231,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Torbj\u00f6rn K\u00e4llstr\u00f6m",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/n0xGY1"
         },
         {
@@ -237,6 +250,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Hardy Martin",
+            "alias": "",
             "notes": "https://vogtauction.com/auctions/texas-western-arts-auction/item/hardy-martin-b-1942-longhorn"
         },
         {
@@ -255,6 +269,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Gunship Revolution",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/J91x3m"
         },
         {
@@ -273,6 +288,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Malwina Kwiatkowska",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Y8m96\n\nhttps://www.artstation.com/artwork/Z9OWR?collection_id=617720"
         },
         {
@@ -291,6 +307,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Rob Rey",
+            "alias": "",
             "notes": ""
         },
         {
@@ -309,6 +326,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Artem Chebokha",
+            "alias": "",
             "notes": ""
         },
         {
@@ -327,6 +345,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Christian Fell",
+            "alias": "",
             "notes": ""
         },
         {
@@ -345,6 +364,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Steven Shan",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3dkZyA\n\n!tag yuri"
         },
         {
@@ -363,6 +383,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Vivian Poetzscher",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/wJz9N6"
         },
         {
@@ -381,6 +402,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Olesya Spitz",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/oOW5mm"
         },
         {
@@ -399,6 +421,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Aurore Folny",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/XKJQD"
         },
         {
@@ -417,6 +440,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Lisa Jenkins",
+            "alias": "",
             "notes": ""
         },
         {
@@ -427,7 +451,7 @@
             "number": 45,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Reap\u2014{4}{U}{U}: This creature can't be blocked this turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Reap \u2014 {4}{U}{U}: This creature can't be blocked this turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -435,6 +459,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Sebastian Kowoll",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/aYNN30"
         },
         {
@@ -453,6 +478,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Andrea Piparo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -471,6 +497,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Jon Wing",
+            "alias": "",
             "notes": "!tag reprint"
         },
         {
@@ -489,6 +516,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Pauline VoB",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/RY3gaE"
         },
         {
@@ -507,6 +535,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Julian Bauer",
+            "alias": "",
             "notes": "https://www.deviantart.com/thegryph/art/Harry-Dresden-99287087"
         },
         {
@@ -525,6 +554,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Mateusz Wisniewski",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/rAVYZE\n\nhttps://www.artstation.com/artwork/OmVX0k"
         },
         {
@@ -543,6 +573,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Borja Pindado",
+            "alias": "",
             "notes": ""
         },
         {
@@ -561,6 +592,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Borja Pindado",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/w9qk9"
         },
         {
@@ -579,6 +611,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Nia Kovalevski",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/elx9PP\n\n!tag reprint"
         },
         {
@@ -597,6 +630,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Alex Stone",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Nyx6JN"
         },
         {
@@ -615,6 +649,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Brian Valeza",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/le9VJ"
         },
         {
@@ -633,6 +668,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "RubyFaesRealm",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/g2xybZ"
         },
         {
@@ -651,6 +687,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Maros Mandhardt",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/xJLg0E"
         },
         {
@@ -661,7 +698,7 @@
             "number": 77,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "Reap\u2014{3}{B}: This creature gets +2/+0 and gains indestructible until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Reap \u2014 {3}{B}: This creature gets +2/+0 and gains indestructible until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -669,6 +706,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Boris Groh",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/4XooWl"
         },
         {
@@ -687,6 +725,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Istrandar",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ybw8LR"
         },
         {
@@ -705,6 +744,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Boris Groh",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/e0qenZ\n\n!tag reprint"
         },
         {
@@ -723,6 +763,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Sam Kanios",
+            "alias": "",
             "notes": ""
         },
         {
@@ -741,6 +782,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Alexander Yakovlev",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/9EzrDv"
         },
         {
@@ -759,6 +801,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Jason Nguyen",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/eg1xJ"
         },
         {
@@ -777,6 +820,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Torgeir Fjereide",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/XBGAn3"
         },
         {
@@ -787,7 +831,7 @@
             "number": 105,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Reap\u2014{2}{R}: This creature gets +2/+0 until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Reap \u2014 {2}{R}: This creature gets +2/+0 until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i]\u201cVampires are much more hideous on this plane, apparently.\u201d\n\u2014Adler, midnight architect[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -795,6 +839,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Julien Gauthier",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/48Q0Ol"
         },
         {
@@ -813,6 +858,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Anthony Catillaz",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/nYOkor"
         },
         {
@@ -831,6 +877,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Marina Khorosh",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/zAwRYD"
         },
         {
@@ -849,6 +896,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Matias Tapia",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/rzkJ5"
         },
         {
@@ -867,6 +915,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Guillem H Pongiluppi",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3drvqv"
         },
         {
@@ -885,6 +934,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Dmitry Savin",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/bP3An"
         },
         {
@@ -895,7 +945,7 @@
             "number": 104,
             "color_identity": "R",
             "cost": "{4}{R}",
-            "rules_text": "Reach\nReap\u2014{4}{R}: This creature deals 2 damage to each opponent. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Reach\nReap \u2014 {4}{R}: This creature deals 2 damage to each opponent. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -903,6 +953,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Dean Spencer",
+            "alias": "",
             "notes": ""
         },
         {
@@ -921,6 +972,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Chris Cold",
+            "alias": "",
             "notes": ""
         },
         {
@@ -939,6 +991,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Olivia Rea",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/J9KnDn"
         },
         {
@@ -957,6 +1010,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Steph Johnstone",
+            "alias": "",
             "notes": ""
         },
         {
@@ -975,6 +1029,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Sandara Tang",
+            "alias": "",
             "notes": ""
         },
         {
@@ -993,6 +1048,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Tithi Luadthong",
+            "alias": "",
             "notes": "!tag reprint"
         },
         {
@@ -1011,6 +1067,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Chris Knight",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/mVVXE"
         },
         {
@@ -1029,6 +1086,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Aleksander Karcz",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/XnaVPY\n\n!tag reprint"
         },
         {
@@ -1047,6 +1105,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Todd Ulrich",
+            "alias": "",
             "notes": "https://intothebear.artstation.com/projects/aXWzJ"
         },
         {
@@ -1057,7 +1116,7 @@
             "number": 134,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Reap\u2014{3}{G}: Put a +1/+1 counter on this creature. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Reap \u2014 {3}{G}: Put a +1/+1 counter on this creature. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i]The root of all evil.[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1065,6 +1124,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Alex Kuhn",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3qDPlY"
         },
         {
@@ -1083,6 +1143,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Aerozopher",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1101,6 +1162,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Todd Ulrich",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/dOJAbK"
         },
         {
@@ -1119,6 +1181,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Markus Neidel",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3oBLv"
         },
         {
@@ -1137,6 +1200,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Alexey Krestyaninov",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/G8BeZ3"
         },
         {
@@ -1155,6 +1219,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Olga Vishnyakova",
+            "alias": "",
             "notes": "https://intothebear.artstation.com/projects/aXWzJ"
         },
         {
@@ -1173,6 +1238,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Veto Zomer",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/qJL8ge"
         },
         {
@@ -1191,6 +1257,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Anna Podedworna",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/lYoJa"
         },
         {
@@ -1209,6 +1276,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Fedor Titov",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3daOKY?collection_id=617720"
         },
         {
@@ -1227,6 +1295,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Ramza Ardyputra",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/NG0Yv1"
         },
         {
@@ -1245,6 +1314,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/zN86m\n\nMarko Djurdjevic, Andrius Matijosius, Hugo Lam"
         },
         {
@@ -1263,6 +1333,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Helder Almeida",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ybkvQJ\n\n!tag reprint"
         },
         {
@@ -1281,6 +1352,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Allen Douglas",
+            "alias": "",
             "notes": "https://www.pinterest.com/pin/165225880072213261/"
         },
         {
@@ -1291,7 +1363,7 @@
             "number": 202,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "Reap\u2014{4}: This creature gets +2/+2 until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Reap \u2014 {4}: This creature gets +2/+2 until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i]The villagers mocked it during the day. It returned the insult that night.[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -1299,6 +1371,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Todd Ulrich",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/k4dq5y"
         },
         {
@@ -1317,6 +1390,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Diego Rom\u00e1n",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/D5E8Rn"
         },
         {
@@ -1335,6 +1409,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Randy Vargas",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1353,6 +1428,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Yi, Artstation",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/5XJXVz"
         },
         {
@@ -1363,7 +1439,7 @@
             "number": 187,
             "color_identity": "BR",
             "cost": "{B}{R}",
-            "rules_text": "Reap\u2014{1}{B}{R}: Put a +1/+1 counter on this creature. It deals 1 damage to each opponent. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Reap \u2014 {1}{B}{R}: Put a +1/+1 counter on this creature. It deals 1 damage to each opponent. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "",
@@ -1371,6 +1447,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Pavel Yurev",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/eax5Jw"
         },
         {
@@ -1389,6 +1466,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Oleksandr Kozachenko",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/wa8zY"
         },
         {
@@ -1407,6 +1485,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Vera Tihonova",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3XlNJ"
         },
         {
@@ -1425,6 +1504,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Manthos Lappas",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1443,6 +1523,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Aleksandra Alekseeva",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1461,6 +1542,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Bad Moon Art Studio",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1479,6 +1561,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Andy Aslamov",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1497,6 +1580,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Dane Cozens",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1507,7 +1591,7 @@
             "number": 17,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Reap\u2014{3}{W}: Create a 1/1 white Insect creature token with flying. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Reap \u2014 {3}{W}: Create a 1/1 white Insect creature token with flying. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i]\u201cAh, a bountiful harvest.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1515,6 +1599,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Olga Samets",
+            "alias": "",
             "notes": "https://www.deviantart.com/olgasamets/art/Olga-samets-bee-garden-1035918824"
         },
         {
@@ -1533,6 +1618,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Rafater",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1551,6 +1637,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Alessandro Ferrario",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1569,6 +1656,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Ingram Schell",
+            "alias": "",
             "notes": "!tag reprint"
         },
         {
@@ -1587,6 +1675,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Elizabeth Peiro",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1605,6 +1694,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Karina Refrynn",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1623,6 +1713,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Ricardo Herrera",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1633,7 +1724,7 @@
             "number": 51,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Reap\u2014{1}{U}: Draw a card, then discard a card. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Reap \u2014 {1}{U}: Draw a card, then discard a card. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i]\u201cRest assured, no witches will ever come near this town again.\u201d[/i]",
             "pt": "1/3",
             "special_text": "",
@@ -1641,6 +1732,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Randy Vargas",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1659,6 +1751,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Dmitry Dalnev",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1677,6 +1770,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Alexey Rudikov",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1695,6 +1789,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Vo Minh Tuan",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/vJK6QY"
         },
         {
@@ -1713,6 +1808,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Dmitrii Desiatov",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1731,6 +1827,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Diana Franco",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/VQD2g"
         },
         {
@@ -1749,6 +1846,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Mian Kong",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1767,6 +1865,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Benjamin Giletti",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/PmRK0r"
         },
         {
@@ -1785,6 +1884,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Sam Kanios",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1803,6 +1903,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Wesley Gardner",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/L39k2v"
         },
         {
@@ -1821,6 +1922,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Julia Metzger",
+            "alias": "",
             "notes": "https://cara.app/post/9ffd1a86-3698-4749-997a-c4b3f0252942"
         },
         {
@@ -1839,6 +1941,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Olie Boldador",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/xJrrZE"
         },
         {
@@ -1849,7 +1952,7 @@
             "number": 72,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "Menace\nReap\u2014{3}{B}: Target opponent loses 3 life unless they sacrifice a nonland permanent of their choice or discard a card. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Menace\nReap \u2014 {3}{B}: Target opponent loses 3 life unless they sacrifice a nonland permanent of their choice or discard a card. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -1857,6 +1960,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Lei Min",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1875,6 +1979,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Boris Groh",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/oL2yB"
         },
         {
@@ -1893,6 +1998,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Charlie Bowater",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/or4bz"
         },
         {
@@ -1911,6 +2017,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Linda Lith\u00e9n",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ykXBg9\n\n\n\nhttps://lindalithenart.com/4czrb6s0jvz4mms0eu7q2kqz5z3uzs"
         },
         {
@@ -1929,6 +2036,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Diana Khomutina",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/rRAnJJ"
         },
         {
@@ -1939,7 +2047,7 @@
             "number": 115,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
-            "rules_text": "Flying\nReap\u2014{1}{R}: This creature deals 1 damage to any target. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Flying\nReap \u2014 {1}{R}: This creature deals 1 damage to any target. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -1947,6 +2055,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Alaiaorax",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1965,6 +2074,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Matias Tapia",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/9erEER"
         },
         {
@@ -1983,6 +2093,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Huyy Nguyen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2001,6 +2112,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Jaan van Eeden",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2019,6 +2131,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Sapphhyra",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2029,7 +2142,7 @@
             "number": 101,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Reap\u2014{3}{R}: Put a +1/+1 counter on this creature. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]\nWhen this creature dies, it deals damage equal to its power to any target.",
+            "rules_text": "Reap \u2014 {3}{R}: Put a +1/+1 counter on this creature. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]\nWhen this creature dies, it deals damage equal to its power to any target.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2037,6 +2150,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Marion Curnier",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/B3E1KA"
         },
         {
@@ -2055,6 +2169,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Remko Troost",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2065,7 +2180,7 @@
             "number": 146,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "Trample\nReap\u2014{4}{G}: Put two +1/+1 counters on this creature. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Trample\nReap \u2014 {4}{G}: Put two +1/+1 counters on this creature. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -2073,6 +2188,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Lorenzo Mastroianni",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/RdV1m"
         },
         {
@@ -2091,6 +2207,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Hannah Elizabeth",
+            "alias": "",
             "notes": "https://twitter.com/HannalahB/status/1748733680745402845/photo/2"
         },
         {
@@ -2109,6 +2226,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Henry Peters",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/8nwlO"
         },
         {
@@ -2127,6 +2245,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Jane Katsubo",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/E2GE2"
         },
         {
@@ -2145,6 +2264,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Rio Sabda",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/PKnLZ"
         },
         {
@@ -2163,6 +2283,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Iain Miki",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2181,6 +2302,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Ekaterina Burmak",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/RWBnO"
         },
         {
@@ -2199,6 +2321,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Julian Bauer",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2209,7 +2332,7 @@
             "number": 10,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Reap\u2014{2}{W}{W}: Put a +1/+1 counter on each of up to two target creatures. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Reap \u2014 {2}{W}{W}: Put a +1/+1 counter on each of up to two target creatures. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2217,6 +2340,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Helena Nikulina",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/8lXGXw"
         },
         {
@@ -2235,6 +2359,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Jihoon Park",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2253,6 +2378,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "kristyglas",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Kr3X89"
         },
         {
@@ -2271,6 +2397,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2289,6 +2416,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Olha Pankiv",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2307,6 +2435,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Eelis Kyttanen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2325,6 +2454,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Bing Image Generator",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2343,6 +2473,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Justine Cruz",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2353,7 +2484,7 @@
             "number": 48,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "Reap\u2014{3}{U}: You may cast an instant or sorcery spell from your hand without paying its mana cost. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Reap \u2014 {3}{U}: You may cast an instant or sorcery spell from your hand without paying its mana cost. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2361,6 +2492,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Leanna Crossan",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2379,6 +2511,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Mark Erskine",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2397,6 +2530,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Mark Erskine",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/8lYAO"
         },
         {
@@ -2415,6 +2549,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2425,7 +2560,7 @@
             "number": 88,
             "color_identity": "B",
             "cost": "{4}{B}{B}{B}",
-            "rules_text": "Ward\u2014Pay 7 life.\nReap\u2014{3}{B}{B}: Search your library for a card, put it into your hand, then shuffle. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Ward\u2014Pay 7 life.\nReap \u2014 {3}{B}{B}: Search your library for a card, put it into your hand, then shuffle. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i]\u201cIt will attempt to bend you to its will. That's why you must strike first.\u201d\n\u2014The Great Witch[/i]",
             "pt": "7/7",
             "special_text": "",
@@ -2433,6 +2568,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Diana Franco",
+            "alias": "",
             "notes": "Franco: https://www.artstation.com/artwork/zAEVd6\n\nBurke: https://www.artstation.com/artwork/xJGNAW"
         },
         {
@@ -2451,6 +2587,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Bruna Richter",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2469,6 +2606,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Yuri Chuchmay",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3qLeYv"
         },
         {
@@ -2487,6 +2625,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Oleksandr Kozachenko",
+            "alias": "",
             "notes": "Eyes: https://www.artstation.com/artwork/D5dRwy\n\nSpider: https://www.artstation.com/artwork/qvOwR"
         },
         {
@@ -2505,6 +2644,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Simon Fetscher",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2523,6 +2663,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "AlsaresLynx, DeviantArt",
+            "alias": "",
             "notes": "https://www.deviantart.com/alsareslynx/art/Nightmare-770631805"
         },
         {
@@ -2541,6 +2682,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Zakuga Mignon",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/XBq2Wn\n\nhttps://cara.app/post/500935b1-84c5-4d1d-ab8c-6bad13005ddc"
         },
         {
@@ -2559,6 +2701,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Dakota Curry",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/q9KLJa"
         },
         {
@@ -2577,6 +2720,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Donato Giancola",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2595,6 +2739,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Alexandr Leskinen",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2613,6 +2758,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Efaru",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2631,6 +2777,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2649,6 +2796,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Alexandr Leskinen",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/L29z95"
         },
         {
@@ -2667,6 +2815,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Kanzio, DeviantArt",
+            "alias": "",
             "notes": "https://www.deviantart.com/kanizo/art/Starborn-935187111"
         },
         {
@@ -2685,6 +2834,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Thomas Siagian",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2703,6 +2853,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Anato Finnstark",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2713,7 +2864,7 @@
             "number": 116,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nReap\u2014{3}{R}: Discard your hand, then draw two cards. [i](Activate this ability only once each turn as a sorcery. It costs {0} if a creature died this turn.)[/i]",
+            "rules_text": "Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nReap \u2014 {3}{R}: Discard your hand, then draw two cards. [i](Activate this ability only once each turn as a sorcery. It costs {0} if a creature died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2721,6 +2872,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Adam Duff",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2739,6 +2891,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Joel Pigou",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/aYkl89"
         },
         {
@@ -2757,6 +2910,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Khurrum M",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2767,7 +2921,7 @@
             "number": 136,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "Ward {2}\nOther Oozes you control have ward {2}.\nReap\u2014{3}{G}: Create a 3/3 green Ooze creature token. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Ward {2}\nOther Oozes you control have ward {2}.\nReap \u2014 {3}{G}: Create a 3/3 green Ooze creature token. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i]Don't bother with trying to outrun it.[/i]",
             "pt": "5/5",
             "special_text": "",
@@ -2775,6 +2929,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Guillaume Ducos",
+            "alias": "",
             "notes": "https://www.deviantart.com/tituslunter/art/Gelatinous-Terror-512570019\n\nhttps://www.artstation.com/artwork/3oBNOY"
         },
         {
@@ -2793,6 +2948,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Serge Tsvelykh",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/n0J8LK"
         },
         {
@@ -2811,6 +2967,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Mark Erskine",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2829,6 +2986,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Michael MacRae",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/oAWdDw"
         },
         {
@@ -2847,6 +3005,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Alexey Kruglov",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/39QQ0A"
         },
         {
@@ -2865,6 +3024,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "lei min",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/woA0g"
         },
         {
@@ -2875,7 +3035,7 @@
             "number": 163,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
-            "rules_text": "",
+            "rules_text": "[+1]: Up to one target creature you control gets +2/+0 and can't be blocked this turn. At the beginning of your end step, return it to its owner's hand.\n[-2]: Discard your hand, then draw X cards, where X is the number of spells you've cast this turn.\n[-6]: You get an emblem with \u201cYou may cast spells with mana value 3 or less without paying their mana costs.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Up to one target creature you control gets +2/+0 and can't be blocked this turn. At the beginning of your end step, return it to its owner's hand.\n[-2]: Discard your hand, then draw X cards, where X is the number of spells you've cast this turn.\n[-6]: You get an emblem with \u201cYou may cast spells with mana value 3 or less without paying their mana costs.\u201d",
@@ -2883,6 +3043,7 @@
             "set": "MOX",
             "loyalty": "3",
             "artist": "Elin Tan",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2893,7 +3054,7 @@
             "number": 164,
             "color_identity": "WUB",
             "cost": "{W}{U}{B}",
-            "rules_text": "",
+            "rules_text": "[+1]: Exile up to one other permanent you control until Aminatou leaves the battlefield.\n[0]: Return each permanent card exiled with Aminatou to the battlefield under your control. You gain life equal to their total mana value.\n[-X]: Exile target nontoken creature with mana value X or less.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Exile up to one other permanent you control until Aminatou leaves the battlefield.\n[0]: Return each permanent card exiled with Aminatou to the battlefield under your control. You gain life equal to their total mana value.\n[-X]: Exile target nontoken creature with mana value X or less.",
@@ -2901,6 +3062,7 @@
             "set": "MOX",
             "loyalty": "3",
             "artist": "Reginaldo Pereira",
+            "alias": "",
             "notes": "https://sanjinhalimic.com/projects/KaA9gr?album_id=1767358\n\nhttps://www.artstation.com/artwork/GeKQl3"
         },
         {
@@ -2919,6 +3081,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Stu Harrington",
+            "alias": "",
             "notes": ""
         },
         {
@@ -2937,6 +3100,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "gratshnag",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/18rOzL"
         },
         {
@@ -2955,6 +3119,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Jake Ortman",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/8eWL1E"
         },
         {
@@ -2973,6 +3138,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Mauro Cerati",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/WK4E5E"
         },
         {
@@ -2983,14 +3149,15 @@
             "number": 174,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
-            "rules_text": "",
+            "rules_text": "Reap \u2014 {2}{B}{G}: You may activate Jack's loyalty abilities twice this turn rather than once. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]\n[+1]: Mill two cards, then you may return a land card from your graveyard to your hand.\n[-2]: You may discard a creature card. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.\n[-5]: Return target creature card from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Reap\u2014{2}{B}{G}: You may activate Jack's loyalty abilities twice this turn rather than once. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]\n[+1]: Mill two cards, then you may return a land card from your graveyard to your hand.\n[-2]: You may discard a creature card. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.\n[-5]: Return target creature card from your graveyard to the battlefield.",
+            "special_text": "Reap \u2014 {2}{B}{G}: You may activate Jack's loyalty abilities twice this turn rather than once. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]\n[+1]: Mill two cards, then you may return a land card from your graveyard to your hand.\n[-2]: You may discard a creature card. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.\n[-5]: Return target creature card from your graveyard to the battlefield.",
             "shape": "planeswalker",
             "set": "MOX",
             "loyalty": "4",
             "artist": "Zhuoxin Ye",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/W22VQN"
         },
         {
@@ -3009,6 +3176,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Brian Valeza",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/58lDRW\n\n!tag reprint"
         },
         {
@@ -3027,6 +3195,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Romain Kurdi",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/9Nxoly"
         },
         {
@@ -3045,6 +3214,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Max Hugo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3063,6 +3233,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Leanna Crossan",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3081,6 +3252,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Benoit Bourgerie",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3091,7 +3263,7 @@
             "number": 204,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\nReap\u2014{3}: This land becomes a 2/3 Nightmare creature with menace until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "{T}: Add {C}.\nReap \u2014 {3}: This land becomes a 2/3 Nightmare creature with menace until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3099,6 +3271,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Denis Zhbankov",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Le4GLr\n\nhttps://www.deviantart.com/sandara/art/Walking-House-728133719"
         },
         {
@@ -3117,6 +3290,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Sanjin Halmic",
+            "alias": "",
             "notes": "https://www.hipstersofthecoast.com/2020/06/mirror-gallery-interview-with-sanjin-halimic/"
         },
         {
@@ -3127,7 +3301,7 @@
             "number": 196,
             "color_identity": "C",
             "cost": "{4}",
-            "rules_text": "Whenever another creature you control dies, this Vehicle deals 1 damage to each opponent.\nReap\u2014{2}: This Vehicle becomes an artifact creature until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Whenever another creature you control dies, this Vehicle deals 1 damage to each opponent.\nReap \u2014 {2}: This Vehicle becomes an artifact creature until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -3135,6 +3309,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Henry Peters",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/olgDw"
         },
         {
@@ -3145,7 +3320,7 @@
             "number": 203,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "Flying, defender\nReap\u2014{4}: This creature can attack this turn as though it didn't have defender. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Flying, defender\nReap \u2014 {4}: This creature can attack this turn as though it didn't have defender. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3153,6 +3328,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Alen Rocha",
+            "alias": "",
             "notes": "https://www.artstation.com/triximity"
         },
         {
@@ -3163,7 +3339,7 @@
             "number": 193,
             "color_identity": "C",
             "cost": "{1}",
-            "rules_text": "Equipped creature gets +1/+1 and can't be blocked by creatures with flying.\nReap\u2014{2}: Attach this Equipment to target creature you control. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Equipped creature gets +1/+1 and can't be blocked by creatures with flying.\nReap \u2014 {2}: Attach this Equipment to target creature you control. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3171,6 +3347,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Stacie Pitt",
+            "alias": "",
             "notes": "https://staciepitt.com/#/vengefuldeserter/"
         },
         {
@@ -3189,6 +3366,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Anato Finnstark",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3207,6 +3385,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Mark Erskine",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3217,7 +3396,7 @@
             "number": 149,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Each other creature you control that's a Plant, Fungus, Saproling, or Treefolk gets +1/+1.\nReap\u2014{2}{G}: Exile three other cards from your graveyard. When you do, return this card from your graveyard to your hand. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Each other creature you control that's a Plant, Fungus, Saproling, or Treefolk gets +1/+1.\nReap \u2014 {2}{G}: Exile three other cards from your graveyard. When you do, return this card from your graveyard to your hand. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3225,6 +3404,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Michael Bakker",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3243,6 +3423,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Mark Erskine",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3261,6 +3442,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Mark Erskine",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3279,6 +3461,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Mark Erskine",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/X10OEn"
         },
         {
@@ -3297,6 +3480,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Mark Erskine",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3315,6 +3499,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Mark Erskine",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3333,6 +3518,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Armando Ayala",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3351,6 +3537,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Nozomi Matsuoka",
+            "alias": "",
             "notes": "https://cara.app/post/ddfc45a6-2dd6-4c73-ac7c-8d9936ceff35"
         },
         {
@@ -3369,6 +3556,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Marco Gonzalez",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ybkvQJ"
         },
         {
@@ -3387,6 +3575,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Alexander Yakovlev",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/8wmlPG?collection_id=1660972"
         },
         {
@@ -3405,6 +3594,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Anna Podedworna",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3423,6 +3613,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Andrea Piparo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3441,6 +3632,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Sam Kanios",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3459,6 +3651,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "KilartDev",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3477,6 +3670,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Paolo Puggioni",
+            "alias": "",
             "notes": "!tag reprint"
         },
         {
@@ -3495,6 +3689,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Ihor Sapehyn",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3513,6 +3708,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Diego Novanim Zuniga",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3531,6 +3727,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Keffolo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3549,6 +3746,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "SixMoreVodka",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3567,6 +3765,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Roman Semenenko",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3577,7 +3776,7 @@
             "number": 67,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Whenever another nontoken creature you control dies, you draw a card and lose 1 life.\nReap\u2014{2}{B}{B}: Target creature gains flying, deathtouch, and lifelink until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
+            "rules_text": "Whenever another nontoken creature you control dies, you draw a card and lose 1 life.\nReap \u2014 {2}{B}{B}: Target creature gains flying, deathtouch, and lifelink until end of turn. [i](Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -3585,6 +3784,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Jan Drenovec",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3603,6 +3803,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Nuha Notion",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/9mylNR"
         },
         {
@@ -3621,6 +3822,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Nuha Notion",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/GaeOKQ"
         },
         {
@@ -3639,6 +3841,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Nuha Notion",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/oAAzek"
         },
         {
@@ -3657,6 +3860,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Nuha Notion",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/WKq2Ly\n\nhttps://www.deviantart.com/nuhanotion/art/Rise-of-the-Legend-881497723"
         },
         {
@@ -3675,6 +3879,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Nuha Notion",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3693,6 +3898,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Irina Nordsol (Extended)",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3711,6 +3917,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Maruo Belfiore",
+            "alias": "",
             "notes": "!exportname Human (1)"
         },
         {
@@ -3729,6 +3936,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Jaan van Eeden",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/L2nYBv"
         },
         {
@@ -3747,6 +3955,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Boris Groh",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3oz2vA"
         },
         {
@@ -3765,6 +3974,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Marthe Jonkers",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/LJxw"
         },
         {
@@ -3783,6 +3993,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Olivia Hintz",
+            "alias": "",
             "notes": "https://www.oliviahintz.com/keyleth"
         },
         {
@@ -3801,6 +4012,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Leonardo Giordano",
+            "alias": "",
             "notes": "\nhttps://www.artstation.com/artwork/Vgklmg\n\nhttps://www.artstation.com/artwork/L4O26r"
         },
         {
@@ -3819,6 +4031,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "NekoKawaiiNya, DeviantArt",
+            "alias": "",
             "notes": "https://www.deviantart.com/nekokawaiinya/art/arctic-wolf-254549084\n\n!exportname Wolf Token (M20)"
         },
         {
@@ -3837,6 +4050,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Matt Hansen (Extended)",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3855,6 +4069,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Imad Awan",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3873,6 +4088,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Conor Burke",
+            "alias": "",
             "notes": "!exportname Demon (M20)"
         },
         {
@@ -3891,6 +4107,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Roman Dubina",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3909,6 +4126,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Bing Image Generator",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3927,6 +4145,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Mike Pape",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ERX28\n\nhttps://www.artstation.com/artwork/1QNzG?collection_id=2574899\n\nhttps://www.mikepape.com/yumog-the-cave-master"
         },
         {
@@ -3945,6 +4164,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Amelia Poltoracka",
+            "alias": "",
             "notes": ""
         },
         {
@@ -3963,6 +4183,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Alvaro Jimenez",
+            "alias": "",
             "notes": "https://cara.app/post/5670e563-d89a-4c01-9cf5-93a75d1994cd"
         },
         {
@@ -3981,6 +4202,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Juliya Zhukova",
+            "alias": "",
             "notes": "https://fineartamerica.com/featured/bumblebee-juliya-zhukova.html?product=acrylic-print"
         },
         {
@@ -3999,6 +4221,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Mike Pape",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4017,6 +4240,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Jake Ortman",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/nQz4PE"
         },
         {
@@ -4035,6 +4259,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Humble Squid Creatives",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/BkaE66?collection_id=1660972"
         },
         {
@@ -4053,6 +4278,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Elin Tan",
+            "alias": "",
             "notes": "!exportname Adler, Midnight Architect Emblem"
         },
         {
@@ -4071,6 +4297,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Diana Khomutina",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/v1ZOad"
         },
         {
@@ -4089,6 +4316,7 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Daniel Correia",
+            "alias": "",
             "notes": ""
         },
         {
@@ -4107,8 +4335,9 @@
             "set": "MOX",
             "loyalty": "",
             "artist": "Eelis Kyttanen",
+            "alias": "",
             "notes": "!exportname Human (2)"
         }
     ],
-    "version": 2
+    "version": 3
 }

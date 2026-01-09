@@ -81,11 +81,6 @@
             "formats": ""
         },
         {
-            "set_code": "MRV",
-            "set_name": "Marvel Comics: The Cosmic Cube",
-            "formats": ""
-        },
-        {
             "set_code": "NJB",
             "set_name": "Nangjiao in Bloom",
             "formats": "standard"
@@ -128,11 +123,6 @@
         {
             "set_code": "X24",
             "set_name": "Moxtober 2024",
-            "formats": ""
-        },
-        {
-            "set_code": "X25",
-            "set_name": "Moxtober 2025",
             "formats": ""
         }
     ]
