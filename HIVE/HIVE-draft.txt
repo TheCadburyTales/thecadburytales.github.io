@@ -1446,9 +1446,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature – Angel Warrior",
-			"collector_number": "4",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/ICO-files/img/270.png"
+				"en": "https://thecadburytales.github.io/sets/GQC-files/img/44_Rivha, Heiress of Pinions.jpg"
 			}
 		},
 		{
