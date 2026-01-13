@@ -196,7 +196,7 @@ def generateHTML(codes):
 
 	html_content += '''
 	<div class="button-grid">
-		<div class="select-text"><div class="results-text" id="results-text">Loading ...</div>Cards displayed as<select name="display" id="display"><option value="cards-only">Cards Only</option><option value="cards-text">Cards + Text</option></select>sorted by<select name="sort-by" id="sort-by"><option value="name">Name</option><option value="set-code">Set / Number</option><option value="mv">Mana Value</option><option value="color">Color</option><option value="rarity">Rarity</option><option value="cube">Cube</option></select> : <select name="sort-order" id="sort-order"><option value="ascending">Asc</option><option value="descending">Desc</option></select></div>		
+		<div class="select-text"><div class="results-text" id="results-text">Loading ...</div>Cards displayed as<select name="display" id="display"><option value="cards-only">Cards Only</option><option value="cards-text">Cards + Text</option></select>sorted by<select name="sort-by" id="sort-by"><option value="name">Name</option><option value="set-code">Set / Number</option><option value="mv">Mana Value</option><option value="color">Color</option><option value="rarity">Rarity</option><option value="cube">Cube</option><option value="random">Random</option></select> : <select name="sort-order" id="sort-order"><option value="ascending">Asc</option><option value="descending">Desc</option></select></div>		
 		<div class="prev-next-btns">
 			<button type="submit" onclick="previousPage()" id="prevBtn" disabled>< Previous</button>
 			<button type="submit" onclick="nextPage()" id="nextBtn">Next 30 ></button>
@@ -312,8 +312,27 @@ def generateHTML(codes):
 	#F: Alas, I don't know how to incorporate this into the search, so I will leave that up to other people.
 	html_content += '''
 
+		function shuffle(array) {
+			let currentIndex = array.length;
+
+			while (currentIndex != 0) {
+			    let randomIndex = Math.floor(Math.random() * currentIndex);
+			    currentIndex--;
+
+			    [array[currentIndex], array[randomIndex]] = [
+			    	array[randomIndex], array[currentIndex]];
+			  }
+		}
+
 		function preSearch(setNewState) {
-			card_list_arrayified.sort(compareFunction);
+			if (document.getElementById("sort-by").value == "random")
+			{
+				shuffle(card_list_arrayified);
+			}
+			else
+			{
+				card_list_arrayified.sort(compareFunction);			
+			}
 			if (document.getElementById("sort-order").value == "descending")
 			{
 				card_list_arrayified.reverse();
