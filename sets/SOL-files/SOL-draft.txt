@@ -448,7 +448,7 @@
 			"type": "Token Artifact — Blood",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/SOL-files/img/9_Blood.png"
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/9t_Blood.png"
 			}
 		},
 		{
@@ -1416,7 +1416,7 @@
 			"type": "Token Creature — Vampire Dragon",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/SOL-files/img/7_Vampire Dragon.png"
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/7t_Vampire Dragon.png"
 			}
 		},
 		{
@@ -1826,7 +1826,7 @@
 			"type": "Token Artifact Creature — Soldier",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/SOL-files/img/12_Soldier.png"
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/12t_Soldier.png"
 			}
 		},
 		{
@@ -1896,7 +1896,7 @@
 			"type": "Token Creature — Knight",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/SOL-files/img/2_Knight.png"
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/2t_Knight.png"
 			}
 		},
 		{
@@ -1906,7 +1906,7 @@
 			"type": "Token Artifact Creature — Golem",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/SOL-files/img/10_Golem.png"
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/10t_Golem.png"
 			}
 		},
 		{
@@ -2726,7 +2726,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/SOL-files/img/3_Zombie.png"
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/3t_Zombie.png"
 			}
 		},
 		{
@@ -2736,7 +2736,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/SOL-files/img/13_Treasure.png"
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/13t_Treasure.png"
 			}
 		},
 		{
@@ -2746,7 +2746,7 @@
 			"type": "Token Artifact",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/SOL-files/img/8_Black Lotus.png"
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/8t_Black Lotus.png"
 			}
 		},
 		{
@@ -2756,7 +2756,7 @@
 			"type": "Token Creature — Dragon",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/SOL-files/img/4_Dragon.png"
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/4t_Dragon.png"
 			}
 		},
 		{
@@ -2766,7 +2766,7 @@
 			"type": "Token Creature — Warrior",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/SOL-files/img/5_Warrior.png"
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/5t_Warrior.png"
 			}
 		},
 		{
@@ -2776,7 +2776,7 @@
 			"type": "Token Artifact Land — Wastes",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/SOL-files/img/11_Iron Wastes.png"
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/11t_Iron Wastes.png"
 			}
 		},
 		{
@@ -2786,7 +2786,7 @@
 			"type": "Token Creature — Angel",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/SOL-files/img/1_Angel.png"
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/1t_Angel.png"
 			}
 		},
 		{
@@ -2796,7 +2796,7 @@
 			"type": "Token Creature — Angel Demon",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/SOL-files/img/6_Angel Demon.png"
+				"en": "https://thecadburytales.github.io/sets/SOL-files/img/6t_Angel Demon.png"
 			}
 		},
 		{

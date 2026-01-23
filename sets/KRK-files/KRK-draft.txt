@@ -2387,7 +2387,7 @@
 			"type": "Token Creature — Kraken",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/8_Kraken.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/8t_Kraken.png"
 			}
 		},
 		{
@@ -2397,7 +2397,7 @@
 			"type": "Token Creature — Serpent",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/17_Serpent.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/17t_Serpent.png"
 			}
 		},
 		{
@@ -2407,7 +2407,7 @@
 			"type": "Token Reminder",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/19_On An Adventure.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/19t_On An Adventure.png"
 			}
 		},
 		{
@@ -2417,7 +2417,7 @@
 			"type": "Token Artifact Creature — Construct",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/20_Construct.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/20t_Construct.png"
 			}
 		},
 		{
@@ -2427,7 +2427,7 @@
 			"type": "Token Legendary Artifact",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/21_Daring Adventures.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/21t_Daring Adventures.png"
 			}
 		},
 		{
@@ -2437,7 +2437,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/22_Treasure.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/22t_Treasure.png"
 			}
 		},
 		{
@@ -2447,7 +2447,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/24_Weapon.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/24t_Weapon.png"
 			}
 		},
 		{
@@ -2457,7 +2457,7 @@
 			"type": "Token Artifact — Vehicle",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/23_Vehicle.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/23t_Vehicle.png"
 			}
 		},
 		{
@@ -2587,7 +2587,7 @@
 			"type": "Token Land",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/25_Everywhere.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/25t_Everywhere.png"
 			}
 		},
 		{
@@ -2627,7 +2627,7 @@
 			"type": "Token Creature — Shark",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/18_Shark.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/18t_Shark.png"
 			}
 		},
 		{
@@ -2677,7 +2677,7 @@
 			"type": "Token Creature — Scout",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/2_Scout.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/2t_Scout.png"
 			}
 		},
 		{
@@ -2687,7 +2687,7 @@
 			"type": "Token Creature — Soldier",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/3_Soldier.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/3t_Soldier.png"
 			}
 		},
 		{
@@ -2697,7 +2697,7 @@
 			"type": "Token Creature — Soldier Army",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/4_Soldier Army.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/4t_Soldier Army.png"
 			}
 		},
 		{
@@ -2707,7 +2707,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/5_Spirit.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/5t_Spirit.png"
 			}
 		},
 		{
@@ -2717,7 +2717,7 @@
 			"type": "Token",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/1_Copy.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/1t_Copy.png"
 			}
 		},
 		{
@@ -2727,7 +2727,7 @@
 			"type": "Token Creature — Drake",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/6_Drake.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/6t_Drake.png"
 			}
 		},
 		{
@@ -2737,7 +2737,7 @@
 			"type": "Token Creature — Fish",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/7_Fish.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/7t_Fish.png"
 			}
 		},
 		{
@@ -2747,7 +2747,7 @@
 			"type": "Token Creature — Octopus",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/9_Octopus.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/9t_Octopus.png"
 			}
 		},
 		{
@@ -2757,7 +2757,7 @@
 			"type": "Token Creature — Tentacle",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/10_Tentacle.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/10t_Tentacle.png"
 			}
 		},
 		{
@@ -2787,7 +2787,7 @@
 			"type": "Token Creature — Pirate",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/11_Pirate Token A (M20).png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/11t_Pirate Token A (M20).png"
 			}
 		},
 		{
@@ -2797,7 +2797,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/14_Zombie.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/14t_Zombie.png"
 			}
 		},
 		{
@@ -2807,7 +2807,7 @@
 			"type": "Token Creature — Dragon",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/15_Dragon.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/15t_Dragon.png"
 			}
 		},
 		{
@@ -2817,7 +2817,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/16_Elemental.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/16t_Elemental.png"
 			}
 		},
 		{
@@ -2827,7 +2827,7 @@
 			"type": "Token Creature — Pirate",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/12_Pirate Token B (M20).png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/12t_Pirate Token B (M20).png"
 			}
 		},
 		{
@@ -2837,7 +2837,7 @@
 			"type": "Token Creature — Pirate",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/13_Pirate Token B (M20).png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/13t_Pirate Token B (M20).png"
 			}
 		},
 		{
@@ -2977,7 +2977,7 @@
 			"type": "Emblem",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/27_Lilith, Seafaring Scribe Emblem.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/27t_Lilith, Seafaring Scribe Emblem.png"
 			}
 		},
 		{
@@ -2987,7 +2987,7 @@
 			"type": "Emblem",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KRK-files/img/26_Kiora, Voice of the Deep Emblem.png"
+				"en": "https://thecadburytales.github.io/sets/KRK-files/img/26t_Kiora, Voice of the Deep Emblem.png"
 			}
 		}
 	]

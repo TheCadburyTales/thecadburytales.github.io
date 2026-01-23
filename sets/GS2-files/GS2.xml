@@ -1,0 +1,770 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>GS2</name>
+			<longname>Global Series 2</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-23</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Saskia, Battlesworn Survivor</name>
+			<text>Double strike
+Whenever Saskia attacks, target attacking creature with lesser power gains double strike until end of turn.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/GS2-files/img/27_Saskia, Battlesworn Survivor.png" num="27">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Licia, Merciless Reaper</name>
+			<text>Lifelink
+Whenever a creature dies, put a +1/+1 counter on Licia. This ability triggers only once each turn.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/GS2-files/img/25_Licia, Merciless Reaper.png" num="25">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sylvan Ranger</name>
+			<text>When this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/23_Sylvan Ranger.png" num="23">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Scout Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rallying Strike</name>
+			<text>Create two 1/1 red Warrior creature tokens. When you do, Rallying Strike deals damage equal to the number of creatures you control to target creature or planeswalker an opponent controls.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/GS2-files/img/17_Rallying Strike.png" num="17">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reclamation Sage</name>
+			<text>When this creature enters, you may destroy target artifact or enchantment.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/GS2-files/img/22_Reclamation Sage.png" num="22">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cragheart Marauder</name>
+			<text>Trample
+Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/13_Cragheart Marauder.png" num="13">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Torrential Kelpie</name>
+			<text>Haste
+When this creature enters, choose up to one target creature you don&apos;t control.
+The chosen creature blocks this creature each combat if able.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/GS2-files/img/28_Torrential Kelpie.png" num="28">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arena Gladiator</name>
+			<text>When this creature dies, create a 1/1 black Rat creature token.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/4_Arena Gladiator.png" num="4">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanguine Senator</name>
+			<text>When this creature enters, create a 1/1 white Soldier creature token.
+Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/GS2-files/img/26_Sanguine Senator.png" num="26">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/35_Forest.png" num="35">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/34_Mountain.png" num="34">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Memento Mori</name>
+			<text>Until end of turn, if a creature dying causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+Destroy all creatures.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/GS2-files/img/8_Memento Mori.png" num="8">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bloodguard Legionnaire</name>
+			<text>When this creature enters, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature and draw a card.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/6_Bloodguard Legionnaire.png" num="6">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Benevolent Leprechaun</name>
+			<text>When this creature enters, choose one—
+• Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
+• You gain 4 life.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/19_Benevolent Leprechaun.png" num="19">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Saskia&apos;s Firebrand</name>
+			<text>{2}{R}: This creature gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/18_Saskia&apos;s Firebrand.png" num="18">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thunderhoof Cavalry</name>
+			<text>Trample
+When this creature enters, creatures you control get +1/+1 and gain trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/GS2-files/img/24_Thunderhoof Cavalry.png" num="24">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prince of Barrowblades</name>
+			<text>Whenever this creature enters or attacks, exile target card from a graveyard. If you exiled a creature card this way, create a tapped 1/1 red Warrior creature token.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/GS2-files/img/21_Prince of Barrowblades.png" num="21">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/32_Plains.png" num="32">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/33_Swamp.png" num="33">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Firebrand&apos;s Frenzy</name>
+			<text>Choose one—
+• Target attacking creature gets +3/+0 and gains trample until end of turn.
+• Firebrand&apos;s Frenzy deals 3 damage to target creature or planeswalker.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/15_Firebrand&apos;s Frenzy.png" num="15">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Defiant Spearthrower</name>
+			<text>Reach
+{4}{R}: This creature deals 2 damage to target player or planeswalker.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/14_Defiant Spearthrower.png" num="14">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aquilian Ballista</name>
+			<text>Sacrifice a creature: Until end of turn, this Vehicle becomes an artifact creature and gains menace.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/GS2-files/img/29_Aquilian Ballista.png" num="29">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Raise the Alarm</name>
+			<text>Create two 1/1 white Soldier creature tokens.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/3_Raise the Alarm.png" num="3">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blood Begets Blood</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Destroy target creature or planeswalker.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/5_Blood Begets Blood.png" num="5">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Brazier Officiant</name>
+			<text>When this creature enters, draw a card.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/1_Brazier Officiant.png" num="1">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Licia&apos;s Lieutenant</name>
+			<text>Deathtouch
+When this creature enters, create a 1/1 white Soldier creature token.
+Other Soldiers you control have deathtouch.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/GS2-files/img/7_Licia&apos;s Lieutenant.png" num="7">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Purifying Zealot</name>
+			<text>{1}, Sacrifice this creature: Choose one—
+• Destroy target artifact.
+• Destroy target enchantment.
+• Exile target card from a graveyard.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/2_Purifying Zealot.png" num="2">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scheming Confidants</name>
+			<text>At the beginning of your end step, choose up to X, where X is the number of creatures that died this turn. (You can&apos;t choose the same mode more than once.)
+• You draw a card and you lose 1 life.
+• Each opponent discards a card.
+• Create a Treasure token.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/GS2-files/img/10_Scheming Confidants.png" num="10">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Saskia&apos;s Cealish Clans GS2</name>
+			<text>[b]Rare/Mythic (2)[/b]
+• 1x Saskia, Battlesworn Survivor
+• 1x Hillback Ollipheist
+[b]Uncommon (6)[/b]
+• 2x Rallying Strike
+• 2x Thunderhoof Cavalry
+• 2x Torrential Kelpie
+[b]Common (16)[/b]
+• 4x Sylvan Ranger
+• 4x Benevolent Leprechaun
+• 3x Cragheart Marauder
+• 2x Saskia&apos;s Firebrand
+• 3x Firebrand&apos;s Frenzy
+Basic and Common Lands (16)[/b]
+• 8x Forest
+• 5x Mountain
+• 3x Rugged Highlands</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/2t_Saskia&apos;s Cealish Clans.png" num="2">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Licia&apos;s Aquilan Legions GS2</name>
+			<text>[b]Rare/Mythic (2)[/b]
+• 1x Licia, Merciless Reaper
+• 1x Memento Mori
+[b]Uncommon (6)[/b]
+• 2x Sanguine Senator
+• 2x Scheming Confidants
+• 1x Aquilian Ballista
+• 1x Licia&apos;s Lieutenant
+[b]Common (15)[/b]
+• 4x Arena Gladiator
+• 2x Brazier Officiant
+• 2x Bloodguard Legionnaire
+• 3x Raise the Alarm
+• 4x Blood Begets Blood
+[b]Basic and Common Lands (17)[/b]
+• 9x Swamp
+• 5x Plains
+• 3x Scoured Barrens</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/1t_Licia&apos;s Aquilan Legions.png" num="1">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Spoils of the Arena</name>
+			<text>When this enchantment enters, all creatures get -2/-2 until end of turn.
+Whenever a creature you control dies, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/GS2-files/img/11_Spoils of the Arena.png" num="11">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tormenting Tribune</name>
+			<text>When this creature enters, target opponent reveals their hand, then you choose a noncreature, nonland card name.
+Whenever an opponent casts a spell with the chosen name, they lose 3 life unless they sacrifice a nonland permanent or discard a card.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/GS2-files/img/12_Tormenting Tribune.png" num="12">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rugged Highlands</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/30_Rugged Highlands.png" num="30">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Scoured Barrens</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/31_Scoured Barrens.png" num="31">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Relentless March</name>
+			<text>Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Create a 1/1 white Soldier creature token.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/9_Relentless March.png" num="9">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Soldier GS2</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/3t_Soldier.png" num="3">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Rat GS2</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/4t_Rat.png" num="4">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Rat</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Warrior GS2</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/5t_Warrior.png" num="5">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure GS2</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/7t_Treasure.png" num="7">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Fobhar&apos;s Fury</name>
+			<text>Choose one—
+• Up to three target creatures can&apos;t block this turn.
+• Fobhar&apos;s Fury deals 5 damage to target creature or planeswalker. If a permanent dealt damage this way would die this turn, exile it instead.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/16_Fobhar&apos;s Fury.png" num="16">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hillback Ollipheist</name>
+			<text>Trample
+Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+Whenever this creature or another nontoken creature you control enters, you gain 3 life and create a 3/3 green Wurm creature token.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/GS2-files/img/20_Hillback Ollipheist.png" num="20">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wurm GS2</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/GS2-files/img/6t_Wurm.png" num="6">GS2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

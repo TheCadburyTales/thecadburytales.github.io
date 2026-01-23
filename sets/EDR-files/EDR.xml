@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>EDR</name>
+			<longname>The Elden Ring Commander Cube</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-23</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Turtle</name>
+			<text>{T}: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/EDR-files/img/82.png" num="283">EDR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Turtle</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

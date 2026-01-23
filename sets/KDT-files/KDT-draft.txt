@@ -2767,7 +2767,7 @@
 			"type": "Token Creature — Monk",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/3_Monk.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/3t_Monk.png"
 			}
 		},
 		{
@@ -2777,7 +2777,7 @@
 			"type": "Token Creature — Samurai",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/5_Samurai.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/5t_Samurai.png"
 			}
 		},
 		{
@@ -2787,7 +2787,7 @@
 			"type": "Token Artifact — Vehicle",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/17_Hardsuit.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/17t_Hardsuit.png"
 			}
 		},
 		{
@@ -2797,7 +2797,7 @@
 			"type": "Token Creature — Ninja",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/8_Ninja.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/8t_Ninja.png"
 			}
 		},
 		{
@@ -2807,7 +2807,7 @@
 			"type": "Token Creature — Bird",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/6_Bird.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/6t_Bird.png"
 			}
 		},
 		{
@@ -2817,7 +2817,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/13_Spirit.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/13t_Spirit.png"
 			}
 		},
 		{
@@ -2827,7 +2827,7 @@
 			"type": "Token Creature — Demon",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/10_Demon.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/10t_Demon.png"
 			}
 		},
 		{
@@ -2837,7 +2837,7 @@
 			"type": "Token Creature — Spirit Beast",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/15_Spirit Beast.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/15t_Spirit Beast.png"
 			}
 		},
 		{
@@ -2847,7 +2847,7 @@
 			"type": "Token Creature — Monkey",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/4_Monkey.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/4t_Monkey.png"
 			}
 		},
 		{
@@ -2857,7 +2857,7 @@
 			"type": "Token Creature — Kraken",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/7_Kraken.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/7t_Kraken.png"
 			}
 		},
 		{
@@ -2867,7 +2867,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/18_Treasure.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/18t_Treasure.png"
 			}
 		},
 		{
@@ -2877,7 +2877,7 @@
 			"type": "Token Enchantment",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/9_Time Bubble.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/9t_Time Bubble.png"
 			}
 		},
 		{
@@ -2887,7 +2887,7 @@
 			"type": "Token Creature — Serpent",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/12_Serpent.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/12t_Serpent.png"
 			}
 		},
 		{
@@ -2897,7 +2897,7 @@
 			"type": "Token Reminder",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/14_On An Adventure.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/14t_On An Adventure.png"
 			}
 		},
 		{
@@ -2907,7 +2907,7 @@
 			"type": "Emblem",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/19_Emblem.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/19t_Emblem.png"
 			}
 		},
 		{
@@ -2917,7 +2917,7 @@
 			"type": "Token Creature — Fox Shapeshifter",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/1_Fox Shapeshifter.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/1t_Fox Shapeshifter.png"
 			}
 		},
 		{
@@ -3047,7 +3047,7 @@
 			"type": "Token Creature — Demon Insect",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/11_Demon Insect.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/11t_Demon Insect.png"
 			}
 		},
 		{
@@ -3077,7 +3077,7 @@
 			"type": "Token Artifact Creature — Golem",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/16_Golem.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/16t_Golem.png"
 			}
 		},
 		{
@@ -3197,7 +3197,7 @@
 			"type": "Token Enchantment — Saga",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/KDT-files/img/2_Saga.png"
+				"en": "https://thecadburytales.github.io/sets/KDT-files/img/2t_Saga.png"
 			}
 		}
 	]

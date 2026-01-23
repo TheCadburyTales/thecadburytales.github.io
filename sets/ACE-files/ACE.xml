@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>ACE</name>
+			<longname>Aldmore Cube</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-23</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Ring-Tailed Lemur</name>
+			<text>{T}: Add {W} or {B}.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/ACE-files/img/263_Ring-Tailed Lemur.jpg" num="263">ACE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lemur</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elvish Dreamspinner</name>
+			<text>Elves you control have &quot;{T}: Add {G}.&quot;
+{6}{G}{G}: Create an 8/8 green Elemental creature token.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/ACE-files/img/239_Elvish Dreamspinner.jpg" num="239">ACE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

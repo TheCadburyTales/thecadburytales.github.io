@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/ACE-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/ACE-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>ACE visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -45,13 +48,15 @@
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -174,100 +181,116 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/ACE-files/logo.png" />
-	<img class="preload-hidden" src="/sets/ATR-files/icon.png" />
-		<img class="preload-hidden" src="/sets/SHF-files/icon.png" />
-		<img class="preload-hidden" src="/sets/GSS-files/icon.png" />
-		<img class="preload-hidden" src="/sets/KND-files/icon.png" />
-		<img class="preload-hidden" src="/sets/NJB-files/icon.png" />
-		<img class="preload-hidden" src="/sets/GQC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/WOD-files/icon.png" />
-		<img class="preload-hidden" src="/sets/VYI-files/icon.png" />
-		<img class="preload-hidden" src="/sets/CNF-files/icon.png" />
-		<img class="preload-hidden" src="/sets/KDT-files/icon.png" />
-		<img class="preload-hidden" src="/sets/VLA-files/icon.png" />
-		<img class="preload-hidden" src="/sets/SOL-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MOX-files/icon.png" />
-		<img class="preload-hidden" src="/sets/KRK-files/icon.png" />
-		<img class="preload-hidden" src="/sets/GS2-files/icon.png" />
-		<img class="preload-hidden" src="/sets/STW-files/icon.png" />
-		<img class="preload-hidden" src="/sets/X24-files/icon.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/ACE-files/logo.png" />
+	<img class="preload-hidden" src="../sets/ATR-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SHF-files/icon.png" />
+		<img class="preload-hidden" src="../sets/GSS-files/icon.png" />
+		<img class="preload-hidden" src="../sets/KND-files/icon.png" />
+		<img class="preload-hidden" src="../sets/NJB-files/icon.png" />
+		<img class="preload-hidden" src="../sets/GQC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/WOD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VYI-files/icon.png" />
+		<img class="preload-hidden" src="../sets/CNF-files/icon.png" />
+		<img class="preload-hidden" src="../sets/KDT-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VLA-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SOL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MOX-files/icon.png" />
+		<img class="preload-hidden" src="../sets/KRK-files/icon.png" />
+		<img class="preload-hidden" src="../sets/GS2-files/icon.png" />
+		<img class="preload-hidden" src="../sets/STW-files/icon.png" />
+		<img class="preload-hidden" src="../sets/X24-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="ACE"><img src="/sets/ACE-files/icon.png">Aldmore Cube</a>
+		<a class="set-bar" href="../previews/ACE"><img src="../sets/ACE-files/icon.png">Aldmore Cube</a>
 	
-		<a class="set-bar inactive" href="ATR"><img src="/sets/ATR-files/icon.png">The Shattered Pantheon of Atros</a>
+		<a class="set-bar inactive" href="../previews/ATR"><img src="../sets/ATR-files/icon.png">The Shattered Pantheon of Atros</a>
 	
-		<a class="set-bar inactive" href="SHF"><img src="/sets/SHF-files/icon.png">The Starholme Frontier</a>
+		<a class="set-bar inactive" href="../previews/SHF"><img src="../sets/SHF-files/icon.png">The Starholme Frontier</a>
 	
-		<a class="set-bar inactive" href="GSS"><img src="/sets/GSS-files/icon.png">Golden Shores of Shiryen</a>
+		<a class="set-bar inactive" href="../previews/GSS"><img src="../sets/GSS-files/icon.png">Golden Shores of Shiryen</a>
 	
-		<a class="set-bar inactive" href="KND"><img src="/sets/KND-files/icon.png">Kahembo: New Dawn</a>
+		<a class="set-bar inactive" href="../previews/KND"><img src="../sets/KND-files/icon.png">Kahembo: New Dawn</a>
 	
-		<a class="set-bar inactive" href="NJB"><img src="/sets/NJB-files/icon.png">Nangjiao in Bloom</a>
+		<a class="set-bar inactive" href="../previews/NJB"><img src="../sets/NJB-files/icon.png">Nangjiao in Bloom</a>
 	
-		<a class="set-bar inactive" href="GQC"><img src="/sets/GQC-files/icon.png">Ghariv, the Quaking City</a>
+		<a class="set-bar inactive" href="../previews/GQC"><img src="../sets/GQC-files/icon.png">Ghariv, the Quaking City</a>
 	
-		<a class="set-bar inactive" href="WOD"><img src="/sets/WOD-files/icon.png">Wylds of Derrigoa</a>
+		<a class="set-bar inactive" href="../previews/WOD"><img src="../sets/WOD-files/icon.png">Wylds of Derrigoa</a>
 	
-		<a class="set-bar inactive" href="VYI"><img src="/sets/VYI-files/icon.png">Valdrasil: Voyage to Infinity</a>
+		<a class="set-bar inactive" href="../previews/VYI"><img src="../sets/VYI-files/icon.png">Valdrasil: Voyage to Infinity</a>
 	
-		<a class="set-bar inactive" href="CNF"><img src="/sets/CNF-files/icon.png">Confluence</a>
+		<a class="set-bar inactive" href="../previews/CNF"><img src="../sets/CNF-files/icon.png">Confluence</a>
 	
-		<a class="set-bar inactive" href="KDT"><img src="/sets/KDT-files/icon.png">Kitsuo: Dusk of Time</a>
+		<a class="set-bar inactive" href="../previews/KDT"><img src="../sets/KDT-files/icon.png">Kitsuo: Dusk of Time</a>
 	
-		<a class="set-bar inactive" href="VLA"><img src="/sets/VLA-files/icon.png">Valdrasil: Ascension</a>
+		<a class="set-bar inactive" href="../previews/VLA"><img src="../sets/VLA-files/icon.png">Valdrasil: Ascension</a>
 	
-		<a class="set-bar inactive" href="SOL"><img src="/sets/SOL-files/icon.png">The Solitudines</a>
+		<a class="set-bar inactive" href="../previews/SOL"><img src="../sets/SOL-files/icon.png">The Solitudines</a>
 	
-		<a class="set-bar inactive" href="MOX"><img src="/sets/MOX-files/icon.png">Midnight Omens of Xogoa</a>
+		<a class="set-bar inactive" href="../previews/MOX"><img src="../sets/MOX-files/icon.png">Midnight Omens of Xogoa</a>
 	
-		<a class="set-bar inactive" href="KRK"><img src="/sets/KRK-files/icon.png">Seas of Krakonos</a>
+		<a class="set-bar inactive" href="../previews/KRK"><img src="../sets/KRK-files/icon.png">Seas of Krakonos</a>
 	
-		<a class="set-bar inactive" href="GS2"><img src="/sets/GS2-files/icon.png">Global Series 2</a>
+		<a class="set-bar inactive" href="../previews/GS2"><img src="../sets/GS2-files/icon.png">Global Series 2</a>
 	
-		<a class="set-bar inactive" href="STW"><img src="/sets/STW-files/icon.png">Star Wars Microset</a>
+		<a class="set-bar inactive" href="../previews/STW"><img src="../sets/STW-files/icon.png">Star Wars Microset</a>
 	
-		<a class="set-bar inactive" href="X24"><img src="/sets/X24-files/icon.png">Moxtober 2024</a>
+		<a class="set-bar inactive" href="../previews/X24"><img src="../sets/X24-files/icon.png">Moxtober 2024</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/ACE-files/logo.png">
+		<img class="logo" src="../sets/ACE-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/ACE-files/img/239_Elvish Dreamspinner.jpg" id="239_Elvish Dreamspinner" data-flag="@X" onclick="openSidebar('239_Elvish Dreamspinner',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/ACE-files/img/263_Ring-Tailed Lemur.jpg" id="263_Ring-Tailed Lemur" data-flag="@X" onclick="openSidebar('263_Ring-Tailed Lemur',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="img/e.png" id="ACE_e" data-flag="@E" onclick="openSidebar('ACE_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="ACE_e" data-flag="@E" onclick="openSidebar('ACE_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="ACE_e" data-flag="@E" onclick="openSidebar('ACE_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="ACE_e" data-flag="@E" onclick="openSidebar('ACE_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/ACE-files/img/239_Elvish Dreamspinner.jpg" id="ACE_239_Elvish Dreamspinner" data-flag="@X" onclick="openSidebar('ACE_239_Elvish Dreamspinner',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="ACE_e" data-flag="@E" onclick="openSidebar('ACE_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="ACE_e" data-flag="@E" onclick="openSidebar('ACE_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="ACE_e" data-flag="@E" onclick="openSidebar('ACE_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="ACE_e" data-flag="@E" onclick="openSidebar('ACE_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/ACE-files/img/263_Ring-Tailed Lemur.jpg" id="ACE_263_Ring-Tailed Lemur" data-flag="@X" onclick="openSidebar('ACE_263_Ring-Tailed Lemur',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="ACE_er" data-flag="@E" onclick="openSidebar('ACE_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="ACE_er" data-flag="@E" onclick="openSidebar('ACE_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="ACE_er" data-flag="@E" onclick="openSidebar('ACE_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="ACE_er" data-flag="@E" onclick="openSidebar('ACE_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="ACE_er" data-flag="@E" onclick="openSidebar('ACE_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -280,19 +303,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -327,13 +442,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -487,16 +605,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -506,7 +624,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

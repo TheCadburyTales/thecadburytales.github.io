@@ -10,10 +10,48 @@ def generateHTML(setCode):
 	with open(os.path.join('lists', 'set-order.json'), encoding='utf-8-sig') as j:
 		so_json = json.load(j)
 
-	with open(os.path.join('sets', setCode + '-files', setCode + '.json'), encoding='utf-8-sig') as j:
-		set_js = json.load(j)
-		set_image_type = 'png' if 'image_type' not in set_js else set_js['image_type']
-		set_name = '' if 'name' not in set_js else set_js['name']
+	set_configs = {}
+	def get_set_data(code):
+		if code in set_configs:
+			return set_configs[code]
+		
+		json_path = os.path.join('sets', code + '-files', code + '.json')
+		if not os.path.exists(json_path):
+			return None
+			
+		with open(json_path, encoding='utf-8-sig') as j:
+			js = json.load(j)
+		
+		img_type = 'png' if 'image_type' not in js else js['image_type']
+		img_name_setting = 'name' if 'image_name' not in js else js['image_name']
+		
+		img_dir = os.path.join('sets', code + '-files', 'img')
+		img_names = []
+		if os.path.isdir(img_dir):
+			img_names = [f
+			   if f.endswith(('_front', '_back')) and re.sub(r'^\d+_', '', f) in ['front', 'back']
+			   else re.sub(r'^\d+_', '', f) 
+			   for f in (file[:-4].replace(u'\ufeff', '') for file in os.listdir(img_dir))
+			]
+		
+		preview_list = None
+		previewed_path = os.path.join('sets', code + '-files', 'previewed.txt')
+		if os.path.isfile(previewed_path):
+			with open(previewed_path, encoding='utf-8-sig') as f:
+				preview_list = f.read().split('\n')
+				
+		set_configs[code] = {
+			'js': js,
+			'image_type': img_type,
+			'image_name_setting': img_name_setting,
+			'card_image_names': img_names,
+			'previewed': preview_list
+		}
+		return set_configs[code]
+
+	main_set_data = get_set_data(setCode)
+	set_js = main_set_data['js']
+	set_name = set_js.get('name', '')
 
 	codes = []
 	for key in so_json:
@@ -23,19 +61,6 @@ def generateHTML(setCode):
 			codes.append(code)
 	#F: this is SET-preview.html, the file that this outputs to
 	output_html_file = os.path.join('previews', setCode + '.html')
-	magic_card_back_image = '/img/card_back.png'
-	#F: /sets/SET-files/img/
-	set_img_dir = os.path.join('sets', setCode + '-files', 'img')
-	card_image_names = [f
-	   if f.endswith(('_front', '_back')) and re.sub(r'^\d+_', '', f) in ['front', 'back']
-	   else re.sub(r'^\d+_', '', f) 
-	   for f in (file[:-4].replace(u'\ufeff', '') for file in os.listdir(set_img_dir))
-	]
-
-	previewed_path = os.path.join('sets', setCode + '-files', 'previewed.txt')
-	if os.path.isfile(previewed_path):
-		with open(previewed_path, encoding='utf-8-sig') as f:
-			previewed = f.read().split('\n')
 
 	#F: lists/SET-list.json, defined in list_to_list.py
 	with open(os.path.join('lists', setCode + '-list.json'), encoding='utf-8-sig') as f:
@@ -57,13 +82,16 @@ def generateHTML(setCode):
 	html_content = '''<!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/''' + setCode + '''-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/''' + setCode + '''-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>''' + setCode + ''' visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -101,13 +129,15 @@ def generateHTML(setCode):
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -118,7 +148,7 @@ def generateHTML(setCode):
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -138,6 +168,7 @@ def generateHTML(setCode):
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -158,9 +189,10 @@ def generateHTML(setCode):
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -174,7 +206,7 @@ def generateHTML(setCode):
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -230,16 +262,16 @@ def generateHTML(setCode):
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/''' + setCode + '''-files/logo.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/''' + setCode + '''-files/logo.png" />
 	'''
 
 	for code in codes:
-		html_content += '''<img class="preload-hidden" src="/sets/''' + code + '''-files/icon.png" />
+		html_content += '''<img class="preload-hidden" src="../sets/''' + code + '''-files/icon.png" />
 		'''
 
 	if os.path.exists(os.path.join('sets', setCode + '-files', 'bg.png')):
-		html_content +='''<img class="preload-hidden" id="bg" src="/sets/''' + setCode + '''-files/bg.png" />
+		html_content +='''<img class="preload-hidden" id="bg" src="../sets/''' + setCode + '''-files/bg.png" />
 
 		'''
 
@@ -255,15 +287,14 @@ def generateHTML(setCode):
 	
 	count = 0
 	html_content += f'''
-		<a class="set-bar" href="{setCode}"><img src="/sets/{setCode}-files/icon.png">{set_name}</a>
+		<a class="set-bar" href="../previews/{setCode}"><img src="../sets/{setCode}-files/icon.png">{set_name}</a>
 	'''
 	for code in codes:
 		if code == setCode:
 			continue
-		with open(os.path.join('sets', code + '-files', code + '.json'), encoding='utf-8-sig') as j:
-			js = json.load(j)
+		js = get_set_data(code)['js']
 		html_content += f'''
-		<a class="set-bar inactive" href="{code}"><img src="/sets/{code}-files/icon.png">{js['name']}</a>
+		<a class="set-bar inactive" href="../previews/{code}"><img src="../sets/{code}-files/icon.png">{js['name']}</a>
 	'''
 	'''
 	for code in codes:
@@ -279,7 +310,7 @@ def generateHTML(setCode):
 	html_content += '''
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/''' + setCode + '''-files/logo.png">
+		<img class="logo" src="../sets/''' + setCode + '''-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
@@ -293,7 +324,7 @@ def generateHTML(setCode):
 		if 'l->' in card:
 			html_content += f'''			</div>
 			<div class="banner">
-					<img id="{card[3:]}-logo" class="logo" src="/sets/{card[3:]}-files/logo.png">
+					<img id="{card[3:]}-logo" class="logo" src="../sets/{card[3:]}-files/logo.png">
 			</div>
 			<div class="grid-container">
 '''
@@ -319,29 +350,32 @@ def generateHTML(setCode):
 		#F: we can replicate this under the JSON paradigm by having the card num be initialized as -1 and be set only if it's not a blank
 		#CE: setting card_num back to '' so we can concatenate 't' to the end of tokens
 		card_num = ''
+
+		card_code = setCode if 'set' not in card else card['set']
+		card_set_data = get_set_data(card_code)
+
 		if card['card_name'] == 'e':
 			card_name = 'e'
 			image_type = 'png'
 		elif card['card_name'] == 'er':
 			card_name = 'er'
 			image_type = 'png'
-		elif 'image_name' in set_js and set_js['image_name'] == 'position':
+		elif card_set_data['image_name_setting'] == 'position':
 			card_name = card['position']
 			card_num = str(card['number'])
-			image_type = set_image_type
+			image_type = card_set_data['image_type']
 		elif 'token' in card['shape']:
 			card_name = str(card['number']) + 't_' + card['card_name']
 			card_num = str(card['number']) + 't'
-			image_type = set_image_type
+			image_type = card_set_data['image_type']
 		else:
 			card_name = str(card['number']) + '_' + card['card_name']
 			card_num = str(card['number'])
-			image_type = set_image_type
+			image_type = card_set_data['image_type']
 
 		card_name_cleaned = card_name.replace('\'','')
 
 		# used for DFCs only
-		card_code = setCode if 'set' not in card else card['set']
 		dfc_front_path = card_name + '_front'
 		dfc_back_path = card_name + '_back'
 		dfc_front_img_path = os.path.join('sets', card_code + '-files', 'img', dfc_front_path + '.' + image_type)
@@ -352,9 +386,9 @@ def generateHTML(setCode):
 		#F: if the flag is @E, then the ability to click it is removed (since it's just a blank image for positioning)
 		#F: if the flag is @X or @XD, nothing happens
 		flag = '@N'
-		if 'previewed' not in locals() or card['card_name'] in previewed:
+		if card_set_data['previewed'] is None or card['card_name'] in card_set_data['previewed']:
 			flag = '@X'
-			if card['card_name'] + '_front' in card_image_names or 'position' in card and card['position'] + '_front' in card_image_names:
+			if card['card_name'] + '_front' in card_set_data['card_image_names'] or 'position' in card and card['position'] + '_front' in card_set_data['card_image_names']:
 				flag = '@XD'
 
 		if card_name == 'e' or card_name == 'er':
@@ -366,20 +400,21 @@ def generateHTML(setCode):
 
 		#F: /sets/SET-files/img/NUMBER(t?)_NAME.png
 		image_path = os.path.join(image_dir, card_name + '.' + image_type)
-		rotated = str('shape' in card and 'spli' in card['shape']).lower()
+		rotated = "false" if 'rotated' not in card else str(card['rotated']).lower()
+		card_id = card_code + "_" + card_name_cleaned
 
 		#F: if the flag is @XD, add something to html_content to get the front and back images, otherwise add something else
 		if flag == '@XD':
-			html_content += f'				<div class="container"><img loading="lazy" data-alt_src="/{dfc_back_img_path}" alt="/{dfc_front_img_path}" id="{card_name_cleaned}" data-flag="{flag}" onclick="openSidebar(\'{card_name_cleaned}\',{rotated})"><button class="flip-btn" onclick="imgFlip(\'{card_name_cleaned}\')"></button></div>\n'
+			html_content += f'				<div class="container"><img loading="lazy" data-alt_src="{dfc_back_img_path}" alt="{dfc_front_img_path}" id="{card_id}" data-flag="{flag}" onclick="openSidebar(\'{card_id}\',{rotated})"><button class="flip-btn" onclick="imgFlip(\'{card_id}\')"></button></div>\n'
 		else:
-			html_content += f'				<div class="container"><img loading="lazy" alt="/{image_path}" id="{card_name_cleaned}" data-flag="{flag}" onclick="openSidebar(\'{card_name_cleaned}\',{rotated})"></div>\n'
+			html_content += f'				<div class="container"><img loading="lazy" alt="{image_path}" id="{card_id}" data-flag="{flag}" onclick="openSidebar(\'{card_id}\',{rotated})"></div>\n'
 
 	# Closing the div and the rest of the HTML
 	html_content += '''	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -443,13 +478,16 @@ def generateHTML(setCode):
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -603,9 +641,9 @@ def generateHTML(setCode):
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		'''

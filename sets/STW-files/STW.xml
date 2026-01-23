@@ -1,0 +1,968 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>STW</name>
+			<longname>Star Wars Microset</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-23</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/47_Island.png" num="47">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/48_Swamp.png" num="48">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/49_Mountain.png" num="49">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/50_Forest.png" num="50">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/46_Plains.png" num="46">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Battlefront Medic</name>
+			<text>Operator (Whenever this creature crews a Vehicle, that Vehicle gains the following abilities until end of turn.)
+Whenever this creature deals combat damage to a player, return target creature or artifact card with mana value X or less from your graveyard to the battlefield, where X is the damage dealt this way.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/STW-files/img/1_Battlefront Medic.png" num="1">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Echo Defender</name>
+			<text>Vigilance
+Arsenal — Whenever you attack with one or more artifact creatures and/or equipped creatures, this creature gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/2_Echo Defender.png" num="2">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flight Commander</name>
+			<text>Muster 2 (When this creature enters, put two +1/+1 counters on it or on an Army you control. If you don&apos;t control an Army, create a 0/0 black Army creature token first.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/3_Flight Commander.png" num="3">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imperial Stormtrooper</name>
+			<text>Muster 1 (When this creature enters, put a +1/+1 counter on it or on an Army you control. If you don&apos;t control an Army, create a 0/0 black Army creature token first.)
+Creatures you control with +1/+1 counters on them have vigilance.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/4_Imperial Stormtrooper.png" num="4">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Loyal Tauntaun</name>
+			<text>Vigilance
+When this creature dies, return target creature with mana value 2 or less from your graveyard to the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/STW-files/img/5_Loyal Tauntaun.png" num="5">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reload Malfunction</name>
+			<text>Reload Malfunction deals 3 damage to target creature that&apos;s attacking, blocking, or is an artifact.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/6_Reload Malfunction.png" num="6">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Admiral Ackbar</name>
+			<text>Operator (Whenever this creature crews a Vehicle, that Vehicle gains the following abilities until end of turn.)
+Whenever this creature deals combat damage to a player, you may cast a spell from your hand with mana value X or less without paying its mana cost, where X is the amount of damage dealt this way.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/STW-files/img/7_Admiral Ackbar.png" num="7">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Octopus Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Meditation</name>
+			<text>Look at the top two cards of your library. Put one of them in your hand and the other on the bottom of your library.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/10_Meditation.png" num="10">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mos Eisley Sneak</name>
+			<text>As long as you&apos;ve cast an artifact spell this turn, this creature can&apos;t be blocked.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/11_Mos Eisley Sneak.png" num="11">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Outer Rim Dealer</name>
+			<text>When this creature enters, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Artifact spells you cast cost {1} less to cast.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/STW-files/img/12_Outer Rim Dealer.png" num="12">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Merchant</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snowspeeder Ace</name>
+			<text>Operator (Whenever this creature crews a Vehicle, that Vehicle gains the following abilities until end of turn.)
+Whenever this creature deals combat damage to a player, draw a card.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/13_Snowspeeder Ace.png" num="13">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dagobah Dragonsnake</name>
+			<text>Flash
+When this creature enters, up to one target creature gets -2/-2 until end of turn.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/14_Dagobah Dragonsnake.png" num="14">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Might of the Empire</name>
+			<text>Choose two—
+• You draw two cards and you lose 2 life.
+• Each opponent discards two cards.
+• Each creature gets -2/-2 until end of turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/STW-files/img/16_Might of the Empire.png" num="16">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mos Espa Crimelord</name>
+			<text>{2}, Sacrifice a creature or artifact: You gain 1 life and draw a card.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/17_Mos Espa Crimelord.png" num="17">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Slug Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trandoshan Trackers</name>
+			<text>Arsenal — Whenever you attack with one or more artifact creatures and/or equipped creatures, you draw a card and you lose 1 life.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/19_Trandoshan Trackers.png" num="19">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Womp Rats</name>
+			<text>Menace
+Whenever this creature deals combat damage to a player, you may search your library for a card named Womp Rats, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/20_Womp Rats.png" num="20">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disintegration</name>
+			<text>Disintegration deals 5 damage to target creature. If an artifact was put into your graveyard from the battlefield this turn, Disintegration deals 3 damage to that creature&apos;s controller.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/21_Disintegration.png" num="21">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ravenous Rancor</name>
+			<text>Trample
+When this creature enters, target creature you control gets +2/+0 and gains trample until end of turn.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/23_Ravenous Rancor.png" num="23">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reprogram</name>
+			<text>Gain control of target artifact or creature until end of turn. Untap that permanent. It gains haste until end of turn. If you gain control of a Vehicle this way, it becomes an artifact creature until end of turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/24_Reprogram.png" num="24">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shoot First</name>
+			<text>Shoot First deals 3 damage to target creature. If Shoot First is the first spell you&apos;ve cast this turn, it deals 5 damage to that creature instead.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/STW-files/img/25_Shoot First.png" num="25">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spice Smuggler</name>
+			<text>Operator (Whenever this creature crews a Vehicle, that Vehicle gains the following abilities until end of turn.)
+Whenever this creature deals combat damage to a player, create a Treasure token.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/STW-files/img/18_Spice Smuggler.png" num="18">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tusken Raiders</name>
+			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
+Arsenal — Whenever you attack with one or more artifact creatures and/or equipped creatures, this creature deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/26_Tusken Raiders.png" num="26">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chirpa&apos;s Archer</name>
+			<text>Reach
+When this creature enters, choose one—
+• Destroy target artifact.
+• Destroy target creature with flying.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/STW-files/img/27_Chirpa&apos;s Archer.png" num="27">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ewok Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lumbering Dewback</name>
+			<text>Muster 1 (When this creature enters, put a +1/+1 counter on it or on an Army you control. If you don&apos;t control an Army, create a 0/0 black Army creature token first.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/28_Lumbering Dewback.png" num="28">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Territorial Wampa</name>
+			<text>Trample
+When this creature enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/29_Territorial Wampa.png" num="29">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Yeti</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unruly Brawl</name>
+			<text>Target creature you control gets +2/+1 until end of turn. It fights up to one target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/31_Unruly Brawl.png" num="31">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Whispers of Endor</name>
+			<text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Create a 1/1 green Ewok creature token.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/32_Whispers of Endor.png" num="32">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wookiee Guerrilla</name>
+			<text>Ward {2}
+Whenever a Forest you control enters, until end of turn, you may have it become a 3/3 green Wookiee creature with haste and ward {2}.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/STW-files/img/33_Wookiee Guerrilla.png" num="33">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wookiee Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ewok Firedancers</name>
+			<text>{T}: Add {R} or {G}.
+Whenever you cast a spell with mana value 5 or greater, create two 1/1 green Ewok creature tokens.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/STW-files/img/36_Ewok Firedancers.png" num="36">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ewok Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imperial Technician</name>
+			<text>Muster 1 (When this creature enters, put a +1/+1 counter on it or on an Army you control. If you don&apos;t control an Army, create a 0/0 black Army creature token first.)
+Other nontoken creatures you control have muster 1.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/STW-files/img/37_Imperial Technician.png" num="37">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rebellion X-Wing</name>
+			<text>Flying
+When this Vehicle enters, create a 2/1 red Rebel creature token with &quot;This token can&apos;t block.&quot;
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/STW-files/img/40_Rebellion X-Wing.png" num="40">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Plasma Rifle</name>
+			<text>When this Equipment enters, it deals 5 damage to up to one target creature.
+Equipped creature gets +1/+1 and has first strike.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/STW-files/img/45_Plasma Rifle.png" num="45">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Imperial Star Destroyer</name>
+			<text>Flying, trample
+Whenever you crew this Vehicle, any number of other target Vehicles you control each become artifact creatures until end of turn.
+Crew 8</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/STW-files/img/44_Imperial Star Destroyer.png" num="44">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>A280 Blaster</name>
+			<text>When this Equipment enters, create a 2/1 red Rebel creature token with &quot;This token can&apos;t block.&quot; and attach this Equipment to it.
+Equipped creature gets +1/+1
+Equip {1}</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/41_A280 Blaster.png" num="41">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>AT-ST Assault Transport</name>
+			<text>Trample
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/42_AT-ST Assault Transport.png" num="42">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hangar Repair Droid</name>
+			<text>When this creature enters, return target noncreature artifact card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/43_Hangar Repair Droid.png" num="43">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imperial Navigators</name>
+			<text>Operator (Whenever this creature crews a Vehicle, that Vehicle gains the following abilities until end of turn.)
+Deathtouch</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/15_Imperial Navigators.png" num="15">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Alien Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boba Fett</name>
+			<text>Flying
+Whenever Boba Fett attacks, choose target creature or artifact. When that permanent is put into a graveyard from the battlefield this turn, draw a card and put a +1/+1 counter on Boba Fett.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/STW-files/img/35_Boba Fett.png" num="35">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jabba&apos;s Mechanic</name>
+			<text>Operator (Whenever this creature crews a Vehicle, that Vehicle gains the following abilities until end of turn.)
+As long as it&apos;s your turn, this creature has first strike.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/22_Jabba&apos;s Mechanic.png" num="22">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Intel Officer</name>
+			<text>Arsenal — Whenever you attack with one or more artifact creatures and/or equipped creatures, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/9_Intel Officer.png" num="9">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tree-Village Elder</name>
+			<text>{T}: Add {G}.
+{6}{G}, {T}: Another target creature you control gets +3/+3 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/30_Tree-Village Elder.png" num="30">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ewok Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Do or Do Not</name>
+			<text>Choose one—
+• Look at the top three cards of your library. Put one into your hand and the rest on the bottom of your library in a random order.
+• Counter target spell unless its controller pays {3}.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/8_Do or Do Not.png" num="8">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Imperial TIE Fighter</name>
+			<text>Flying
+Whenever this Vehicle deals combat damage to a player, that player discards a card.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/STW-files/img/38_Imperial TIE Fighter.png" num="38">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Beskar Duelist</name>
+			<text>Whenever this creature attacks, you may sacrifice an artifact or another creature. If you do, put a +1/+1 counter on this creature. It gains flying until end of turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/STW-files/img/34_Beskar Duelist.png" num="34">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>One With the Force</name>
+			<text>When this enchantment enters, draw a card, then you may put a land card from your hand onto the battlefield tapped.
+{5}{G}{U}, Sacrifice this enchantment: You draw two cards and gain 4 life.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/STW-files/img/39_One With the Force.png" num="39">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Army STW</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/1t_Army.png" num="1">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Army</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse_related>Imperial Technician</reverse_related>
+			<reverse_related>Flight Commander</reverse_related>
+			<reverse_related>Imperial Stormtrooper</reverse_related>
+			<reverse_related>Lumbering Dewback</reverse_related>
+		</card>
+		<card>
+			<name>Rebel STW</name>
+			<text>This token can&apos;t block.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/2t_Rebel.png" num="2">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse_related>Rebellion X-Wing</reverse_related>
+			<reverse_related>A280 Blaster</reverse_related>
+		</card>
+		<card>
+			<name>Treasure STW</name>
+			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/5t_Treasure.png" num="5">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse_related>Spice Smuggler</reverse_related>
+		</card>
+		<card>
+			<name>Ewok STW</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/3t_Ewok.png" num="3">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Ewok</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse_related>Whispers of Endor</reverse_related>
+			<reverse_related count="2">Ewok Firedancers</reverse_related>
+		</card>
+		<card>
+			<name>Food STW</name>
+			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/STW-files/img/4t_Food.png" num="4">STW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse_related>Territorial Wampa</reverse_related>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

@@ -2,6 +2,7 @@ import os
 import sys
 import json
 import re
+import utils
 
 #F = Fungustober's notes
 def filtered(card, filters):
@@ -18,7 +19,8 @@ def generateFile(code):
 		for card in set_data['cards']:
 			card['rarity'] = 'cube'
 
-	structure_path = os.path.join('resources', set_data['draft_structure'].replace(' ','-') + '-structure.json')
+	structure = 'draft-booster' if 'draft_structure' not in set_data else set_data['draft_structure'].replace(' ','-')
+	structure_path = os.path.join('resources', structure + '-structure.json')
 	if os.path.isfile(os.path.join('sets', code + '-files', 'structure.json')):
 		structure_path = os.path.join('sets', code + '-files', 'structure.json')
 	with open(structure_path, encoding='utf-8-sig') as j:
@@ -26,8 +28,6 @@ def generateFile(code):
 
 	filters = []
 	booster = {}
-
-	github_path = os.path.split(os.getcwd())[1] # this gets the current working directory, so it's an easy failcase
 
 	for slot in structure:
 		booster[slot['name']] = []
@@ -57,12 +57,13 @@ def generateFile(code):
 
 		draft_string += '''	{
 			"name": "''' + card['card_name'] + '''",
-			"rarity": "''' + ('special' if card['rarity'] == 'cube' else card['rarity']) + '''",
+			"rarity": "''' + ('special' if card['rarity'] in ['cube','masterpiece'] else card['rarity']) + '''",
 			"mana_cost": "''' + re.sub(h_pattern, h_replace, card['cost']) + '''",
 			"type": "''' + card['type'] + '''",
 			"collector_number": "''' + str(card['number']) + '''",
 	'''
 
+		# CE: this is for any custom types that use a rotated frame
 		split_types = [ 'Projectile' ]
 		for type in split_types:
 			if type in card['type']:
@@ -76,17 +77,17 @@ def generateFile(code):
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://''' + github_path + '''/sets/''' + card['set'] + '''-files/img/''' + card_file_name + '''_back.''' + (set_data['image_type'] if 'image_type' not in card else card['image_type']) + '''"
+					"en": "''' + utils.get_picurl(set_data, card, True) + '''"
 				}
 			},
 			"image_uris": {
-				"en": "https://''' + github_path + '''/sets/''' + card['set'] + '''-files/img/''' + card_file_name + '''_front.''' + (set_data['image_type'] if 'image_type' not in card else card['image_type']) + '''"
+				"en": "''' + utils.get_picurl(set_data, card, False) + '''"
 			}
 		},
 	'''
 		else:
 			draft_string += '''		"image_uris": {
-				"en": "https://''' + github_path + '''/sets/''' + card['set'] + '''-files/img/''' + card_file_name + '''.''' + (set_data['image_type'] if 'image_type' not in card else card['image_type']) + '''"
+				"en": "''' + utils.get_picurl(set_data, card) + '''"
 			}
 		}''' + (''',''' if x != len(set_data['cards']) - 1 else '''''') + '''
 	'''

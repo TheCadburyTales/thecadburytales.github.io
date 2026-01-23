@@ -1,0 +1,5121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>VLA</name>
+			<longname>Valdrasil: Ascension</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-23</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Star-Speckled Ursine</name>
+			<text>Cluster — {3}{G}: Look at the top card of your library. If it&apos;s a creature or land card, you may reveal it and put it into your hand. Otherwise, you may put that card into your graveyard.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/202_Star-Speckled Ursine.png" num="202">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Bear Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Surai, Anjarjan Tyrant</name>
+			<text>Vigilance
+Nonlegendary, nonenchantment creatures lose all abilities and have base power and toughness 1/1.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/245_Surai, Anjarjan Tyrant.png" num="245">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3GWU</manacost>
+				<cmc>6</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nebula Kraken</name>
+			<text>Trample
+Cluster — {3}{G}: Until end of turn, target creature you control assigns its combat damage as though it weren&apos;t blocked.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/193_Nebula Kraken.png" num="193">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Kraken Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Piercing Star</name>
+			<text>This spell costs {1} less to cast for each enchantment you control.
+When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/28_Piercing Star.png" num="28">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Alexei, Rime Magnarch</name>
+			<text>As long as Alexei entered this turn and you spent three or more {S} to cast him, you may activate his loyalty abilities twice rather than only once.
+[+1]: At the beginning of the next end step, untap up to one land you control and up to one snow land you control. Draw a card.
+[-2]: Tap target nonland permanent and put a stun counter on it. It loses all abilities for as long as it remains tapped.
+[-7]: You get an emblem with &quot;Tap an untapped snow creature or snow land you control: Draw a card.&quot;</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/44_Alexei, Rime Magnarch.png" num="44">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Snow Planeswalker — Alexei</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lignification</name>
+			<text>Enchant creature
+Enchanted creature loses all abilities, has base power and toughness 1/1, and is a Plant in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/65_Lignification.png" num="65">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Elai Ascendant</name>
+			<text>Whenever you cast a spell from anywhere other than your hand, you may activate one of Elai Ascendant&apos;s loyalty abilities as though none of them have been activated this turn.
+[+2]: Exile the top two cards of your library. You may play one of those cards this turn.
+[0]: Until end of turn, you may play cards exiled with Elai Ascendant.
+[-X]: Elai Ascendant deals twice X damage to target creature. Exile cards from the top of your library equal to the excess damage dealt this way. You may play those cards this turn.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/224_Elai Ascendant.png" num="224">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Elai</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4UR</manacost>
+				<cmc>6</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Alexei&apos;s Response</name>
+			<text>Tap target nonland permanent. It loses all abilities until end of turn. If {S} was spent to cast this spell, put a stun counter on that permanent.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/45_Alexei&apos;s Response.png" num="45">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Anjarjan Adjudicator</name>
+			<text>When this creature enters, you may return target enchantment card from your graveyard to your hand. If you don&apos;t, draw a card.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/1_Anjarjan Adjudicator.png" num="1">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Suncatcher Elk</name>
+			<text>Menace
+Whenever this creature becomes tapped, it deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/160_Suncatcher Elk.png" num="160">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Assembla Pathfinder</name>
+			<text>Cluster — {3}{G}: Exile target card from a graveyard. If you exile a creature or enchantment card this way, you gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/170_Assembla Pathfinder.png" num="170">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Wolf Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mooncrown Stag</name>
+			<text>Cluster — {3}{G}, Exile a creature card from your graveyard: Create a 2/2 colorless Spirit creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/190_Mooncrown Stag.png" num="190">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Elk Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vallaroot Soulspinner</name>
+			<text>When this creature dies, create a 2/2 colorless Spirit creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/207_Vallaroot Soulspinner.png" num="207">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smug Denial</name>
+			<text>This spell costs {X} less to cast, where X is the number of cards you own in exile and in your graveyard that are instant cards, sorcery cards, and/or cards that have an Adventure.
+Counter target spell unless its controller pays {4}.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/79_Smug Denial.png" num="79">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fungal Cadaver</name>
+			<text>This creature can&apos;t block.
+Whenever a non-Fungus creature you control dies, you may pay {B} and 1 life. If you do, return this card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/99_Fungal Cadaver.png" num="99">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rimestaff Mentor</name>
+			<text>When this creature enters, if {S} was spent to cast it, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/197_Rimestaff Mentor.png" num="197">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Might of Kjaldir</name>
+			<text>Target creature gets +2/+2 until end of turn. If {S}{S} was spent to cast this spell, that creature gets +5/+5 until end of turn instead.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/189_Might of Kjaldir.png" num="189">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Heavenly Empyrean</name>
+			<text>Flying
+Cluster — {4}{W}: Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/21_Heavenly Empyrean.png" num="21">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mesmer Enchantress</name>
+			<text>Trample
+Whenever another enchantment you control enters, draw a card.
+Whenever this creature attacks, enchantment creatures you control gain trample and get +X/+X until end of turn, where X is the number of cards you&apos;ve drawn this turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/188_Mesmer Enchantress.png" num="188">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Cat Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aurora Charger</name>
+			<text>This creature has first strike during your turn.
+Cluster — {3}{W}: Tap target creature.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/5_Aurora Charger.png" num="5">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Unicorn Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Icehide Golem</name>
+			<text>({S} can be paid with one mana from a snow source.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/257_Icehide Golem.png" num="257">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>S</manacost>
+				<cmc>1</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Madness in Annihilation</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+Madness in Annihilation deals 4 damage to target opponent unless they have you draw three cards.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/151_Madness in Annihilation.png" num="151">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fryde, Patron of Fools</name>
+			<text>Trample
+At the beginning of your upkeep, create a 1/1 red Devil creature token with &quot;When this creature dies, it deals 1 damage to any target.&quot;
+Whenever you sacrifice a creature as an additional cost to cast a spell or activate an ability, you may copy that spell or ability. You may choose new targets for the copy.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/142_Fryde, Patron of Fools.png" num="142">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soul-Axe Veteran</name>
+			<text>When this creature enters, exile target creature or planeswalker an opponent controls until this creature leaves the battlefield.
+During your turn, your opponents can&apos;t cast spells or activate abilities unless they are mana abilities.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/35_Soul-Axe Veteran.png" num="35">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Solar Convert</name>
+			<text>Lifelink
+When this creature enters, stargaze. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/34_Solar Convert.png" num="34">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Charged Berserker</name>
+			<text>This creature&apos;s power is equal to the number of cards you own in exile and in your graveyard that are instant cards, sorcery cards, and/or cards that have Adventures.
+When this creature enters, it deals damage equal to its power to up to one target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/132_Charged Berserker.png" num="132">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>*/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Berserker&apos;s Cairn</name>
+			<text>{T}: Add {C}.
+{X}{S}: Exile target creature card with mana value X from a graveyard. You may have this land become a copy of that card until end of turn, except its still a snow land.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/270_Berserker&apos;s Cairn.png" num="270">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Unbound Undead</name>
+			<text>When this creature enters, target player mills three cards.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/118_Unbound Undead.png" num="118">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Zombie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ritualist of Old Blood</name>
+			<text>When this creature enters, choose one—
+• Create a 2/2 colorless Spirit creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
+• Sacrifice another creature. If you do, this creature deals 2 damage to any target.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/158_Ritualist of Old Blood.png" num="158">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aurora Harbinger</name>
+			<text>Flying, vigilance
+{2}, {T}: Copy target activated ability you control. You may choose new targets for the copy.
+Cluster — {3}{G}{U}: Draw a card. You may put a land card from your hand onto the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/213_Aurora Harbinger.png" num="213">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Bird Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Valdrasil Reborn</name>
+			<text>Tap an untapped land you control: Add {C}.
+Tap two untapped lands you control: Add one mana of any color.
+Tap six untapped lands you control: Add {W}{U}{B}{R}{G}.
+Tap twenty untapped lands you control: Lands you control become 20/20 Avatar creatures with indestructible. They&apos;re still lands.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/285_Valdrasil Reborn.png" num="285">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Host of Night</name>
+			<text>When this creature enters, you may sacrifice an enchantment. If you do, target player discards two cards.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/101_Host of Night.png" num="101">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ascendant Binding</name>
+			<text>Enchant nonland permanent
+When this Aura enters, tap enchanted permanent.
+Enchanted permanent loses all abilities and doesn&apos;t untap during its controller&apos;s untap step.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/47_Ascendant Binding.png" num="47">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hogback Chieftain</name>
+			<text>{G}, {T}: Put a +1/+1 counter on this creature. Activate only as a sorcery.
+{S}{S}{S}, {T}: This creature fights target creature an opponent controls. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/184_Hogback Chieftain.png" num="184">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cobbled Protector</name>
+			<text>Haste
+Whenever this creature attacks, each creature you control that&apos;s a Human and/or has an Adventure gains flying until end of turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/218_Cobbled Protector.png" num="218">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deepwyn Desecrator</name>
+			<text>{S}, Sacrifice this creature: Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/175_Deepwyn Desecrator.png" num="175">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Purifying Perfumer</name>
+			<text>{U}, {T}, Discard a card: Stargaze. Activate only as a sorcery. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/73_Purifying Perfumer.png" num="73">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reweaving the Roots</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+Distribute three +1/+1 counters among one, two, or three target creatures you control.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/196_Reweaving the Roots.png" num="196">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Drakkon Boltcaster</name>
+			<text>Flying
+When this creature enters, you may reveal a Dragon card from your hand. If you do or if you control another Dragon, this creature deals 3 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/138_Drakkon Boltcaster.png" num="138">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Minor Empyrean</name>
+			<text>This creature&apos;s power and toughness are each equal to half the number of nonland permanents you control, rounded up.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/23_Minor Empyrean.png" num="23">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ardent Starcrafting</name>
+			<text>When this creature enters, draw three cards.
+Whenever you cast a spell from anywhere other than your hand, you may cast a nonland card from your hand without paying its mana cost. Do this only once each turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/212_Ardent Starcrafting.png" num="212">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3GUR</manacost>
+				<cmc>6</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Deepfrost Citadel</name>
+			<text>{T}: Add {C}.
+{2}{S}, {T}: Draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/274_Deepfrost Citadel.png" num="274">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Arboreal Artisanry</name>
+			<text>When this enchantment enters, draw a card, then draw an additional card for each permanent you control with a +1/+1 counter on it.
+{5}{G}{G}: Put seven +1/+1 counters on target noncreature land you control. It becomes a 0/0 Elemental creature in addition to its other types. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/169_Arboreal Artisanry.png" num="169">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Whims of the Welkin</name>
+			<text>Until end of turn, you may look at the top card of your library and you may play cards from the top of your library. If you cast a spell this way, pay life equal to it&apos;s mana value rather than pay its mana cost.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/123_Whims of the Welkin.png" num="123">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BBB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Faithless Karaki</name>
+			<text>{S}: This creature gains deathtouch and lifelink until end of turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/97_Faithless Karaki.png" num="97">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Living Aurora</name>
+			<text>Flying
+Each Dragon you control has ward {3}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+Cluster — {1}{U}{U}: Create a token that&apos;s a copy of target token you control.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/66_Living Aurora.png" num="66">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Dragon Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ourobori, Reincarnated</name>
+			<text>Trample
+Ourobori gets +3/+3 for each enchantment you control.
+When Ourobori dies, you may sacrifice an enchantment. If you do, return Ourobori to its owner&apos;s hand.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/236_Ourobori, Reincarnated.png" num="236">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elvish Vitalist</name>
+			<text>When this creature enters, you gain 4 life. If a creature you controlled died this turn, you gain 8 life instead.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/178_Elvish Vitalist.png" num="178">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Climbing the Tree</name>
+			<text>When this enchantment enters, look at the top two cards of your library. Put up to one into your hand and the rest into your graveyard.
+Whenever you attack, you may return target land card from your graveyard to the battlefield. Until end of turn, it gains &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/173_Climbing the Tree.png" num="173">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Valdrasil Angel</name>
+			<text>Flying, vigilance
+Whenever this creature attacks, create an enchantment token named Realm&apos;s Favor with &quot;At the beginning of your end step, put a +1/+1 counter on each creature you control and a loyalty counter on each planeswalker you control.&quot;</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/38_Valdrasil Angel.png" num="38">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tender of the Land</name>
+			<text>If one or more tokens would be created under your control, instead create that many tokens plus a 1/1 green Forest Dryad land creature token. (It&apos;s affected by summoning sickness.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/204_Tender of the Land.png" num="204">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>GGG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arrested by Moonlight</name>
+			<text>Enchant creature
+When this Aura enters, stargaze. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)
+Enchanted creature can&apos;t attack or block.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/2_Arrested by Moonlight.png" num="2">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Surai&apos;s Armillary</name>
+			<text>{1}, {T}: The player whose turn it is may end the turn.
+{3}, {T}: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/262_Surai&apos;s Armillary.png" num="262">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grip of the Rime</name>
+			<text>Mill a card for each {S} spent to cast this spell, then return a creature card from your graveyard to the battlefield.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/100_Grip of the Rime.png" num="100">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cliffs of the Solemn Seekers</name>
+			<text>{T}: Add {C}. You may spend this mana as though it were mana of any color to cast snow spells.
+{3}{S}, {T}, Sacrifice this land: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/273_Cliffs of the Solemn Seekers.png" num="273">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Chilling Cross</name>
+			<text>If {S}{S} was spent to cast this spell, it can&apos;t be countered.
+Counter target spell.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/51_Chilling Cross.png" num="51">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Winter&apos;s Dictate</name>
+			<text>Draw X cards. Untap up to two snow permanents you control.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/84_Winter&apos;s Dictate.png" num="84">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XUU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Otherwordly Crafter</name>
+			<text>Enchantment spells you cast cost {1} less to cast.
+At the beginning of your upkeep, if you control four or more differently named enchantments, create a token that&apos;s a copy of another target enchantment you control.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/235_Otherwordly Crafter.png" num="235">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Realm Evacuation</name>
+			<text>Starting with you, each player chooses a permanent type that hasn&apos;t been chosen yet. Then for each player, destroy all nonland permanents they control not of their chosen type.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/29_Realm Evacuation.png" num="29">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4WWW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sigri, Valdrasil Avatar</name>
+			<text>Sigri and other creatures you control enter with X additional +1/+1 counters on them, where X is the number of creature you control with +1/+1 counters on them.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/199_Sigri, Valdrasil Avatar.png" num="199">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heidra&apos;s Heartglade</name>
+			<text>Whenever one or more creatures you control with counters on them leave the battlefield, put one of those counters onto this land.
+{1}, {T}: You may move a counter from this land to a creature you control. Activate only as a sorcery.
+{T}: Add {C}.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/276_Heidra&apos;s Heartglade.png" num="276">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lamplighter // Ignite from Within</name>
+			<text>Whenever you cast or copy an Adventure spell, this creature gets +2/+1 until end of turn.
+
+---
+
+Ignite from Within deals 1 damage to any target. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/149_Lamplighter.png" num="149">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Spirit // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>1R // R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Illusionist&apos;s Talent</name>
+			<text>Whenever you cast a spell that targets only a single creature, you may have this enchantment become a copy of that creature until end of turn, except its a 1/1 blue Bird creature with flying in addition to its other types and isn&apos;t legendary.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/64_Illusionist&apos;s Talent.png" num="64">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Skodir, Reborn // Serpent&apos;s Bane</name>
+			<text>Haste
+Whenever Skodir attacks, choose target creature you control. You may cast a copy of its Adventure. (You still pay its costs.)
+
+---
+
+Serpent&apos;s Bane deals 2 damage to any target and you gain 2 life. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/244_Skodir, Reborn.png" num="244">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior // Instant — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW // RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prancing Flame</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+Prancing Flame deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/155_Prancing Flame.png" num="155">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Teluran Portal</name>
+			<text>At the beginning of your end step, exile up to one target creature you control with one or more +1/+1 counters on it. Return it to the battlefield under its owner&apos;s control with X +1/+1 counters on it, where X is 1 plus the number of +1/+1 counters that were on it as it left the battlefield.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/37_Teluran Portal.png" num="37">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Njora, First Assembla</name>
+			<text>Trample, ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Whenever an opponent casts a spell, they may sacrifice a permanent, If they don&apos;t, you may copy that spell. You may choose new targets for the copy.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/234_Njora, First Assembla.png" num="234">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>3UBR</manacost>
+				<cmc>6</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dark Matter Kirin</name>
+			<text>Flying, lifelink
+Cluster — {4}{B}{B}: Each opponent loses life equal to the amount of life you&apos;ve gained this turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/90_Dark Matter Kirin.png" num="90">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Kirin Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ifryn, Last Assembla</name>
+			<text>Menace
+At the beginning of your upkeep, choose target player. Until end of turn, that player can&apos;t cast spells or activate abilities and plays with their hand and the top card of their library revealed. Until end of turn, you may cast spells from that player&apos;s hand and from the top of their library. You may spend mana as though it were mana of any color to cast spells this way.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/229_Ifryn, Last Assembla.png" num="229">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>3WUB</manacost>
+				<cmc>6</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ifryn Unseals the Gate</name>
+			<text>Choose one or more—
+• Target creature gets -5/-5 until end of turn.
+• Remove five loyalty counters from target planeswalker.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/103_Ifryn Unseals the Gate.png" num="103">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Zyxtron, the Realmslayer // Brilliant End</name>
+			<text>Whenever Zyxtron attacks, search your library for up to three land cards with different names, put them onto the battlefield tapped, then shuffle.
+Crew 3
+
+---
+
+Each player chooses three permanents they control that are one or more colors. Exile those permanents. (Then exile this card. You may cast the Vehicle later from exile.)</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/267_Zyxtron, the Realmslayer.png" num="267">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle // Sorcery — Adventure</type>
+				<maintype>Artifact</maintype>
+				<manacost>7 // 7</manacost>
+				<cmc>7</cmc>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Displace from Reality</name>
+			<text>Exile target nonland permanent. For as long as that card remains exiled, its owner may play it. If you don&apos;t own that card, it gains &quot;You may cast this card from exile as long as you&apos;ve cast another spell this turn.&quot;</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/14_Displace from Reality.png" num="14">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Chromatic Apex</name>
+			<text>Flying, protection from monocolored (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything monocolored.)
+Cluster — {W}{U}{B}{R}{G}: Exile cards from the top of your library until you exile a nonland card. You may cast that card without paying its mana cost. Put the exiled cards on the bottom of your library in a random order. Activate only during your turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/217_Chromatic Apex.png" num="217">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Dragon Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Amede, the Invoker</name>
+			<text>If one or more +1/+1 counters would be put on a permanent you control, that many plus one +1/+1 counters are put on it instead.
+[+1]: Untap up to one target creature.
+[-2]: Create a 1/1 green Shaman creature token with &quot;{T}: Add X mana of any one color, where X is this creature&apos;s power.&quot;
+[-6]: You get an emblem with &quot;At the beginning of each combat, double the power and toughness of each creature you control until end of turn.&quot;</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/168_Amede, the Invoker.png" num="168">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Amede</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Deepwyn Summoning</name>
+			<text>Search your library and/or graveyard for a creature card with mana value X or less and put it onto the battlefield. If that creature&apos;s mana value is less than X, it enters the battlefield with a number of additional +1/+1 counters on it equal to the difference. If you search your library this way, shuffle.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/176_Deepwyn Summoning.png" num="176">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pray to the Forbidden</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+Search your library for a card, put it into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/110_Pray to the Forbidden.png" num="110">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deep Depths Serpent</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+At the beginning of your end step, each opponent loses life equal to the life that player lost this turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/93_Deep Depths Serpent.png" num="93">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>7B</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Reaper</name>
+			<text>Flying
+Whenever this creature attacks, sacrifice a creature unless a creature you controlled has died this turn.
+Cluster — {1}{B}, Sacrifice a creature: Draw a card.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/89_Cosmic Reaper.png" num="89">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Emissary of the Inferno</name>
+			<text>Flying
+Whenever you cast an instant or sorcery spell, create a 1/1 red Devil creature token with &quot;When this creature dies, it deals 1 damage to any target.&quot;
+Whenever a token you control enters, double this creature&apos;s power until end of turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/141_Emissary of the Inferno.png" num="141">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vallaroots Lich</name>
+			<text>{B}, {T}, Sacrifice this creature: Return target creature card from your graveyard to the battlefield. You lose life equal to its mana value. Activate only as a sorcery.
+{S}{S}{S}: Return this card from your graveyard to the battlefield tapped. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/121_Vallaroots Lich.png" num="121">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Zombie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Ascension</name>
+			<text>Return target permanent card with mana value 3 or less from your graveyard to the battlefield. If it&apos;s a creature, it enters the battlefield with X additional +1/+1 counters on it. If it&apos;s a planeswalker, it enters the battlefield with X additional loyalty counters on it.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/12_Cosmic Ascension.png" num="12">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>X2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pulsating Spire</name>
+			<text>Whenever a creature you control dies, this artifact deals 1 damage to each opponent.
+{2}, {T}, Sacrifice a creature: Exile the top card of your library. Until end of turn, you may play that card. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/259_Pulsating Spire.png" num="259">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wolf of Anjarja</name>
+			<text>Whenever this creature attacks, if defending player controls two or fewer basic lands, target creature can&apos;t block this turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/166_Wolf of Anjarja.png" num="166">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dawn on the Weary</name>
+			<text>Players can&apos;t cast noncreature spells.
+At the beginning of your upkeep, exile this enchantment and scry 2.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/13_Dawn on the Weary.png" num="13">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>True Ice Shard</name>
+			<text>When this artifact enters, draw a card.
+{2}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/265_True Ice Shard.png" num="265">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kjaldiran Elk</name>
+			<text>When this creature enters, mill a card for each {S} spent to cast it.
+Lands you control enter the battlefield untapped.
+You may play snow lands from your graveyard.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/187_Kjaldiran Elk.png" num="187">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pale Life-Shadow</name>
+			<text>{S}, {T}: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/72_Pale Life-Shadow.png" num="72">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Zombie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chilling Presence</name>
+			<text>Return target creature card from your graveyard to your hand.
+Whenever this card is put into your graveyard from your library, you may sacrifice a snow permanent or pay {S}. If you do, each opponent loses 3 life and you gain 3 life.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/87_Chilling Presence.png" num="87">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Returned Frostblade</name>
+			<text>This creature can&apos;t block.
+Whenever one or more snow cards not named Returned Frostblade are put into your graveyard from anywhere, you may pay 1 life. If you do, return this card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/243_Returned Frostblade.png" num="243">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bearer of the Rage</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+Double strike</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/129_Bearer of the Rage.png" num="129">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Infested Vallaheart</name>
+			<text>Whenever you cast a spell, if the amount of mana you spent to cast it is less than its mana value, create a 1/1 red Devil creature token with &quot;When this creature dies, it deals 1 damage to any target.&quot;</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/230_Infested Vallaheart.png" num="230">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Verglas Stagrider</name>
+			<text>Whenever this creature becomes tapped, you may exile target card from a graveyard.
+{T}: Add one mana of any color. Until end of turn, if this mana is spent to cast a snow spell, if there are three or more snow cards exiled by this creature, you draw a card and lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/249_Verglas Stagrider.png" num="249">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deathless Conscription</name>
+			<text>At the beginning of your end step, if you gained life this turn, return target creature or planeswalker card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/220_Deathless Conscription.png" num="220">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Elvish Branchwalker</name>
+			<text>Trample, reach
+When this creature enters, put X +1/+1 counters on it, where X is the number of +1/+1 counters among creatures you control.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/226_Elvish Branchwalker.png" num="226">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Anjarjan Archangel</name>
+			<text>Flying
+When this creature enters, stargaze. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)
+Whenever you activate a cluster ability, put a +1/+1 counter on target creature.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/211_Anjarjan Archangel.png" num="211">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deepwyn Lurker</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+Whenever a creature you control dies, this creature deals 2 damage to each opponent.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/221_Deepwyn Lurker.png" num="221">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>5RG</manacost>
+				<cmc>7</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snow on Empires Past</name>
+			<text>Reveal the top four cards of your library. You may put a snow card from among them into your hand. If you don&apos;t, you gain 2 life. Put the rest into your graveyard.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/201_Snow on Empires Past.png" num="201">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lanion, Beyond Realms</name>
+			<text>Sacrifice another artifact: Lanion phases out. Activate only as a sorcery.
+[+1]: You may discard a card. If you do, draw a card. You may sacrifice another artifact. If you do, draw a card.
+[-2]: Each opponent sacrifices a creature with power greater than or equal to the number of cards in their hand.
+[-7]: You get an emblem with &quot;Tap two untapped artifacts you control: Return target artifact card from your graveyard to the battlefield tapped.&quot;</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/233_Lanion, Beyond Realms.png" num="233">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Planeswalker — Lanion</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pyrrhic Strike</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+Destroy target creature.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/111_Pyrrhic Strike.png" num="111">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lanion&apos;s Sacrifice</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact, sacrifice a creature, or pay {2}{B}.
+Lanion&apos;s Sacrifice deals 3 damage to any target and you gain 3 life.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/104_Lanion&apos;s Sacrifice.png" num="104">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ingjald, Vile Calamity</name>
+			<text>Trample
+You may spend mana as though it were mana of any color to activate abilities of creatures you control.
+Creatures you control have all activated abilities of all creature cards in graveyards.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/231_Ingjald, Vile Calamity.png" num="231">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>5BG</manacost>
+				<cmc>7</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tiraan, the Uranographer</name>
+			<text>Whenever you cast a noncreature spell, stargaze. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/82_Tiraan, the Uranographer.png" num="82">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fugue Dirge</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+Choose one—
+• Fugue Dirge deals 5 damage to target creature or planeswalker.
+• Destroy target artifact.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/144_Fugue Dirge.png" num="144">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Drakkonic Scion</name>
+			<text>Haste
+If you would draw a card during your draw step, you may instead search your library for a Dragon card, exile it, then shuffle. You may play that card this turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/140_Drakkonic Scion.png" num="140">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Predator&apos;s Wake</name>
+			<text>When this enchantment enters, you may sacrifice a creature. If you do, destroy target nonland permanent an opponent controls.
+Spells you cast cost {1} less to cast for each creature you controlled that died this turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/237_Predator&apos;s Wake.png" num="237">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RWB</manacost>
+				<cmc>4</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Galaxy Drakkon</name>
+			<text>Flying
+If a player beginning a step or phase causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/62_Galaxy Drakkon.png" num="62">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Auspicious Avatar</name>
+			<text>Flying
+Whenever you draw your second card each turn, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Cluster — {2}{U}{U}: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/48_Auspicious Avatar.png" num="48">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Bird Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starfang Serpent</name>
+			<text>Menace
+Cluster — {3}{B}: Each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/116_Starfang Serpent.png" num="116">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Serpent Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Countervailing Drakkon</name>
+			<text>Flash
+Flying
+When this creature enters, counter up to one target spell with mana value X or less, where X is 2 plus the number of other Dragons you control.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/56_Countervailing Drakkon.png" num="56">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Armillary Drakkon</name>
+			<text>Flying
+When this creature enters, choose target instant or sorcery card in your graveyard or target permanent card you own in exile that has an Adventure. Return that card to your hand.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/127_Armillary Drakkon.png" num="127">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crimson Deathmaw</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+Flying
+{R}: This creature gets +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/135_Crimson Deathmaw.png" num="135">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wrath of the Empyreans</name>
+			<text>At the beginning of your upkeep, exile the top card of your library. You may play that card this turn.
+Whenever you cast or copy a spell, put a +1/+1 counter on target creature you control. Then if that spell was cast from exile, that creature deals damage equal to its power to any target.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/167_Wrath of the Empyreans.png" num="167">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Myriad Forms</name>
+			<text>Enchant creature
+At the beginning of combat on enchanted creature&apos;s controller&apos;s turn, that player creates three tokens that are copies of enchanted creature, except those tokens have haste. Exile those tokens at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/153_Myriad Forms.png" num="153">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Constellamancer</name>
+			<text>When this creature enters, target player mills two cards.
+Cluster — {3}{U}: Choose up to one card in a graveyard that was put there from anywhere other than the battlefield this turn. Return that card to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/55_Constellamancer.png" num="55">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Storm Drakkon</name>
+			<text>As long as you own two or more cards in exile and in your graveyard that are instant cards, sorcery cards, and/or cards have an Adventure, you may cast this spell as though it has flash.
+Flying</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/81_Storm Drakkon.png" num="81">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rebel Rising</name>
+			<text>Exile each creature you control. Reveal cards from the top of your library until you reveal that many Human cards and/or creature cards with an Adventure. Put those cards onto the battlefield under your control and the rest on the bottom of your library in a random order. Creatures you control gain haste until end of turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/241_Rebel Rising.png" num="241">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4RW</manacost>
+				<cmc>6</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Boreal Bastion</name>
+			<text>This land enters tapped.
+When this land enters, if you control another snow permanent, exile target player&apos;s graveyard.
+{T}: Add {C}.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/271_Boreal Bastion.png" num="271">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bog Beetle</name>
+			<text>Vigilance
+Whenever this creature attacks, put a +1/+1 counter on it and defending player chooses a creature card in your graveyard. Exile that card. Create a token that&apos;s a copy of it, except it&apos;s a Treasure artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color&quot; and it loses all other types.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/215_Bog Beetle.png" num="215">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bronzewing Sagittar</name>
+			<text>Flying
+When this creature enters, stargaze. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/49_Bronzewing Sagittar.png" num="49">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glory of the Heavens</name>
+			<text>This creature enters with X +1/+1 counters on it.
+Whenever you cast an enchantment spell, double the number of +1/+1 counters on this creature.
+As long as this creature has ten or more +1/+1 counters on it, it has trample and haste.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/180_Glory of the Heavens.png" num="180">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Fish Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>XGGG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Locus Manipulator</name>
+			<text>When this creature enters, create a token that&apos;s a copy of target enchantment you control.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/67_Locus Manipulator.png" num="67">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moonshaker Cavalry</name>
+			<text>Flying
+When this creature enters, creatures you control gain flying and get +X/+X until end of turn, where X is the number of creatures you control.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/24_Moonshaker Cavalry.png" num="24">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>5WWW</manacost>
+				<cmc>8</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warlock&apos;s Ire</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+Target opponent discards two cards. If fewer than two cards were discarded this way, you draw cards equal to the difference.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/122_Warlock&apos;s Ire.png" num="122">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Serpent of World&apos;s Edge</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+Trample</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/198_Serpent of World&apos;s Edge.png" num="198">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>6G</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Empyrean Inquisition</name>
+			<text>Target opponent reveals their hand. You choose a nonland card from it. Exile it. Search its owner&apos;s graveyard, hand, and library for any number of cards with the same name as that card and exile them. That player shuffles, then draws a card for each card exiled from their hand this way beyond the first.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/95_Empyrean Inquisition.png" num="95">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Saboteur&apos;s Display</name>
+			<text>Choose one—
+• Copy target activated or triggered ability you control. You may choose new targets for the copy.
+• Counter target activated or triggered ability an opponent controls.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/75_Saboteur&apos;s Display.png" num="75">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Arrow of the Heavens</name>
+			<text>Reach
+When this creature enters, it deals 1 damage to target opponent or planeswalker an opponent controls.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/128_Arrow of the Heavens.png" num="128">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starchaser // Catch Up</name>
+			<text>Flying
+Whenever this creature attacks, if defending player controls more lands than you, you may put a land card from your hand onto the battlefield tapped.
+
+---
+
+If an opponent controls more lands than you, search your library for up to three basic Plains cards, reveal them, put them into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/36_Starchaser.png" num="36">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Scout // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>1W // 2W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Xyvera, Who Remains</name>
+			<text>Menace
+When Xyvera enters or whenever you play a land or cast a spell you don&apos;t own, exile the top card of target opponent&apos;s library. You may play that card for as long as it remains in exile, and you may spend mana as though it were mana of any color to cast it.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/125_Xyvera, Who Remains.png" num="125">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Knutr, Blighted Embrace</name>
+			<text>When Knutr enters, create a Treasure token.
+Whenever a creature dies, exile the top card of its controller&apos;s library. Until your next end step, you may play that card.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/148_Knutr, Blighted Embrace.png" num="148">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Longboat Hunter // Sink Ships</name>
+			<text>This spell can&apos;t be countered.
+Kraken, Leviathan, Octopus, and Serpent spells you control can&apos;t be countered.
+
+---
+
+Return all noncreature, nonland permanents to their owners&apos; hands. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/68_Longboat Hunter.png" num="68">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Kraken // Instant — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU // 2UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Katjar Peacebane</name>
+			<text>Flying, vigilance, trample
+Spells you cast have pyre. (Your creatures can help cast those spells. Each creature you tap while casting those spells pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+When this creature dies, if it attacked since your last upkeep, return it to the battlefield tapped under your control.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/232_Katjar Peacebane.png" num="232">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>2BRG</manacost>
+				<cmc>5</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Celestial Vault</name>
+			<text>{3}, {T}: Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.
+Sacrifice this artifact: You may attach any number of Equipment you control to target creature.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/252_Celestial Vault.png" num="252">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scryer&apos;s Safeguard</name>
+			<text>Return target permanent you control to its owner&apos;s hand. 
+Draw a card.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/32_Scryer&apos;s Safeguard.png" num="32">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Frostdrakkon&apos;s Shadow</name>
+			<text>Tap all nonland permanents target opponent controls. Distribute X stun counters among those permanents, where X is the amount of {S} spent to cast this spell.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/61_Frostdrakkon&apos;s Shadow.png" num="61">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Runewarper</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+When this creature enters, each opponent loses 1 life for each creature card in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/113_Runewarper.png" num="113">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>7BB</manacost>
+				<cmc>9</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unleashed Malevolence</name>
+			<text>Flying
+Whenever a player casts a spell with mana value 5 or greater, each of your opponents loses 2 life and you draw a card.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/119_Unleashed Malevolence.png" num="119">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Challenge the Heavens</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Draw cards equal to the number of counters on target permanent.
+III — You may put a permanent card from your hand onto the battlefield.
+​</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/50_Challenge the Heavens.png" num="50">VLA</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Convergent Cairn</name>
+			<text>If a triggered ability of a creature you control with a +1/+1 counter on it triggers, it triggers an additional time.
+{2}, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/253_Convergent Cairn.png" num="253">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kjaldiran Cavalry // Rally</name>
+			<text>At the beginning of your end step, if you&apos;ve cast both a creature spell and noncreature spell this turn, this creature deals 4 damage to each opponent.
+
+---
+
+If a source you control would deal damage this turn, it deals double that damage instead. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/147_Kjaldiran Cavalry.png" num="147">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior // Instant — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR // 2R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drakkon Tender</name>
+			<text>Whenever you cast an instant or sorcery spell, put a +1/+1 counter on this creature and each Dragon creature you control.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/222_Drakkon Tender.png" num="222">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Convergence Pack</name>
+			<text>Whenever this creature attacks, stargaze. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)
+Whenever you activate a cluster ability, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/174_Convergence Pack.png" num="174">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wicked Elderspirit</name>
+			<text>At the beginning of your upkeep, you draw a card and lose 1 life.
+{B}{B}{B}{B}{B}{B}, Discard six cards, Sacrifice six other creatures: Target opponent loses the game. Activate only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/124_Wicked Elderspirit.png" num="124">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>BBBB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Realmtillers</name>
+			<text>When this creature enters, create a 1/1 white Human creature token.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/194_Realmtillers.png" num="194">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ox</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ecliptic Angel</name>
+			<text>Flying
+Pay 1 life: Draw a card. Activate only if your life total is greater than your starting life total.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/94_Ecliptic Angel.png" num="94">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Symbol of the Storm</name>
+			<text>Snow creatures you control get +1/+1 and have trample.
+{T}: Add X mana of any one color, where X is the number of snow cards in your graveyard.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/264_Symbol of the Storm.png" num="264">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Empyrean Mare</name>
+			<text>Sacrifice a creature: Stargaze. Activate only as a sorcery. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/96_Empyrean Mare.png" num="96">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Horse Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Manifested Eclipse</name>
+			<text>This creature has lifelink during your turn.
+{1}{B}, Exile this card from your graveyard: Stargaze. Activate only as a sorcery. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/107_Manifested Eclipse.png" num="107">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Transgress Heaven</name>
+			<text>You may choose new targets for target spell with mana value 3 or less.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/162_Transgress Heaven.png" num="162">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vallaheart Commander // Piercing Blow</name>
+			<text>When this creature enters, creatures you control get +1/+1 until end of turn.
+
+---
+
+Piercing Blow deals 3 damage to target tapped creature. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/39_Vallaheart Commander.png" num="39">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior // Instant — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW // 1W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blessed Dragonslayer // Ardent Aid</name>
+			<text>Whenever a creature you control that has an Adventure attacks, it gets +1/+0 until end of turn.
+
+---
+
+Return target creature card from your graveyard to the battlefield. You may cast a copy of its Adventure. (You still pay that Adventure&apos;s costs.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/7_Blessed Dragonslayer.png" num="7">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>W // 3WW</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Realmsieger // Bring Ruin</name>
+			<text>Whenever you cast or copy an Adventure spell, if it&apos;s your main phase, there&apos;s an additional combat phase after this phase. At the beginning of that combat, untap all creatures you control.
+
+---
+
+Bring Ruin deals 4 damage to each creature and/or planeswalker that doesn&apos;t have an Adventure. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/157_Realmsieger.png" num="157">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Demon Warrior // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR // 3RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Self-Destruct</name>
+			<text>Until end of turn, whenever an artifact, enchantment, creature, or planeswalker you control is put into your graveyard from the battlefield, each opponent sacrifices a permanent that shares a card type with it.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/114_Self-Destruct.png" num="114">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vallaheart Redeemer // Reinforce</name>
+			<text>---
+
+Create two 1/1 white Human creature tokens. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/40_Vallaheart Redeemer.png" num="40">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior // Instant — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>3W // 2W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corrupted Empyrean // Brutalize</name>
+			<text>Menace
+This creature can&apos;t block.
+
+---
+
+Target creature gets +2/+0 and gains menace until end of turn. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/134_Corrupted Empyrean.png" num="134">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Horror Warrior // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>3R // R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hero of the Final Dawn // Bring the Dawn</name>
+			<text>This creature enters with a +1/+1 counter on it.
+When this creature dies, put its counters on target creature you control.
+
+---
+
+Put a +1/+1 counter on each creature you control. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/22_Hero of the Final Dawn.png" num="22">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>1W // 3W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mage-Warrior Prefect // Distract</name>
+			<text>{T}: Untap target permanent not named Mage-Warrior Prefect.
+
+---
+
+Target creature gets -3/-0 until end of turn. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/69_Mage-Warrior Prefect.png" num="69">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Warrior // Instant — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>2U // U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reconstitute</name>
+			<text>Return target enchantment card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/242_Reconstitute.png" num="242">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Resolute Starweaver</name>
+			<text>Whenever you cast an enchantment spell, tap or untap target creature.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/31_Resolute Starweaver.png" num="31">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seal Away</name>
+			<text>Flash
+When this enchantment enters, exile target tapped creature an opponent controls until this enchantment leaves the battlefield.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/33_Seal Away.png" num="33">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Eirsdottir, the Insurgent</name>
+			<text>Whenever you cast or copy an Adventure spell, put a +1/+1 counter on Eirsdottir.
+Whenever Eirsdottir attacks, create X 2/1 red Human Warrior creature tokens, where X is Eirsdottir&apos;s power. Those tokens enter tapped and attacking.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/223_Eirsdottir, the Insurgent.png" num="223">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wandering Glacier</name>
+			<text>When this creature enters, you may search your library for a basic or snow land card, reveal it, then shuffle and put that card on top.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/266_Wandering Glacier.png" num="266">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Uncharted Expanse</name>
+			<text>When this enchantment enters, it deals 3 damage to any target and you gain 3 life.
+Tap two untapped permanents you control that have Adventures: Copy target Adventure spell you control. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/248_Uncharted Expanse.png" num="248">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1URW</manacost>
+				<cmc>4</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Guide the Way</name>
+			<text>This spell costs {1} less to cast for each tapped creature your opponents control.
+Draw four cards.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/63_Guide the Way.png" num="63">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>6U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Talkia, Astral Current</name>
+			<text>Whenever you gain life, stargaze. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)
+When Talkia dies, if your life total is greater than your starting life total, you gain life equal to the difference.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/246_Talkia, Astral Current.png" num="246">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hoarfrost Greatwolf</name>
+			<text>This creature&apos;s power and toughness are each equal to the number of snow permanents you control.
+When this creature enters, create two 2/2 green Wolf creature tokens.
+Wolves you control have trample.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/183_Hoarfrost Greatwolf.png" num="183">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moonguard Empyrean</name>
+			<text>Trample
+Whenever you cast a spell that&apos;s white, blue, black, or red, put a +1/+1 counter on this creature.
+Cluster — {3}{G}: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/191_Moonguard Empyrean.png" num="191">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frode, Assembla&apos;s Arrow</name>
+			<text>At the beginning of combat on your turn, for each enchantment you control, choose an ability from among first strike, flying, vigilance, and lifelink that you haven&apos;t chosen yet this combat. Creatures you control gain the chosen abilities until end of turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/18_Frode, Assembla&apos;s Arrow.png" num="18">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glacial Expedition</name>
+			<text>At the beginning of your upkeep, you may search your library for a snow land card, put it onto the battlefield, then shuffle.
+Whenever a snow permanent you control enters, you may have target player mill two cards.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/227_Glacial Expedition.png" num="227">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BGU</manacost>
+				<cmc>3</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Elderwurm&apos;s Lair</name>
+			<text>Whenever you gain life, each opponent loses 1 life.
+Pay 6 life: Create a 6/6 green Wurm creature token with trample. Activate only if your life total is higher than your starting life total.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/225_Elderwurm&apos;s Lair.png" num="225">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WBG</manacost>
+				<cmc>3</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Frode&apos;s Messenger</name>
+			<text>Flying
+Whenever this creature attacks, another target attacking creature you control gains flying until end of turn.
+{1}{W}: This creature gains lifelink until end of turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/19_Frode&apos;s Messenger.png" num="19">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brilliance of the Heavens</name>
+			<text>You gain 4 life.
+Stargaze. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/8_Brilliance of the Heavens.png" num="8">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Celestial Unicorn</name>
+			<text>Whenever you gain life, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/10_Celestial Unicorn.png" num="10">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Unicorn</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vestige of Spring</name>
+			<text>This land enters tapped.
+When this land enters, add one mana of any color.
+{T}: Add {C}.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/286_Vestige of Spring.png" num="286">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Aurora Chorus</name>
+			<text>At the beginning of each end step, if you&apos;ve gained 3 or more life this turn, draw a card. Then if you&apos;ve gained 6 or more life this turn, create a 4/4 white Angel creature token with flying and vigilance.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/6_Aurora Chorus.png" num="6">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Haughty Empyrean</name>
+			<text>Cluster — {4}{W}: Create a 1/1 white Human creature token.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/20_Haughty Empyrean.png" num="20">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Umbral Trespasser</name>
+			<text>Flying
+Cluster — {3}{U}: Target creature you control gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/83_Umbral Trespasser.png" num="83">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Insect Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lich&apos;s Masterpiece // Last Life</name>
+			<text>Trample, haste
+At the beginning of your end step, sacrifice this creature.
+
+---
+
+Take an extra turn after this one. At the beginning of that turn&apos;s end step, you lose the game. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/150_Lich&apos;s Masterpiece.png" num="150">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Zombie // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR // 1RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>7/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Preserved Leviathan</name>
+			<text>Trample, ward {4}
+This creature enters tapped with twelve stun counters on it.
+Whenever another snow permanent you control enters or a snow card is put into your graveyard from anywhere, untap this creature.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/238_Preserved Leviathan.png" num="238">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>12/12</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Surge of the Ancestors</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+Return all cards from your graveyard to your hand. Exile this spell.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/203_Surge of the Ancestors.png" num="203">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>9GG</manacost>
+				<cmc>11</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mercurial Drakkon // Chaos Storm</name>
+			<text>Flying
+You may have this creature enter as a copy of a Dragon you control.
+
+---
+
+Create a token that&apos;s a copy of target noncreature permanent you control, except it&apos;s a 3/3 Dragon creature in addition to its other types, and it has flying.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/70_Mercurial Drakkon.png" num="70">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter Dragon // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>1U // 2UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skeletal Abomination</name>
+			<text>{S}, {T}, Sacrifice another creature: You gain life equal to that creature&apos;s power and draw a card.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/115_Skeletal Abomination.png" num="115">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Portent of the End</name>
+			<text>Flying
+When this creature enters, create a 2/2 colorless Spirit creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/109_Portent of the End.png" num="109">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hulking Monstrosity</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or exile two creature cards from your graveyard.
+Menace</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/102_Hulking Monstrosity.png" num="102">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slumbering Branchspeaker</name>
+			<text>{T}: Add {G}.
+{2}, {T}: Mill two cards.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/200_Slumbering Branchspeaker.png" num="200">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fryde&apos;s Lurker</name>
+			<text>{1}, Sacrifice another creature: Put a +1/+1 counter on this creature. It gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/143_Fryde&apos;s Lurker.png" num="143">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Claws of the Deepwyn</name>
+			<text>When this creature enters, if {S}{S} was spent to cast it, destroy target creature or planeswalker an opponent controls.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/88_Claws of the Deepwyn.png" num="88">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Branchspine Serpent</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+Flash
+When this creature enters, up to one target creature gets -2/-2 until end of turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/86_Branchspine Serpent.png" num="86">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Haunted Journeyman</name>
+			<text>Haste
+When this creature dies, create a 2/2 colorless Spirit creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/146_Haunted Journeyman.png" num="146">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hunter&apos;s Stalking</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+Put a +1/+1 counter on target creature you control. It deals damage equal to its power to up to one target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/185_Hunter&apos;s Stalking.png" num="185">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Demonic Rites</name>
+			<text>{1}, Sacrifice a creature: Exile the top card of your library. You may play that card this turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/137_Demonic Rites.png" num="137">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Deathless Pact</name>
+			<text>If a source would deal damage to you, prevent that damage and exile that many cards from the top of your library. You lose life equal to the total mana value of cards exiled this way.
+During your turn, you may play cards exiled with this enchantment.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/92_Deathless Pact.png" num="92">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Touch Valdrasil&apos;s Heart</name>
+			<text>Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle. Then create a 2/2 colorless Spirit creature token with decayed for each land you control. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/205_Touch Valdrasil&apos;s Heart.png" num="205">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Offering to Chaos</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+Exile cards from the top of your library until you exile two nonland cards. You may cast those cards without paying their mana costs. Exile this spell.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/154_Offering to Chaos.png" num="154">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>8R</manacost>
+				<cmc>9</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Starforger Empyrean</name>
+			<text>Cluster — {1}{U}, Exile an artifact, creature, or enchantment card from your graveyard: Put a +1/+1 counter on target creature. It gains all activated abilities of the exiled card until end of turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/80_Starforger Empyrean.png" num="80">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Njora&apos;s Titan</name>
+			<text>Whenever this creature enters or attacks, stargaze. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)
+Cluster — {3}{W}{W}: Return target permanent card with mana value 3 or less from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/26_Njora&apos;s Titan.png" num="26">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Giant Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eye of the Oppressor</name>
+			<text>Vigilance
+Whenever a spell or ability an opponent controls destroys a noncreature permanent you control, you may destroy target nonland permanent that opponent controls. If you don&apos;t, tap all permanents they control.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/17_Eye of the Oppressor.png" num="17">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Artifact Creature — Eye</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vallaheart Hunter // Deadly Shot</name>
+			<text>If a source you control would deal noncombat damage to a permanent or player, it deals that damage plus 1 instead.
+
+---
+
+Fireblade Strike deals 4 damage to target creature. (Then exile this card. You may the creature later from exile.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/164_Vallaheart Hunter.png" num="164">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>1R // 3R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Martyr&apos;s Funeral</name>
+			<text>When this enchantment enters the battlefield, you may discard a card. If you do, draw two cards.
+Whenever you sacrifice a creature, you may sacrifice this enchantment. If you do, this enchantment deals 2 damage to each opponent.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/152_Martyr&apos;s Funeral.png" num="152">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bitter End</name>
+			<text>Bitter End deals 3 damage to target creature or planeswalker. Add {R}.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/130_Bitter End.png" num="130">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deepwyn Witness</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+When this creature enters, return target noncreature permanent card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/177_Deepwyn Witness.png" num="177">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bovi&apos;s Realmcutter</name>
+			<text>Whenever this creature attacks, choose one—
+• You may put a snow land card from your hand onto the battlefield tapped.
+• You may return target snow land card from your graveyard to the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/172_Bovi&apos;s Realmcutter.png" num="172">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mystic Repeal</name>
+			<text>Put target enchantment on the bottom of its owner&apos;s library.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/192_Mystic Repeal.png" num="192">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Realmbranch Husk</name>
+			<text>{T}: Add {C}.
+{T}, Sacrifice this land: Destroy target nonbasic land. If it wasn&apos;t a snow land, that land&apos;s controller may search their library for a basic land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/278_Realmbranch Husk.png" num="278">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Worthy Prey</name>
+			<text>When this creature dies, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/209_Worthy Prey.png" num="209">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Age of Unceasing Ice</name>
+			<text>Whenever one or more snow cards are put into your graveyard from anywhere, exile up to one target creature you control, then return it to the battlefield under its owner&apos;s control at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/43_Age of Unceasing Ice.png" num="43">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Perdition</name>
+			<text>Destroy target creature or planeswalker if it has mana value 3 or less or if a creature you controlled died this turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/108_Perdition.png" num="108">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cryodrakkon</name>
+			<text>Flying
+Whenever you cast a spell, if you spent one or more {S} to cast it, create an X/X blue Golem snow artifact creature token, where X is the amount of {S} spent to cast that spell.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/57_Cryodrakkon.png" num="57">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drakkon Egg</name>
+			<text>When this creature dies, create a 2/2 red Dragon creature token with flying and haste.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/139_Drakkon Egg.png" num="139">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Egg</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Binding of the Beast</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II, III — You may sacrifice a creature. If you do, search your library for a creature card with mana value equal to 1 plus the sacrificed creature&apos;s mana value, put that card onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/214_Binding of the Beast.png" num="214">VLA</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Brutal Flail</name>
+			<text>Equipped creature gets +3/+3 and has &quot;Whenever this creature is dealt damage, each opponent loses 2 life.&quot;
+Equip—Sacrifice a creature. (Sacrifice a creature: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/251_Brutal Flail.png" num="251">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Entombed Blade</name>
+			<text>Equipped creature gets +1/+1 and has &quot;Whenever this creature attacks, exile up to one target card from defending player&apos;s graveyard.&quot;
+Equip {1}</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/254_Entombed Blade.png" num="254">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Realmbound Rider</name>
+			<text>Flying
+{4}{W}: Put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/30_Realmbound Rider.png" num="30">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cairn Phantom</name>
+			<text>Vigilance
+When this creature enters, exile up to three target cards from graveyards. You gain life equal to the number of permanent cards exiled this way.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/9_Cairn Phantom.png" num="9">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wing-Granted Paladin</name>
+			<text>As long as you control an enchantment, this creature has flying.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/42_Wing-Granted Paladin.png" num="42">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aura of Redemption</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 and has vigilance.
+Enchanted creature has &quot;{2}{W}, {T}, Sacrifice Aura of Redemption: Destroy target enchantment.&quot;</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/4_Aura of Redemption.png" num="4">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Divine Inundation</name>
+			<text>Flash
+Enchant creature
+When this Aura enters, enchanted creature gains indestructible until end of turn.
+Enchanted creature gets +2/+2.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/15_Divine Inundation.png" num="15">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nova Angel // Star&apos;s Glory</name>
+			<text>Flying
+When this creature enters, you gain 2 life and scry 2.
+
+---
+
+Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/27_Nova Angel.png" num="27">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Angel // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW // W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Compelling Demons // Vile Servitude</name>
+			<text>---
+
+Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/133_Compelling Demons.png" num="133">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Demon Shaman // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>5R // 3R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>7/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raging Giant</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+Haste</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/156_Raging Giant.png" num="156">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bring Ruin to the Realms</name>
+			<text>Bring Ruin to the Realms deals 1 damage to each creature and planeswalker your opponents control. Creatures your opponents control can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/131_Bring Ruin to the Realms.png" num="131">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Greedy Barbarian // Raid the Hoard</name>
+			<text>Flying
+Whenever you cast a Dragon spell, this creature deals 2 damage to each opponent.
+
+---
+
+Create a Treasure token. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/145_Greedy Barbarian.png" num="145">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior // Instant — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>3R // 1R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancestral Anger</name>
+			<text>Target creature gains trample and gets +X/+0 until end of turn, where X is 1 plus the number of cards named Ancestral Anger in your graveyard.
+Draw a card.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/126_Ancestral Anger.png" num="126">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cloak of the Equinox</name>
+			<text>Flash
+Enchant creature
+When this Aura enters, enchanted creature gains hexproof until end of turn.
+Enchanted creature gets +1/+1.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/53_Cloak of the Equinox.png" num="53">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stormguide Hammer</name>
+			<text>Equipped creature has &quot;{T}: This creature deals 1 damage to each opponent&quot; and &quot;Whenever you cast an instant or sorcery spell, untap this creature.&quot;
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/159_Stormguide Hammer.png" num="159">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Undying Wrath</name>
+			<text>Creatures you control get +2/+0 until end of turn. Whenever a nontoken creature you control dies this turn, create a 2/2 colorless Spirit creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/163_Undying Wrath.png" num="163">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Trudge Skeleton</name>
+			<text>At the beginning of your end step, if a snow card was put into your graveyard from anywhere this turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/117_Trudge Skeleton.png" num="117">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Skeleton Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tusked Snowlion</name>
+			<text>This creature can&apos;t be blocked by creatures with power 2 or less.
+At the beginning of your end step, if a snow card was put into your graveyard from anywhere this turn, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/206_Tusked Snowlion.png" num="206">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blightlight Shaman</name>
+			<text>Deathtouch
+When this creature enters, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/171_Blightlight Shaman.png" num="171">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Welkin Communers</name>
+			<text>Reach
+When this creature enters, stargaze. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/208_Welkin Communers.png" num="208">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>In Glory</name>
+			<text>Choose one—
+• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• Stargaze. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/186_In Glory.png" num="186">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Empyrean of Change</name>
+			<text>Reach
+Cluster — {5}{G}: For each kind of counter on target permanent you control, put another counter of that kind on it or remove one from it.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/179_Empyrean of Change.png" num="179">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Granted Strength</name>
+			<text>Enchant creature
+When this Aura enters, if you control another enchantment, draw a card.
+Enchanted creature gets +2/+2.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/181_Granted Strength.png" num="181">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Angel of Dusk and Dawn</name>
+			<text>Flying
+Whenever another source you control deals noncombat damage, you gain that much life.
+Whenever this creature is dealt damage, it deals that much damage to target opponent.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/210_Angel of Dusk and Dawn.png" num="210">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Realmsundering</name>
+			<text>At the beginning of each player&apos;s upkeep, they sacrifice a nonland permanent. When they do, they reveal cards from the top of their library until they reveal a permanent card that shares a card type with the sacrificed permanent. Put that card onto the battlefield under your control and shuffle each other card revealed this way into their owner&apos;s library.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/240_Realmsundering.png" num="240">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WUBRG</manacost>
+				<cmc>7</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kin Waymarker</name>
+			<text>As this artifact enters, choose a creature type.
+Tap an untapped land you control: Add one mana of any color. Spend this mana only to cast creature spells of the chosen creature type.
+{1}, {T}, Sacrifice this artifact: Exile all cards from all graveyards that aren&apos;t of the chosen creature type.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/258_Kin Waymarker.png" num="258">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Heidra, the Deepheart</name>
+			<text>At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. 
+Creatures you control have &quot;{T}: Add X mana of any one color, where X is the number of +1/+1 counters on this creature.&quot;</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/228_Heidra, the Deepheart.png" num="228">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1RGW</manacost>
+				<cmc>4</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Storied Cairn</name>
+			<text>{T}: You mill two cards.
+{4}, Sacrifice this artifact: Return target creature card from your graveyard to the battlefield with a decayed counter on it. Activate only as a sorcery. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/261_Storied Cairn.png" num="261">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Comet Fox</name>
+			<text>Cluster — {2}{W}: You may return target Aura or Equipment card from your graveyard to the battlefield. It gains &quot;If this permanent would leave the battlefield, exile it instead.&quot;</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/11_Comet Fox.png" num="11">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Fox Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Runed Axe</name>
+			<text>Pyre (Each creature you tap while casting this spell pays for {1}. Each other creature you sacrifice pays for {2} instead.)
+Equipped creature gets +3/+3 and has trample.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/260_Runed Axe.png" num="260">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vaunted Starmaker</name>
+			<text>Vigilance
+Cluster — {1}{W}: Until end of turn, each creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/41_Vaunted Starmaker.png" num="41">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Razer of Planets</name>
+			<text>Vigilance
+Cluster — {X}{W}{U}{U}: You gain X life and draw X cards. ({X} isn&apos;t a generic cost, and must be paid when stargazing.)</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/239_Razer of Planets.png" num="239">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>WWUU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Assembla&apos;s Guardian</name>
+			<text>Vigilance
+Whenever this creature and at least two other creatures attack, stargaze. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/3_Assembla&apos;s Guardian.png" num="3">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eager Sledrunners</name>
+			<text>Whenever you put one or more +1/+1 counters on another creature you control not named Eager Sledrunners, put that many +1/+1 counters on this creature.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/16_Eager Sledrunners.png" num="16">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brynhilda, the Avaricious</name>
+			<text>Whenever another nontoken creature you control dies, if it didn&apos;t have decayed, return it to the battlefield under your control with a decayed counter on it. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)
+Tap three untapped creatures you control: Each opponent loses 1 life.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/216_Brynhilda, the Avaricious.png" num="216">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Farsight Welkinborn</name>
+			<text>Cluster — {2}{U}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/59_Farsight Welkinborn.png" num="59">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moonbind Empyrean</name>
+			<text>When this creature enters, tap target creature an opponent controls.
+Cluster — {3}{U}: Target tapped creature doesn&apos;t untap during its controller&apos;s next untap step.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/71_Moonbind Empyrean.png" num="71">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Elk Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tarja, Favored Keen-Eye</name>
+			<text>Vigilance, reach
+Whenever you attack, search your library for a creature card with mana value 1, put it onto the battlefield, then shuffle. You may have that creature enter the battlefield tapped and attacking.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/247_Tarja, Favored Keen-Eye.png" num="247">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Swift Karve</name>
+			<text>Haste
+{T}: Add one mana of any color.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/263_Swift Karve.png" num="263">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ravenous Tracker // Injure</name>
+			<text>Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+
+---
+
+Return target creature to its owner&apos;s hand. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/74_Ravenous Tracker.png" num="74">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Giant Ranger // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU // 2U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heaven&apos;s Sprouting</name>
+			<text>Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+Stargaze. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/182_Heaven&apos;s Sprouting.png" num="182">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Anguished Creation</name>
+			<text>You may look at the top card of your library any time.
+You may play lands and cast spells from the top of your library.
+You may cast spells from your hand and the top of your library without paying their generic costs.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/VLA-files/img/46_Anguished Creation.png" num="46">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>6UU</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Decisive Cry</name>
+			<text>Target creature you control gets +3/+1 and gain first strike until end of turn. If you control a Human, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/136_Decisive Cry.png" num="136">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sungold Blade</name>
+			<text>When this Equipment enters, attach it target creature you control.
+Equipped creature gets +1/+1 and has &quot;Whenever this creature deals combat damage to a player or planeswalker, create a Treasure token.&quot;
+Equip {2}</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/161_Sungold Blade.png" num="161">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reshape the Heavens</name>
+			<text>Exile target creature with flying.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/195_Reshape the Heavens.png" num="195">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lich&apos;s Vile Throne</name>
+			<text>At the beginning of your upkeep, you gain 1 life.
+Whenever you gain life, each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/106_Lich&apos;s Vile Throne.png" num="106">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unseal the Cairn</name>
+			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield with a decayed counter on it. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/120_Unseal the Cairn.png" num="120">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dark Star</name>
+			<text>Flying, lifelink
+If you would gain life, you gain that much life plus 1 instead.
+Cluster — {3}{B}: Target player loses 3 life unless they sacrifice a nonland permanent or discard a card.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/91_Dark Star.png" num="91">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Phoenix Luminary</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Restless Skeleton</name>
+			<text>When this creature enters, each opponent exiles a card from their hand.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/112_Restless Skeleton.png" num="112">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flowing Runes</name>
+			<text>You draw two cards, then you lose 2 life unless you gained life this turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/98_Flowing Runes.png" num="98">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Last Packmate</name>
+			<text>When this creature enters, create two 2/2 colorless Spirit creature tokens with decayed. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/105_Last Packmate.png" num="105">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ascend to Legend</name>
+			<text>Enchant creature
+When this Aura enters, stargaze. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)
+When enchanted creature dies, return it to the battlefield under its owner&apos;s control.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/85_Ascend to Legend.png" num="85">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sigiled Prayer Sphere</name>
+			<text>When this creature enters, stargaze. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/76_Sigiled Prayer Sphere.png" num="76">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Eye</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conjure the Snowstorm</name>
+			<text>If you spent {S} to cast this spell, tap up to one target creature.
+Target player draws three cards.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/54_Conjure the Snowstorm.png" num="54">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sleetfeather Owl</name>
+			<text>Flying
+Whenever this creature deals combat damage to a player, you may have target player mill a card.
+{1}{S}: Untap this creature.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/78_Sleetfeather Owl.png" num="78">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frost Giants of Skolha</name>
+			<text>This creature enters tapped unless there&apos;s a snow card in your graveyard.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/60_Frost Giants of Skolha.png" num="60">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cryomancer&apos;s Assembly</name>
+			<text>Create an X/X blue Golem snow artifact creature token, where X is 1 plus the number of snow cards in your graveyard.
+Flashback {5}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/58_Cryomancer&apos;s Assembly.png" num="58">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skolhan Crowcaster // Take Wing</name>
+			<text>Whenever you cast or copy a Adventure spell spell, create a 1/1 blue Bird creature token with flying.
+
+---
+
+Create a 1/1 blue Bird creature token with flying. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/77_Skolhan Crowcaster.png" num="77">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Ramger // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>2U // U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wildspark Mage // Impulsion</name>
+			<text>Double strike
+Spells you cast from anywhere other than your hand cost {1} less to cast.
+
+---
+
+Exile the top X cards of your library. Until the end of your next turn, you may play those cards. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/VLA-files/img/165_Wildspark Mage.png" num="165">VLA</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>2R // XRR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vilemoon Apparition</name>
+			<text>When this creature dies, search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.
+{2}, Sacrifice this creature: You may put up to two land cards from your hand onto the battlefield. They become 1/1 black Bird creatures with flying in addition to their other types.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/250_Vilemoon Apparition.png" num="250">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Furnace Golem</name>
+			<text>Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/255_Furnace Golem.png" num="255">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact Creature — Dragon Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clear the Mind</name>
+			<text>Target player shuffles their graveyard into their library.
+Draw a card.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/52_Clear the Mind.png" num="52">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Oppression</name>
+			<text>When this enchantment enters, search your library for a Forest or Plains card, put it onto the battlefield tapped, then shuffle.
+Each player may only cast one spell each turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/219_Cosmic Oppression.png" num="219">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GGW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grave Seal</name>
+			<text>{T}: Exile up to two target cards from a single graveyard.
+{2}, {T}: Draw a card. Activate only if there are four or more card types among cards exiled with this artifact.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/256_Grave Seal.png" num="256">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Throne of the Celestial Realm</name>
+			<text>{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color. Spend this mana only to cast enchantment spells or activate cluster abilities.
+{4}, {T}: Stargaze. (Reveal a Luminary you own from outside the game to put it into your hand and/or activate its cluster ability without paying its generic cost.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/283_Throne of the Celestial Realm.png" num="283">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Aurora Tarn</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {U}.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/268_Aurora Tarn.png" num="268">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Behemoth Gateway</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {G}.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/269_Behemoth Gateway.png" num="269">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Chilling Cavern</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {U}.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/272_Chilling Cavern.png" num="272">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Frigid Fane</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {R}.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/275_Frigid Fane.png" num="275">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Icy Stronghold</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/277_Icy Stronghold.png" num="277">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rime Copse</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/279_Rime Copse.png" num="279">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Snowy Pastures</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {W}.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/280_Snowy Pastures.png" num="280">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sunlit Whitecaps</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {R}.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/281_Sunlit Whitecaps.png" num="281">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thawing Shipyward</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {B}.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/282_Thawing Shipyward.png" num="282">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Training Spires</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {W}.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/284_Training Spires.png" num="284">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/290_Mountain.png" num="290">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/291_Forest.png" num="291">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/288_Island.png" num="288">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/287_Plains.png" num="287">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/VLA-files/img/289_Swamp.png" num="289">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Never Apart</name>
+			<text>Whenever you cast your first or second planeswalker spell each turn, draw a card.
+If damage would be dealt to a planeswalker you control, prevent all but 1 of that damage.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/VLA-files/img/25_Never Apart.png" num="25">VLA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

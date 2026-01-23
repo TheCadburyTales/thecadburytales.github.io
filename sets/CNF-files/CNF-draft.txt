@@ -1207,7 +1207,7 @@
 			"type": "Token Artifact Creature — Demon",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/CNF-files/img/2_Demon Warrior.png"
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/2t_Demon Warrior.png"
 			}
 		},
 		{
@@ -1227,7 +1227,7 @@
 			"type": "Token Artifact Creature — Thopter",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/CNF-files/img/8_Thopter.png"
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/8t_Thopter.png"
 			}
 		},
 		{
@@ -1427,7 +1427,7 @@
 			"type": "Token Artifact Creature — Soldier",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/CNF-files/img/7_Soldier.png"
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/7t_Soldier.png"
 			}
 		},
 		{
@@ -1617,7 +1617,7 @@
 			"type": "Token Creature — Knight",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/CNF-files/img/1_Knight.png"
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/1t_Knight.png"
 			}
 		},
 		{
@@ -1957,7 +1957,7 @@
 			"type": "Token Creature — Elemental Avatar",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/CNF-files/img/4_Elemental Avatar.png"
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/4t_Elemental Avatar.png"
 			}
 		},
 		{
@@ -2107,7 +2107,7 @@
 			"type": "Token Artifact — Relic",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/CNF-files/img/6_Relic.png"
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/6t_Relic.png"
 			}
 		},
 		{
@@ -2167,7 +2167,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/CNF-files/img/3_Elemental.png"
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/3t_Elemental.png"
 			}
 		},
 		{
@@ -2457,7 +2457,7 @@
 			"type": "Token Land",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/CNF-files/img/9_Everywhere.png"
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/9t_Everywhere.png"
 			}
 		},
 		{
@@ -2527,7 +2527,7 @@
 			"type": "Token Artifact Creature — Angel",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/CNF-files/img/5_Angel.png"
+				"en": "https://thecadburytales.github.io/sets/CNF-files/img/5t_Angel.png"
 			}
 		},
 		{

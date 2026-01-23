@@ -1,0 +1,4966 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>SOL</name>
+			<longname>The Solitudines</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-23</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Josiah, Bitter Survivor</name>
+			<text>---
+(Back): Josiah, the Divinity Sundered</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/59_Josiah, Bitter Survivor_front.png" num="59a">SOL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Josiah</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>WUB</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Josiah, the Divinity Sundered</related>
+		</card>
+		<card>
+			<name>Josiah, the Divinity Sundered</name>
+			<text>---
+(Front): Josiah, Bitter Survivor</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/59_Josiah, Bitter Survivor_back.png" num="59b">SOL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Planeswalker — Josiah</type>
+				<maintype>Planeswalker</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Josiah, Bitter Survivor</related>
+		</card>
+		<card>
+			<name>Scion of Heaven and Hell</name>
+			<text>Flying, trample
+As long as you have 5 or less life, prevent all damage that would be dealt to you.
+As long as you have 1 or less life, you may cast spells without paying their mana costs.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/108_Scion of Heaven and Hell.png" num="108">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shadowborn Apostle</name>
+			<text>A deck can have any number of cards named Shadowborn Apostle.
+{B}, Sacrifice six creatures named Shadowborn Apostle: Search your library for a Demon creature card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/111_Shadowborn Apostle.png" num="111">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Persistent Contagion</name>
+			<text>{4}{G}, Exile this card from your graveyard: Create a token that&apos;s a copy of it. Put a +1/+1 counter on each creature you control. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/179_Persistent Contagion.png" num="179">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mother of Hands</name>
+			<text>Vigilance
+{T}: Another target creature you control gains hexproof from the color of your choice until end of turn.
+{T}, Sacrifice another creature: You draw a card and lose 1 life.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/214_Mother of Hands.png" num="214">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shadowbane Paladin</name>
+			<text>When this creature enters, you may discard a card or sacrifice a creature. If you do, each opponent sacrifices a creature.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/110_Shadowbane Paladin.png" num="110">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Artisan of Undeath</name>
+			<text>Flying, menace
+Whenever a permanent card leaves your graveyard, you may create a token that&apos;s a copy of it, except the token is a 2/2 Zombie Spirit creature in addition to its other types. Do this only once each turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/198_Artisan of Undeath.png" num="198">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dust to Flesh to Dust</name>
+			<text>Choose one or both—
+• Return target creature card from your graveyard to the battlefield.
+• Each player chooses a creature they control, then sacrifices the rest.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/13_Dust to Flesh to Dust.png" num="13">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sylvua, Wyldwood Mother</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/219_Sylvua, Wyldwood Mother.png" num="219">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sylvua</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>At Any Cost</name>
+			<text>At the beginning of your precombat main phase, put a greatness counter on At Any Cost. Then you add X {B}, draw X cards, and lose X life, where X is the number of greatness counters on At Any Cost.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/81_At Any Cost.png" num="81">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scourge Taskmaster</name>
+			<text>Trample
+When this creature enters, discard your hand, then draw two cards.
+Whenever this creature attacks, you may seal 4. If you do, create two tapped 2/2 black Zombie creature tokens. (To seal 4, exile up to four cards with four or more card types among them from your graveyard.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/150_Scourge Taskmaster.png" num="150">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Staunch Purifier</name>
+			<text>Whenever you gain life for the first time each turn, put a +1/+1 counter on this creature.
+Surpass {7}{B} ({7}{B}: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Corrupted Archangel</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/35_Staunch Purifier_front.png" num="35a">SOL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Corrupted Archangel</related>
+		</card>
+		<card>
+			<name>Corrupted Archangel</name>
+			<text>Flying
+Whenever you gain life, draw a card.
+Whenever you lose life, discard a card unless you sacrifice this creature.
+---
+(Front): Staunch Purifier</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/35_Staunch Purifier_back.png" num="35b">SOL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Staunch Purifier</related>
+		</card>
+		<card>
+			<name>Touch of God</name>
+			<text>Return target creature or planeswalker to its owner&apos;s hand. If you controlled that permanent, draw a card.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/75_Touch of God.png" num="75">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ripples of Rebirth</name>
+			<text>At the beginning of your first main phase, mill three cards. Then you may pay {1} and sacrifice a token. If you do, put a permanent card from among the milled cards into your hand.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/185_Ripples of Rebirth.png" num="185">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stonesprung Spirit</name>
+			<text>As another artifact you control enters, you may have it become a creature in addition to its other types with base power and toughness equal to this creature&apos;s power and toughness.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/190_Stonesprung Spirit.png" num="190">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eclipse Paladin</name>
+			<text>Whenever this creature deals combat damage to a player or planeswalker, you may have each player discard a card.
+Desolate — At the beginning of your upkeep, if you have one or fewer cards in hand, put a +1/+1 counter on this creature. It gains menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/88_Eclipse Paladin.png" num="88">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Cleric Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Death&apos;s Undoing</name>
+			<text>Creatures you control get +1/+1.
+At the beginning of your upkeep, return all creature cards with mana value 1 or less from your graveyard to the battlefield.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/11_Death&apos;s Undoing.png" num="11">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Seeker of Atonement</name>
+			<text>Whenever you create a token, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/29_Seeker of Atonement.png" num="29">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanguis Sanctorum</name>
+			<text>When this artifact enters, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)
+Whenever you discard one or more cards, you may pay 1 life. If you do, draw a card. Do this only once each turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/107_Sanguis Sanctorum.png" num="107">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reygias, Lord Phytolich</name>
+			<text>When this creature enters, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle.
+{G}, {T}, Seal 3: You may play target land card or cast target nonland permanent card from your graveyard this turn. (To seal 3, exile up to three cards with three or more card types among them from your graveyard.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/184_Reygias, Lord Phytolich.png" num="184">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Skeleton Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stonework Angel</name>
+			<text>Flying
+When this creature enters, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)
+{2}: Exile target card from a graveyard.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/246_Stonework Angel.png" num="246">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whisperer of Sweetest Lies</name>
+			<text>Reach
+At the beginning of your upkeep, starting with you, each player chooses one—
+• Target player creates a Treasure token.
+• Target player loses 2 life.
+• Target player searches their library for a card, then shuffles and puts that card on top.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/117_Whisperer of Sweetest Lies.png" num="117">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flame-Scarred Abomination</name>
+			<text>This spell can&apos;t be countered.
+Whenever this creature deals combat damage to a player or whenever a player gains life, put a blaze counter on up to one target land that player controls without a blaze counter on it. For as long as that land has a blaze counter on it, it has &quot;At the beginning of your upkeep, this land deals 1 damage to you.&quot;</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/138_Flame-Scarred Abomination.png" num="138">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kael-dun Inquisitor</name>
+			<text>Menace
+When this creature enters, if you have less than four cards in hand, target creature an opponent controls gets -X/-X until end of turn, where X is the difference.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/99_Kael-dun Inquisitor.png" num="99">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Terithius, the Iron Mind</name>
+			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+When Terithius enters, create two 2/2 white Knight creature tokens.
+Each spell you cast whose mana value is a prime number has affinity for artifacts. (2, 3, 5, 7, 11, 13, 17, 19, 23, 29, and 31 are prime numbers.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/222_Terithius, the Iron Mind.png" num="222">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>9WU</manacost>
+				<cmc>11</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Engine of Our Eden</name>
+			<text>{1}, {T}: Draw two cards, then exile a card from your hand.
+{2}, {T}, Seal 4: Create a 4/4 Angel creature token with flying. (To seal 4, exile up to four cards with four or more card types among them from your graveyard.)
+{3}, {T}: If there are six or more card types among cards exiled with Engine of Our Eden, you win the game.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/234_Engine of Our Eden.png" num="234">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>They Shall Know Perdition</name>
+			<text>When this enchantment enters, each creature gets -X/-X until end of turn.
+At the beginning of your end step, if a creature you controlled died this turn, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/114_They Shall Know Perdition.png" num="114">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>XBB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sphere of Isolation</name>
+			<text>When this enchantment enters, you may seal X. If you do, exile up to one target nonland permanent an opponent controls with mana value X or less until this enchantment leaves the battlefield. (To seal X, exile up to X cards with X or more card types among them from your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/32_Sphere of Isolation.png" num="32">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ancient Transmutation</name>
+			<text>When this enchantment enters, you may discard a card. If you do, draw two cards.
+{R}, Sacrifice this enchantment: Return target artifact card with mana value 3 or less from your graveyard to the battlefield. It gains haste. Sacrifice it at the beginning of the next end step.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/119_Ancient Transmutation.png" num="119">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aos, Augur of Damnations</name>
+			<text>Landfall — Whenever a land you control enters, surveil 2.
+Rather than pay the mana cost for the first spell you cast each turn, you may seal X, where X is that spell&apos;s mana value. (To seal X, exile up to X cards with X or more card types among them from your graveyard.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/80_Aos, Augur of Damnations.png" num="80">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grit</name>
+			<text>Enchant creature or planeswalker
+When enchanted permanent dies, return that card to the battlefield under its owner&apos;s control. Return this card to its owner&apos;s hand at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/16_Grit.png" num="16">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Eira, Selfless Paladin</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/205_Eira, Selfless Paladin.png" num="205">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Eira</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Breaker of Reality</name>
+			<text>{1}: This creature gets +1/-1 or -1/+1 until end of turn.
+{U}: This creature becomes a copy of another target creature until end of turn, except it has this creature&apos;s other abilities.
+{4}{U}{U}: Create a token that&apos;s a copy of this creature.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/44_Breaker of Reality.png" num="44">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ironclad Necromancers</name>
+			<text>Whenever one or more cards leave your graveyard, create a tapped 2/2 black Zombie creature token.
+{1}{G}, Exile two artifact cards from your graveyard: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/171_Ironclad Necromancers.png" num="171">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Zombie Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glittering Gargoyle</name>
+			<text>Flying
+Whenever you sacrifice another permanent, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/237_Glittering Gargoyle.png" num="237">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Gargoyle</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tessa, Saint Reborn</name>
+			<text>You may cast this card from your graveyard as long as you control a Zombie.
+Whenever you cast another spell from a graveyard or another permanent you control enters from a graveyard, you draw a card and lose 1 life.
+{2}, Discard a card: Create a tapped 2/2 black Zombie creature token.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/223_Tessa, Saint Reborn.png" num="223">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cradle of Nascence</name>
+			<text>{T}, Sacrifice a creature: Search your library for a creature card with mana value equal to 1 plus the sacrificed creature&apos;s mana value, exile it with three time counters on it, then shuffle. It gains suspend. Activate only as a sorcery. (At the beginning of your upkeep, remove a time counter. When the last is removed, you may play it without paying its mana cost. It has haste.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/232_Cradle of Nascence.png" num="232">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ijara, the Last Teluran</name>
+			<text>Other creatures you control get +1/+0.
+{X}{X}{W}{W}, Sacrifice Ijara: Return X target artifact and/or creature cards from your graveyard to the battlefield. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/19_Ijara, the Last Teluran.png" num="19">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Moonfolk Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Petalwisp Whisperer</name>
+			<text>When this creature enters, you mill three cards.
+Whenever one or more cards leave your graveyard, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/180_Petalwisp Whisperer.png" num="180">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wyldwood Dryad</name>
+			<text>Menace
+When this creature enters, mill a card. When you do, you may seal 2. If you do, you draw a card and lose 1 life. (To seal 2, exile up to two cards with two or more card types among them from your graveyard.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/118_Wyldwood Dryad.png" num="118">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Emperor Thuraxes IV</name>
+			<text>This spell costs {X} less to cast, where X is 7 minus the number of cards in your hand.
+Menace
+Once during each of your turns, you may cast a creature card from your graveyard if it was put there from anywhere other than the battlefield this turn. If you do, it&apos;s a 4/4 Avatar creature in addition to its other types.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/206_Emperor Thuraxes IV.png" num="206">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>5BR</manacost>
+				<cmc>7</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fascimile of Gods</name>
+			<text>Whenever one or more cards leave your graveyard, put a +1/+1 counter on this creature.
+Surpass {6}{B} ({6}{B}: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Indivine Perforator</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/167_Fascimile of Gods_front.png" num="167a">SOL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Indivine Perforator</related>
+		</card>
+		<card>
+			<name>Indivine Perforator</name>
+			<text>Trample
+Whenever one or more nonland permanent cards leave your graveyard, you may copy one of those cards. You may cast the copy. (You still pay the copy&apos;s costs.)
+---
+(Front): Fascimile of Gods</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/167_Fascimile of Gods_back.png" num="167b">SOL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Fascimile of Gods</related>
+		</card>
+		<card>
+			<name>Blood SOL</name>
+			<text>{1}, {T}, Discard a card, Sacrifice this token: Draw a card.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/9t_Blood.png" num="9">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Blood</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Hellfire Ballista</name>
+			<text>{6}, {T}, Sacrifice this artifact: Destroy target nonland permanent. This ability costs {3} less to activate if it targets a creature with flying.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/238_Hellfire Ballista.png" num="238">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wyldwood Ceremony</name>
+			<text>Return target card from your graveyard to your hand. Then you gain 1 life for each card that left your graveyard this turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/197_Wyldwood Ceremony.png" num="197">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ironblessed Inquisitor</name>
+			<text>Whenever you attack, create two 1/1 colorless Soldier artifact creature tokens that are tapped and attacking.
+{4}{W}{W}: Creatures you control get +X/+X until end of turn, where X is the number of creatures you control with base power 1 or less.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/20_Ironblessed Inquisitor.png" num="20">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>All are Slave to Time</name>
+			<text>Look at twice X cards from the top of your library. Put X cards from among them into your hand and the rest into your graveyard.
+If X is 7 or more, you may end the turn. (Exile all spells and abilities from the stack, including this card. Discard down to your maximum hand size. Damage wears off, and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/40_All are Slave to Time.png" num="40">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XUUU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Josiah&apos;s Betrayal</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Each opponent sacrifices a creature with the greatest mana value among creatures they control. Repeat this process once.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/98_Josiah&apos;s Betrayal.png" num="98">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Herald of an Age of Iron</name>
+			<text>Trample
+Creatures you control get +1/+1 for each artifact you control.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/170_Herald of an Age of Iron.png" num="170">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Execute for Blasphemy</name>
+			<text>Exile target creature or planeswalker. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/90_Execute for Blasphemy.png" num="90">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Memory Terminal</name>
+			<text>When The Memory Terminal enters, sacrifice half the number of permanents you control, rounded down.
+During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/239_The Memory Terminal.png" num="239">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Clarion Paladin</name>
+			<text>If one or more 1/1 creature tokens would be created under your control, twice that many of those tokens are created instead.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/9_Clarion Paladin.png" num="9">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Paladin of Fury</name>
+			<text>Haste
+If a triggered ability of a creature you control with haste triggers, that ability triggers an additional time.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/146_Paladin of Fury.png" num="146">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Walk Out of Hell</name>
+			<text>Whenever one or more cards leave your graveyard, you draw a card and lose 1 life. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/228_Walk Out of Hell.png" num="228">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Odeon, Goldmask Rogue</name>
+			<text>When Odeon enters, return up to one target creature card with mana value 1 or less from your graveyard to the battlefield.
+Whenever another creature you control dies, put a +1/+1 counter on Odeon.
+Surpass {7}{W} ({7}{W}: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Odeon, Bloom of Sin</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/104_Odeon, Goldmask Rogue_front.png" num="104a">SOL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Odeon, Bloom of Sin</related>
+		</card>
+		<card>
+			<name>Odeon, Bloom of Sin</name>
+			<text>When this creature transforms into Odeon, Bloom of Sin, return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+Whenever a creature you control dies, put a +1/+1 counter on each creature you control.
+---
+(Front): Odeon, Goldmask Rogue</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/104_Odeon, Goldmask Rogue_back.png" num="104b">SOL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Odeon, Goldmask Rogue</related>
+		</card>
+		<card>
+			<name>Calamity Tyrant</name>
+			<text>Flying, trample
+Whenever one or more land cards leave your graveyard, create a 4/4 red Dragon creature token with flying. This ability triggers only once each turn.
+{1}{R}, Discard a land card: This creature deals 2 damage to any target.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/129_Calamity Tyrant.png" num="129">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reweaver of Thuraxes</name>
+			<text>Whenever this creature attacks, you may seal 3. If you do, you may cast a copy of a random nonland card sealed this way with mana value 2 or less without paying its mana cost. (To seal 3, exile up to three cards with three or more card types among them from your graveyard.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/216_Reweaver of Thuraxes.png" num="216">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Putrescent Branchstalker</name>
+			<text>{G}, Sacrifice this creature: Choose one—
+• Each opponent sacrifices an artifact.
+• Each opponent sacrifices an enchantment.
+• Each opponent sacrifices a creature with flying.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/183_Putrescent Branchstalker.png" num="183">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Go to Hell</name>
+			<text>Target creature gets -666/-666 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/94_Go to Hell.png" num="94">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flesh and Bone Yield Easily</name>
+			<text>Whenever you gain life for the first time during each of your turns, create a 1/1 colorless Soldier artifact creature token.
+{4}, Sacrifice an artifact or creature: You gain 1 life and draw a card.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/211_Flesh and Bone Yield Easily.png" num="211">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Teluran Sarcophagus</name>
+			<text>{T}: Add {C}{C}.
+{T}: Draw a card. If you control artifact creatures with total power 10 or greater, draw three cards instead.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/221_Teluran Sarcophagus.png" num="221">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Infernal Torturer</name>
+			<text>Haste
+Whenever this creature becomes tapped, you may discard a card. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/142_Infernal Torturer.png" num="142">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Carrion-Cutter Seraph</name>
+			<text>Flying
+Ward—Pay 4 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4 life.)
+Desolate — As long as you have one or fewer cards in hand, other creatures you control get +2/+0.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/201_Carrion-Cutter Seraph.png" num="201">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>4BR</manacost>
+				<cmc>6</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bejeweled Dragon</name>
+			<text>Flying
+Whenever you cast a noncreature spell, this creature deals 3 damage to target opponent unless they discard a card or sacrifice a nonland permanent.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/199_Bejeweled Dragon.png" num="199">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Legate Sparkweaver</name>
+			<text>Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent.
+Soulsplit {2}{R} ({2}{R}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/143_Legate Sparkweaver.png" num="143">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glint-Edge Knight</name>
+			<text>Whenever you draw your second card each turn, put a +1/+1 counter on this creature.
+Soulsplit {1}{U} ({1}{U}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/56_Glint-Edge Knight.png" num="56">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coaxer of the Cycle</name>
+			<text>{T}: Add one mana of any color.
+{1}, {T}, Sacrifice another creature: Search your library for a creature card with mana value equal to 1 plus the sacrificed creature&apos;s mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/163_Coaxer of the Cycle.png" num="163">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shackled Phantom</name>
+			<text>Flying
+When this creature enters, mill four cards. You gain 1 life for each card type among cards milled this way.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/109_Shackled Phantom.png" num="109">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Auctor of the Testament</name>
+			<text>Whenever another source deals exactly 1 damage to an opponent, this creature deals 2 damage to up to one target creature or planeswalker that player controls.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/120_Auctor of the Testament.png" num="120">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arbiter of Purity</name>
+			<text>Whenever another creature you control with base power 1 or less enters, put a +1/+1 counter on this creature.
+Soulsplit {3}{W} ({3}{W}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/1_Arbiter of Purity.png" num="1">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thunderous Corruscation</name>
+			<text>Thunderous Corruscation deals 5 damage to up to one target creature or planeswalker an opponent controls. You may discard up to two cards, then draw that many cards.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/153_Thunderous Corruscation.png" num="153">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ward of the Skies</name>
+			<text>Whenever one or more +1/+1 counters are put on another creature you control, if it&apos;s the first time +1/+1 counters have been put on that creature this turn, put a +1/+1 counter on this creature.
+Surpass {5}{W} ({5}{W}: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Ward of the Heavens</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/196_Ward of the Skies_front.png" num="196a">SOL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Ward of the Heavens</related>
+		</card>
+		<card>
+			<name>Ward of the Heavens</name>
+			<text>Flying, trample, ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+---
+(Front): Ward of the Skies</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/196_Ward of the Skies_back.png" num="196b">SOL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Ward of the Skies</related>
+		</card>
+		<card>
+			<name>Surgeblade Duelist</name>
+			<text>Whenever you create one or more tokens, tap target creature an opponent controls.
+Soulsplit {3}{U} ({3}{U}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/74_Surgeblade Duelist.png" num="74">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exalted Persecutor</name>
+			<text>When this creature enters, you may discard a card. If you do, each opponent exiles a card from their hand.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/89_Exalted Persecutor.png" num="89">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dawn&apos;s Herald</name>
+			<text>When this creature enters, put a +1/+1 counter on each of up to two target creatures you control.
+Surpass {5}{B} ({5}{B}: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Duskbringer</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/10_Dawn&apos;s Herald_front.png" num="10a">SOL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Duskbringer</related>
+		</card>
+		<card>
+			<name>Duskbringer</name>
+			<text>Deathtouch
+Creatures you control with counters on them have deathtouch.
+---
+(Front): Dawn&apos;s Herald</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/10_Dawn&apos;s Herald_back.png" num="10b">SOL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Avatar Knight</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Dawn&apos;s Herald</related>
+		</card>
+		<card>
+			<name>Cleave the Soul</name>
+			<text>Destroy target creature. It&apos;s controller creates two tokens that are copies of it, except the tokens are 1/1 and aren&apos;t legendary.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/85_Cleave the Soul.png" num="85">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Soulbound Chassis</name>
+			<text>Flash
+When this creature enters, exile up to one target noncreature, nonland card in a graveyard that was put there from anywhere this turn. Copy it. You may cast the copy without paying its mana cost.
+Soulsplit {3}{U} ({3}{U}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/72_Soulbound Chassis.png" num="72">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smoldering Tormentor</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Whenever one or more creatures you control become tapped, this creature deals 1 damage to each opponent.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/152_Smoldering Tormentor.png" num="152">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hell&apos;s Chorus</name>
+			<text>At the beginning of combat on your turn, you may discard a card. If you do, draw a card.
+{1}{R}, Sacrifice this enchantment, Seal X: Add X {R}. You can cast only one more spell this turn. (To seal X, exile up to X cards with X or more card types among them from your graveyard.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/140_Hell&apos;s Chorus.png" num="140">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Protean Scion</name>
+			<text>Other artifact creatures you control get +1/+1.
+{4}{G}{G}: Create a token that&apos;s a copy of this creature.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/182_Protean Scion.png" num="182">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cobbled Equine</name>
+			<text>Trample
+Whenever another artifact you control enters, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/164_Cobbled Equine.png" num="164">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Horse Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sol Construct</name>
+			<text>At the beginning of your upkeep, you may have another target artifact you control become a 5/5 creature in addition to its other types until end of turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/243_Sol Construct.png" num="243">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leonin Shadowcaster</name>
+			<text>Desolate — Whenever this creature attacks, exile target card from defending player&apos;s graveyard. If you have one or fewer cards in hand, you may cast that card, and you may spend mana of any type to cast it.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/101_Leonin Shadowcaster.png" num="101">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blightchoke Exarch</name>
+			<text>Trample, haste
+At the beginning of your end step, sacrifice a creature.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/124_Blightchoke Exarch.png" num="124">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grinning Serpent</name>
+			<text>Flash
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+When this creature enters, you may counter target activated or triggered ability. If an ability of a permanent is countered this way, you may gain control of it.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/57_Grinning Serpent.png" num="57">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>6U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Marble Arbiter</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Flying
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/61_Marble Arbiter.png" num="61">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overmorrow&apos;s Architect</name>
+			<text>Whenever you cast a noncreature spell, create a 1/1 colorless Soldier artifact creature token.
+Soulsplit {4}{U} ({4}{U}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/66_Overmorrow&apos;s Architect.png" num="66">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sentient Artificer</name>
+			<text>Landfall — Whenever a land you control enters, create a 1/1 colorless Soldier artifact creature token.
+Artifact creatures you control have &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/218_Sentient Artificer.png" num="218">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lux Potentate</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Flying, vigilance
+When this creature enters, for each creature token that convoked it, create a token that&apos;s a copy of it.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/213_Lux Potentate.png" num="213">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>4WU</manacost>
+				<cmc>6</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Endless Tome</name>
+			<text>If one or more tokens would be created under your control, those tokens plus a 1/1 colorless Soldier artifact creature token are created instead.
+{4}, {T}: Draw a card. For each mana in this ability&apos;s activation cost, you may tap an untapped token you control rather than pay that mana. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/207_Endless Tome.png" num="207">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Twisting Steel</name>
+			<text>Choose one—
+• Counter target spell.
+• Search your library for an artifact card with mana value 2 or less, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/76_Twisting Steel.png" num="76">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Viscera Cultist</name>
+			<text>Whenever a permanent you control is put into your graveyard from the battlefield, each opponent loses 1 life and you gain 1 life. If this is the third time this ability has resolved this turn, each opponent sacrifices a creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/227_Viscera Cultist.png" num="227">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twinferno Summoner</name>
+			<text>Whenever another creature you control enters, this creature deals 1 damage to each opponent and you gain 1 life.
+Soulsplit {2}{R}{W} ({2}{R}{W}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/225_Twinferno Summoner.png" num="225">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sylvua&apos;s Reckoning</name>
+			<text>Return target permanent card with mana value 3 or less from your graveyard to the battlefield. If it&apos;s a creature card, put two +1/+1 counters on it.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/220_Sylvua&apos;s Reckoning.png" num="220">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wyldwood Guardian</name>
+			<text>At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. That creature gains flying until end of turn if another creature you control has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, protection, reach, trample, and vigilance.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/231_Wyldwood Guardian.png" num="231">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Satyr</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blighted Theologist</name>
+			<text>Whenever you cast a spell with mana value 5 or greater, create a tapped 2/2 black Zombie creature token.
+Sacrifice five tapped Zombies: Copy target spell you control twice. You may choose new targets for the copies.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/200_Blighted Theologist.png" num="200">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Muck Fiends</name>
+			<text>Whenever you cast a spell with mana value 5 or greater, draw a card.
+Whenever you cast a spell with mana value 5 or greater, if this card is in your graveyard, you may return it to your hand.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/215_Muck Fiends.png" num="215">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Choir of Doubt</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Exile up to one target creature or planeswalker. You may sacrifice any number of creatures that convoked this spell. If you do, draw that many cards.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/202_Choir of Doubt.png" num="202">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6UB</manacost>
+				<cmc>8</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Weave Infinity</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Exile the top five cards of your library. You may play those cards until the end of your next turn. You may cast a spell with mana value X or less from among them without paying its mana cost, where X is the number of creatures that convoked this spell.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/229_Weave Infinity.png" num="229">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rusted Colossus</name>
+			<text>Trample
+Whenever this creature attacks, put a +1/+1 counter on it.
+When this creature dies, if it isn&apos;t a token, create two tokens that are copies of it, except their power is half this creature&apos;s power and their toughness is half this creature&apos;s toughness. Round down each time.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/217_Rusted Colossus.png" num="217">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wrathful Judgment</name>
+			<text>As an additional cost to cast this spell, sacrifice a nonland permanent or discard a card.
+Each opponent sacrifices a nonland permanent with mana value greater than the discarded card or sacrificed permanent and a nonland permanent with mana value less than the discarded card or sacrificed permanent.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/230_Wrathful Judgment.png" num="230">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tiller of the Damned</name>
+			<text>When this creature enters, you may seal 4. When you do, return target creature card from your graveyard to the battlefield. It&apos;s a Zombie in addition to its other types. (To seal 4, exile up to four cards with four or more card types among them from your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/224_Tiller of the Damned.png" num="224">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ephiridian Tunneler</name>
+			<text>This spell can&apos;t be countered.
+Trample, haste
+At the beginning of your end step, if three or more cards left your graveyard this turn, put a +1/+1 on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/209_Ephiridian Tunneler.png" num="209">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mole Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heaventouched Sentinel</name>
+			<text>Flying, vigilance
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/17_Heaventouched Sentinel.png" num="17">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forlorn Knight</name>
+			<text>When this creature enters or dies, create a 1/1 colorless Soldier artifact creature token.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/92_Forlorn Knight.png" num="92">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Everwatching Widow</name>
+			<text>Reach
+Whenever one or more cards leave your graveyard, you gain 1 life.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/166_Everwatching Widow.png" num="166">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Phytolich&apos;s Research</name>
+			<text>When this enchantment enters, mill four cards. You may put a permanent card from among the cards milled this way into your hand.
+{1}{G}, Sacrifice this enchantment: Return target land card from your graveyard to the battlefield tapped.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/181_Phytolich&apos;s Research.png" num="181">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Drown in Fear</name>
+			<text>Target player discards two cards. Then exile that player&apos;s graveyard.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/87_Drown in Fear.png" num="87">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elbrine Thundercaller</name>
+			<text>Whenever you cast a noncreature spell, this creature gains flying until end of turn. If this creature already has flying, it gets +1/+1 until end of turn instead.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/49_Elbrine Thundercaller.png" num="49">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Enclave Piercer</name>
+			<text>Whenever you discard a card, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+{3}{R}, Seal 3, Sacrifice this creature: It deals damage equal to its power to target creature an opponent controls. (To seal 3, exile up to three cards with three or more card types among them from your graveyard.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/135_Enclave Piercer.png" num="135">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Feverbite Winder</name>
+			<text>Deathtouch
+{2}{G}, Seal 4: Put three +1/+1 counters on this creature. Activate only once. (To seal 4, exile up to four cards with four or more card types among them from your graveyard.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/168_Feverbite Winder.png" num="168">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Skeleton Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heart of the Wyldwood</name>
+			<text>Reach
+{2}{G}: Exile target card from a graveyard.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/169_Heart of the Wyldwood.png" num="169">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Misshapen Buck</name>
+			<text>This creature enters with four +1/+1 counters on it.
+Creatures you control with counters on them have trample.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/176_Misshapen Buck.png" num="176">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sylvua&apos;s Dryad</name>
+			<text>{T}: Add one mana of any color.
+{G}, Sacrifice this creature: Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/193_Sylvua&apos;s Dryad.png" num="193">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ritual of Negation</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Counter target spell unless its controller pays {3}.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/68_Ritual of Negation.png" num="68">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Plated Leviathan</name>
+			<text>Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+{1}{U}: This creature can&apos;t be blocked this turn. Activate only if you created a token this turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/67_Plated Leviathan.png" num="67">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eldest Archengine</name>
+			<text>Trample
+This creature&apos;s power is equal to the number of artifacts you control.
+When this creature enters, you may sacrifice any number of lands. If you do, create twice that many tapped colorless Wastes artifact land tokens named Iron Wastes with indestructible and &quot;{T}: Add {C}.&quot;</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/233_Eldest Archengine.png" num="233">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>*/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ambling Ruins</name>
+			<text>This spell costs {1} less to cast for each card type among cards you own in your graveyard and in exile.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/158_Ambling Ruins.png" num="158">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>7G</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Devour Tender Flesh</name>
+			<text>Devour Tender Flesh deals damage to target creature or planeswalker equal to 3 or the greatest power among creatures you control, whichever is greater.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/133_Devour Tender Flesh.png" num="133">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Grotesque Abomination</name>
+			<text>{1}{B}: This creature gains indestructible until end of turn. Tap it.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/95_Grotesque Abomination.png" num="95">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>6B</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lightborn Apostle</name>
+			<text>A deck can have any number of cards named Lightborn Apostle.
+{W}, Sacrifice six creatures named Lightborn Apostle: Search your library for an Angel creature card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/21_Lightborn Apostle.png" num="21">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prism of Portents</name>
+			<text>When this artifact enters, draw a card, then discard a card.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/240_Prism of Portents.png" num="240">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rock Scorpion</name>
+			<text>Reach
+{T}, Seal 2: This creature deals 2 damage to each opponent. (To seal 2, exile up to two cards with two or more card types among them from your graveyard.)
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/148_Rock Scorpion.png" num="148">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scorpion</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sentence to the Gaol</name>
+			<text>Flash
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/30_Sentence to the Gaol.png" num="30">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Field Testing</name>
+			<text>Choose one—
+• Field Testing deals 3 damage to any target.
+• Return target permanent card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/210_Field Testing.png" num="210">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blood-Cursed Diabolist</name>
+			<text>When this creature enters, discard a card, then exile X cards from the top of your library, where X is the number of cards you discarded this turn. Until the end of your next turn, you may play those cards.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/125_Blood-Cursed Diabolist.png" num="125">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whisperer of Pale Boons</name>
+			<text>Trample
+Desolate — Whenever this creature enters or attacks, if you have one or fewer cards in hand, put a +1/+1 counter on up to one target creature you control.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/157_Whisperer of Pale Boons.png" num="157">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Valentina, Dread Impaler</name>
+			<text>Whenever you cast a noncreature spell, you may pay 1 life. If you do, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)
+{1}{B}{R}, {T}, Seal 4: Create a 4/4 black and red Vampire Dragon creature token with flying and lifelink. Activate only as a sorcery. (To seal 4, exile up to four cards with four or more card types among them from your graveyard.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/226_Valentina, Dread Impaler.png" num="226">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Azra Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Joy in Bright Chaos</name>
+			<text>Affinity for tokens (This spell costs {1} less to cast for each token you control.)
+Joy in Bright Chaos deals X damage to each of up to two target creatures and/or planeswalkers, where X is the number of creatures you control. You gain X life.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/212_Joy in Bright Chaos.png" num="212">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4RW</manacost>
+				<cmc>6</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bismuth Guardian</name>
+			<text>{T}: Put a +1/+1 counter on each artifact creature you control.
+Surpass {5}{U} ({5}{U}: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Spinner of Creation</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/159_Bismuth Guardian_front.png" num="159a">SOL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Spinner of Creation</related>
+		</card>
+		<card>
+			<name>Spinner of Creation</name>
+			<text>Whenever you cast an artifact spell, create an X/X colorless Golem artifact creature token, where X is this creature&apos;s power.
+---
+(Front): Bismuth Guardian</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/159_Bismuth Guardian_back.png" num="159b">SOL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact Creature — Golem Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Bismuth Guardian</related>
+		</card>
+		<card>
+			<name>Finecraft Seraph</name>
+			<text>Flying, vigilance
+When this creature enters, return target artifact or land card with mana value 2 or less from your graveyard to the battlefield.
+Whenever this creature attacks, put a sol counter on target artifact or land you control. It gains &quot;{T}: Add {C}{C}&quot; for as long as it has a sol counter on it.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/235_Finecraft Seraph.png" num="235">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rotten Communion</name>
+			<text>As an additional cost to cast this spell, you may seal 4. (To seal 4, exile up to four cards with four or more card types among them from your graveyard.)
+Create two tapped 2/2 black Zombie creature tokens. If you sealed, create four of those tokens instead.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/186_Rotten Communion.png" num="186">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Steelskin Pilgrim</name>
+			<text>When this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+{4}, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/245_Steelskin Pilgrim.png" num="245">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Radiant Sunwright</name>
+			<text>Whenever another artifact creature you control enters, if that creature&apos;s power is greater than this creature&apos;s power, put a +1/+1 counter on this creature.
+{2}, {T}, Remove three +1/+1 counters from among creatures you control: This creature deals 3 damage to any target and you gain 3 life. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/241_Radiant Sunwright.png" num="241">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Extan Steelshifter</name>
+			<text>Artifact spells you cast cost {1} less to cast.
+Soulsplit {3}{U} ({3}{U}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/52_Extan Steelshifter.png" num="52">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Startouched Wayfarer</name>
+			<text>When this creature enters, draw a card.
+Soulsplit {5}{W} ({5}{W}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/34_Startouched Wayfarer.png" num="34">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vampire Dragon SOL</name>
+			<text>Flying, lifelink</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/7t_Vampire Dragon.png" num="7">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Vampire Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Clockwork Arachnid</name>
+			<text>Reach
+{T}: Add {C}. If this mana is spent to cast an artifact creature spell, it enters with an additional +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/162_Clockwork Arachnid.png" num="162">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lotus Cultivator</name>
+			<text>When this creature enters, you may sacrifice a creature. If you do, create a colorless artifact token named Black Lotus with &quot;{T}, Sacrifice this token: Add three mana of any one color.&quot;
+Whenever an artifact or creature you control is put into a graveyard from the battlefield, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/103_Lotus Cultivator.png" num="103">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boiling Fury</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+After this main phase, there is an additional combat phase.
+At the beginning of each combat this turn, untap all creatures you control that attacked or convoked a spell this turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/126_Boiling Fury.png" num="126">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Disdainful Stroke</name>
+			<text>Counter target spell with mana value 4 or greater.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/47_Disdainful Stroke.png" num="47">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bismuth Skycity</name>
+			<text>{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color. Spend this mana only to cast artifact spells.
+{1}, Tap an untapped artifact you control: This land becomes a 2/2 colorless Golem artifact creature with flying until end of turn. It&apos;s still a land.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/249_Bismuth Skycity.png" num="249">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Knight of the Thorn</name>
+			<text>Once each turn, whenever another creature you control dies or a creature card is put into your graveyard from anywhere other than the battlefield, this creature deals 2 damage to each opponent.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/100_Knight of the Thorn.png" num="100">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Choking Grief</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or discard a card.
+You draw two cards and lose 2 life.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/84_Choking Grief.png" num="84">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Extan Runeweaving</name>
+			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Draw two cards.
+Flashback {7}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/51_Extan Runeweaving.png" num="51">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pull of Heaven</name>
+			<text>Destroy target creature or planeswalker if it has mana value 2 or less.
+Desolate — Destroy that permanent if it has mana value 4 or less instead if you have one or fewer cards in hand.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/106_Pull of Heaven.png" num="106">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lifeblood Imitation</name>
+			<text>Until end of turn, target creature gets +1/+0 and gains lifelink and &quot;When this creature dies, create a tapped token that&apos;s a copy of it.&quot;</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/102_Lifeblood Imitation.png" num="102">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unnatural Hunger</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Destroy target creature.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/116_Unnatural Hunger.png" num="116">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spindlewail</name>
+			<text>When this creature enters, you may seal 4. If you do, put a lifelink counter and a deathtouch counter on this creature. (To seal 4, exile up to four cards with four or more card types among them from your graveyard.)
+When this creature dies, create a tapped 2/2 black Zombie creature token.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/112_Spindlewail.png" num="112">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Belltower Haunt</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Flying
+{1}{B}: This creature gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/82_Belltower Haunt.png" num="82">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bat Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stitched Pontiff</name>
+			<text>This creature can&apos;t block.
+Whenever you cast a spell with mana value 5 or greater, you may pay 2 life. If you do, return this card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/113_Stitched Pontiff.png" num="113">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Cleric Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>See Worlds Beyond</name>
+			<text>Search your library for two basic land cards, reveal those cards, then put one into your hand and the other into your graveyard. Shuffle.
+Whenever you exile this card from your graveyard while sealing, you gain 2 life.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/187_See Worlds Beyond.png" num="187">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Swelling Growth</name>
+			<text>Choose one—
+• Put a +1/+1 counter on target creature you control, then put a +1/+1 counter on each creature you control with a counter on it.
+• Put a +1/+1 counter on target creature you control. It deals damage equal to its power to target creature or planeswalker an opponent controls.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/192_Swelling Growth.png" num="192">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cloak of Miasma</name>
+			<text>Flash
+Enchant creature
+As long as this Aura entered this turn, enchanted creature has hexproof.
+Enchanted creature gets +2/+2.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/161_Cloak of Miasma.png" num="161">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Life and Death</name>
+			<text>Until end of turn, target creature you control gains &quot;When this creature dies, if it had counters on it, put them on target creature you control.&quot; Then it fights up to one target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/173_Life and Death.png" num="173">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Virulent Husk</name>
+			<text>This creature has all mana abilities of permanent cards exiled with it.
+{1}: Exile target card from a graveyard.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/195_Virulent Husk.png" num="195">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sprouting Sentinel</name>
+			<text>{4}{G}: This creature has base power and toughness 5/5 until end of turn. This ability costs {1} less to activate for each other artifact you control.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/189_Sprouting Sentinel.png" num="189">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nascent Lich</name>
+			<text>When this creature enters, you may sacrifice a creature or land. If you do, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/177_Nascent Lich.png" num="177">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stump Brute</name>
+			<text>Trample
+When this creature enters, put two +1/+1 counters on another target creature you control.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/191_Stump Brute.png" num="191">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silver Suitor</name>
+			<text>{T}: Add {C}{C}. Spend this mana only to cast artifact spells.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/71_Silver Suitor.png" num="71">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unleashed Guardian</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+When this creature enters, you gain 4 life.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/38_Unleashed Guardian.png" num="38">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>By Heaven&apos;s Decree</name>
+			<text>Choose one—
+• Exile target artifact or enchantment.
+• Create a 2/2 white Knight creature token.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/6_By Heaven&apos;s Decree.png" num="6">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Devotion Rewarded</name>
+			<text>Target creature gets +X/+X until end of turn, where X is the number of creatures you control. Untap it.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/12_Devotion Rewarded.png" num="12">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Banishing Thrust</name>
+			<text>Exile target creature if it has power 4 or greater or if it attacked this turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/4_Banishing Thrust.png" num="4">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Herald of the Clarion</name>
+			<text>Flying, vigilance
+Whenever another creature you control enters, you gain 1 life.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/18_Herald of the Clarion.png" num="18">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Noble Steed</name>
+			<text>Flying
+Whenever this creature attacks, up to one other target creature you control with base power 1 or less gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/23_Noble Steed.png" num="23">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pegasus</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Champion of Relos</name>
+			<text>When this creature enters, exile up to two target cards from a single player&apos;s graveyard.
+Soulsplit {W} ({W}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/8_Champion of Relos.png" num="8">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Paladin of Sacred Testament</name>
+			<text>When this creature enters, target creature you control gains indestructible until end of turn.
+Soulsplit {1}{W} ({1}{W}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/25_Paladin of Sacred Testament.png" num="25">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Steelwrought Sunblade</name>
+			<text>Whenever three or more creatures you control attack, put a +1/+1 counter on this creature and tap up to one target creature defending player controls.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/36_Steelwrought Sunblade.png" num="36">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prophet of Rheydia</name>
+			<text>Vigilance
+When this creature enters, put a +1/+1 on each of up two target creatures you control.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/26_Prophet of Rheydia.png" num="26">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blessed Feathers</name>
+			<text>Put a flying counter on target creature you control if it doesn&apos;t have flying. It gets +1/+1 and gains hexproof until end of turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/43_Blessed Feathers.png" num="43">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gaze Inward</name>
+			<text>As an additional cost to cast this spell, you may seal 4. (To seal 4, exile up to four cards with four or more card types among them from your graveyard.)
+Draw a card. If you sealed, draw two cards instead.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/54_Gaze Inward.png" num="54">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Weigh the Soul</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+The owner of target nonland permanent puts it on their choice of the top or bottom of their library.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/79_Weigh the Soul.png" num="79">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Among the Lily Pads</name>
+			<text>Enchant creature
+Enchanted creature loses all abilities and is a green Plant creature with base power and toughness 0/3.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/41_Among the Lily Pads.png" num="41">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Call Beyond</name>
+			<text>Choose one—
+• Tap target creature. Put two stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+• Look at the top three cards of your library. Put one into your and the rest into your graveyard.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/45_Call Beyond.png" num="45">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seraph of Storms</name>
+			<text>Flying
+Whenever this creature becomes tapped, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Soulsplit {4}{U} ({4}{U}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/70_Seraph of Storms.png" num="70">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Josiah&apos;s Bulwark</name>
+			<text>This creature&apos;s power is equal to the number of artifacts you control.
+When this creature enters, create a 1/1 colorless Soldier artifact creature token.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/60_Josiah&apos;s Bulwark.png" num="60">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>*/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soldier SOL</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/12t_Soldier.png" num="12">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>To Stone and Ash</name>
+			<text>Choose one—
+• Exile target artifact.
+• To Stone and Ash deals 2 damage divided as you choose among one or two targets. If a permanent dealt damage this way would die this turn, exile it instead.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/154_To Stone and Ash.png" num="154">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cleave the Blood of Gods</name>
+			<text>Cleave the Blood of Gods deals 2 damage to any target. If an opponent gained life this turn, Cleave the Blood of Gods deals 3 damage to any target instead.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/130_Cleave the Blood of Gods.png" num="130">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cruel Heartstealer</name>
+			<text>{T}: Add {R}. If this mana is spent to cast a creature spell, it gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/131_Cruel Heartstealer.png" num="131">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Biting Pain</name>
+			<text>Until end of turn, target creature gets +3/+1 and gains your choice of first strike or trample.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/123_Biting Pain.png" num="123">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Molten Bloodhunter</name>
+			<text>When this creature enters, you may discard a card. If you do, exile the top two cards of your library. You may play those cards until the end of your next turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/145_Molten Bloodhunter.png" num="145">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skull Summoner</name>
+			<text>When this creature enters, discard a card, then draw a card.
+Soulsplit {1}{R} ({1}{R}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/151_Skull Summoner.png" num="151">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Knight SOL</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/2t_Knight.png" num="2">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Golem SOL</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/10t_Golem.png" num="10">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Extan Knight-Errant</name>
+			<text>Haste
+Whenever this creature attacks, other creatures you control with base power 1 or less get +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/137_Extan Knight-Errant.png" num="137">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Voidhungry Avatar</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Menace
+Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/156_Voidhungry Avatar.png" num="156">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>6R</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sol Herald</name>
+			<text>When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/244_Sol Herald.png" num="244">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Evolving Wilds</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/252_Evolving Wilds.png" num="252">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Burning Eyebeam</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Burning Eyebeam deals X damage to target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/128_Burning Eyebeam.png" num="128">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glorious Protoseraph</name>
+			<text>Flying
+When this creature enters, return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield.
+Soulsplit {1}{W} ({1}{W}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/15_Glorious Protoseraph.png" num="15">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>March Against Fate</name>
+			<text>Whenever you attack, mill two cards. If there are two or more card types among the milled cards, create a 2/2 black Zombie creature token that&apos;s tapped and attacking.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/175_March Against Fate.png" num="175">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bismuth Archdeacon</name>
+			<text>Ward {1}
+At the beginning of your end step, if you&apos;ve cast both a creature spell and an artifact spell this turn, draw a card. (Casting an artifact creature spell counts for both.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/42_Bismuth Archdeacon.png" num="42">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bismuth Cube</name>
+			<text>{4}: Tap target creature. For each mana in this ability&apos;s activation cost, you may tap an untapped token you control rather than pay that mana.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/5_Bismuth Cube.png" num="5">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Augmented Dragon</name>
+			<text>Flying, haste
+When this creature enters, you may seal 4. If you do, this creature deals 4 damage to target creature or planeswalker an opponent controls. (To seal 4, exile up to four cards with four or more card types among them from your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/121_Augmented Dragon.png" num="121">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oracle of the Extan</name>
+			<text>Whenever you cast an artifact spell, untap this creature.
+{T}: Draw a card, then discard a card.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/65_Oracle of the Extan.png" num="65">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forsaken Chalkmason</name>
+			<text>As an additional to cast this spell, discard a card.
+Desolate — Whenever this creature attacks, if you have one or fewer cards in hand, return up to one target creature card from your graveyard to the battlefield tapped and attacking. Sacrifice it at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/93_Forsaken Chalkmason.png" num="93">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eluriel, Final Evolution</name>
+			<text>Flying
+You may look at the top card of your library any time.
+During each of your turns, you may play a land and cast a spell of each card type from the top of your library.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/50_Eluriel, Final Evolution.png" num="50">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>1UUU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Page of Gold</name>
+			<text>You may look at the top card of your library any time.
+Once during each of your turns, you may cast a creature spell with power 1 or less from your graveyard or the top of your library. If you cast a creature spell from your graveyard this way, it enters with a finality counter on it.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/24_Page of Gold.png" num="24">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Veintwinned Harp</name>
+			<text>If a triggered ability of another permanent you control triggers, that ability triggers an additional time.
+Whenever you cast a spell, sacrifice this artifact.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/248_Veintwinned Harp.png" num="248">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Encased in Gold</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block.
+{3}{W}: Exile enchanted creature. This ability costs {2} less to activate if you control a creature with a +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/14_Encased in Gold.png" num="14">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Icon of the Blessed Horde</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+When this creature enters, create three tapped 2/2 black Zombie creature tokens.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/96_Icon of the Blessed Horde.png" num="96">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aureate Partizan</name>
+			<text>At the beginning of combat of your turn, put a +1/+1 counter on target creature you control. Then if it that creature had two or more +1/+1 counters put on it this turn, it gains lifelink until end of turn.
+Soulsplit {3}{W}{W} ({3}{W}{W}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/3_Aureate Partizan.png" num="3">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Suncrowned Lion</name>
+			<text>Whenever another creature you control enters, put a +1/+1 counter on your choice of that creature or this creature.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/37_Suncrowned Lion.png" num="37">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wyldwood Sanctifier</name>
+			<text>Your opponents can&apos;t exile cards from their hand or graveyard to cast spells, activate abilities, or seal.
+{1}{W}: Choose a color. This creature gains protection from the chosen color until end of turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/39_Wyldwood Sanctifier.png" num="39">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Celestial Mandate</name>
+			<text>Affinity for tokens (This spell costs {1} less to cast for each token you control.)
+Return target permanent card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/7_Celestial Mandate.png" num="7">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5WW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ashen Lichlord</name>
+			<text>Vigilance
+Whenever you attack, return target creature card from your graveyard to the battlefield tapped and attacking with a finality counter on it if it has mana value X or less, where X is the number of attacking creatures you control.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/2_Ashen Lichlord.png" num="2">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soulchained Remnant</name>
+			<text>When this creature enters, you may sacrifice a token. When you do, exile target nonland permanent an opponent controls until this creature leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/31_Soulchained Remnant.png" num="31">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sacred Sacrament</name>
+			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield. Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/27_Sacred Sacrament.png" num="27">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scion of Blossoms</name>
+			<text>This creature enters with a +1/+1 counter on it.
+When this creature dies, put its counters on another target creature you control. Then if it has three or more +1/+1 counters on it, create a tapped 2/2 black Zombie creature token.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/28_Scion of Blossoms.png" num="28">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Living Littany</name>
+			<text>Flying, vigilance
+{3}{W}, {T}: Exile another target creature you control, then return it to the battlefield under its owner&apos;s control. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/22_Living Littany.png" num="22">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Runic Lockdown</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Counter target spell unless its controller pays {X}.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/69_Runic Lockdown.png" num="69">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dracolich&apos;s Mastery</name>
+			<text>Look at the top six cards of your library. Put three of them into your hand and the rest into your graveyard.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/48_Dracolich&apos;s Mastery.png" num="48">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Messengers of the Void</name>
+			<text>Flying
+Whenever this creature becomes tapped, if it isn&apos;t attacking, draw a card.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/62_Messengers of the Void.png" num="62">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Archon</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Engines of Hell</name>
+			<text>At the beginning of your upkeep, create a 1/1 colorless Soldier artifact creature token. It gains haste until end of turn. Sacrifice it at the beginning of the next end step unless it convoked a spell this turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/136_Engines of Hell.png" num="136">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Birth from Blood</name>
+			<text>Create a token that&apos;s a copy of target creature you control, except it has base power and toughness 1/1. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/122_Birth from Blood.png" num="122">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mad Tormentor</name>
+			<text>Whenever you discard a card, you may exile it from your graveyard. If you do, you may play that card from exile until your next end step.
+Whenever you discard this card, you may exile it from your graveyard. If you do, you may cast this card from exile until your next end step.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/144_Mad Tormentor.png" num="144">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starsent Speaker</name>
+			<text>Whenever you cast an artifact spell, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Whenever this creature attacks, it gets +1/+0 and gains flying until end of turn if you control three or more other artifacts.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/73_Starsent Speaker.png" num="73">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Generated Voidling</name>
+			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+When this creature enters, return up to one target nonland permanent an opponent controls to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/55_Generated Voidling.png" num="55">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>6UU</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fell Demiurge</name>
+			<text>Flash
+When this creature enters, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)
+The first instant and/or sorcery spell you cast each turn costs {1} less to cast.
+Whenever you discard an instant or sorcery card, you may cast it from your graveyard.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/53_Fell Demiurge.png" num="53">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Confounding Cambion</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+When this creature enters or whenever you cast a spell with mana value 5 or greater, target opponent sacrifices a creature or planeswalker of their choice, discards a card, and loses 3 life.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/86_Confounding Cambion.png" num="86">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sylvua&apos;s Wyldbeast</name>
+			<text>This spell can&apos;t be countered.
+Trample
+Ward—Seal 4. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless they exile up to four cards with four or more card types among them from their graveyard.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/194_Sylvua&apos;s Wyldbeast.png" num="194">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Undeath&apos;s Domination</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Enchant artifact or creature
+You control enchanted permanent.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/77_Undeath&apos;s Domination.png" num="77">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>6UU</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lotus Tender</name>
+			<text>Landfall — Whenever a land you control enters, create a colorless artifact token named Black Lotus with &quot;{T}, Sacrifice this token: Add three mana of any one color.&quot;
+{20}: Target land you control becomes a 20/20 Plant creature with trample. It&apos;s still a land. (This effect lasts indefinitely.)</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/174_Lotus Tender.png" num="174">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Influence the Scales</name>
+			<text>For each permanent type, you may return up to one target nonland permanent of that type to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/58_Influence the Scales.png" num="58">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thorn Dragoon</name>
+			<text>You may cast this spell from your graveyard by sealing 4 in addition to its other costs. (To seal 4, exile up to four other cards with four or more card types among them from your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/115_Thorn Dragoon.png" num="115">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Horror Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>One Man Army</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Create a token that&apos;s a copy of target permanent you control.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/64_One Man Army.png" num="64">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Voidbound Lightstealer</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Flying
+You may cast this card from your graveyard. You can&apos;t spend mana to cast this spell this way.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/78_Voidbound Lightstealer.png" num="78">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Day of Calamity</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Each player mills ten cards. For each player, exile up to one noncreature, nonland card from their graveyard. For each card exiled this way, you may cast a copy of it without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/46_Day of Calamity.png" num="46">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>7UU</manacost>
+				<cmc>9</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blighted Binding</name>
+			<text>Enchant creature
+Enchanted creature has &quot;At the beginning of your upkeep, exile a creature you control.&quot;</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/83_Blighted Binding.png" num="83">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Natural Artifice</name>
+			<text>Whenever you cast a creature spell, you may seal X, where X is that spell&apos;s mana value. If you do, copy that spell. (To seal X, exile up to X cards with X or more card types among them from your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/178_Natural Artifice.png" num="178">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jailer&apos;s Ire</name>
+			<text>Each opponent sacrifices a creature.
+Flashback {4}{B}{B}, Discard a card. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/97_Jailer&apos;s Ire.png" num="97">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Osteogenesis</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Return target creature card from your graveyard to the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/105_Osteogenesis.png" num="105">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Feed On the Crimson Sun</name>
+			<text>Each creature your opponents control gets -1/-1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/91_Feed On the Crimson Sun.png" num="91">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bog Ghoul</name>
+			<text>Trample, vigilance, ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+This creature enters with X +1/+1 counters on it.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/160_Bog Ghoul.png" num="160">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lady of the Lilies</name>
+			<text>When this creature enters, return target card from your graveyard to your hand. Then you may put a land card from your hand onto the battlefield. It&apos;s a 5/5 Spirit creature. It&apos;s still a land.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/172_Lady of the Lilies.png" num="172">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ensouled Stones</name>
+			<text>Trample
+This creature gets +2/+2 for each artifact you control.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/165_Ensouled Stones.png" num="165">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Spirit Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Verox, the Forgelord</name>
+			<text>Flying
+Ward—Pay 5 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 5 life.)
+When this creature enters, you may discard any number of cards. If you do, create that many 1/1 colorless Soldier artifact creature tokens.
+Sacrifice an artifact: Add {C}{C}.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/155_Verox, the Forgelord.png" num="155">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Portents of Blood</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Portents of Blood deals 2 damage to each creature and planeswalker that didn&apos;t convoke this spell.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/147_Portents of Blood.png" num="147">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gateway Protector</name>
+			<text>Desolate — As long as you have one or fewer cards in hand, this creature gets +1/+0 and has trample and haste.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/139_Gateway Protector.png" num="139">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shepherding the Rot</name>
+			<text>Reveal the top five cards of your library. Put up to two land cards from among them onto the battlefield tapped. Put the rest into your graveyard.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/188_Shepherding the Rot.png" num="188">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Braintree Divination</name>
+			<text>Exile the top three cards of your library. Until the end of your next turn, you may play those cards.
+Create three Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/127_Braintree Divination.png" num="127">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Descent into Chaos</name>
+			<text>{2}, Seal 3: This enchantment deals 2 damage to any target. Activate only as a sorcery. (To seal 3, exile up to three cards with three or more card types among them from your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/132_Descent into Chaos.png" num="132">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nexus Serasphinx</name>
+			<text>Flying
+When this creature enters, reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Exile that pile and put the other into your graveyard. You may play the cards exiled this way for as long as you control this creature. Whenever you play a card exiled this way, create a 4/4 white Angel creature token with flying.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/63_Nexus Serasphinx.png" num="63">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Sphinx</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Implement of Thuraxes</name>
+			<text>Whenever you discard a card, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+When this creature dies, it deals damage equal to its power to each opponent.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/141_Implement of Thuraxes.png" num="141">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Doom Monarch</name>
+			<text>You may look at the top card of your library any time.
+Once each turn, you may cast a spell from the top of your library by discarding a card in addition to that spell&apos;s other costs.
+Desolate — As long as you have one or fewer cards in hand, this creature gets +2/+1 and has menace.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/134_Doom Monarch.png" num="134">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scarlet Liturgy</name>
+			<text>At the beginning of your upkeep, exile the top card of your library. You may play that card this turn.
+Spells you cast from exile have convoke. (Each creature you tap while casting a spell from exile pays for {1} or one mana of that creature&apos;s color.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/149_Scarlet Liturgy.png" num="149">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Starsent Angel</name>
+			<text>Flying, lifelink
+Other creatures you control with flying get +1/+1.
+Soulsplit {4}{W} ({4}{W}: Create a 1/1 token copy of this creature without this ability. Activate only as a sorcery and only once.)</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SOL-files/img/33_Starsent Angel.png" num="33">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clamber to the Light</name>
+			<text>Creatures you control get +1/+1.
+At the beginning of your end step, create a tapped 2/2 black Zombie creature token, then sacrifice a token.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/203_Clamber to the Light.png" num="203">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Endure Hell</name>
+			<text>When this enchantment enters, put a +1/+1 counter on target creature you control.
+Permanents you control with counters on them have indestructible.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/208_Endure Hell.png" num="208">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4GW</manacost>
+				<cmc>6</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dimension Dancer</name>
+			<text>Flying, haste
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a spell with mana value 5 or greater, create a token that&apos;s a copy of this creature.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/204_Dimension Dancer.png" num="204">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gilded Maiden</name>
+			<text>{T}: Add one mana of any color.
+{2}, {T}, Sacrifice a creature: Draw a card.
+{4}, {T}, Sacrifice this artifact: Draw two cards.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/236_Gilded Maiden.png" num="236">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sword of Josiah</name>
+			<text>Menace
+This creature enters with five +1/+1 counters on it.
+Whenever this creature attacks, you may remove a +1/+1 counter from it. If you do, put two +1/+1 counters on another target attacking creature you control.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/247_Sword of Josiah.png" num="247">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shepherd of Shadows</name>
+			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+When this creature enters, target creature an opponent controls gets -3/-3 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/242_Shepherd of Shadows.png" num="242">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Teluran Gardens</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{2}, {T}, Seal 4: Draw a card. (To seal 4, exile up to four cards with four or more card types among them from your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/257_Teluran Gardens.png" num="257">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Resurgent Ruins</name>
+			<text>This land enters tapped unless you control two or fewer other lands.
+{T}, Add {G}.
+{1}{G}, {T}: You may cast target nonland permanent card with mana value 2 or less from your graveyard. If you do, it enters with a finality counter on it. Activate only as a sorcery. (You still pay that spell&apos;s costs.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/254_Resurgent Ruins.png" num="254">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Charged Confluence</name>
+			<text>This land enters tapped unless you control two or fewer other lands.
+{T}, Add {R}.
+{R}, {T}: The next spell you cast this turn has convoke. Activate only as a sorcery. (Your creatures can help cast the next spell you cast this turn. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/250_Charged Confluence.png" num="250">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Shattered Spires</name>
+			<text>This land enters tapped unless you control two or fewer other lands.
+{T}, Add {U}.
+{2}{U}, {T}: Target creature you control can&apos;t be blocked this turn. Return it to its owner&apos;s hand at the beginning of the next end step. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/256_Shattered Spires.png" num="256">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hollow Church</name>
+			<text>This land enters tapped unless you control two or fewer other lands.
+{T}: Add {B}.
+{B}, {T}: Return target creature card from your graveyard to your hand if it was put there from anywhere other than the battlefield this turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/253_Hollow Church.png" num="253">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Desecrated Monument</name>
+			<text>This land enters tapped unless you control two or fewer other lands.
+{T}: Add {W}.
+{2}{W}, {T}: Look at the top four cards of your library. You may reveal a creature card with power 1 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/251_Desecrated Monument.png" num="251">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/262_Forest.png" num="262">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/259_Island.png" num="259">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/261_Mountain.png" num="261">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/258_Plains.png" num="258">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/260_Swamp.png" num="260">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Shattered Peak</name>
+			<text>{T}: Add {C}.
+{2}, {T}, Sacrifice this land: Destroy target nonbasic land an opponent controls. That land&apos;s controller may search their library for a basic land card, put it onto the battlefield, then shuffle. You may search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SOL-files/img/255_Shattered Peak.png" num="255">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Zombie SOL</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/3t_Zombie.png" num="3">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure SOL</name>
+			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/13t_Treasure.png" num="13">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Black Lotus SOL</name>
+			<text>{T}, Sacrifice this token: Add three mana of any one color.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/8t_Black Lotus.png" num="8">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Dragon SOL</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/4t_Dragon.png" num="4">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Warrior SOL</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/5t_Warrior.png" num="5">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Iron Wastes SOL</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/11t_Iron Wastes.png" num="11">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Land — Wastes</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Angel SOL</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/1t_Angel.png" num="1">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Angel Demon SOL</name>
+			<text>Flying, trample</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SOL-files/img/6t_Angel Demon.png" num="6">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Angel Demon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Doom Monarch</name>
+			<text>You may look at the top card of your library any time.
+Once each turn, you may cast a spell from the top of your library by discarding a card in addition to that spell&apos;s other costs.
+Desolate — As long as you have one or fewer cards in hand, this creature gets +2/+1 and has menace.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SOL-files/img/0_Doom Monarch.png" num="0">SOL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,3978 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>MOX</name>
+			<longname>Midnight Omens of Xogoa</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-23</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Candlelight Hexcrafter</name>
+			<text>Lifelink
+{2}{W}, {T}: Tap target creature.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/5_Candlelight Hexcrafter.png" num="5">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grove Guardian</name>
+			<text>Flying
+When this creature enters, choose one—
+• Create a 1/1 white Human creature token.
+• Choose target permanent in your graveyard that was put there from the battlefield this turn. Return that card to your hand.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/14_Grove Guardian.png" num="14">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Repel the Vile</name>
+			<text>Choose one —
+• Exile target creature with power 4 or greater.
+• Exile target enchantment.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/24_Repel the Vile.png" num="24">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tarnahm Brightbearer</name>
+			<text>{T}: Add one mana of any color. You can&apos;t spend this mana to cast permanent spells.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/57_Tarnahm Brightbearer.png" num="57">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dread Whispers</name>
+			<text>Draw three cards. Target player mills three cards.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/40_Dread Whispers.png" num="40">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tarnahm Shadow</name>
+			<text>When this creature enters, destroy up to one target creature an opponent controls that was dealt damage this turn.
+{1}{B}: Tarnahm Shadow gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/94_Tarnahm Shadow.png" num="94">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ox Shade</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Village Procession</name>
+			<text>Put a +1/+1 counter on each creature you control.
+Equinox—Tap three untapped white creatures you control. (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/29_Village Procession.png" num="29">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shackled Straw</name>
+			<text>Defender
+Whenever a player attacks you or a planeswalker you control with flying, this creature can attack as though it didn&apos;t have defender until the beginning of your next end step.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/201_Shackled Straw.png" num="201">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hallow Statue</name>
+			<text>{T}: Add one mana of any color.
+{3}: This artifact becomes a 3/3 Angel creature with flying in addition to its other types until end of turn. Activate only if you control a creature with flying.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/192_Hallow Statue.png" num="192">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Determined Congregation</name>
+			<text>Create two 1/1 white Human creature tokens. If a creature died this turn, create three of those tokens instead.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/8_Determined Congregation.png" num="8">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aminatou&apos;s Familiar</name>
+			<text>Flying
+Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/1_Aminatou&apos;s Familiar.png" num="1">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Outlands Envoy</name>
+			<text>When this creature enters, choose one—
+• Return target Aura card from your graveyard to your hand.
+• Target creature you control gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/22_Outlands Envoy.png" num="22">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prized Longhorn</name>
+			<text>When this creature enters, you gain 3 life.
+Nocturnal {W} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/23_Prized Longhorn.png" num="23">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ox</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Homestead Militia</name>
+			<text>When this creature enters, creatures you control get +1/+1 until end of turn.
+Nocturnal {1}{W} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/18_Homestead Militia.png" num="18">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Convergence Beckoner</name>
+			<text>Flying
+When this creature enters, you gain 1 life for each creature you control with flying.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/6_Convergence Beckoner.png" num="6">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost in the Stars</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block.
+Whenever you attack with three or more creatures, destroy enchanted creature.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/19_Lost in the Stars.png" num="19">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>World&apos;s Wings</name>
+			<text>Target creature gets +2/+2 until end of turn. If it has flying, draw a card. Otherwise, that creature gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/31_World&apos;s Wings.png" num="31">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gilded Travel</name>
+			<text>Flash
+Enchant creature
+When this Aura enters, enchanted creature gains indestructible until end of turn.
+Enchanted creature gets +2/+2.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/12_Gilded Travel.png" num="12">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stillwater Respite</name>
+			<text>Exile target creature you control, then return that card to the battlefield tapped under its owner&apos;s control.
+Equinox {2}{W} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/27_Stillwater Respite.png" num="27">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Curious Hauntling</name>
+			<text>Flash
+Flying
+When this creature enters, tap target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/37_Curious Hauntling.png" num="37">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spectral Shepherd</name>
+			<text>Whenever you cast a spell during an opponent&apos;s turn, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/55_Spectral Shepherd.png" num="55">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deranged Cultist</name>
+			<text>When this creature dies, draw a card.
+Nocturnal {U} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/38_Deranged Cultist.png" num="38">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gaping Revenant</name>
+			<text>Flying
+Nocturnal {1}{U} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/44_Gaping Revenant.png" num="44">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Haunting Watcher</name>
+			<text>Reap — {4}{U}{U}: This creature can&apos;t be blocked this turn. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/45_Haunting Watcher.png" num="45">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Phantom Butler</name>
+			<text>When this creature enters, if you&apos;ve cast two or more spells this turn, put up to one target instant or sorcery card from your graveyard on top of your library.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/53_Phantom Butler.png" num="53">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Syncopate</name>
+			<text>Counter target spell unless its controller pays {X}. If that spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/56_Syncopate.png" num="56">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Chilling Sight</name>
+			<text>Enchant creature
+When this Aura enters, if you&apos;ve cast two or more spells this turn, tap enchanted creature.
+Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/36_Chilling Sight.png" num="36">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Discover the Reliquary</name>
+			<text>Look at the top three cards of your library. Put one into your hand and the rest on the bottom of your library in a random order.
+Equinox {3}{U} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/39_Discover the Reliquary.png" num="39">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kiss of Frost</name>
+			<text>Tap up to two target creatures, then distribute two stun counters among them. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Equinox {3}{U}{U} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/47_Kiss of Frost.png" num="47">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vanish</name>
+			<text>This spell costs {2} less to cast if it targets a creature you control.
+Return target nonland permanent to its owner&apos;s hand.
+Draw a card.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/62_Vanish.png" num="62">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Doomed Survivor</name>
+			<text>Menace
+{2}{B}, Exile this card from your graveyard: Create a tapped 2/2 black Zombie creature token.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/76_Doomed Survivor.png" num="76">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Novice Occultist</name>
+			<text>When this creature dies, you draw a card and you lose 1 life.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/86_Novice Occultist.png" num="86">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ulderwild Sage</name>
+			<text>Reap — {3}{B}: Each opponent loses 1 life and you gain 1 life. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/95_Ulderwild Sage.png" num="95">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Horde Encounter</name>
+			<text>Create a 2/2 black Zombie creature token.
+Equinox {3}{B} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/81_Horde Encounter.png" num="81">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Clever Familiar</name>
+			<text>When this creature enters, you lose 1 life and you draw a card.
+Nocturnal {B} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/73_Clever Familiar.png" num="73">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boglurker Thallid</name>
+			<text>{2}, Sacrifice a creature: Put a +1/+1 counter on this creature. It gains indestructible until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/71_Boglurker Thallid.png" num="71">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elken Remains</name>
+			<text>Reap — {3}{B}: This creature gets +2/+0 and gains indestructible until end of turn. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/77_Elken Remains.png" num="77">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Segmented Terror</name>
+			<text>When this creature enters, return target creature card with mana value 5 or less from your graveyard to your hand.
+Nocturnal {3}{B} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/92_Segmented Terror.png" num="92">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Feed the Swarm</name>
+			<text>Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent&apos;s mana value.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/78_Feed the Swarm.png" num="78">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Necromancer&apos;s Lullaby</name>
+			<text>Target opponent reveals their hand. You may choose a creature card from it. If you do, that player discards that card. If you don&apos;t, return up to one target creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/83_Necromancer&apos;s Lullaby.png" num="83">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rise from Rot</name>
+			<text>Target creature you control gains deathtouch until end of turn. When it dies this turn, create a 2/2 black Zombie creature token.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/90_Rise from Rot.png" num="90">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Harvest</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Draw two cards. You gain life equal to the sacrificed creature&apos;s mana value.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/80_Harvest.png" num="80">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Truffle Forager</name>
+			<text>First strike
+Whenever you cast your second spell each turn, this creature deals 1 damage to each opponent and you scry 1.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/125_Truffle Forager.png" num="125">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodgorger Beetle</name>
+			<text>Reap — {2}{R}: This creature gets +2/+0 until end of turn. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/105_Bloodgorger Beetle.png" num="105">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wild Witch</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/128_Wild Witch.png" num="128">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leafcrown Elk</name>
+			<text>When this creature enters, target creature can&apos;t block this turn.
+Nocturnal {R} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/113_Leafcrown Elk.png" num="113">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tomebound Apprentice</name>
+			<text>This creature has haste as long as you&apos;ve cast two or more spells this turn.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/124_Tomebound Apprentice.png" num="124">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Witch Hunter</name>
+			<text>Whenever this creature attacks with another creature with power 4 or greater, this creature deals 1 damage to target player or planeswalker.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/129_Witch Hunter.png" num="129">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blightarrow Archer</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+During your turn, this creature has first strike.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/103_Blightarrow Archer.png" num="103">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodbirthed Crawler</name>
+			<text>Reach
+Reap — {4}{R}: This creature deals 2 damage to each opponent. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/104_Bloodbirthed Crawler.png" num="104">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sundering the Tower</name>
+			<text>Sundering the Tower deals X damage to target creature or planeswalker.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/123_Sundering the Tower.png" num="123">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Twisted Temptation</name>
+			<text>Gain control of target creature until end of turn. Untap it. Until end of turn, it gains haste and &quot;Whenever this creature deals combat damage to its owner, it deals 1 damage to that player.&quot;</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/126_Twisted Temptation.png" num="126">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Candlelight Ritual</name>
+			<text>You may discard a card. If you do, draw two cards.
+Equinox {3}{R} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/106_Candlelight Ritual.png" num="106">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Narrow Exit</name>
+			<text>Target creature gets +1/+0 and gains first strike until end of turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/117_Narrow Exit.png" num="117">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Abrade</name>
+			<text>Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/98_Abrade.png" num="98">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shrine Guardian</name>
+			<text>Trample
+Whenever this creature attacks with another creature with power 4 or greater, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/154_Shrine Guardian.png" num="154">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Civic Gardener</name>
+			<text>Whenever this creature attacks, untap target creature or land.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/135_Civic Gardener.png" num="135">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sporechoke Myconid</name>
+			<text>{4}{G}: Return this card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/155_Sporechoke Myconid.png" num="155">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Carnivorous Seedling</name>
+			<text>Reap — {3}{G}: Put a +1/+1 counter on this creature. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/134_Carnivorous Seedling.png" num="134">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scion of Old Gods</name>
+			<text>When this creature enters, if you control another creature with power 4 or greater, draw a card.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/153_Scion of Old Gods.png" num="153">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jack&apos;s Pumpkinhead</name>
+			<text>When this creature dies, put it on the bottom of its owner&apos;s library, then return up to one target creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/148_Jack&apos;s Pumpkinhead.png" num="148">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ulderwild Recluse</name>
+			<text>Vigilance, reach
+Nocturnal {2}{G} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/162_Ulderwild Recluse.png" num="162">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gnarled Ironroot</name>
+			<text>Trample
+Nocturnal {3}{G}{G} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/141_Gnarled Ironroot.png" num="141">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inquisitive Jackalope</name>
+			<text>When this creature enters, reveal the top five cards of your library. You may put an Aura or land card from among them into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/147_Inquisitive Jackalope.png" num="147">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bountiful Orchard</name>
+			<text>Enchant land
+When this Aura enters, create a 1/1 white Human creature token.
+Enchanted land has &quot;{T}: Add two mana of any one color.&quot;</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/133_Bountiful Orchard.png" num="133">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ulderwild Animosity</name>
+			<text>Destroy target artifact, enchantment, or creature with flying. If it has mana value 3 or greater, you gain 2 life.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/159_Ulderwild Animosity.png" num="159">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ulderwild Clash</name>
+			<text>This spell costs {2} less to cast if it targets a creature you control with power 4 or greater.
+Target creature you control deals damage equal to its power to target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/161_Ulderwild Clash.png" num="161">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Barkskin Blessing</name>
+			<text>Flash
+Enchant creature
+When this Aura enters, enchanted creature gets +2/+2 until end of turn.
+Enchanted creature has trample.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/132_Barkskin Blessing.png" num="132">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Haunt-Drawn Carriage</name>
+			<text>Trample
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/194_Haunt-Drawn Carriage.png" num="194">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prophetic Prism</name>
+			<text>When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/199_Prophetic Prism.png" num="199">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Makeshift Wings</name>
+			<text>When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +1/+0 and has flying.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/198_Makeshift Wings.png" num="198">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shambling Harvester</name>
+			<text>Reap — {4}: This creature gets +2/+2 until end of turn. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/202_Shambling Harvester.png" num="202">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sporecap Warden</name>
+			<text>When this creature enters, return target creature card from your graveyard to your hand. If it was put there from the battlefield this turn, instead return it to the battlefield tapped.
+If this creature would die, exile it instead.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/182_Sporecap Warden.png" num="182">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eldritch Investigator</name>
+			<text>{T}: Untap another target permanent not named Eldritch Investigator.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/171_Eldritch Investigator.png" num="171">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ulderwild Communer</name>
+			<text>When this creature enters, if you control an enchantment, create a 2/2 green Wolf creature token.
+Whenever an enchantment you control enters, create a 2/2 green Wolf creature token.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/184_Ulderwild Communer.png" num="184">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Velheart Ritualist</name>
+			<text>Reap — {1}{B}{R}: Put a +1/+1 counter on this creature. It deals 1 damage to each opponent. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/187_Velheart Ritualist.png" num="187">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grizzled Woodsman</name>
+			<text>Whenever a creature with power 4 or greater you control enters, put a +1/+1 counter on this creature. It gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/173_Grizzled Woodsman.png" num="173">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bunnyback Messenger</name>
+			<text>Haste
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a noncreature spell, up to one target creature can&apos;t block this turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/167_Bunnyback Messenger.png" num="167">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Avian Familiar</name>
+			<text>Flash
+Flying
+When this creature enters during an opponent&apos;s turn or whenever you cast a spell during an opponent&apos;s turn, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/165_Avian Familiar.png" num="165">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soultouch Spirit</name>
+			<text>When this creature enters, return target instant or sorcery with mana value less than or equal to the amount of mana spent to cast this creature from your graveyard to your hand.
+Whenever you cast your second spell each turn, scry 2.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/181_Soultouch Spirit.png" num="181">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>XUR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ritual Amalgam</name>
+			<text>This spell costs {1} less to cast for each token you control.
+When this creature enters, target opponent sacrifices a nontoken creature of their choice.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/179_Ritual Amalgam.png" num="179">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>4WB</manacost>
+				<cmc>6</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Duskflight Tracker</name>
+			<text>Flying
+When this creature enters, look at the top X cards of your library, where X is the number of creatures you control with flying. Put one of those cards into your hand and the rest on the bottom of your library in a random order.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/170_Duskflight Tracker.png" num="170">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blighted Angel</name>
+			<text>Flying
+Each player can&apos;t cast more than one noncreature spell each turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/4_Blighted Angel.png" num="4">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hivetender</name>
+			<text>Reap — {3}{W}: Create a 1/1 white Insect creature token with flying. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/17_Hivetender.png" num="17">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Archon of Life&apos;s Return</name>
+			<text>Flying
+When this creature enters, choose target permanent card with mana value 3 or less in your graveyard. You may play that card this turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/3_Archon of Life&apos;s Return.png" num="3">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Archon</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dwarven Dreamwarden</name>
+			<text>Creature tokens you control get +1/+1 and have protection from Nightmares. (They can&apos;t be blocked, targeted, or dealt damage by Nightmares.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/9_Dwarven Dreamwarden.png" num="9">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seal Away</name>
+			<text>Flash
+When this enchantment enters, exile target tapped creature an opponent controls until this enchantment leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/26_Seal Away.png" num="26">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crescent Diviner</name>
+			<text>When this creature enters, search your library for an Aura card, reveal it, put it into your hand, then shuffle.
+Aura spells you cast cost {1} less to cast.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/7_Crescent Diviner.png" num="7">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Highborn Alchemist</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever this creature becomes the target of a spell you control, it gains lifelink until end of turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/16_Highborn Alchemist.png" num="16">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Great One&apos;s Nest</name>
+			<text>Creatures you control with flying get +1/+1.
+Creatures without flying can&apos;t attack you or a planeswalker you control unless their controller pays {1} for each of those creatures.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/13_Great One&apos;s Nest.png" num="13">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Murktown Hunter</name>
+			<text>Reap — {1}{U}: Draw a card, then discard a card. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/51_Murktown Hunter.png" num="51">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Winged Amalgam</name>
+			<text>This spell costs {1} less to cast for each creature you control with flying.
+Flying</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/63_Winged Amalgam.png" num="63">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lurholme Diviner</name>
+			<text>When this creature enters, return target instant or sorcery card from your graveyard to your hand.
+{U}, {T}, Sacrifice two other creatures: Copy target instant or sorcery spell you control. You may choose new targets for the copy.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/49_Lurholme Diviner.png" num="49">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ulderwild Conductor</name>
+			<text>Whenever you cast a spell during an opponent&apos;s turn, create a 1/1 white Insect creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/59_Ulderwild Conductor.png" num="59">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chained Phantom</name>
+			<text>Flying
+This creature enters tapped with three stun counters on it. (If it would become untapped, remove a stun counter from it instead.)
+Whenever you cast a spell during an opponent&apos;s turn, untap this creature.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/35_Chained Phantom.png" num="35">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wrapped in Spidersilk</name>
+			<text>Enchant creature
+Whenever enchanted creature becomes tapped, put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/64_Wrapped in Spidersilk.png" num="64">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Thoughtgrind</name>
+			<text>Target player mills six cards.
+Equinox {1}{U}{U} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/58_Thoughtgrind.png" num="58">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Repeating Replication</name>
+			<text>Create a token that&apos;s a copy of target permanent you control.
+Equinox {5}{U}{U} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/54_Repeating Replication.png" num="54">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blossoming Shambler</name>
+			<text>When this creature dies, choose one—
+• Each opponent loses 1 life and you gain 1 life.
+• Return target creature card with mana value 1 or less from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/68_Blossoming Shambler.png" num="68">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Old God&apos;s Faithful</name>
+			<text>When this creature enters, each player sacrifices a creature of their choice.
+Nocturnal {1}{B} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/87_Old God&apos;s Faithful.png" num="87">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Devoted Aristocrat</name>
+			<text>Whenever you create one or more tokens, you may sacrifice this creature. If you do, create a 4/4 black Demon creature token with menace.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/75_Devoted Aristocrat.png" num="75">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ravenous Cockatrice</name>
+			<text>Flash
+Flying
+When this creature enters, up to one target creature gets -2/-2 for each spell its controller has cast this turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/89_Ravenous Cockatrice.png" num="89">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cockatrice</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boneyard Haunt</name>
+			<text>Menace
+Reap — {3}{B}: Target opponent loses 3 life unless they sacrifice a nonland permanent of their choice or discard a card. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/72_Boneyard Haunt.png" num="72">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scared of the Dark</name>
+			<text>Target creature gets -1/-3 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/91_Scared of the Dark.png" num="91">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blow Away Dreams</name>
+			<text>Target opponent discards two cards. If they discard fewer than two cards this way, you draw cards equal to the difference.
+Equinox {4}{B}{B} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/69_Blow Away Dreams.png" num="69">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bog Brew</name>
+			<text>Return target creature card from your graveyard to your hand.
+Equinox {1}{B} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/70_Bog Brew.png" num="70">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lurholme Embershaper</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast your second spell each turn, create a 1/1 red Elemental creature token with haste.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/114_Lurholme Embershaper.png" num="114">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Massacre Dragon</name>
+			<text>Flying
+Reap — {1}{R}: This creature deals 1 damage to any target. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/115_Massacre Dragon.png" num="115">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Apprentice&apos;s Discovery</name>
+			<text>Create a 1/1 red Human Warlock creature token with prowess. (Whenever you cast a noncreature spell, the token gets +1/+1 until end of turn.)
+Equinox {2}{R} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/99_Apprentice&apos;s Discovery.png" num="99">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ulderwild Guardian</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast your second spell each turn, this creature deals 2 damage to each opponent.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/127_Ulderwild Guardian.png" num="127">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Devastating Pyre</name>
+			<text>Devastating Pyre deals 2 damage to each creature. If you&apos;ve cast two or more spells this turn, Devastating Pyre deals 2 damage to each creature you don&apos;t control instead.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/108_Devastating Pyre.png" num="108">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skeletal Inferno</name>
+			<text>Trample, haste
+Whenever this creature attacks, sacrifice it at end of combat.
+Nocturnal {R} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/121_Skeletal Inferno.png" num="121">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ardent Embermage</name>
+			<text>Reap — {3}{R}: Put a +1/+1 counter on this creature. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)
+When this creature dies, it deals damage equal to its power to any target.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/101_Ardent Embermage.png" num="101">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Embroiled in Conflict</name>
+			<text>Target creature fights another target creature.
+Equinox {5}{R}{R} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/110_Embroiled in Conflict.png" num="110">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hungering Briarbeast</name>
+			<text>Trample
+Reap — {4}{G}: Put two +1/+1 counters on this creature. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/146_Hungering Briarbeast.png" num="146">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tender Vitalist</name>
+			<text>{T}: Add one mana of any color.
+Nocturnal {G} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/157_Tender Vitalist.png" num="157">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Putrid Sludge</name>
+			<text>When this creature enters, destroy up to one target artifact or enchantment.
+Nocturnal {1}{G} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/152_Putrid Sludge.png" num="152">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ulderwild Cartographer</name>
+			<text>{T}: Add one mana of any color. Spend this mana only to cast creature spells with power 4 or greater.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/160_Ulderwild Cartographer.png" num="160">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orchard Caretaker</name>
+			<text>Whenever you cast an enchantment spell, look at the top card of your library. If it&apos;s a land card, you may put it into the battlefield tapped. Otherwise, you may put that card into your graveyard.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/150_Orchard Caretaker.png" num="150">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Haunted Gravesite</name>
+			<text>Whenever you cast an enchantment spell, put a +1/+1 counter on target creature you control.
+{3}{G}: Another target enchantment you control becomes a 4/4 green Spirit creature in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/144_Haunted Gravesite.png" num="144">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Great Witch&apos;s Boon</name>
+			<text>Enchant creature
+When this Aura enters, tap enchanted creature and put a stun counter on it.
+Enchanted creature gets +4/+4 and has trample.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/142_Great Witch&apos;s Boon.png" num="142">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Awaken the Ulderwild</name>
+			<text>Create a green Treefolk creature token with reach and &quot;This token&apos;s power and toughness are each equal to the number of Forests you control.&quot;
+Equinox {4}{G}{G} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/131_Awaken the Ulderwild.png" num="131">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flowering Wight</name>
+			<text>Reap — {2}{W}{W}: Put a +1/+1 counter on each of up to two target creatures. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/10_Flowering Wight.png" num="10">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Archangel Tinea</name>
+			<text>Flying
+Once during each of your turns, you may cast a creature card from your graveyard if it has flying or if it was put into your graveyard from the battlefield this turn. Creatures cast this way enter the battlefield with a finality counter on them. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/2_Archangel Tinea.png" num="2">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>A New Day Rises</name>
+			<text>Exile all creatures, then return up to one target permanent card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/20_A New Day Rises.png" num="20">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5WW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Harvest Festival</name>
+			<text>Whenever you attack, create a 1/1 white Human creature token that&apos;s tapped and attacking.
+Sacrifice this enchantment: Return to the battlefield each creature card in your graveyard that was put there from the battlefield this turn if that creature also attacked this turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/15_Harvest Festival.png" num="15">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ominous Lepiseraph</name>
+			<text>Flying
+Whenever you attack, put a +1/+1 counter on each other creature with flying you control.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/21_Ominous Lepiseraph.png" num="21">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Worldsong Conductor</name>
+			<text>{1}{W}, {T}, Sacrifice an enchantment: Return target enchantment card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery. (If a permanent with a finality counter on it would be put into a graveyard from the battlefield, exile it instead.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/32_Worldsong Conductor.png" num="32">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twisted Choir</name>
+			<text>{1}, Sacrifice a non-Cleric creature: Create a 1/1 white Cleric creature token with lifelink.
+{3}, Sacrifice three Clerics: Create a 4/4 white Insect Angel creature token with flying and vigilance.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/28_Twisted Choir.png" num="28">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Awakened Deus</name>
+			<text>When this creature enters, return all non-Leviathan creatures to their owner&apos;s hands.
+Nocturnal {4}{U}{U} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/33_Awakened Deus.png" num="33">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Leviathan Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>6UU</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lady Lurholme, Communer</name>
+			<text>Reap — {3}{U}: You may cast an instant or sorcery spell from your hand without paying its mana cost. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/48_Lady Lurholme, Communer.png" num="48">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Endless Insights</name>
+			<text>Whenever you cast a spell for its alternate cost, copy that spell. You may choose new targets for the copy.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/41_Endless Insights.png" num="41">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Faceless Form</name>
+			<text>You may have this creature enter as a copy of any creature on the battlefield.
+Nocturnal {U}{U} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/42_Faceless Form.png" num="42">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pallbearer&apos;s Lament</name>
+			<text>Draw three cards.
+Equinox {4}{U}{U}{U} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/52_Pallbearer&apos;s Lament.png" num="52">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pactweaver Regent</name>
+			<text>Ward—Pay 7 life.
+Reap — {3}{B}{B}: Search your library for a card, put it into your hand, then shuffle. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/88_Pactweaver Regent.png" num="88">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>4BBB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cult Following</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+At the beginning of your upkeep, you draw two cards and lose 2 life.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/74_Cult Following.png" num="74">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Voracia, Dreamstalker</name>
+			<text>Menace
+Whenever Voracia deals combat damage to a player, that player reveals their hand and the top card of their library. You may cast a nonland card revealed this way by paying life equal to its mana value rather than paying its mana cost.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/96_Voracia, Dreamstalker.png" num="96">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>All-Seeing Lurker</name>
+			<text>At the beginning of your upkeep, you lose 2 life.
+Nocturnal {1}{B} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/65_All-Seeing Lurker.png" num="65">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nightmare Whispers</name>
+			<text>Choose a nonland card name. Target opponent reveals their hand and discards all cards with that name.
+Equinox {B}{B} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/84_Nightmare Whispers.png" num="84">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nightshroud Steed</name>
+			<text>Flying
+This creature&apos;s power and toughness are each equal to the number of Swamps you control.
+When this creature enters, up to one target creature gets -X/-X until end of turn, where X is the number of Swamps you control.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/85_Nightshroud Steed.png" num="85">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sleepwalk</name>
+			<text>You gain control of target opponent during that player&apos;s next turn. They skip the untap step of that turn. After that turn, that player takes an extra turn.
+Exile Sleepwalk.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/93_Sleepwalk.png" num="93">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lifeblood Ritual</name>
+			<text>Choose one—
+• Up to two target creatures you don&apos;t control each get -X/-X until end of turn.
+• Return up to two target creature cards with mana value X or less from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/82_Lifeblood Ritual.png" num="82">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XBB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Autumnal Wish</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+You may play a card you own from outside the game this turn. If that card has mana value less than the sacrificed creature&apos;s mana value, you may cast it without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/102_Autumnal Wish.png" num="102">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Encroaching Convergence</name>
+			<text>Create a token that&apos;s a copy of target creature you control. It gains haste. Exile it at the beginning of the next end step.
+Equinox {3}{R}{R} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/111_Encroaching Convergence.png" num="111">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Prossa, Midnight Flame</name>
+			<text>Flying
+{R}: Prossa gets +1/+0 for each spell you&apos;ve cast this turn. When its power becomes 12 this way, you may exile the top half of your library, rounded down. You may play those cards this turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/119_Prossa, Midnight Flame.png" num="119">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jack&apos;s Ire</name>
+			<text>This spell costs {1} less to cast for each creature you control.
+Jack&apos;s Ire deals X damage to each creature.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/112_Jack&apos;s Ire.png" num="112">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XRR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dusklight Frolicking</name>
+			<text>Target opponent may have Dusklight Frolicking deal 4 damage to them. If that player doesn&apos;t, you draw three cards.
+Equinox {3}{R}{R} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/109_Dusklight Frolicking.png" num="109">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Starscape Phoenix</name>
+			<text>Flying
+Nocturnal {2}{R} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)
+When this creature dies, until the end of your next turn, you may cast it from your graveyard for its nocturnal cost.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/122_Starscape Phoenix.png" num="122">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Approach the Eye</name>
+			<text>You don&apos;t lose unspent red mana as steps and phases end.
+At the beginning of your upkeep, this enchantment deals 1 damage to you for each unspent red mana you have.
+Sacrifice a creature: Add {R}.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/100_Approach the Eye.png" num="100">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Condemned Lupine</name>
+			<text>As long as you&apos;ve cast two or more spells this turn, this creature has haste.
+Whenever you cast a spell from exile, put a +1/+1 counter on this creature.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/107_Condemned Lupine.png" num="107">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moonlight Witch</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Reap — {3}{R}: Discard your hand, then draw two cards. (Activate this ability only once each turn as a sorcery. It costs {0} if a creature died this turn.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/116_Moonlight Witch.png" num="116">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Horizon Eater</name>
+			<text>Trample, reach
+This creature enters with twice X +1/+1 counters on it.
+Nocturnal {X}{G} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/145_Horizon Eater.png" num="145">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Druidic Summons</name>
+			<text>Creatures you control have trample.
+At the beginning of combat on your turn, put a might counter on target creature you control without one. It has base power and toughness 8/8 for as long as it has a might counter on it.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/139_Druidic Summons.png" num="139">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5GGG</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Consuming Slimetide</name>
+			<text>Ward {2}
+Other Oozes you control have ward {2}.
+Reap — {3}{G}: Create a 3/3 green Ooze creature token. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/136_Consuming Slimetide.png" num="136">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Convergence Thaumaturge</name>
+			<text>Whenever you cast a spell that&apos;s white, blue, black, or red, put a +1/+1 counter on this creature.
+Nocturnal {G} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/137_Convergence Thaumaturge.png" num="137">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eldritch Deluge</name>
+			<text>Reveal the top X cards of your library. For each artifact, creature, or land card revealed this way, if it has mana value X or less, put it onto the battlefield tapped with a stun counter on it. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/140_Eldritch Deluge.png" num="140">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Surula, Swarm&apos;s Song</name>
+			<text>Trample
+Whenever another nontoken creature you control enters, create an X/X green Spirit creature token with trample, where X is that creature&apos;s power.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/156_Surula, Swarm&apos;s Song.png" num="156">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Fungus Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Portal Summoning</name>
+			<text>You may put a creature card from your hand onto the battlefield tapped with a stun counter on it.
+Equinox {4}{G}{G} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/151_Portal Summoning.png" num="151">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Things in the Wake</name>
+			<text>Whenever an opponent casts a noncreature spell, reveal the top card of your library. If it&apos;s a creature card with mana value less than that spell&apos;s mana value, put that card onto the battlefield under your control. Otherwise, you may put that card into your graveyard.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/158_Things in the Wake.png" num="158">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Adler, Midnight Architect</name>
+			<text>[+1]: Up to one target creature you control gets +2/+0 and can&apos;t be blocked this turn. At the beginning of your end step, return it to its owner&apos;s hand.
+[-2]: Discard your hand, then draw X cards, where X is the number of spells you&apos;ve cast this turn.
+[-6]: You get an emblem with &quot;You may cast spells with mana value 3 or less without paying their mana costs.&quot;</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/163_Adler, Midnight Architect.png" num="163">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Adler</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aminatou, Loreweaver</name>
+			<text>[+1]: Exile up to one other permanent you control until Aminatou leaves the battlefield.
+[0]: Return each permanent card exiled with Aminatou to the battlefield under your control. You gain life equal to their total mana value.
+[-X]: Exile target nontoken creature with mana value X or less.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/164_Aminatou, Loreweaver.png" num="164">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Aminatou</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Deeptomb Caller</name>
+			<text>Whenever you discard an instant card or a card with flash, exile it from your graveyard. You may cast that card this turn.
+{T}: Draw a card, then discard a card.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/168_Deeptomb Caller.png" num="168">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flayed Hellkite</name>
+			<text>Flying
+When this creature enters, each creature without flying gets -2/-2 until end of turn.
+Nocturnal {1}{B}{R} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/172_Flayed Hellkite.png" num="172">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bramblefiend</name>
+			<text>When this creature enters, it fights up to one target creature.
+Nocturnal {1}{R}{G} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/166_Bramblefiend.png" num="166">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Visions of Devastation</name>
+			<text>Discard your hand, then draw X cards. When you do, you may cast a spell with mana value X or less from your hand without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/188_Visions of Devastation.png" num="188">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XUR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jack, the Exterminator</name>
+			<text>Reap — {2}{B}{G}: You may activate Jack&apos;s loyalty abilities twice this turn rather than once. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)
+[+1]: Mill two cards, then you may return a land card from your graveyard to your hand.
+[-2]: You may discard a creature card. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.
+[-5]: Return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/174_Jack, the Exterminator.png" num="174">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jack</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Knight of Autumn</name>
+			<text>When this creature enters, choose one —
+• Put two +1/+1 counters on this creature.
+• Destroy target artifact or enchantment.
+• You gain 4 life.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/176_Knight of Autumn.png" num="176">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Madeline, the Lifestitcher</name>
+			<text>Creature cards in your hand have nocturnal. Their nocturnal cost is equal to their mana cost reduced by {2}. (You may cast a creature spell for its nocturnal cost. If you do, it enters the battlefield tapped with a stun counter on it. Remove one instead of untapping.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/177_Madeline, the Lifestitcher.png" num="177">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vecri, Plague Alchemist</name>
+			<text>If one or more tokens would be created under your control, those tokens plus a tapped Treasure token are created instead.
+{1}, {T}, Sacrifice a token: Target opponent exiles the top card of their library face down. You may look at and play that card for as long as it remains in exile.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/186_Vecri, Plague Alchemist.png" num="186">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aminatou&apos;s Gift</name>
+			<text>This spell costs {2} less to cast if you control a planeswalker.
+Equipped creature gets +2/+2.
+Whenever equipped creature attacks, for each kind of counter on target permanent, put another counter of that kind on it or remove one from it.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/190_Aminatou&apos;s Gift.png" num="190">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Roving Monolith</name>
+			<text>{X}, {T}: Copy target spell you control with mana value X. You may choose new targets for the copy.
+{X}, {T}: Copy target activated or triggered ability you control from a source with mana value X. You may choose new targets for the copy.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/200_Roving Monolith.png" num="200">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Creeping Cabin</name>
+			<text>{T}: Add {C}.
+Reap — {3}: This land becomes a 2/3 Nightmare creature with menace until end of turn. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/204_Creeping Cabin.png" num="204">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fatespinning</name>
+			<text>Target opponent looks at the top three cards of your library and separates them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard.
+Equinox {3}{U}{U} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/43_Fatespinning.png" num="43">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Infested Hearse</name>
+			<text>Whenever another creature you control dies, this Vehicle deals 1 damage to each opponent.
+Reap — {2}: This Vehicle becomes an artifact creature until end of turn. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/196_Infested Hearse.png" num="196">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stoneskin Gargoyle</name>
+			<text>Flying, defender
+Reap — {4}: This creature can attack this turn as though it didn&apos;t have defender. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/203_Stoneskin Gargoyle.png" num="203">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Gargoyle</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Harvester&apos;s Scythe</name>
+			<text>Equipped creature gets +1/+1 and can&apos;t be blocked by creatures with flying.
+Reap — {2}: Attach this Equipment to target creature you control. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/193_Harvester&apos;s Scythe.png" num="193">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Raven Roosts</name>
+			<text>If one or more creature cards you own would be put into a graveyard from anywhere, instead exile them and create a 1/1 black Bird creature token with flying and &quot;This token can&apos;t block.&quot;
+Whenever three or more creatures you control deal combat damage to a player, put a card exiled with this enchantment into its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/178_Raven Roosts.png" num="178">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unknown Seas</name>
+			<text>Whenever you cast a spell from exile, create an X/X blue Horror creature token, where X is that spell&apos;s mana value.
+Sacrifice a creature: Target player mills cards equal to the sacrificed creature&apos;s power.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/61_Unknown Seas.png" num="61">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mossy Ulderhulk</name>
+			<text>Each other creature you control that&apos;s a Plant, Fungus, Saproling, or Treefolk gets +1/+1.
+Reap — {2}{G}: Exile three other cards from your graveyard. When you do, return this card from your graveyard to your hand. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/149_Mossy Ulderhulk.png" num="149">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Melancholy</name>
+			<text>Flash
+When this creature enters, return target spell or nonland permanent you don&apos;t control to its owner&apos;s hand.
+Nocturnal {U}{U}{U} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/50_Melancholy.png" num="50">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Quarrel</name>
+			<text>When this creature enters, gain control of another target nonland permanent until end of turn. Untap that permanent. It gains haste until end of turn.
+Nocturnal {R}{R}{R} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/120_Quarrel.png" num="120">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Growth</name>
+			<text>When this creature enters, distribute three +1/+1 counters among one, two or three target creatures you control.
+Nocturnal {G}{G}{G} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/143_Growth.png" num="143">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forgiveness</name>
+			<text>Flash
+When this creature enters, exile target nonland permanent you don&apos;t control until this creature leaves the battlefield.
+Nocturnal {W}{W}{W} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/11_Forgiveness.png" num="11">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fright</name>
+			<text>When this creature enters, each opponent sacrifices a creature or planeswalker with the highest mana value among creatures and planeswalkers they control.
+Nocturnal {B}{B}{B} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/79_Fright.png" num="79">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Repentant Wanderer</name>
+			<text>When this creature enters, return target nonland permanent card with mana value 2 or less from your graveyard to the battlefield.
+Nocturnal {W} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/25_Repentant Wanderer.png" num="25">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Autumn&apos;s Bounty</name>
+			<text>You may look at the top card of your library any time.
+You may play lands from the top of your library.
+Lands you control have &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/130_Autumn&apos;s Bounty.png" num="130">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lurholme Sickle</name>
+			<text>When this Equipment enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Equipped creature gets +1/+1.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/197_Lurholme Sickle.png" num="197">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Witherweep, Thallid Herald</name>
+			<text>Whenever a creature an opponent controls dies, exile it and create a 1/1 black Fungus creature token with &quot;This token can&apos;t block.&quot;
+{1}{B}{G}, Sacrifice three other Fungi: Return target creature card from your graveyard to the battlefield with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/189_Witherweep, Thallid Herald.png" num="189">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Fungus Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dance of the Dryads</name>
+			<text>Return target permanent card from your graveyard to your hand.
+Equinox {3}{G}{G} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/138_Dance of the Dryads.png" num="138">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bonehewn Geistkiln</name>
+			<text>{X}, {T}: Put X charge counters on this artifact.
+{T}, Remove X charge counters from this artifact: Return target creature card with mana value X from your graveyard to the battlefield with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/191_Bonehewn Geistkiln.png" num="191">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bloom Surge</name>
+			<text>Exile target instant or sorcery card from your graveyard. You may cast a copy of that card this turn. If you cast this spell from your hand for its equinox cost, you may cast the copy without paying its mana cost.
+Equinox {4}{U}{U} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/34_Bloom Surge.png" num="34">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ronwena, Great Witch</name>
+			<text>Instant and sorcery spells you cast from your hand have equinox. The equinox cost is equal to that card&apos;s mana cost plus sacrifice a creature. (Whenever you cast a spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/180_Ronwena, Great Witch.png" num="180">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Obliterating Bolt</name>
+			<text>Obliterating Bolt deals 4 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/118_Obliterating Bolt.png" num="118">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Terran, Witch Killer</name>
+			<text>Protection from instants, sorceries, and Warlocks (This creature can&apos;t be blocked, targeted or dealt damage by instants, sorceries, and Warlocks.)
+Whenever an opponent casts a noncreature spell, they lose X life and you gain X life, where X is the number of noncreature spells they&apos;ve cast this turn.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/183_Terran, Witch Killer.png" num="183">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wickerwing Witch</name>
+			<text>Flying
+If an ability of a creature you control with flying triggers, that ability triggers an additional time.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/30_Wickerwing Witch.png" num="30">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>June, Cursed and Hunted</name>
+			<text>Spells your opponents cast cost {1} more to cast for each target.
+Whenever you or a permanent you control becomes the target of a spell you control, draw a card. This ability triggers only once each turn.</text>
+			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/MOX-files/img/175_June, Cursed and Hunted.png" num="175">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ulderwild Haunt</name>
+			<text>Flash
+Flying
+Whenever you cast a spell with flash or flying, draw a card, then discard a card.
+Other creatures you control with flash or flying get +1/+1.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/60_Ulderwild Haunt.png" num="60">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hooded Amalgam</name>
+			<text>{X}, {T}, Sacrifice another creature: Create an X/X blue Horror creature token. X can&apos;t be 0. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/46_Hooded Amalgam.png" num="46">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bitterbone Horror</name>
+			<text>Whenever another nontoken creature you control dies, you draw a card and lose 1 life.
+Reap — {2}{B}{B}: Target creature gains flying, deathtouch, and lifelink until end of turn. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/67_Bitterbone Horror.png" num="67">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/205_Plains.png" num="205">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/206_Island.png" num="206">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/207_Swamp.png" num="207">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/208_Mountain.png" num="208">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/209_Forest.png" num="209">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cleric MOX</name>
+			<text>Lifelink</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/2t_Cleric.png" num="2">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Human (1) MOX</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/3t_Human (1).png" num="3">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Bird MOX</name>
+			<text>Flying
+This creature can&apos;t block.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/8t_Bird.png" num="8">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Zombie MOX</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/11t_Zombie.png" num="11">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Elemental MOX</name>
+			<text>Haste</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/12t_Elemental.png" num="12">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Human Warlock MOX</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/13t_Human Warlock.png" num="13">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Ooze MOX</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/14t_Ooze.png" num="14">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Wolf Token (M20) MOX</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/17t_Wolf Token (M20).png" num="17">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure MOX</name>
+			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/18t_Treasure.png" num="18">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Horror MOX</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/7t_Horror.png" num="7">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Demon (M20) MOX</name>
+			<text>Menace</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/9t_Demon (M20).png" num="9">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Spirit MOX</name>
+			<text>Trample</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/15t_Spirit.png" num="15">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Insect Angel MOX</name>
+			<text>Flying, vigilance</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/6t_Insect Angel.png" num="6">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Insect Angel</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Fungus MOX</name>
+			<text>This creature can&apos;t block.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/10t_Fungus.png" num="10">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Witherweep&apos;s Vanguard</name>
+			<text>When this creature enters, create a 1/1 black Fungus creature token &quot;This token can&apos;t block.&quot;
+Nocturnal {B} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove a stun counter instead of untapping.)</text>
+			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/MOX-files/img/97_Witherweep&apos;s Vanguard.png" num="97">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aviomancer</name>
+			<text>At the beginning of your upkeep, you lose 1 life and create a 1/1 black Bird creature token with flying and &quot;This token can&apos;t block.&quot;</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/66_Aviomancer.png" num="66">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Insect MOX</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/5t_Insect.png" num="5">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Copy MOX</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/1t_Copy.png" num="1">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treefolk MOX</name>
+			<text>This token&apos;s power and toughness are each equal to the number of Forests you control.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/16t_Treefolk.png" num="16">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Hearthflame Colossus</name>
+			<text>Trample
+When this creature enters, put a wicker counter on any number of target tokens you control. They each become 3/3 Scarecrow creatures in addition to their other types.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/195_Hearthflame Colossus.png" num="195">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adler, Midnight Architect Emblem MOX</name>
+			<text>You may cast spells with mana value 3 or less without paying their mana costs.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/19t_Adler, Midnight Architect Emblem.png" num="19">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Emblem</type>
+				<maintype>Emblem</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Unbroken Resolve</name>
+			<text>After the second main phase this turn, there&apos;s an additional combat phase followed by an additional main phase. At the beginning of that combat, untap all creatures you control.
+Equinox {4}{R}{W} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/185_Unbroken Resolve.png" num="185">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Disruptor Strix</name>
+			<text>Flash
+Flying
+When this creature enters, counter up to one target noncreature spell unless its controller pays {1} for each creature you control with flying.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/MOX-files/img/169_Disruptor Strix.png" num="169">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Human (2) MOX</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/MOX-files/img/4t_Human (2).png" num="4">MOX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

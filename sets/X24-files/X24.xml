@@ -1,0 +1,770 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>X24</name>
+			<longname>Moxtober 2024</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-23</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Humble Harvester</name>
+			<text>When this creature enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)
+Whenever you sacrifice a noncreature permanent, create a 1/1 white Human creature token. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/2_Humble Harvester.png" num="2">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stash Away</name>
+			<text>Create a 1/1 white Mouse creature token and a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)
+Flashback {2}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/3_Stash Away.png" num="3">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Waterfront Lurkers</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever this creature deals combat damage to a player, surveil X, where X is its power. (To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/8_Waterfront Lurkers.png" num="8">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eve, the Haunt&apos;s Heart</name>
+			<text>[+2]: Up to one target creature gets +2/+0 and gains deathtouch until end of turn.
+[-1]: Create a 1/1 black Zombie Cat creature token with &quot;When this creature dies, target opponent discards a card at random.&quot;
+[-6]: You get an emblem with &quot;At the beginning of your end step, sacrifice a non-Demon creature. If you do, create a 4/4 black Demon creature token with menace.&quot;</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/10_Eve, the Haunt&apos;s Heart.png" num="10">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Eve</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fatal Flaw</name>
+			<text>Destroy target creature with mana value 2 or less.
+Cycling {B} ({B}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/11_Fatal Flaw.png" num="11">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gloomwing Occultist</name>
+			<text>Whenever a nontoken creature you control dies, create a 1/1 black Bird creature token with flying and &quot;This creature can&apos;t block.&quot; This ability triggers only once each turn.
+Nocturnal {1}{B}{B} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove one instead of untapping.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/12_Gloomwing Occultist.png" num="12">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rotcycle Myconid</name>
+			<text>Whenever a creature you control dies, put a spore counter on this creature.
+{B}, Remove X spore counters from this creature: Return target creature card with mana value X or less from your graveyard to the battlefield with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/13_Rotcycle Myconid.png" num="13">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smoke Seer</name>
+			<text>Reap—{1}{B}{R}: You lose 1 life and you draw a card. (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/24_Smoke Seer.png" num="24">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Herald of the Stampede</name>
+			<text>Haste
+Other creatures you control have haste.
+Nocturnal {2}{R} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove one instead of untapping.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/14_Herald of the Stampede.png" num="14">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lurholme Flamedancer</name>
+			<text>Whenever this creature attacks, discard a card, then draw a card. If you discarded an instant or sorcery card this way, create a 1/1 red Elemental creature token that&apos;s tapped and attacking.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/15_Lurholme Flamedancer.png" num="15">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trial by Fire</name>
+			<text>When this enchantment enters, create two 1/1 red Elemental creature tokens with haste.
+Whenever you cast an instant or sorcery spell, you may pay {R}. If you do, create a 1/1 red Elemental creature token with haste.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/16_Trial by Fire.png" num="16">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ulderwild Alpha</name>
+			<text>Trample
+Other Wolves you control have trample.
+When this creature enters, you may search your library and/or graveyard for a card named Ulderwild Packmate and put it onto the battlefield. If you search your library this way, shuffle.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/20_Ulderwild Alpha.png" num="20">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ulderwild Packmate</name>
+			<text>Whenever this creature attacks, if you control at least two other creatures named Ulderwild Packmate, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/X24-files/img/21_Ulderwild Packmate.png" num="21">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jack&apos;s Last Laugh</name>
+			<text>Flash
+When this enchantment enters, if you cast it, destroy up to one target nonland permanent.
+{6}{B}{G}, Exile this enchantment: Return target permanent card from your graveyard to the battlefield. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/23_Jack&apos;s Last Laugh.png" num="23">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Timeworn Woodsman</name>
+			<text>Menace
+Whenever this creature attacks, you may sacrifice a land. If you do, draw a card, then create a 0/1 red and green Treefolk creature token with &quot;This creature gets +1/+0 for each land card in your graveyard.&quot;</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/25_Timeworn Woodsman.png" num="25">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tinea&apos;s Doomsinger</name>
+			<text>Flying
+{3}{W}{B}, Exile five creature cards from your graveyard: Create a token that&apos;s a copy of this creature.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/26_Tinea&apos;s Doomsinger.png" num="26">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wandering Balladeer</name>
+			<text>Whenever you cast a noncreature spell, put your choice of a flying, vigilance, or trample counter on this creature. If this creature already has each of those counters on it, instead put three +1/+1 counters on it.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/27_Wandering Balladeer.png" num="27">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Convergence Mirror</name>
+			<text>Whenever you cast a creature spell, you may pay its mana cost. If you do, copy that spell. (A copy of a permanent spell becomes a token.)
+{T}: Add {C}{C}{C}.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/29_Convergence Mirror.png" num="29">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Skittering Slicer</name>
+			<text>Equipped creature gets +1/+1.
+When equipped creature dies, you may put a soul counter on this Equipment. If you do, it becomes a 3/3 Horror creature. (It&apos;s no longer an Equipment.)
+Equip {2}</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/32_Skittering Slicer.png" num="32">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Revenant Lantern</name>
+			<text>When this artifact enters, exile target card from a graveyard.
+{1}, {T}: Exile target card from a graveyard.
+{5}, {T}, Sacrifice this artifact: You draw X cards and you lose X life, where X is the number of card types among cards exiled with this artifact.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/31_Revenant Lantern.png" num="31">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mouse X24</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/X24-files/img/2t_Mouse.png" num="2">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Mouse</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Zombie Cat X24</name>
+			<text>When this creature dies, target opponent discards a card at random.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/X24-files/img/7t_Zombie Cat.png" num="7">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Zombie Cat</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treefolk X24</name>
+			<text>This creature gets +1/+0 for each land card in your graveyard.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/X24-files/img/10t_Treefolk.png" num="10">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse_related>Timeworn Woodsman</reverse_related>
+		</card>
+		<card>
+			<name>Food X24</name>
+			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/X24-files/img/11t_Food.png" num="11">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Adler of the Thirteenth Hour</name>
+			<text>Menace
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Adler attacks, you may cast a noncreature spell from your hand with mana value less than or equal to her power without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/22_Adler of the Thirteenth Hour.png" num="22">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mind&apos;s Unraveling</name>
+			<text>Counter target spell unless its controller pays {2}. If you&apos;ve cast another spell this turn, instead counter that spell, then surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/5_Mind&apos;s Unraveling.png" num="5">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Herald of the Heavens</name>
+			<text>Flying
+At the beginning of combat on your turn, put a +1/+1 counter on another target creature you control.
+Nocturnal {2}{W} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove one instead of untapping.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/1_Herald of the Heavens.png" num="1">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wonder Why</name>
+			<text>Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+Equinox {2}{U}{B} (If you cast this spell from your hand for its equinox cost, exile it. At your next upkeep, you may cast it without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/28_Wonder Why.png" num="28">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Murktown Angler</name>
+			<text>{U}, {T}: Draw a card, then discard a card.
+{4}{U}{U}{U}, {T}, Sacrifice this creature: Create a 7/7 blue Leviathan creature token. Activate only if there are seven or more cards in your graveyard.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/6_Murktown Angler.png" num="6">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Treetop Cover</name>
+			<text>Flash
+Enchant creature
+When this Aura enters, enchanted creature gains hexproof until end of turn.
+Enchanted creature gets +2/+2.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/19_Treetop Cover.png" num="19">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crooked Fieldwatcher</name>
+			<text>Vigilance
+Other Scarecrows you control get +1/+1 and have vigilance.
+Whenever another nontoken creature you control dies, create a token that&apos;s a copy of it, except it&apos;s a 1/1 Scarecrow artifact creature in addition to its other types.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/30_Crooked Fieldwatcher.png" num="30">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leviathan X24</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/X24-files/img/3t_Leviathan.png" num="3">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Blighted Stocktender</name>
+			<text>Reap—{3}{B}{B}: Create a black Ox Spirit creature token with &quot;This creature&apos;s power and toughness are each equal to the number of creature cards in your graveyard.&quot; (Activate this ability only once each turn and only as a sorcery. It costs {0} if a creature you controlled died this turn.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/9_Blighted Stocktender.png" num="9">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Demon X24</name>
+			<text>Menace</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/X24-files/img/5t_Demon.png" num="5">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Bird X24</name>
+			<text>Flying
+This creature can&apos;t block.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/X24-files/img/4t_Bird.png" num="4">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Elemental X24</name>
+			<text>Haste</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/X24-files/img/8t_Elemental.png" num="8">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Copy X24</name>
+			<text></text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/X24-files/img/1t_Copy.png" num="1">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Seek What Was Lost</name>
+			<text>Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand. You may cast a spell from the other pile without paying its mana cost. Put the rest of the cards into your graveyard.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/7_Seek What Was Lost.png" num="7">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UUU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tarnahm Redeemer</name>
+			<text>Flash
+When this creature enters, if you cast it, return to the battlefield all creature cards in your graveyard that were put there from the battlefield this turn. Put a finality counter on each of them. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/4_Tarnahm Redeemer.png" num="4">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prowling Mastiff</name>
+			<text>Vigilance
+Whenever this creature deals combat damage to a player, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Whenever a land card is put into your graveyard from anywhere, create a 1/1 green Dog creature token with vigilance.</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/18_Prowling Mastiff.png" num="18">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dog X24</name>
+			<text>Vigilance</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/X24-files/img/9t_Dog.png" num="9">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Ox Spirit X24</name>
+			<text>This creature&apos;s power and toughness are each equal to the number of creature cards in your graveyard.</text>
+			<set rarity="common" picurl="https://thecadburytales.github.io/sets/X24-files/img/6t_Ox Spirit.png" num="6">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Ox Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Earthshaker Colossus</name>
+			<text>This creature&apos;s power and toughness are each equal to the number of lands you control.
+You may look at the top card of your library at any time, and you may play lands from the top of your library.
+Nocturnal {2}{G} (You may cast this spell for its nocturnal cost. If you do, it enters tapped with a stun counter on it. Remove one instead of untapping.)</text>
+			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/X24-files/img/17_Earthshaker Colossus.png" num="17">X24</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
