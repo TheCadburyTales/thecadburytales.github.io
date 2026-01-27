@@ -5,7 +5,7 @@
 			<name>SHF</name>
 			<longname>The Starholme Frontier</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-23</releasedate>
+			<releasedate>2026-01-27</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -213,7 +213,8 @@ or less from your graveyard to your hand.
 		</card>
 		<card>
 			<name>Interstellar Realignment</name>
-			<text>Exile up to one target nonland permanent.</text>
+			<text>Exile up to one target nonland permanent.
+Ricochet (Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)</text>
 			<set rarity="mythic" picurl="https://thecadburytales.github.io/sets/SHF-files/img/11.png" num="210">SHF</set>
 			<prop>
 				<layout>normal</layout>
@@ -479,7 +480,8 @@ Each player who cast a spell this turn can&apos;t attack, and each player who at
 		</card>
 		<card>
 			<name>Blessing of the Twin Suns</name>
-			<text>Until your next turn, target permanent you control gains protection from everything. (It can&apos;t be targeted, dealt damage, enchanted, or equipped by anything.)</text>
+			<text>Until your next turn, target permanent you control gains protection from everything. (It can&apos;t be targeted, dealt damage, enchanted, or equipped by anything.)
+Ricochet (Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)</text>
 			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SHF-files/img/25.png" num="5">SHF</set>
 			<prop>
 				<layout>normal</layout>
@@ -587,7 +589,8 @@ Frontier — Whenever Canyon Maraterra attacks, if there are four or more land t
 		</card>
 		<card>
 			<name>Ad Astra</name>
-			<text>Look at the top four cards of your library. Put two into your hand and the rest on the bottom in any order, then discard a card.</text>
+			<text>Look at the top four cards of your library. Put two into your hand and the rest on the bottom in any order, then discard a card.
+Ricochet (Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)</text>
 			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SHF-files/img/31.png" num="38">SHF</set>
 			<prop>
 				<layout>normal</layout>
@@ -692,7 +695,8 @@ At the beginning of your end step, if a creature died this turn, create a Junk t
 		</card>
 		<card>
 			<name>Spray and Pray</name>
-			<text>Destroy all nonlegendary creatures.</text>
+			<text>Destroy all nonlegendary creatures.
+Ricochet (Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)</text>
 			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SHF-files/img/37.png" num="107">SHF</set>
 			<prop>
 				<layout>normal</layout>
@@ -797,7 +801,8 @@ Frontier — Whenever Skyfissure Dragon attacks, if there are four or more land 
 		</card>
 		<card>
 			<name>Chase the Ace</name>
-			<text>Chase the Ace deals 6 damage to any nonplayer target.</text>
+			<text>Chase the Ace deals 6 damage to any nonplayer target.
+Ricochet (Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)</text>
 			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SHF-files/img/43.png" num="115">SHF</set>
 			<prop>
 				<layout>normal</layout>
@@ -903,7 +908,8 @@ Frontier — If there are four or more land types among lands you control, inste
 		</card>
 		<card>
 			<name>Tactical Emesis</name>
-			<text>Create a green 3/1 Beast creature token.</text>
+			<text>Create a green 3/1 Beast creature token.
+Ricochet (Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)</text>
 			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/SHF-files/img/49.png" num="177">SHF</set>
 			<prop>
 				<layout>normal</layout>
@@ -1657,7 +1663,8 @@ Whenever you provision, draw a card.</text>
 		</card>
 		<card>
 			<name>The Shot That Saved Skyhaven</name>
-			<text>Reveal the top five cards of your library. You may put a creature card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
+			<text>Reveal the top five cards of your library. You may put a creature card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+Ricochet (Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)</text>
 			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SHF-files/img/93.png" num="29">SHF</set>
 			<prop>
 				<layout>normal</layout>
@@ -1899,7 +1906,8 @@ Enchanted creature is a white Mercenary with base power and toughness 1/1.</text
 		</card>
 		<card>
 			<name>Starshard</name>
-			<text>Return up to one target instant card from your graveyard to your hand.</text>
+			<text>Return up to one target instant card from your graveyard to your hand.
+Ricochet (Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)</text>
 			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SHF-files/img/107.png" num="71">SHF</set>
 			<prop>
 				<layout>normal</layout>
@@ -2141,7 +2149,8 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Lever-Action at Nearly-Lethal Range</name>
-			<text>Target player sacrifices the creature they control with the greatest power among creatures they control.</text>
+			<text>Target player sacrifices the creature they control with the greatest power among creatures they control.
+Ricochet (Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)</text>
 			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SHF-files/img/121.png" num="95">SHF</set>
 			<prop>
 				<layout>normal</layout>
@@ -2380,7 +2389,8 @@ Guns A-Blazing deals 4 damage to any target.</text>
 		</card>
 		<card>
 			<name>Now Watch Me Whip</name>
-			<text>Up to two target creatures can&apos;t block this turn.</text>
+			<text>Up to two target creatures can&apos;t block this turn.
+Ricochet (Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)</text>
 			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SHF-files/img/135.png" num="132">SHF</set>
 			<prop>
 				<layout>normal</layout>
@@ -2625,7 +2635,8 @@ Search your library for three land cards that don&apos;t share a type with each 
 		</card>
 		<card>
 			<name>Aim Skyward</name>
-			<text>Until your next turn, up to one target creature you control gets +1/+2 and gains reach. Untap it.</text>
+			<text>Until your next turn, up to one target creature you control gets +1/+2 and gains reach. Untap it.
+Ricochet (Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)</text>
 			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SHF-files/img/149.png" num="148">SHF</set>
 			<prop>
 				<layout>normal</layout>
@@ -2659,7 +2670,8 @@ Whenever you cast your second spell each turn, put a +1/+1 counter on Zarax Supe
 		</card>
 		<card>
 			<name>Force Propulsion</name>
-			<text>Look at the top two cards of your library. Put one into your hand and the other on the bottom of your library.</text>
+			<text>Look at the top two cards of your library. Put one into your hand and the other on the bottom of your library.
+Ricochet (Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)</text>
 			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SHF-files/img/151.png" num="200">SHF</set>
 			<prop>
 				<layout>normal</layout>
@@ -2941,7 +2953,8 @@ Whenever you cast a spell from anywhere other than your hand, target creature yo
 		</card>
 		<card>
 			<name>Tumultuous Flare</name>
-			<text>You may discard a card. When you do, draw two cards.</text>
+			<text>You may discard a card. When you do, draw two cards.
+Ricochet (Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)</text>
 			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/SHF-files/img/167.png" num="228">SHF</set>
 			<prop>
 				<layout>normal</layout>
@@ -3371,7 +3384,8 @@ When Back Where You Came From enters, exile target creature or planeswalker an o
 		</card>
 		<card>
 			<name>Long Arm of the Law</name>
-			<text>Target creature gets +1/+1 and gains first strike until end of turn.</text>
+			<text>Target creature gets +1/+1 and gains first strike until end of turn.
+Ricochet (Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)</text>
 			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SHF-files/img/193.png" num="19">SHF</set>
 			<prop>
 				<layout>normal</layout>
@@ -3593,7 +3607,8 @@ Frontier — If there are four or more land types among lands you control, count
 		</card>
 		<card>
 			<name>Astral Projection</name>
-			<text>Scry 1, then draw a card.</text>
+			<text>Scry 1, then draw a card.
+Ricochet (Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)</text>
 			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SHF-files/img/206.png" num="41">SHF</set>
 			<prop>
 				<layout>normal</layout>
@@ -3867,7 +3882,8 @@ When Gulch Ranger enters, if you control a Galaxian, target opponent loses 3 lif
 		</card>
 		<card>
 			<name>Retribution for a Gamblin&apos; Man</name>
-			<text>Target opponent reveals their hand, then discards a card with mana value 3 or less.</text>
+			<text>Target opponent reveals their hand, then discards a card with mana value 3 or less.
+Ricochet (Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)</text>
 			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SHF-files/img/222.png" num="101">SHF</set>
 			<prop>
 				<layout>normal</layout>
@@ -4121,7 +4137,8 @@ Frontier — If there are four or more land types among lands you control, Tendr
 		</card>
 		<card>
 			<name>Dynamite in the Cargo Hold</name>
-			<text>Destroy up to one target artifact.</text>
+			<text>Destroy up to one target artifact.
+Ricochet (Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)</text>
 			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SHF-files/img/237.png" num="119">SHF</set>
 			<prop>
 				<layout>normal</layout>
@@ -4411,7 +4428,8 @@ Frontier — {1}{G}, Sacrifice New Growth in Old Haunts: Surveil 2. Activate onl
 		</card>
 		<card>
 			<name>Bristly Landing</name>
-			<text>Mill three cards. You gain 3 life.</text>
+			<text>Mill three cards. You gain 3 life.
+Ricochet (Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)</text>
 			<set rarity="common" picurl="https://thecadburytales.github.io/sets/SHF-files/img/254.png" num="152">SHF</set>
 			<prop>
 				<layout>normal</layout>

@@ -1,7 +1,6 @@
 ﻿{
     "name": "The Starholme Frontier",
     "formats": "standard",
-    "trimmed": "y",
     "image_type": "png",
     "draft_structure": "play booster",
     "unpreviewed": "empty",
@@ -26,6 +25,7 @@
             "artist": "Jihoon Park",
             "alias": "",
             "position": "0",
+            "rotated": false,
             "notes": "!tag test"
         },
         {
@@ -46,6 +46,7 @@
             "artist": "Viko Menezes",
             "alias": "",
             "position": "1",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -66,6 +67,7 @@
             "artist": "Victor Adame",
             "alias": "",
             "position": "2",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -86,6 +88,7 @@
             "artist": "Andrei Pervukhin",
             "alias": "",
             "position": "3",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -106,6 +109,7 @@
             "artist": "Marek Okon",
             "alias": "",
             "position": "4",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -126,6 +130,7 @@
             "artist": "Kat Finn",
             "alias": "",
             "position": "5",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -146,6 +151,7 @@
             "artist": "Candela Riveros",
             "alias": "",
             "position": "6",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -166,6 +172,7 @@
             "artist": "Kaylee Gifford",
             "alias": "",
             "position": "7",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -186,6 +193,7 @@
             "artist": "SY-37",
             "alias": "",
             "position": "8",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -206,6 +214,7 @@
             "artist": "Luc de Haan",
             "alias": "",
             "position": "9",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -226,6 +235,7 @@
             "artist": "Brian Taylor",
             "alias": "",
             "position": "10",
+            "rotated": false,
             "notes": "!change"
         },
         {
@@ -257,6 +267,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "Ricochet [i](Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)[/i]",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -277,6 +289,7 @@
             "artist": "Eric He",
             "alias": "",
             "position": "12",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -297,6 +310,7 @@
             "artist": "OpenArt AI",
             "alias": "",
             "position": "13",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -317,6 +331,7 @@
             "artist": "Betty Jiang",
             "alias": "",
             "position": "14",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -337,6 +352,7 @@
             "artist": "Pinnacle Entertainment Group",
             "alias": "",
             "position": "15",
+            "rotated": false,
             "notes": "!exportname Amelia Hawkeye Hayes"
         },
         {
@@ -357,6 +373,7 @@
             "artist": "Roman Chaliy",
             "alias": "",
             "position": "16",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -377,6 +394,7 @@
             "artist": "Justinas Vitkus",
             "alias": "",
             "position": "17",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -408,6 +426,8 @@
             "loyalty2": "",
             "artist2": "Pedro Sena",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -428,6 +448,7 @@
             "artist": "Thomas Chamberlain-Keen",
             "alias": "",
             "position": "19",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -448,6 +469,7 @@
             "artist": "Joel Gruben",
             "alias": "",
             "position": "20",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -468,6 +490,7 @@
             "artist": "Svetlana Chib",
             "alias": "",
             "position": "21",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -488,6 +511,7 @@
             "artist": "Iana Venge",
             "alias": "",
             "position": "22",
+            "rotated": false,
             "notes": "!exportname Annie White Rose Harper"
         },
         {
@@ -508,6 +532,7 @@
             "artist": "Steve Jung",
             "alias": "",
             "position": "23",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -528,6 +553,7 @@
             "artist": "Ismail Inceoglu",
             "alias": "",
             "position": "24",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -559,6 +585,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "Ricochet [i](Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)[/i]",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -579,6 +607,7 @@
             "artist": "peng lu",
             "alias": "",
             "position": "26",
+            "rotated": false,
             "notes": "!exportname Jack Flash Jacobs"
         },
         {
@@ -599,6 +628,7 @@
             "artist": "Alex Speed",
             "alias": "",
             "position": "27",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -619,6 +649,7 @@
             "artist": "Daryl Mandryk",
             "alias": "",
             "position": "28",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -639,6 +670,7 @@
             "artist": "Buclofen",
             "alias": "",
             "position": "29",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -659,6 +691,7 @@
             "artist": "Susann Houndsville",
             "alias": "",
             "position": "30",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -690,6 +723,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "Ricochet [i](Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)[/i]",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -710,6 +745,7 @@
             "artist": "Barry Brown, Jr.",
             "alias": "",
             "position": "32",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -730,6 +766,7 @@
             "artist": "Ildar Kharisov",
             "alias": "",
             "position": "33",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -750,6 +787,7 @@
             "artist": "Evgeny Loginov",
             "alias": "",
             "position": "34",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -770,6 +808,7 @@
             "artist": "Nikolay Litvinenko",
             "alias": "",
             "position": "35",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -790,6 +829,7 @@
             "artist": "Eleftheria Mandrela",
             "alias": "",
             "position": "36",
+            "rotated": false,
             "notes": "!exportname Xiong Mao aka Rusty"
         },
         {
@@ -821,6 +861,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "Ricochet [i](Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)[/i]",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -841,6 +883,7 @@
             "artist": "Elder Scrolls: Legends",
             "alias": "",
             "position": "38",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -861,6 +904,7 @@
             "artist": "Tamas Patkos",
             "alias": "",
             "position": "39",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -881,6 +925,7 @@
             "artist": "Ivan Smirnov",
             "alias": "",
             "position": "40",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -901,6 +946,7 @@
             "artist": "Aldo Dominguez",
             "alias": "",
             "position": "41",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -921,6 +967,7 @@
             "artist": "Midjourney",
             "alias": "",
             "position": "42",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -952,6 +999,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "Ricochet [i](Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)[/i]",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -972,6 +1021,7 @@
             "artist": "Sheena Holm",
             "alias": "",
             "position": "44",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -992,6 +1042,7 @@
             "artist": "Uken Games",
             "alias": "",
             "position": "45",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1012,6 +1063,7 @@
             "artist": "Mark Wester",
             "alias": "",
             "position": "46",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1032,6 +1084,7 @@
             "artist": "Damien Papet",
             "alias": "",
             "position": "47",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1052,6 +1105,7 @@
             "artist": "Gilberto Martimiano",
             "alias": "",
             "position": "48",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1083,6 +1137,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "Ricochet [i](Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)[/i]",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -1103,6 +1159,7 @@
             "artist": "Marc Simonetti",
             "alias": "",
             "position": "50",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1123,6 +1180,7 @@
             "artist": "Veli Nystrom",
             "alias": "",
             "position": "51",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1143,6 +1201,7 @@
             "artist": "Gabe Leonard",
             "alias": "",
             "position": "52",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1163,6 +1222,7 @@
             "artist": "Sergey Lushchyk",
             "alias": "",
             "position": "53",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1183,6 +1243,7 @@
             "artist": "High Moon Studios",
             "alias": "",
             "position": "54",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1203,6 +1264,7 @@
             "artist": "Brom",
             "alias": "",
             "position": "55",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1223,6 +1285,7 @@
             "artist": "Luis Dyachenko",
             "alias": "",
             "position": "56",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1243,6 +1306,7 @@
             "artist": "Kekai Kotaki",
             "alias": "",
             "position": "57",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1263,6 +1327,7 @@
             "artist": "Antti Hakosaari",
             "alias": "",
             "position": "58",
+            "rotated": false,
             "notes": "!exportname Juniper Greenthumb Carter"
         },
         {
@@ -1283,6 +1348,7 @@
             "artist": "Marina Kogtya",
             "alias": "",
             "position": "59",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1303,6 +1369,7 @@
             "artist": "Viko Menezes",
             "alias": "",
             "position": "60",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1323,6 +1390,7 @@
             "artist": "Markella Stav",
             "alias": "",
             "position": "61",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1343,6 +1411,7 @@
             "artist": "Felipe Cagno \u2022 Fabiano Neves",
             "alias": "",
             "position": "62",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1363,6 +1432,7 @@
             "artist": "Yohann Schepacz",
             "alias": "",
             "position": "63",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1383,6 +1453,7 @@
             "artist": "OpenArt AI",
             "alias": "",
             "position": "64",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1403,6 +1474,7 @@
             "artist": "William Bao",
             "alias": "",
             "position": "65",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1423,6 +1495,7 @@
             "artist": "Jose Silva",
             "alias": "",
             "position": "66",
+            "rotated": false,
             "notes": "!exportname Clementine Cogs Faraday"
         },
         {
@@ -1443,6 +1516,7 @@
             "artist": "Sergey Avtushenko",
             "alias": "",
             "position": "67",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1463,6 +1537,7 @@
             "artist": "Evan Liu",
             "alias": "",
             "position": "68",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1483,6 +1558,7 @@
             "artist": "Nathan Chen",
             "alias": "",
             "position": "69",
+            "rotated": false,
             "notes": "!exportname Carson Livewire Legette"
         },
         {
@@ -1503,6 +1579,7 @@
             "artist": "Even Topland",
             "alias": "",
             "position": "70",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1523,6 +1600,7 @@
             "artist": "Andrew Palyanov",
             "alias": "",
             "position": "71",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1543,6 +1621,7 @@
             "artist": "Midjourney AI",
             "alias": "",
             "position": "72",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1563,6 +1642,7 @@
             "artist": "Yerbol Bulentayev",
             "alias": "",
             "position": "73",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1583,6 +1663,7 @@
             "artist": "Pablo Carpio",
             "alias": "",
             "position": "74",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1603,6 +1684,7 @@
             "artist": "TopWare Interactive",
             "alias": "",
             "position": "75",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1623,6 +1705,7 @@
             "artist": "Cze Peku",
             "alias": "",
             "position": "76",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1643,6 +1726,7 @@
             "artist": "Aleksei Liakh",
             "alias": "",
             "position": "77",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1663,6 +1747,7 @@
             "artist": "Alexey Egorov",
             "alias": "",
             "position": "78",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1683,6 +1768,7 @@
             "artist": "Frank Sun",
             "alias": "",
             "position": "79",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1703,6 +1789,7 @@
             "artist": "Bill Anton",
             "alias": "",
             "position": "80",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1723,6 +1810,7 @@
             "artist": "Jonathan Dawo",
             "alias": "",
             "position": "81",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1743,6 +1831,7 @@
             "artist": "Thanh Tuan",
             "alias": "",
             "position": "82",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1763,6 +1852,7 @@
             "artist": "Sara Gilardi",
             "alias": "",
             "position": "83",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1783,6 +1873,7 @@
             "artist": "nachomolina",
             "alias": "",
             "position": "84",
+            "rotated": false,
             "notes": "!exportname Luke The Duke McCall"
         },
         {
@@ -1803,6 +1894,7 @@
             "artist": "Jakub Javora",
             "alias": "",
             "position": "85",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1823,6 +1915,7 @@
             "artist": "Jaime Jones",
             "alias": "",
             "position": "86",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1843,6 +1936,7 @@
             "artist": "Charidimos Bitsakakis",
             "alias": "",
             "position": "87",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1863,6 +1957,7 @@
             "artist": "Kyle Enochs",
             "alias": "",
             "position": "88",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1883,6 +1978,7 @@
             "artist": "Rutger van de Steeg",
             "alias": "",
             "position": "89",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1903,6 +1999,7 @@
             "artist": "Javier Pacheco",
             "alias": "",
             "position": "90",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1923,6 +2020,7 @@
             "artist": "Dan Watson",
             "alias": "",
             "position": "91",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1943,6 +2041,7 @@
             "artist": "Julia Zhuravleva",
             "alias": "",
             "position": "92",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1974,6 +2073,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "Ricochet [i](Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)[/i]",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -1994,6 +2095,7 @@
             "artist": "Maxwell Alexander",
             "alias": "",
             "position": "94",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2014,6 +2116,7 @@
             "artist": "imateria",
             "alias": "",
             "position": "95",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2034,6 +2137,7 @@
             "artist": "neneza",
             "alias": "",
             "position": "96",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2054,6 +2158,7 @@
             "artist": "Jan Schlegel",
             "alias": "",
             "position": "97",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2074,6 +2179,7 @@
             "artist": "Alex Konstad",
             "alias": "",
             "position": "98",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2094,6 +2200,7 @@
             "artist": "Benjamin Ee",
             "alias": "",
             "position": "99",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2114,6 +2221,7 @@
             "artist": "Midjourney",
             "alias": "",
             "position": "100",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2134,6 +2242,7 @@
             "artist": "Midjourney",
             "alias": "",
             "position": "101",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2154,6 +2263,7 @@
             "artist": "Midjourney",
             "alias": "",
             "position": "102",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2174,6 +2284,7 @@
             "artist": "Dominique Buttiens",
             "alias": "",
             "position": "103",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2194,6 +2305,7 @@
             "artist": "Midjourney",
             "alias": "",
             "position": "104",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2214,6 +2326,7 @@
             "artist": "Kai Carpenter",
             "alias": "",
             "position": "105",
+            "rotated": false,
             "notes": "f!reprint"
         },
         {
@@ -2234,6 +2347,7 @@
             "artist": "Morten Solgaard Pedersen",
             "alias": "",
             "position": "106",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2265,6 +2379,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "Ricochet [i](Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)[/i]",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -2285,6 +2401,7 @@
             "artist": "Brent Hollowell",
             "alias": "",
             "position": "108",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2305,6 +2422,7 @@
             "artist": "Carlos Fabian Villa",
             "alias": "",
             "position": "109",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2325,6 +2443,7 @@
             "artist": "Josh James",
             "alias": "",
             "position": "110",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2345,6 +2464,7 @@
             "artist": "Vadim Kalabukh",
             "alias": "",
             "position": "111",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2365,6 +2485,7 @@
             "artist": "Roman Chaliy",
             "alias": "",
             "position": "112",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2385,6 +2506,7 @@
             "artist": "Gina Vila",
             "alias": "",
             "position": "113",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2405,6 +2527,7 @@
             "artist": "moggith",
             "alias": "",
             "position": "114",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2425,6 +2548,7 @@
             "artist": "Pinnacle Entertainment Group",
             "alias": "",
             "position": "115",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2445,6 +2569,7 @@
             "artist": "Ryan Barger",
             "alias": "",
             "position": "116",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2465,6 +2590,7 @@
             "artist": "Bryce Youtsey",
             "alias": "",
             "position": "117",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2485,6 +2611,7 @@
             "artist": "Yan Kyohara",
             "alias": "",
             "position": "118",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2505,6 +2632,7 @@
             "artist": "Adrian Kubiak",
             "alias": "",
             "position": "119",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2525,6 +2653,7 @@
             "artist": "Angel Palacios",
             "alias": "",
             "position": "120",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2556,6 +2685,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "Ricochet [i](Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)[/i]",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -2576,6 +2707,7 @@
             "artist": "Brent Hollowell",
             "alias": "",
             "position": "122",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2596,6 +2728,7 @@
             "artist": "tuabak",
             "alias": "",
             "position": "123",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2616,6 +2749,7 @@
             "artist": "Jon Foster",
             "alias": "",
             "position": "124",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2636,6 +2770,7 @@
             "artist": "David Haire",
             "alias": "",
             "position": "125",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2656,6 +2791,7 @@
             "artist": "Kerem Beyit",
             "alias": "",
             "position": "126",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2676,6 +2812,7 @@
             "artist": "Kim Sung Hwan",
             "alias": "",
             "position": "127",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2696,6 +2833,7 @@
             "artist": "Matheus Schwartz",
             "alias": "",
             "position": "128",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2716,6 +2854,7 @@
             "artist": "Diana Franco",
             "alias": "",
             "position": "129",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2736,6 +2875,7 @@
             "artist": "Florian Chastres",
             "alias": "",
             "position": "130",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2756,6 +2896,7 @@
             "artist": "Tyler Jacobson",
             "alias": "",
             "position": "131",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2776,6 +2917,7 @@
             "artist": "Gokhan Kahraman",
             "alias": "",
             "position": "132",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2796,6 +2938,7 @@
             "artist": "Ralph Meyer",
             "alias": "",
             "position": "133",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2816,6 +2959,7 @@
             "artist": "Art of Neight",
             "alias": "",
             "position": "134",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2847,6 +2991,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "Ricochet [i](Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)[/i]",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -2867,6 +3013,7 @@
             "artist": "Benjamin Huen",
             "alias": "",
             "position": "136",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2887,6 +3034,7 @@
             "artist": "Brent Hollowell",
             "alias": "",
             "position": "137",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2907,6 +3055,7 @@
             "artist": "Flying Frog Productions",
             "alias": "",
             "position": "138",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2927,6 +3076,7 @@
             "artist": "Gavin O'Donnell",
             "alias": "",
             "position": "139",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2947,6 +3097,7 @@
             "artist": "Fran Fdez",
             "alias": "",
             "position": "140",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2967,6 +3118,7 @@
             "artist": "Matheus Schwartz",
             "alias": "",
             "position": "141",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2987,6 +3139,7 @@
             "artist": "Gavin O'Donnell",
             "alias": "",
             "position": "142",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3007,6 +3160,7 @@
             "artist": "Matheus Schwartz",
             "alias": "",
             "position": "143",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3027,6 +3181,7 @@
             "artist": "Matheus Schwartz",
             "alias": "",
             "position": "144",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3047,6 +3202,7 @@
             "artist": "Aaron Limonick",
             "alias": "",
             "position": "145",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3067,6 +3223,7 @@
             "artist": "XD.",
             "alias": "",
             "position": "146",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3087,6 +3244,7 @@
             "artist": "JG O'Donoghue",
             "alias": "",
             "position": "147",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3107,6 +3265,7 @@
             "artist": "Anton Fadeev",
             "alias": "",
             "position": "148",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3138,6 +3297,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "Ricochet [i](Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)[/i]",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -3158,6 +3319,7 @@
             "artist": "mingrutu",
             "alias": "",
             "position": "150",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3189,6 +3351,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "Ricochet [i](Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)[/i]",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -3209,6 +3373,7 @@
             "artist": "Stephen Sykes",
             "alias": "",
             "position": "152",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3229,6 +3394,7 @@
             "artist": "Rodrigo Ramos",
             "alias": "",
             "position": "153",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3249,6 +3415,7 @@
             "artist": "Qiushi Zhang",
             "alias": "",
             "position": "154",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3269,6 +3436,7 @@
             "artist": "Andre Pinheiro",
             "alias": "",
             "position": "155",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3289,6 +3457,7 @@
             "artist": "Claudya Schmidt",
             "alias": "",
             "position": "156",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3309,6 +3478,7 @@
             "artist": "Nutchapol Thitinunthakorn",
             "alias": "",
             "position": "157",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3329,6 +3499,7 @@
             "artist": "C Y",
             "alias": "",
             "position": "158",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3349,6 +3520,7 @@
             "artist": "charro-art",
             "alias": "",
             "position": "159",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3369,6 +3541,7 @@
             "artist": "Gabriele Cavalli",
             "alias": "",
             "position": "160",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3389,6 +3562,7 @@
             "artist": "Rilez75",
             "alias": "",
             "position": "161",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3409,6 +3583,7 @@
             "artist": "Joao Bragato",
             "alias": "",
             "position": "162",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3429,6 +3604,7 @@
             "artist": "Filipe Augusto",
             "alias": "",
             "position": "163",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3449,6 +3625,7 @@
             "artist": "Elena Churkina",
             "alias": "",
             "position": "164",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3469,6 +3646,7 @@
             "artist": "Mark Maggiori",
             "alias": "",
             "position": "165",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3489,6 +3667,7 @@
             "artist": "Alexander Mokhov",
             "alias": "",
             "position": "166",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3520,6 +3699,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "Ricochet [i](Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)[/i]",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -3540,6 +3721,7 @@
             "artist": "John Anthony Di Giovanni",
             "alias": "",
             "position": "168",
+            "rotated": false,
             "notes": "!exportname Hot Hands Lurk"
         },
         {
@@ -3560,6 +3742,7 @@
             "artist": "Federica Porpora",
             "alias": "",
             "position": "169",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3580,6 +3763,7 @@
             "artist": "arcipello",
             "alias": "",
             "position": "170",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3600,6 +3784,7 @@
             "artist": "J-Humphries",
             "alias": "",
             "position": "171",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3620,6 +3805,7 @@
             "artist": "Mark Tarrisse",
             "alias": "",
             "position": "172",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3640,6 +3826,7 @@
             "artist": "madspartan013",
             "alias": "",
             "position": "173",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3660,6 +3847,7 @@
             "artist": "Midjourney",
             "alias": "",
             "position": "174",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3680,6 +3868,7 @@
             "artist": "karola-j",
             "alias": "",
             "position": "175",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3700,6 +3889,7 @@
             "artist": "Ben Mauro",
             "alias": "",
             "position": "176",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3720,6 +3910,7 @@
             "artist": "Travis Anderson",
             "alias": "",
             "position": "177",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3740,6 +3931,7 @@
             "artist": "Ramirez De Souza",
             "alias": "",
             "position": "178",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3760,6 +3952,7 @@
             "artist": "Vadim Shchepilov",
             "alias": "",
             "position": "179",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3780,6 +3973,7 @@
             "artist": "Origames",
             "alias": "",
             "position": "180",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3800,6 +3994,7 @@
             "artist": "Ben Wootten",
             "alias": "",
             "position": "181",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3820,6 +4015,7 @@
             "artist": "brunob",
             "alias": "",
             "position": "182",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3840,6 +4036,7 @@
             "artist": "rehg_2020",
             "alias": "",
             "position": "183",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3860,6 +4057,7 @@
             "artist": "Deiv Calviz",
             "alias": "",
             "position": "184",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3880,6 +4078,7 @@
             "artist": "Ramazan Kazaliev",
             "alias": "",
             "position": "185",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3900,6 +4099,7 @@
             "artist": "Ameera Sheikh",
             "alias": "",
             "position": "186",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3920,6 +4120,7 @@
             "artist": "Halil Ural",
             "alias": "",
             "position": "187",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3940,6 +4141,7 @@
             "artist": "Omar Samy",
             "alias": "",
             "position": "188",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3960,6 +4162,7 @@
             "artist": "Artem Chebokha",
             "alias": "",
             "position": "189",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3980,6 +4183,7 @@
             "artist": "Jacques Henry",
             "alias": "",
             "position": "190",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4000,6 +4204,7 @@
             "artist": "Mark Zug",
             "alias": "",
             "position": "191",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4020,6 +4225,7 @@
             "artist": "Mojtaba Aryan",
             "alias": "",
             "position": "192",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4051,6 +4257,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "Ricochet [i](Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)[/i]",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -4071,6 +4279,7 @@
             "artist": "MrHarp",
             "alias": "",
             "position": "194",
+            "rotated": false,
             "notes": "f!reprint"
         },
         {
@@ -4091,6 +4300,7 @@
             "artist": "MOZCHOPS",
             "alias": "",
             "position": "195",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4111,6 +4321,7 @@
             "artist": "Morgan Yon",
             "alias": "",
             "position": "196",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4131,6 +4342,7 @@
             "artist": "Jessica Oyhenart",
             "alias": "",
             "position": "197",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4151,6 +4363,7 @@
             "artist": "Juan Novelletto",
             "alias": "",
             "position": "198",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4171,6 +4384,7 @@
             "artist": "Kate Pfeilschiefter",
             "alias": "",
             "position": "199",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4191,6 +4405,7 @@
             "artist": "Viko Menezes",
             "alias": "",
             "position": "200",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4211,6 +4426,7 @@
             "artist": "Dave Melvin",
             "alias": "",
             "position": "201",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4231,6 +4447,7 @@
             "artist": "Riyahd Cassiem",
             "alias": "",
             "position": "202",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4251,6 +4468,7 @@
             "artist": "Brent Hollowell",
             "alias": "",
             "position": "203",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4271,6 +4489,7 @@
             "artist": "Denis Kornev",
             "alias": "",
             "position": "204",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4291,6 +4510,7 @@
             "artist": "Nikolai Litvinenko",
             "alias": "",
             "position": "205",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4322,6 +4542,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "Ricochet [i](Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)[/i]",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -4342,6 +4564,7 @@
             "artist": "Swang",
             "alias": "",
             "position": "207",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4362,6 +4585,7 @@
             "artist": "Cole",
             "alias": "",
             "position": "208",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4382,6 +4606,7 @@
             "artist": "Simon Cowell",
             "alias": "",
             "position": "209",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4402,6 +4627,7 @@
             "artist": "Roman Chaliy",
             "alias": "",
             "position": "210",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4422,6 +4648,7 @@
             "artist": "Konstantin Radichov",
             "alias": "",
             "position": "211",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4442,6 +4669,7 @@
             "artist": "Rilez75",
             "alias": "",
             "position": "212",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4462,6 +4690,7 @@
             "artist": "Max Kostin",
             "alias": "",
             "position": "213",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4482,6 +4711,7 @@
             "artist": "Boris M",
             "alias": "",
             "position": "214",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4502,6 +4732,7 @@
             "artist": "Elias Ravanetti",
             "alias": "",
             "position": "215",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4522,6 +4753,7 @@
             "artist": "",
             "alias": "",
             "position": "216",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4542,6 +4774,7 @@
             "artist": "Roberto Robert",
             "alias": "",
             "position": "217",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4562,6 +4795,7 @@
             "artist": "Ludwig Van Bacon",
             "alias": "",
             "position": "218",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4582,6 +4816,7 @@
             "artist": "Andre Mateus",
             "alias": "",
             "position": "219",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4602,6 +4837,7 @@
             "artist": "Halil Ural",
             "alias": "",
             "position": "220",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4622,6 +4858,7 @@
             "artist": "Clement Dumonceaux",
             "alias": "",
             "position": "221",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4653,6 +4890,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "Ricochet [i](Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)[/i]",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -4673,6 +4912,7 @@
             "artist": "John Yau",
             "alias": "",
             "position": "223",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4693,6 +4933,7 @@
             "artist": "Daniel Eskridge",
             "alias": "",
             "position": "224",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4713,6 +4954,7 @@
             "artist": "Joseph Descallar",
             "alias": "",
             "position": "225",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4733,6 +4975,7 @@
             "artist": "Didier Graffet",
             "alias": "",
             "position": "226",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4753,6 +4996,7 @@
             "artist": "Nutchapol Thitinunthakorn",
             "alias": "",
             "position": "227",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4773,6 +5017,7 @@
             "artist": "Juju Dachang",
             "alias": "",
             "position": "228",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4793,6 +5038,7 @@
             "artist": "Viko Menezes",
             "alias": "",
             "position": "229",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4813,6 +5059,7 @@
             "artist": "Guillerme Motta",
             "alias": "",
             "position": "230",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4833,6 +5080,7 @@
             "artist": "Ricardo Padierne Silvera",
             "alias": "",
             "position": "231",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4853,6 +5101,7 @@
             "artist": "Brent Hollowell",
             "alias": "",
             "position": "232",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4873,6 +5122,7 @@
             "artist": "Yun Ling",
             "alias": "",
             "position": "233",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4893,6 +5143,7 @@
             "artist": "Sergey Lushchyk",
             "alias": "",
             "position": "234",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4913,6 +5164,7 @@
             "artist": "Blizzard Entertainment",
             "alias": "",
             "position": "235",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4933,6 +5185,7 @@
             "artist": "Rockstar Games",
             "alias": "",
             "position": "236",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4964,6 +5217,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "Ricochet [i](Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)[/i]",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -4984,6 +5239,7 @@
             "artist": "Brandon McCamey",
             "alias": "",
             "position": "238",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5004,6 +5260,7 @@
             "artist": "albyu",
             "alias": "",
             "position": "239",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5024,6 +5281,7 @@
             "artist": "Iggy",
             "alias": "",
             "position": "240",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5044,6 +5302,7 @@
             "artist": "Kamila Szutenberg",
             "alias": "",
             "position": "241",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5064,6 +5323,7 @@
             "artist": "Jin Xiaodi",
             "alias": "",
             "position": "242",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5084,6 +5344,7 @@
             "artist": "Svetlana Kostina",
             "alias": "",
             "position": "243",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5104,6 +5365,7 @@
             "artist": "Brent Hollowell",
             "alias": "",
             "position": "244",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5124,6 +5386,7 @@
             "artist": "cdog",
             "alias": "",
             "position": "245",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5144,6 +5407,7 @@
             "artist": "Adrian Rodriguez",
             "alias": "",
             "position": "246",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5164,6 +5428,7 @@
             "artist": "Karl Lindberg",
             "alias": "",
             "position": "247",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5184,6 +5449,7 @@
             "artist": "Ricardo Robles",
             "alias": "",
             "position": "248",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5204,6 +5470,7 @@
             "artist": "Kekai Kotaki",
             "alias": "",
             "position": "249",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5224,6 +5491,7 @@
             "artist": "Gregory Manchess",
             "alias": "",
             "position": "250",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5244,6 +5512,7 @@
             "artist": "Gabe Leonard",
             "alias": "",
             "position": "251",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5264,6 +5533,7 @@
             "artist": "Wizards of the Coast",
             "alias": "",
             "position": "252",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5284,6 +5554,7 @@
             "artist": "peng lu",
             "alias": "",
             "position": "253",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5315,6 +5586,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "Ricochet [i](Cast one side from your hand, then exile it. Cast the other for free at your next upkeep.)[/i]",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -5335,6 +5608,7 @@
             "artist": "Jose Ochoa",
             "alias": "",
             "position": "255",
+            "rotated": false,
             "notes": "f!reprint"
         },
         {
@@ -5355,6 +5629,7 @@
             "artist": "Oleksandra Shchaslyva",
             "alias": "",
             "position": "256",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5375,6 +5650,7 @@
             "artist": "sparth",
             "alias": "",
             "position": "257",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5395,6 +5671,7 @@
             "artist": "seiberspace",
             "alias": "",
             "position": "258",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5415,6 +5692,7 @@
             "artist": "HandMade Films",
             "alias": "",
             "position": "259",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5435,6 +5713,7 @@
             "artist": "Ibrahem Swaid",
             "alias": "",
             "position": "260",
+            "rotated": false,
             "notes": "f!reprint"
         },
         {
@@ -5455,6 +5734,7 @@
             "artist": "shen he",
             "alias": "",
             "position": "261",
+            "rotated": false,
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -5475,6 +5755,7 @@
             "artist": "Allison Chin",
             "alias": "",
             "position": "262",
+            "rotated": false,
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -5495,6 +5776,7 @@
             "artist": "Nikita Pilyukshin",
             "alias": "",
             "position": "263",
+            "rotated": false,
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -5515,6 +5797,7 @@
             "artist": "karlkka",
             "alias": "",
             "position": "264",
+            "rotated": false,
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -5535,6 +5818,7 @@
             "artist": "Reza Afshar",
             "alias": "",
             "position": "265",
+            "rotated": false,
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -5555,6 +5839,7 @@
             "artist": "Bungie",
             "alias": "",
             "position": "266",
+            "rotated": false,
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -5575,6 +5860,7 @@
             "artist": "Will Noviss",
             "alias": "",
             "position": "267",
+            "rotated": false,
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -5595,6 +5881,7 @@
             "artist": "Rimma Shmeleva",
             "alias": "",
             "position": "268",
+            "rotated": false,
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -5615,6 +5902,7 @@
             "artist": "Matteo Marjoram",
             "alias": "",
             "position": "269",
+            "rotated": false,
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -5635,6 +5923,7 @@
             "artist": "Tayler Olivas",
             "alias": "",
             "position": "270",
+            "rotated": false,
             "notes": "etbt duals: cave, gate, lair, mine, tower\nspecialty types: desert, locus?, sphere?, power-plant, academy\n!landslot"
         },
         {
@@ -5655,6 +5944,7 @@
             "artist": "Nelly Amosova",
             "alias": "",
             "position": "271",
+            "rotated": false,
             "notes": "!landslot\nf!reprint"
         },
         {
@@ -5675,6 +5965,7 @@
             "artist": "Ethundering",
             "alias": "",
             "position": "272",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5695,6 +5986,7 @@
             "artist": "Milos Radojkic",
             "alias": "",
             "position": "273",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5715,6 +6007,7 @@
             "artist": "Sebastian Wagner",
             "alias": "",
             "position": "274",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5735,6 +6028,7 @@
             "artist": "Ned ROgers",
             "alias": "",
             "position": "275",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5755,6 +6049,7 @@
             "artist": "Jack Sorenson",
             "alias": "",
             "position": "276",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5775,6 +6070,7 @@
             "artist": "Andrew Palyanov",
             "alias": "",
             "position": "277",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5795,6 +6091,7 @@
             "artist": "Faba",
             "alias": "",
             "position": "278",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5815,6 +6112,7 @@
             "artist": "Delightworks",
             "alias": "",
             "position": "279",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5835,6 +6133,7 @@
             "artist": "Don Doxey",
             "alias": "",
             "position": "280",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5855,6 +6154,7 @@
             "artist": "Gregory Manchess",
             "alias": "",
             "position": "281",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5875,6 +6175,7 @@
             "artist": "Jacques Henry",
             "alias": "",
             "position": "282",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5895,6 +6196,7 @@
             "artist": "Midjourney AI",
             "alias": "",
             "position": "283",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5915,6 +6217,7 @@
             "artist": "F3LC4T",
             "alias": "",
             "position": "284",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5935,6 +6238,7 @@
             "artist": "Midjourney AI",
             "alias": "",
             "position": "285",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5955,6 +6259,7 @@
             "artist": "William Bang",
             "alias": "",
             "position": "286",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5975,6 +6280,7 @@
             "artist": "AnttiHako",
             "alias": "",
             "position": "287",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5995,6 +6301,7 @@
             "artist": "David Simons",
             "alias": "",
             "position": "288",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6015,6 +6322,7 @@
             "artist": "djodarkExperience626",
             "alias": "",
             "position": "289",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6035,6 +6343,7 @@
             "artist": "Leont'eva Eugenia",
             "alias": "",
             "position": "290",
+            "rotated": false,
             "notes": ""
         }
     ],

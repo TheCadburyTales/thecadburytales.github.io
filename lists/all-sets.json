@@ -51,6 +51,11 @@
             "formats": "standard"
         },
         {
+            "set_code": "ICO",
+            "set_name": "Inner Coriansa",
+            "formats": "standard"
+        },
+        {
             "set_code": "KDT",
             "set_name": "Kitsuo: Dusk of Time",
             "formats": ""
