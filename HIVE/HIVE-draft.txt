@@ -258,7 +258,7 @@
 			"type": "Kindred Sorcery – Kraken Revelation",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/199_Witness Forces Unknown.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/59.png"
 			}
 		},
 		{
@@ -278,7 +278,7 @@
 			"type": "Kindred Sorcery – Kraken Revelation",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/176_Glimpse Worlds Within Worlds.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/115.png"
 			}
 		},
 		{
@@ -288,7 +288,7 @@
 			"type": "Kindred Instant – Kraken Revelation",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/200_A World Through the Wake.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/10.png"
 			}
 		},
 		{
@@ -499,7 +499,7 @@
 			"type": "Creature – Merfolk Scout",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/168_Current Pacer.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/49.png"
 			}
 		},
 		{
@@ -522,11 +522,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/GSS-files/img/151_Battle for Highspire_back.png"
+					"en": "https://thecadburytales.github.io/sets/GSS-files/img/104_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/151_Battle for Highspire_front.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/104_front.png"
 			}
 		},
 		{
@@ -988,7 +988,7 @@
 			"type": "Artifact",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/207_Sentinels of Canica Strait.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/60.png"
 			}
 		},
 		{
@@ -998,7 +998,7 @@
 			"type": "Artifact",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/204_Fishing Docks.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/61.png"
 			}
 		},
 		{
@@ -1446,9 +1446,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature – Angel Warrior",
-			"collector_number": "44",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GQC-files/img/44_Rivha, Heiress of Pinions.jpg"
+				"en": "https://thecadburytales.github.io/sets/ICO-files/img/270.png"
 			}
 		},
 		{
@@ -1488,7 +1488,7 @@
 			"type": "Creature – Griffin",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/10_Dawn Patrol.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/17.png"
 			}
 		},
 		{
@@ -1868,7 +1868,7 @@
 			"type": "Creature – Drake",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/31_Aurelian Drake.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/24.png"
 			}
 		},
 		{
@@ -1888,7 +1888,7 @@
 			"type": "Creature – Zombie Pirate",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/36_Dreadlich Captain.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/25.png"
 			}
 		},
 		{
@@ -1988,7 +1988,7 @@
 			"type": "Creature – Drake",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/34_Cloudbreacher.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/26.png"
 			}
 		},
 		{
@@ -2098,7 +2098,7 @@
 			"type": "Kindred Sorcery – Kraken Revelation",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/51_Secrets Shimmer Like Silver.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/146.png"
 			}
 		},
 		{
@@ -2158,7 +2158,7 @@
 			"type": "Instant",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/38_Fang Fleet Mandate.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/147.png"
 			}
 		},
 		{
@@ -2198,7 +2198,7 @@
 			"type": "Kindred Instant – Kraken Revelation",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/33_The Briny Depths Await.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/74.png"
 			}
 		},
 		{
@@ -2251,11 +2251,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thecadburytales.github.io/sets/GSS-files/img/32_Battle for the Mistwinds_back.png"
+					"en": "https://thecadburytales.github.io/sets/GSS-files/img/30_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/32_Battle for the Mistwinds_front.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/30_front.png"
 			}
 		},
 		{
@@ -2275,7 +2275,7 @@
 			"type": "Instant",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/57_Waveshaping.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/72.png"
 			}
 		},
 		{
@@ -2499,7 +2499,7 @@
 			"type": "Creature – Merfolk Horror",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/76_The Deep Ones.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/4.png"
 			}
 		},
 		{
@@ -3169,7 +3169,7 @@
 			"type": "Creature – Dragon",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/103_Hamlet Shrieker.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/42.png"
 			}
 		},
 		{
@@ -3376,7 +3376,7 @@
 			"type": "Legendary Creature – Shark Beast",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/92_The Butcher of Bandura.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/7.png"
 			}
 		},
 		{
@@ -3780,7 +3780,7 @@
 			"type": "Creature – Human Merfolk Pirate",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/126_Fathoms Spearhunter.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/51.png"
 			}
 		},
 		{
@@ -4127,7 +4127,7 @@
 			"type": "Kindred Sorcery – Kraken Revelation",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/140_Something Stirs Within.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/55.png"
 			}
 		},
 		{
@@ -4147,7 +4147,7 @@
 			"type": "Sorcery",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://thecadburytales.github.io/sets/GSS-files/img/122_Call of L'Or.png"
+				"en": "https://thecadburytales.github.io/sets/GSS-files/img/53.png"
 			}
 		},
 		{
