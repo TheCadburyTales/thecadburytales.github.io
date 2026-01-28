@@ -5,7 +5,7 @@
 			<name>ICO</name>
 			<longname>Inner Coriansa</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-27</releasedate>
+			<releasedate>2026-01-28</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -476,8 +476,8 @@ If you would lose the game, instead your life total becomes equal to your devoti
 		</card>
 		<card>
 			<name>Rose Court Justicar</name>
-			<text>Whenever a creature you control enters, create an Idol token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
-Whenever Rose Court Justicar attacks, you may sacrifice an Idol. If you do, put a +1/+1 counter on target creature.</text>
+			<text>When Rose Court Justicar enters, create two Idol tokens. (They&apos;re artifacts with &quot;{1}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
+Whenever you attack, you may sacrifice an Idol token. If you do, put a +1/+1 counter on target attacking creature.</text>
 			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/ICO-files/img/25.png" num="35">ICO</set>
 			<prop>
 				<layout>normal</layout>
@@ -547,8 +547,8 @@ Create three 3/3 white Angel creature tokens with flying.</text>
 		</card>
 		<card>
 			<name>Elegant Waveshaper</name>
-			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
-When Elegant Waveshaper enters, create a number of 0/1 blue Merfolk creature tokens with prowess equal to your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)</text>
+			<text>When Elegant Waveshaper enters, create a number of 0/1 blue Merfolk creature tokens equal to your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)
+Whenever you cast an instant or sorcery spell, Merfolk you control get +1/+1 until end of turn.</text>
 			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/ICO-files/img/29.png" num="55">ICO</set>
 			<prop>
 				<layout>normal</layout>
@@ -815,19 +815,19 @@ At the beginning of combat on your turn, each player sacrifices a creature.</tex
 		</card>
 		<card>
 			<name>Vessel of Vile Truths</name>
-			<text>When Vessel of Vile Truths enters, create two tapped 5/5 black Demon creature tokens with flying, then put ten stun counters on each of them.
-At the beginning of your end step, remove a stun counter from each Demon you control if a creature an opponent controlled died this turn. Do the same if opponent lost life this turn.and if an opponent discarded a card this turn.</text>
+			<text>When Vessel of Vile Truths enters, create two tapped 5/5 black Demon creature tokens with flying, then put seven stun counters on each of them.
+At the beginning of your end step, remove a stun counter from each Demon you control if a creature an opponent controlled died this turn. Do the same if opponent lost life this turn and if an opponent discarded a card this turn.</text>
 			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/ICO-files/img/44.png" num="122">ICO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Vampire Warlock</type>
 				<maintype>Creature</maintype>
-				<manacost>B</manacost>
-				<cmc>1</cmc>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>1/2</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -835,8 +835,8 @@ At the beginning of your end step, remove a stun counter from each Demon you con
 			<name>Kaelax Blood Pact</name>
 			<text>Activate each ability of Kaelax Blood Pact only as a sorcery and only once each turn.
 {B}: You draw a card and you lose 1 life.
-{1}{B}: Each opponent discards a card.
-{2}{B}: Each opponent sacrifices a creature.
+{1}{B}: Each opponent loses 2 life.
+{2}{B}: Each opponent sacrifices a creature unless they discard a card.
 At the beginning of your precombat main phase, exile the top seven cards of your library.</text>
 			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/ICO-files/img/45.png" num="105">ICO</set>
 			<prop>
@@ -893,7 +893,8 @@ Calamitous Hellwing has double strike as long as it&apos;s attacking.
 		<card>
 			<name>Vashai, the Pyretic Roar</name>
 			<text>Flying
-When Vashai enters, destroy all nonbasic, nontoken lands. For each land destroyed this way, Vashai deals 2 damage to its controller, then that player creates a tapped colorless Mountain land token.</text>
+Whenever a player taps a basic land for mana, that player adds {R}.
+Whenever you cast an instant, sorcery, or Dragon spell, you may pay its mana cost. If you do, copy it, except the copy isn&apos;t legendary. (A copy of a permanent spell becomes a token.)</text>
 			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/ICO-files/img/48.png" num="162">ICO</set>
 			<prop>
 				<layout>normal</layout>
@@ -912,7 +913,7 @@ When Vashai enters, destroy all nonbasic, nontoken lands. For each land destroye
 			<name>Antiquities Hoarder</name>
 			<text>Flying
 Antiquities Hoarder can&apos;t attack or block unless it has five or more counters on it.
-Whenever one or more artifacts you control enter, put a +1/+1 counter on Antiquities Hoarder and Antiquities Hoarder deals 1 damage to each opponent.</text>
+Whenever one or more artifacts you control enter, put a +1/+1 counter on Antiquities Hoarder. If one of those artifacts is a Treasure, Antiquities Hoarder deals 1 damage to each opponent.</text>
 			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/ICO-files/img/49.png" num="129">ICO</set>
 			<prop>
 				<layout>normal</layout>
@@ -959,7 +960,7 @@ Whenever Iron Eye Captain attacks for the first time each turn, untap any number
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/3</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -983,7 +984,7 @@ Whenever Atsinil Freeblade attacks, you may sacrifice an artifact. If you do, cr
 		</card>
 		<card>
 			<name>Earthshatter Prodigy</name>
-			<text>When Earthshatter Prodigy enters, you may discard a Mountain card. If you do, exile the top two cards of your library. You may play those cards until the end of your next turn.
+			<text>When Earthshatter Prodigy enters, you may discard up to two Mountain cards. For each card you discarded this way, draw a card.
 Whenever you cast a red spell, add {R}{R}.</text>
 			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/ICO-files/img/53.png" num="138">ICO</set>
 			<prop>
@@ -1278,7 +1279,7 @@ When Ati-Iri enters, choose target nonbasic permanent an opponent controls. If i
 		<card>
 			<name>Oyana, the Shattered One</name>
 			<text>Flying
-Oyana enters with four +1/+1 counters on it.
+Oyana enters with three +1/+1 counters on it.
 Remove a +1/+1 counter from Oyana: Return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery.
 Whenever a creature you control with a finality counter on it is exiled from the battlefield, put a +1/+1 counter on Oyana.</text>
 			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/ICO-files/img/69.png" num="212">ICO</set>
@@ -1291,7 +1292,7 @@ Whenever a creature you control with a finality counter on it is exiled from the
 				<cmc>6</cmc>
 				<colors>WG</colors>
 				<coloridentity>WG</coloridentity>
-				<pt>0/0</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1373,7 +1374,7 @@ At the beginning of combat on your turn, create a token that&apos;s a copy of an
 		<card>
 			<name>Atsaeri, the Cindersoul</name>
 			<text>Flying, vigilance
-The first time each turn a source you control would deal noncombat damage, it deals 4 damage instead.</text>
+The first time each turn one or more sources you control would deal noncombat damage, they each deals 4 damage instead.</text>
 			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/ICO-files/img/74.png" num="208">ICO</set>
 			<prop>
 				<layout>normal</layout>
@@ -1390,7 +1391,7 @@ The first time each turn a source you control would deal noncombat damage, it de
 		</card>
 		<card>
 			<name>Chitinous Escort</name>
-			<text>When Chitinous Escort enters, create a tapped Polyp Pools token. (It&apos;s a Shapeshifter kindred land with changeling and &quot;{T}: Add {C}.&quot;)
+			<text>When Chitinous Escort enters, create a tapped Polyp Pools token. (It&apos;s a Shapeshifter kindred land with changeling and &quot;{T}: Add {C}.&quot; A card with changeling is every creature type.)
 When Chitinous Escort dies, draw a card.</text>
 			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/ICO-files/img/75.png" num="238">ICO</set>
 			<prop>
@@ -1452,9 +1453,9 @@ Sacrifice two artifacts: Draw a card. Activate only as a sorcery.</text>
 		</card>
 		<card>
 			<name>Mons Miralis, Lustrous Apex</name>
-			<text>As Mons Miralis enters, choose a color.
-{T}: Add one mana of the chosen color.
-{2}, {T}: You may cast a spell of the chosen color with mana value less than or equal to your devotion to the chosen color from your hand without paying its mana cost. (Each colored mana symbol in the mana costs of permanents you control counts toward your devotion to that color.)</text>
+			<text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{2}, {T}: Choose a color. You may cast a spell of the chosen color with mana value less than or equal to your devotion to that color from your hand without paying its mana cost. (Each colored mana symbol in the mana costs of permanents you control counts toward your devotion to that color.)</text>
 			<set rarity="rare" picurl="https://thecadburytales.github.io/sets/ICO-files/img/79.png" num="256">ICO</set>
 			<prop>
 				<layout>normal</layout>
@@ -1842,7 +1843,7 @@ If you would draw a card while your library has no cards in it, you win the game
 		<card>
 			<name>Current Distortionist</name>
 			<text>Flash
-When Current Distortionist enters, exile up to one target instant or sorcery card with mana value less than or equal to your devotion to blue from your graveyard. Until end of turn, you may cast that card without paying its mana cost. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)</text>
+When Current Distortionist enters, exile up to one target instant or sorcery card with mana value less than or equal to your devotion to blue from your graveyard. Until end of turn, you may cast that card without paying its mana cost. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue. Timing rules still apply.)</text>
 			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/ICO-files/img/101.png" num="48">ICO</set>
 			<prop>
 				<layout>normal</layout>
@@ -1975,7 +1976,8 @@ Enchanted creature is a Wizard with base power and toughness 1/1 and loses all a
 		</card>
 		<card>
 			<name>Veritanos Teaches Curiosity</name>
-			<text>I — Invoke the Sphinxes. (Begin or advance the Path of the Sphinx.)
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Invoke the Sphinxes. (Begin or advance the Path of the Sphinx.)
 Until your next turn, you can cast spells as though they had flash.
 II, III — Whenever a creature you control deals combat damage to a player this turn, look at that many cards from the top of your library. Put one into your hand and the rest on the bottom of your library in any order.</text>
 			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/ICO-files/img/109.png" num="80">ICO</set>
@@ -2234,9 +2236,10 @@ Enchanted creature has &quot;Sacrifice another creature: This creature gets +2/+
 		</card>
 		<card>
 			<name>Aternox Imparts Humility</name>
-			<text>I — Invoke the Demons. (Begin or advance the Path of the Demon.)
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Invoke the Demons. (Begin or advance the Path of the Demon.)
 II — Each opponent sacrifices a nonland permanent, discards a card, and loses 3 life.
-III — Put target creature card with mana value 3 or less in a graveyard onto the battlefield under your control.</text>
+III — Put target creature card with mana value 3 or less from a graveyard onto the battlefield under your control.</text>
 			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/ICO-files/img/124.png" num="86">ICO</set>
 			<prop>
 				<layout>saga</layout>
@@ -2377,7 +2380,7 @@ Whenever High Keep Plunderer attacks, you may sacrifice an artifact. If you do, 
 		<card>
 			<name>Toshzi, the Thunder</name>
 			<text>Flying
-When Toshzi enters, choose up to one target planeswalker, artifact, and land. Toshzi deals 5 damage to a planeswalker chosen this way, then destroy the rest.</text>
+When Toshzi enters, choose up to one target planeswalker, up to one target artifact, and up to one target land. Toshzi deals 5 damage to a planeswalker chosen this way, then destroy the rest.</text>
 			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/ICO-files/img/132.png" num="160">ICO</set>
 			<prop>
 				<layout>normal</layout>
@@ -2492,7 +2495,8 @@ At the beginning of combat on your turn, up to one target noncreature artifact y
 		</card>
 		<card>
 			<name>Yadil Exhibits Tenacity</name>
-			<text>I — Invoke the Dragons. (Begin or advance the Path of the Dragon.)
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Invoke the Dragons. (Begin or advance the Path of the Dragon.)
 II — The next time a creature you control enters this turn, it deals damage equal to its power to any target.
 III — Yadil Exhibits Tenacity deals 2 damage to each opponent. Add {R}{R}.</text>
 			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/ICO-files/img/139.png" num="164">ICO</set>
@@ -2547,7 +2551,7 @@ When Oaken Envoy enters, create an Idol token. (It&apos;s an artifact with &quot
 		<card>
 			<name>Shriving Piper</name>
 			<text>Prestige (Once when this deals combat damage to a player, you may put a +1/+1 counter on it to activate one of its abilities without paying the cost.)
-Sacrifice Shriving Piper: Destroy target artifact or enchantment.</text>
+{1}, Sacrifice Shriving Piper: Destroy target artifact or enchantment.</text>
 			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/ICO-files/img/142.png" num="188">ICO</set>
 			<prop>
 				<layout>normal</layout>
@@ -2720,7 +2724,7 @@ Invoke the Hydras. (Begin or advance the Path of the Hydra.)</text>
 		</card>
 		<card>
 			<name>Verdant Tactics</name>
-			<text>Put a +1/+1 counter on each creature you control. Until end of turn, those creatures gain trample and can&apos;t be blocked by more than one creature.</text>
+			<text>Put a +1/+1 counter on each creature you control. Those creatures gain trample and challenge until end of turn. (A creature with challenge can&apos;t be blocked by more than one creature.)</text>
 			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/ICO-files/img/152.png" num="200">ICO</set>
 			<prop>
 				<layout>normal</layout>
@@ -2753,9 +2757,10 @@ Enchanted land has &quot;{T}: Add {C}{C}.&quot;</text>
 		</card>
 		<card>
 			<name>Vidir Manifests Unity</name>
-			<text>I — Invoke the Hydras. (Begin or advance the Path of the Hydra.)
-II — Create two 1/1 green Snake creature tokens.
-III — Put four +1/+1 counters on target creature you control. Until end of turn, that creature can&apos;t be blocked by more than one creature and must be blocked if able.</text>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Invoke the Hydras. (Begin or advance the Path of the Hydra.)
+Create two 1/1 green Snake creature tokens.
+II, III — Put four +1/+1 counters on target creature you control. Until end of turn, that creature can&apos;t be blocked by more than one creature and must be blocked if able.</text>
 			<set rarity="uncommon" picurl="https://thecadburytales.github.io/sets/ICO-files/img/154.png" num="201">ICO</set>
 			<prop>
 				<layout>saga</layout>
@@ -2869,7 +2874,7 @@ Whenever you attack with two or more creatures, draw a card.</text>
 				<cmc>3</cmc>
 				<colors>WB</colors>
 				<coloridentity>WB</coloridentity>
-				<pt>3/3</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

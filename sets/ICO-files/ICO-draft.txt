@@ -443,7 +443,7 @@
 		{
 			"name": "Vessel of Vile Truths",
 			"rarity": "rare",
-			"mana_cost": "{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Creature — Vampire Warlock",
 			"collector_number": "122",
 			"image_uris": {
