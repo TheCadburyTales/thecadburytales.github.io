@@ -5,7 +5,7 @@
 			<name>STW</name>
 			<longname>Star Wars Microset</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-23</releasedate>
+			<releasedate>2026-02-03</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -887,10 +887,10 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Imperial Technician</reverse_related>
-			<reverse_related>Flight Commander</reverse_related>
-			<reverse_related>Imperial Stormtrooper</reverse_related>
-			<reverse_related>Lumbering Dewback</reverse_related>
+			<reverse-related>Imperial Technician</reverse-related>
+			<reverse-related>Flight Commander</reverse-related>
+			<reverse-related>Imperial Stormtrooper</reverse-related>
+			<reverse-related>Lumbering Dewback</reverse-related>
 		</card>
 		<card>
 			<name>Rebel STW</name>
@@ -909,8 +909,8 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Rebellion X-Wing</reverse_related>
-			<reverse_related>A280 Blaster</reverse_related>
+			<reverse-related>Rebellion X-Wing</reverse-related>
+			<reverse-related>A280 Blaster</reverse-related>
 		</card>
 		<card>
 			<name>Treasure STW</name>
@@ -926,7 +926,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Spice Smuggler</reverse_related>
+			<reverse-related>Spice Smuggler</reverse-related>
 		</card>
 		<card>
 			<name>Ewok STW</name>
@@ -945,8 +945,8 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Whispers of Endor</reverse_related>
-			<reverse_related count="2">Ewok Firedancers</reverse_related>
+			<reverse-related>Whispers of Endor</reverse-related>
+			<reverse-related count="2">Ewok Firedancers</reverse-related>
 		</card>
 		<card>
 			<name>Food STW</name>
@@ -962,7 +962,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Territorial Wampa</reverse_related>
+			<reverse-related>Territorial Wampa</reverse-related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

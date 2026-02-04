@@ -5,7 +5,7 @@
 			<name>KRK</name>
 			<longname>Seas of Krakonos</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-23</releasedate>
+			<releasedate>2026-02-03</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4275,7 +4275,7 @@ Draw a card. Each opponent discards a card. (Then exile this card. You may cast 
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Kelpscale Serpent</reverse_related>
+			<reverse-related>Kelpscale Serpent</reverse-related>
 		</card>
 		<card>
 			<name>Serpent KRK</name>
@@ -4294,10 +4294,10 @@ Draw a card. Each opponent discards a card. (Then exile this card. You may cast 
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Marquisian Enforcer</reverse_related>
-			<reverse_related>Maelstrom&apos;s Maw</reverse_related>
-			<reverse_related>Trenchcaller Acolyte</reverse_related>
-			<reverse_related>Fleetcrusher Titan</reverse_related>
+			<reverse-related>Marquisian Enforcer</reverse-related>
+			<reverse-related>Maelstrom&apos;s Maw</reverse-related>
+			<reverse-related>Trenchcaller Acolyte</reverse-related>
+			<reverse-related>Fleetcrusher Titan</reverse-related>
 		</card>
 		<card>
 			<name>On An Adventure KRK</name>
@@ -4313,51 +4313,51 @@ Draw a card. Each opponent discards a card. (Then exile this card. You may cast 
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Almicar&apos;s Striker</reverse_related>
-			<reverse_related>Deft Commodore</reverse_related>
-			<reverse_related>Dockside Warden</reverse_related>
-			<reverse_related>Edgeseeker Helmsman</reverse_related>
-			<reverse_related>Governor&apos;s Representative</reverse_related>
-			<reverse_related>Marquisian Commander</reverse_related>
-			<reverse_related>Starlight Wayfinder</reverse_related>
-			<reverse_related>Weathered Navigator</reverse_related>
-			<reverse_related>Corsair&apos;s Companion</reverse_related>
-			<reverse_related>Crimza Taal Smuggler</reverse_related>
-			<reverse_related>Ghostcrew Captain</reverse_related>
-			<reverse_related>Riptide Titan</reverse_related>
-			<reverse_related>Shifting Sailor</reverse_related>
-			<reverse_related>Tidehunter Drake</reverse_related>
-			<reverse_related>Trenchcaller Oracle</reverse_related>
-			<reverse_related>Trenchlurker Titan</reverse_related>
-			<reverse_related>Azla&apos;s Bonecrew</reverse_related>
-			<reverse_related>Blightbreath Wavekite</reverse_related>
-			<reverse_related>Crimza Taal Headhunter</reverse_related>
-			<reverse_related>Dreadtide Grunt</reverse_related>
-			<reverse_related>Emperor&apos;s Executioner</reverse_related>
-			<reverse_related>Raider&apos;s Remains</reverse_related>
-			<reverse_related>Seabound Scavenger</reverse_related>
-			<reverse_related>Cannonpack Crewmate</reverse_related>
-			<reverse_related>Feline Freebooter</reverse_related>
-			<reverse_related>Glorybound Brute</reverse_related>
-			<reverse_related>Glorybound Knaves</reverse_related>
-			<reverse_related>Ironworks Shipwrights</reverse_related>
-			<reverse_related>Malvo, Edgeseeker Admiral</reverse_related>
-			<reverse_related>Munitions Mage</reverse_related>
-			<reverse_related>Pyrebeard Buccaneer</reverse_related>
-			<reverse_related>Tavern Gambler</reverse_related>
-			<reverse_related>Aelython Vanguard</reverse_related>
-			<reverse_related>Ancient Megalodon</reverse_related>
-			<reverse_related>Dreadtide Hellraiser</reverse_related>
-			<reverse_related>Gangplank Marauders</reverse_related>
-			<reverse_related>Horizon Communer</reverse_related>
-			<reverse_related>Kelpscale Serpent</reverse_related>
-			<reverse_related>Marquisian Quartermaster</reverse_related>
-			<reverse_related>Rallying Captain</reverse_related>
-			<reverse_related>Shipsinker Kraken</reverse_related>
-			<reverse_related>Tortun Cannoneers</reverse_related>
-			<reverse_related>Hemophage Hunter</reverse_related>
-			<reverse_related>Jadon, Who Fells the Mighty</reverse_related>
-			<reverse_related>Wavebreaker Brute</reverse_related>
+			<reverse-related>Almicar&apos;s Striker</reverse-related>
+			<reverse-related>Deft Commodore</reverse-related>
+			<reverse-related>Dockside Warden</reverse-related>
+			<reverse-related>Edgeseeker Helmsman</reverse-related>
+			<reverse-related>Governor&apos;s Representative</reverse-related>
+			<reverse-related>Marquisian Commander</reverse-related>
+			<reverse-related>Starlight Wayfinder</reverse-related>
+			<reverse-related>Weathered Navigator</reverse-related>
+			<reverse-related>Corsair&apos;s Companion</reverse-related>
+			<reverse-related>Crimza Taal Smuggler</reverse-related>
+			<reverse-related>Ghostcrew Captain</reverse-related>
+			<reverse-related>Riptide Titan</reverse-related>
+			<reverse-related>Shifting Sailor</reverse-related>
+			<reverse-related>Tidehunter Drake</reverse-related>
+			<reverse-related>Trenchcaller Oracle</reverse-related>
+			<reverse-related>Trenchlurker Titan</reverse-related>
+			<reverse-related>Azla&apos;s Bonecrew</reverse-related>
+			<reverse-related>Blightbreath Wavekite</reverse-related>
+			<reverse-related>Crimza Taal Headhunter</reverse-related>
+			<reverse-related>Dreadtide Grunt</reverse-related>
+			<reverse-related>Emperor&apos;s Executioner</reverse-related>
+			<reverse-related>Raider&apos;s Remains</reverse-related>
+			<reverse-related>Seabound Scavenger</reverse-related>
+			<reverse-related>Cannonpack Crewmate</reverse-related>
+			<reverse-related>Feline Freebooter</reverse-related>
+			<reverse-related>Glorybound Brute</reverse-related>
+			<reverse-related>Glorybound Knaves</reverse-related>
+			<reverse-related>Ironworks Shipwrights</reverse-related>
+			<reverse-related>Malvo, Edgeseeker Admiral</reverse-related>
+			<reverse-related>Munitions Mage</reverse-related>
+			<reverse-related>Pyrebeard Buccaneer</reverse-related>
+			<reverse-related>Tavern Gambler</reverse-related>
+			<reverse-related>Aelython Vanguard</reverse-related>
+			<reverse-related>Ancient Megalodon</reverse-related>
+			<reverse-related>Dreadtide Hellraiser</reverse-related>
+			<reverse-related>Gangplank Marauders</reverse-related>
+			<reverse-related>Horizon Communer</reverse-related>
+			<reverse-related>Kelpscale Serpent</reverse-related>
+			<reverse-related>Marquisian Quartermaster</reverse-related>
+			<reverse-related>Rallying Captain</reverse-related>
+			<reverse-related>Shipsinker Kraken</reverse-related>
+			<reverse-related>Tortun Cannoneers</reverse-related>
+			<reverse-related>Hemophage Hunter</reverse-related>
+			<reverse-related>Jadon, Who Fells the Mighty</reverse-related>
+			<reverse-related>Wavebreaker Brute</reverse-related>
 		</card>
 		<card>
 			<name>Construct KRK</name>
@@ -4374,8 +4374,8 @@ Draw a card. Each opponent discards a card. (Then exile this card. You may cast 
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Dawson, Out for Blood</reverse_related>
-			<reverse_related>M-80, Clockwork Captain</reverse_related>
+			<reverse-related>Dawson, Out for Blood</reverse-related>
+			<reverse-related>M-80, Clockwork Captain</reverse-related>
 		</card>
 		<card>
 			<name>Daring Adventures KRK</name>
@@ -4391,7 +4391,7 @@ Draw a card. Each opponent discards a card. (Then exile this card. You may cast 
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Lilith, Seafaring Scribe</reverse_related>
+			<reverse-related>Lilith, Seafaring Scribe</reverse-related>
 		</card>
 		<card>
 			<name>Treasure KRK</name>
@@ -4407,41 +4407,41 @@ Draw a card. Each opponent discards a card. (Then exile this card. You may cast 
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Aelython Renegade</reverse_related>
-			<reverse_related>Daring Rebuttal</reverse_related>
-			<reverse_related count="X">Uncharted Wonders</reverse_related>
-			<reverse_related>Alkar of the Floating Horde</reverse_related>
-			<reverse_related>Broker a Deal</reverse_related>
-			<reverse_related>Crimza Taal Dealer</reverse_related>
-			<reverse_related>Crimzaa Taal Infiltrator</reverse_related>
-			<reverse_related>Deathless Conscription</reverse_related>
-			<reverse_related count="2">Down with the Ship</reverse_related>
-			<reverse_related>March of the Dreadtide</reverse_related>
-			<reverse_related>Poach</reverse_related>
-			<reverse_related>Abandon Ship</reverse_related>
-			<reverse_related>Clumsy Cannoneer</reverse_related>
-			<reverse_related>Feline Freebooter</reverse_related>
-			<reverse_related>Gemseeker Grottle</reverse_related>
-			<reverse_related>Grottle Shell-Singer</reverse_related>
-			<reverse_related>Hired Hand</reverse_related>
-			<reverse_related count="X">Rapacious Tyrant</reverse_related>
-			<reverse_related>Secure the Bounty</reverse_related>
-			<reverse_related>Trinket Merchant</reverse_related>
-			<reverse_related>Unfair Share</reverse_related>
-			<reverse_related>Dry Land</reverse_related>
-			<reverse_related>Malvo&apos;s Quartermaster</reverse_related>
-			<reverse_related>Relic Recoverers</reverse_related>
-			<reverse_related>Run Through</reverse_related>
-			<reverse_related>Sunken Spoils</reverse_related>
-			<reverse_related>Jadon, Who Fells the Mighty</reverse_related>
-			<reverse_related>Salazar, Glorybound Mate</reverse_related>
-			<reverse_related>Beachside Barter</reverse_related>
-			<reverse_related>M-80, Clockwork Captain</reverse_related>
-			<reverse_related>Pilferer&apos;s Pouch</reverse_related>
-			<reverse_related>Pillager&apos;s Flagship</reverse_related>
-			<reverse_related>Rusted Mariner</reverse_related>
-			<reverse_related>Sword of Greed and Glory</reverse_related>
-			<reverse_related>Gilded Cove</reverse_related>
+			<reverse-related>Aelython Renegade</reverse-related>
+			<reverse-related>Daring Rebuttal</reverse-related>
+			<reverse-related count="X">Uncharted Wonders</reverse-related>
+			<reverse-related>Alkar of the Floating Horde</reverse-related>
+			<reverse-related>Broker a Deal</reverse-related>
+			<reverse-related>Crimza Taal Dealer</reverse-related>
+			<reverse-related>Crimzaa Taal Infiltrator</reverse-related>
+			<reverse-related>Deathless Conscription</reverse-related>
+			<reverse-related count="2">Down with the Ship</reverse-related>
+			<reverse-related>March of the Dreadtide</reverse-related>
+			<reverse-related>Poach</reverse-related>
+			<reverse-related>Abandon Ship</reverse-related>
+			<reverse-related>Clumsy Cannoneer</reverse-related>
+			<reverse-related>Feline Freebooter</reverse-related>
+			<reverse-related>Gemseeker Grottle</reverse-related>
+			<reverse-related>Grottle Shell-Singer</reverse-related>
+			<reverse-related>Hired Hand</reverse-related>
+			<reverse-related count="X">Rapacious Tyrant</reverse-related>
+			<reverse-related>Secure the Bounty</reverse-related>
+			<reverse-related>Trinket Merchant</reverse-related>
+			<reverse-related>Unfair Share</reverse-related>
+			<reverse-related>Dry Land</reverse-related>
+			<reverse-related>Malvo&apos;s Quartermaster</reverse-related>
+			<reverse-related>Relic Recoverers</reverse-related>
+			<reverse-related>Run Through</reverse-related>
+			<reverse-related>Sunken Spoils</reverse-related>
+			<reverse-related>Jadon, Who Fells the Mighty</reverse-related>
+			<reverse-related>Salazar, Glorybound Mate</reverse-related>
+			<reverse-related>Beachside Barter</reverse-related>
+			<reverse-related>M-80, Clockwork Captain</reverse-related>
+			<reverse-related>Pilferer&apos;s Pouch</reverse-related>
+			<reverse-related>Pillager&apos;s Flagship</reverse-related>
+			<reverse-related>Rusted Mariner</reverse-related>
+			<reverse-related>Sword of Greed and Glory</reverse-related>
+			<reverse-related>Gilded Cove</reverse-related>
 		</card>
 		<card>
 			<name>Weapon KRK</name>
@@ -4458,13 +4458,13 @@ Equip {2}</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Imperial Armorer</reverse_related>
-			<reverse_related>Marquisian Commander</reverse_related>
-			<reverse_related>Novice Navigator</reverse_related>
-			<reverse_related>Quickdraw</reverse_related>
-			<reverse_related>Trade Route Navigator</reverse_related>
-			<reverse_related>Imperial Musketeer</reverse_related>
-			<reverse_related>Ironworks Arsenal</reverse_related>
+			<reverse-related>Imperial Armorer</reverse-related>
+			<reverse-related>Marquisian Commander</reverse-related>
+			<reverse-related>Novice Navigator</reverse-related>
+			<reverse-related>Quickdraw</reverse-related>
+			<reverse-related>Trade Route Navigator</reverse-related>
+			<reverse-related>Imperial Musketeer</reverse-related>
+			<reverse-related>Ironworks Arsenal</reverse-related>
 		</card>
 		<card>
 			<name>Vehicle KRK</name>
@@ -4481,7 +4481,7 @@ Equip {2}</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Grand Admiral</reverse_related>
+			<reverse-related>Grand Admiral</reverse-related>
 		</card>
 		<card>
 			<name>Search Beyond the Empire</name>
@@ -4707,8 +4707,8 @@ Discard a card, then draw a card. You may put a land card from your hand onto th
 			</prop>
 			<tablerow>0</tablerow>
 			<token>1</token>
-			<reverse_related>Horizon Communer</reverse_related>
-			<reverse_related>Malvo&apos;s Quartermaster</reverse_related>
+			<reverse-related>Horizon Communer</reverse-related>
+			<reverse-related>Malvo&apos;s Quartermaster</reverse-related>
 		</card>
 		<card>
 			<name>Loose Cargo</name>
@@ -4779,7 +4779,7 @@ Other Krakens, Leviathans, Octopuses, and Serpents you control have trample.</te
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Ancient Megalodon</reverse_related>
+			<reverse-related>Ancient Megalodon</reverse-related>
 		</card>
 		<card>
 			<name>Maelstrom&apos;s Maw</name>
@@ -4867,8 +4867,8 @@ Whenever this creature deals combat damage to a player or planeswalker, if you s
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Loyal Deckhand</reverse_related>
-			<reverse_related count="X">Ingrid Farjalla</reverse_related>
+			<reverse-related>Loyal Deckhand</reverse-related>
+			<reverse-related count="X">Ingrid Farjalla</reverse-related>
 		</card>
 		<card>
 			<name>Soldier KRK</name>
@@ -4887,15 +4887,15 @@ Whenever this creature deals combat damage to a player or planeswalker, if you s
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Marquisian Skyship</reverse_related>
-			<reverse_related>Standard-Issue Blade</reverse_related>
-			<reverse_related>Novice Navigator</reverse_related>
-			<reverse_related>Imperial Expeditioner</reverse_related>
-			<reverse_related>Marquisian Crackdown</reverse_related>
-			<reverse_related count="2">Captain&apos;s Orders</reverse_related>
-			<reverse_related>Imperial Musketeer</reverse_related>
-			<reverse_related>Port Inspector</reverse_related>
-			<reverse_related count="2">Deft Commodore</reverse_related>
+			<reverse-related>Marquisian Skyship</reverse-related>
+			<reverse-related>Standard-Issue Blade</reverse-related>
+			<reverse-related>Novice Navigator</reverse-related>
+			<reverse-related>Imperial Expeditioner</reverse-related>
+			<reverse-related>Marquisian Crackdown</reverse-related>
+			<reverse-related count="2">Captain&apos;s Orders</reverse-related>
+			<reverse-related>Imperial Musketeer</reverse-related>
+			<reverse-related>Port Inspector</reverse-related>
+			<reverse-related count="2">Deft Commodore</reverse-related>
 		</card>
 		<card>
 			<name>Soldier Army KRK</name>
@@ -4932,9 +4932,9 @@ Whenever this creature deals combat damage to a player or planeswalker, if you s
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Conscripted Duelist</reverse_related>
-			<reverse_related>Spectral Sabers</reverse_related>
-			<reverse_related>Forsaken Cutthroat</reverse_related>
+			<reverse-related>Conscripted Duelist</reverse-related>
+			<reverse-related>Spectral Sabers</reverse-related>
+			<reverse-related>Forsaken Cutthroat</reverse-related>
 		</card>
 		<card>
 			<name>Copy KRK</name>
@@ -4950,12 +4950,12 @@ Whenever this creature deals combat damage to a player or planeswalker, if you s
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Ria, Master Smith</reverse_related>
-			<reverse_related>Trenchcaller Oracle</reverse_related>
-			<reverse_related>Lilith&apos;s Duplimancy</reverse_related>
-			<reverse_related>Avarice</reverse_related>
-			<reverse_related>Firebrand Flagship</reverse_related>
-			<reverse_related>Malvo, Edgeseeker Admiral</reverse_related>
+			<reverse-related>Ria, Master Smith</reverse-related>
+			<reverse-related>Trenchcaller Oracle</reverse-related>
+			<reverse-related>Lilith&apos;s Duplimancy</reverse-related>
+			<reverse-related>Avarice</reverse-related>
+			<reverse-related>Firebrand Flagship</reverse-related>
+			<reverse-related>Malvo, Edgeseeker Admiral</reverse-related>
 		</card>
 		<card>
 			<name>Drake KRK</name>
@@ -4974,9 +4974,9 @@ Whenever this creature deals combat damage to a player or planeswalker, if you s
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Familiar&apos;s Foil</reverse_related>
-			<reverse_related count="2">Lilith, Seafaring Scribe</reverse_related>
-			<reverse_related>Storm Coast Drakemaster</reverse_related>
+			<reverse-related>Familiar&apos;s Foil</reverse-related>
+			<reverse-related count="2">Lilith, Seafaring Scribe</reverse-related>
+			<reverse-related>Storm Coast Drakemaster</reverse-related>
 		</card>
 		<card>
 			<name>Fish KRK</name>
@@ -4995,7 +4995,7 @@ Whenever this creature deals combat damage to a player or planeswalker, if you s
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Flourishing Reef</reverse_related>
+			<reverse-related>Flourishing Reef</reverse-related>
 		</card>
 		<card>
 			<name>Octopus KRK</name>
@@ -5014,7 +5014,7 @@ Whenever this creature deals combat damage to a player or planeswalker, if you s
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Kiora, Voice of the Deep</reverse_related>
+			<reverse-related>Kiora, Voice of the Deep</reverse-related>
 		</card>
 		<card>
 			<name>Tentacle KRK</name>
@@ -5033,8 +5033,8 @@ Whenever this creature deals combat damage to a player or planeswalker, if you s
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Thalassophobia</reverse_related>
-			<reverse_related count="8">Octotyrant</reverse_related>
+			<reverse-related>Thalassophobia</reverse-related>
+			<reverse-related count="8">Octotyrant</reverse-related>
 		</card>
 		<card>
 			<name>Affectionate Mimic</name>
@@ -5089,14 +5089,14 @@ If you would create one or more tokens, you may instead create that many tokens 
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related count="2">Dreadtide Marauder</reverse_related>
-			<reverse_related count="2">Loose Cargo</reverse_related>
-			<reverse_related>Tandem Hirelings</reverse_related>
-			<reverse_related>Audra, Raucous Rallier</reverse_related>
-			<reverse_related>Charismatic Captain</reverse_related>
-			<reverse_related>Glittering Trove</reverse_related>
-			<reverse_related>Glorybound Knaves</reverse_related>
-			<reverse_related>Beachside Barter</reverse_related>
+			<reverse-related count="2">Dreadtide Marauder</reverse-related>
+			<reverse-related count="2">Loose Cargo</reverse-related>
+			<reverse-related>Tandem Hirelings</reverse-related>
+			<reverse-related>Audra, Raucous Rallier</reverse-related>
+			<reverse-related>Charismatic Captain</reverse-related>
+			<reverse-related>Glittering Trove</reverse-related>
+			<reverse-related>Glorybound Knaves</reverse-related>
+			<reverse-related>Beachside Barter</reverse-related>
 		</card>
 		<card>
 			<name>Zombie KRK</name>
@@ -5115,11 +5115,11 @@ If you would create one or more tokens, you may instead create that many tokens 
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Azla&apos;s Bonecrew</reverse_related>
-			<reverse_related>March of the Dreadtide</reverse_related>
-			<reverse_related>Dreadtide Dockhands</reverse_related>
-			<reverse_related>Spectral Sloop</reverse_related>
-			<reverse_related>Sunken Casket</reverse_related>
+			<reverse-related>Azla&apos;s Bonecrew</reverse-related>
+			<reverse-related>March of the Dreadtide</reverse-related>
+			<reverse-related>Dreadtide Dockhands</reverse-related>
+			<reverse-related>Spectral Sloop</reverse-related>
+			<reverse-related>Sunken Casket</reverse-related>
 		</card>
 		<card>
 			<name>Dragon KRK</name>
@@ -5138,7 +5138,7 @@ If you would create one or more tokens, you may instead create that many tokens 
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Dragon-Eye Lookout</reverse_related>
+			<reverse-related>Dragon-Eye Lookout</reverse-related>
 		</card>
 		<card>
 			<name>Elemental KRK</name>
@@ -5157,7 +5157,7 @@ If you would create one or more tokens, you may instead create that many tokens 
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Horizon Communer</reverse_related>
+			<reverse-related>Horizon Communer</reverse-related>
 		</card>
 		<card>
 			<name>Pirate Token B (M20) KRK</name>
@@ -5176,14 +5176,14 @@ If you would create one or more tokens, you may instead create that many tokens 
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related count="2">Dreadtide Marauder</reverse_related>
-			<reverse_related count="2">Loose Cargo</reverse_related>
-			<reverse_related>Tandem Hirelings</reverse_related>
-			<reverse_related>Audra, Raucous Rallier</reverse_related>
-			<reverse_related>Charismatic Captain</reverse_related>
-			<reverse_related>Glittering Trove</reverse_related>
-			<reverse_related>Glorybound Knaves</reverse_related>
-			<reverse_related>Beachside Barter</reverse_related>
+			<reverse-related count="2">Dreadtide Marauder</reverse-related>
+			<reverse-related count="2">Loose Cargo</reverse-related>
+			<reverse-related>Tandem Hirelings</reverse-related>
+			<reverse-related>Audra, Raucous Rallier</reverse-related>
+			<reverse-related>Charismatic Captain</reverse-related>
+			<reverse-related>Glittering Trove</reverse-related>
+			<reverse-related>Glorybound Knaves</reverse-related>
+			<reverse-related>Beachside Barter</reverse-related>
 		</card>
 		<card>
 			<name>Pirate Token B (M20) KRK</name>
@@ -5202,14 +5202,14 @@ If you would create one or more tokens, you may instead create that many tokens 
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related count="2">Dreadtide Marauder</reverse_related>
-			<reverse_related count="2">Loose Cargo</reverse_related>
-			<reverse_related>Tandem Hirelings</reverse_related>
-			<reverse_related>Audra, Raucous Rallier</reverse_related>
-			<reverse_related>Charismatic Captain</reverse_related>
-			<reverse_related>Glittering Trove</reverse_related>
-			<reverse_related>Glorybound Knaves</reverse_related>
-			<reverse_related>Beachside Barter</reverse_related>
+			<reverse-related count="2">Dreadtide Marauder</reverse-related>
+			<reverse-related count="2">Loose Cargo</reverse-related>
+			<reverse-related>Tandem Hirelings</reverse-related>
+			<reverse-related>Audra, Raucous Rallier</reverse-related>
+			<reverse-related>Charismatic Captain</reverse-related>
+			<reverse-related>Glittering Trove</reverse-related>
+			<reverse-related>Glorybound Knaves</reverse-related>
+			<reverse-related>Beachside Barter</reverse-related>
 		</card>
 		<card>
 			<name>Partners in Crime</name>

@@ -5,7 +5,7 @@
 			<name>X24</name>
 			<longname>Moxtober 2024</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-23</releasedate>
+			<releasedate>2026-02-03</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -411,7 +411,7 @@ Equip {2}</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Timeworn Woodsman</reverse_related>
+			<reverse-related>Timeworn Woodsman</reverse-related>
 		</card>
 		<card>
 			<name>Food X24</name>
